@@ -1,0 +1,551 @@
+##########################################
+#  La Liga -  Primera División de España
+#
+#  see es.wikipedia.org/wiki/Primera_División_de_España_2012/13
+#
+#  official -> www.lfp.es  (Liga de Fútbol Profesional)
+#
+#  dates: 18 de agosto de 2012 -  1 de junio de 2013
+#  matches:  380 (=19x2x10)
+#  rounds: 38 rounds (19x2) - 10 matches / rounds
+
+
+####################
+# Primera Vuelta
+
+Jornada 1 / Sáb. 18 y Dom. 19 Agosto
+
+Barcelona  R. Sociedad  5-1
+Levante  Atlético  1-1
+Athletic  Betis  3-5
+Zaragoza  Valladolid  0-1
+R. Madrid  Valencia  1-1
+Celta  Málaga  0-1
+Sevilla  Getafe  2-1
+Mallorca  Espanyol  2-1
+Rayo  Granada  1-0
+Deportivo  Osasuna  2-0
+
+
+Jornada 2 / Sáb. 25 y Dom. 26 Agosto
+
+Valladolid  Levante  2-0
+Espanyol  Zaragoza  1-2
+Málaga  Mallorca  1-1
+R. Sociedad  Celta  2-1
+Osasuna  Barcelona  1-2
+Valencia  Deportivo  3-3
+Getafe  R. Madrid  2-1
+Granada  Sevilla  1-1
+Betis  Rayo  1-2
+Atlético  Athletic  4-0
+
+
+
+Jornada 3 /  Sáb. 1 y Dom. 2 Septiembre
+
+Betis  Atlético  2-4
+Zaragoza  Málaga  0-1
+Mallorca  R. Sociedad  1-0
+Celta  Osasuna  2-0
+Barcelona  Valencia  1-0
+Deportivo  Getafe  1-1
+R. Madrid  Granada  3-0
+Rayo  Sevilla  0-0
+Levante  Espanyol  3-2
+Athletic  Valladolid  2-0
+
+
+
+Jornada 4  /  Sáb. 15 y Dom. 16 Septiembre
+
+Atlético  Rayo  4-3
+Valladolid  Betis  0-1
+Espanyol  Athletic  3-3
+Málaga  Levante  3-1
+R. Sociedad  Zaragoza  2-0
+Osasuna  Mallorca  1-1
+Valencia  Celta  2-1
+Getafe  Barcelona  1-4
+Granada  Deportivo  1-1
+Sevilla  R. Madrid  1-0
+
+
+Jornada 5  /  Sáb. 22 y Dom. 23 Septiembre
+
+Atlético  Valladolid  2-1
+Betis  Espanyol  1-0
+Athletic  Málaga  0-0
+Levante  R. Sociedad  2-1
+Zaragoza  Osasuna  3-1
+Mallorca  Valencia  2-0
+Celta  Getafe  2-1
+Barcelona  Granada  2-0
+Deportivo  Sevilla  0-2
+Rayo  R. Madrid  0-2
+
+
+Jornada 6  /  Sáb. 29 y Lun. 1 Octubre
+
+Valladolid  Rayo  6-1
+Espanyol  Atlético  0-1
+Málaga  Betis  4-0
+R. Sociedad  Athletic  2-0
+Osasuna  Levante  4-0
+Valencia  Zaragoza  2-0
+Getafe  Mallorca  1-0
+Granada  Celta  2-1
+Sevilla  Barcelona  2-3
+R. Madrid  Deportivo  5-1
+
+
+Jornada 7  /  Sáb. 6 y Dom. 7 Octubre
+
+Valladolid  Espanyol  1-1
+Atlético  Málaga  2-1
+Betis  R. Sociedad  2-0
+Athletic  Osasuna  1-0
+Levante  Valencia  1-0
+Zaragoza  Getafe  0-1
+Mallorca  Granada  1-2
+Celta  Sevilla  2-0
+Barcelona  R. Madrid  2-2
+Rayo  Deportivo  2-1
+
+
+Jornada 8 /  Sáb. 20 y Dom. 21 Octubre
+
+Espanyol  Rayo  3-2
+Málaga  Valladolid  2-1
+R. Sociedad  Atlético  0-1
+Osasuna  Betis  0-0
+Valencia  Athletic  3-2
+Getafe  Levante  0-1
+Granada  Zaragoza  1-2
+Sevilla  Mallorca  3-2
+R. Madrid  Celta  2-0
+Deportivo  Barcelona  4-5
+
+
+Jornada 9  / Sáb. 27 y Dom. 28 Octubre
+
+Espanyol  Málaga  0-0
+Valladolid  R. Sociedad  2-2
+Atlético  Osasuna  3-1
+Betis  Valencia  1-0
+Athletic  Getafe  1-2
+Levante  Granada  3-1
+Zaragoza  Sevilla  2-1
+Mallorca  R. Madrid  0-5
+Celta  Deportivo  1-1
+Rayo  Barcelona  0-5
+
+
+Jornada 10  / Sáb. 3 y Dom. 4 Noviembre
+
+Málaga  Rayo  1-2
+R. Sociedad  Espanyol  0-1
+Osasuna  Valladolid  0-1
+Granada  Athletic  1-2
+Sevilla  Levante  0-0
+R. Madrid  Zaragoza  4-0
+Deportivo  Mallorca  1-0
+Barcelona  Celta  3-1
+Valencia  Atlético  2-0
+Getafe  Betis  2-4
+
+
+Jornada 11  /  Sáb. 10 y Dom. 11 Noviembre
+
+Málaga  R. Sociedad  1-2
+Espanyol  Osasuna  0-3
+Valladolid  Valencia  1-1
+Atlético  Getafe  2-0
+Betis  Granada  1-2
+Athletic  Sevilla  2-1
+Levante  R. Madrid  1-2
+Zaragoza  Deportivo  5-3
+Mallorca  Barcelona  2-4
+Rayo  Celta  3-2
+
+
+Jornada 12  /  Sáb. 17 y Dom. 18 Noviembre
+
+R. Sociedad  Rayo  4-0
+Osasuna  Málaga  0-0
+Valencia  Espanyol  2-1
+Getafe  Valladolid  2-1
+Granada  Atlético  0-1
+Sevilla  Betis  5-1
+R. Madrid  Athletic  5-1
+Deportivo  Levante  0-2
+Barcelona  Zaragoza  3-1
+Celta  Mallorca  1-1
+
+
+Jornada 13  /  Sáb. 24 y Dom. 25 Noviembre
+
+Valladolid  Granada  1-0
+Atlético  Sevilla  4-0
+Betis  R. Madrid  1-0
+Athletic  Deportivo  1-1
+Levante  Barcelona  0-4
+Zaragoza  Celta  0-1
+Rayo  Mallorca  2-0
+R. Sociedad  Osasuna  0-0
+Málaga  Valencia  4-0
+Espanyol  Getafe  0-2
+
+
+Jornada 14  /  Sáb. 1 y Dom. 2 Diciembre
+
+Barcelona  Athletic  5-1
+Celta  Levante  1-1
+Mallorca  Zaragoza  1-1
+Osasuna  Rayo  1-0
+Valencia  R. Sociedad  2-5
+Getafe  Málaga  1-0
+Granada  Espanyol  0-0
+Sevilla  Valladolid  1-2
+R. Madrid  Atlético  2-0
+Deportivo  Betis  2-3
+
+
+Jornada 15  /  Sáb. 8 y Dom. 9 Diciembre
+
+Osasuna  Valencia  0-1
+R. Sociedad  Getafe  1-1
+Málaga  Granada  4-0
+Espanyol  Sevilla  2-2
+Valladolid  R. Madrid  2-3
+Atlético  Deportivo  6-0
+Betis  Barcelona  1-2
+Athletic  Celta  1-0
+Levante  Mallorca  4-0
+Rayo  Zaragoza  0-2
+
+
+Jornada 16 /  Sáb. 15 y Dom. 16 Diciembre
+
+Valencia  Rayo  0-1
+Getafe  Osasuna  1-1
+Granada  R. Sociedad  0-0
+Sevilla  Málaga  0-2
+R. Madrid  Espanyol  2-2
+Deportivo  Valladolid  0-0
+Barcelona  Atlético  4-1
+Celta  Betis  0-1
+Mallorca  Athletic  0-1
+Zaragoza  Levante  0-1
+
+
+Jornada 17  /  Vie. 21 y Sáb. 22 Diciembre
+
+Betis  Mallorca  1-2
+Athletic  Zaragoza  0-2
+Rayo  Levante  3-0
+Valencia  Getafe  4-2
+Osasuna  Granada  1-2
+R. Sociedad  Sevilla  2-1
+Málaga  R. Madrid  3-2
+Espanyol  Deportivo  2-0
+Atlético  Celta  1-0
+Valladolid  Barcelona  1-3
+
+
+Jornada 18  / Sáb. 5 y Dom. 6 Enero
+
+Rayo  Getafe  3-1
+Granada  Valencia  1-2
+Sevilla  Osasuna  1-0
+R. Madrid  R. Sociedad  4-3
+Deportivo  Málaga  1-0
+Barcelona  Espanyol  4-0
+Celta  Valladolid  3-1
+Mallorca  Atlético  1-1
+Zaragoza  Betis  1-2
+Levante  Athletic  3-1
+
+
+Jornada 19 /  Sáb. 12 y Dom. 13 Enero
+
+Getafe  Granada  2-2
+Valencia  Sevilla  2-0
+Osasuna  R. Madrid  0-0
+R. Sociedad  Deportivo  1-1
+Málaga  Barcelona  1-3
+Espanyol  Celta  1-0
+Valladolid  Mallorca  3-1
+Atlético  Zaragoza  2-0
+Betis  Levante  2-0
+Athletic  Rayo  1-2
+
+
+#############################
+# Segunda Vuelta
+
+Jornada 20  /  Sáb. 19 y Dom. 20 Enero
+
+R. Sociedad  Barcelona  3-2
+Atlético  Levante  2-0
+Betis  Athletic  1-1
+Valladolid  Zaragoza  2-0
+Valencia  R. Madrid  0-5
+Málaga  Celta  1-1
+Getafe  Sevilla  1-1
+Espanyol  Mallorca  3-2
+Granada  Rayo  2-0
+Osasuna  Deportivo  2-1
+
+
+Jornada 21  / Sáb. 26 y Dom. 27 Enero
+
+Levante  Valladolid  2-1
+Zaragoza  Espanyol  0-0
+Mallorca  Málaga  2-3
+Celta  R. Sociedad  1-1
+Barcelona  Osasuna  5-1
+Deportivo  Valencia  2-3
+R. Madrid  Getafe  4-0
+Sevilla  Granada
+Rayo  Betis  3-0
+Athletic  Atlético  3-0
+
+
+Jornada 22  /  Sáb. 2 y Dom. 3 Febrero
+
+Atlético  Betis
+Málaga  Zaragoza
+R. Sociedad  Mallorca
+Osasuna  Celta
+Valencia  Barcelona
+Getafe  Deportivo
+Granada  R. Madrid
+Sevilla  Rayo
+Espanyol  Levante
+Valladolid  Athletic
+
+
+Jornada 23  /  Sáb. 9 y Dom. 10 Febrero
+
+Rayo  Atlético
+Betis  Valladolid
+Athletic  Espanyol
+Levante  Málaga
+Zaragoza  R. Sociedad
+Mallorca  Osasuna
+Celta  Valencia
+Barcelona  Getafe
+Deportivo  Granada
+R. Madrid  Sevilla
+
+
+Jornada 24 /  Sáb. 16 y Dom. 17 Febrero
+
+Valladolid  Atlético
+Espanyol  Betis
+Málaga  Athletic
+R. Sociedad  Levante
+Osasuna  Zaragoza
+Valencia  Mallorca
+Getafe  Celta
+Granada  Barcelona
+Sevilla  Deportivo
+R. Madrid  Rayo
+
+
+Jornada 25 /  Sáb. 23 y Dom. 24 Febrero
+
+Rayo  Valladolid
+Atlético  Espanyol
+Betis  Málaga
+Athletic  R. Sociedad
+Levante  Osasuna
+Zaragoza  Valencia
+Mallorca  Getafe
+Celta  Granada
+Barcelona  Sevilla
+Deportivo  R. Madrid
+
+
+Jornada 26  / Sáb. 2 y Dom. 3 
+
+Espanyol  Valladolid
+Málaga  Atlético
+R. Sociedad  Betis
+Osasuna  Athletic
+Valencia  Levante
+Getafe  Zaragoza
+Granada  Mallorca
+Sevilla  Celta
+R. Madrid  Barcelona
+Deportivo  Rayo
+
+
+Jornada 27 /  Sáb. 9 y Dom. 10 Marzo
+
+Rayo  Espanyol
+Valladolid  Málaga
+Atlético  R. Sociedad
+Betis  Osasuna
+Athletic  Valencia
+Levante  Getafe
+Zaragoza  Granada
+Mallorca  Sevilla
+Celta  R. Madrid
+Barcelona  Deportivo
+
+
+Jornada 28 /  Sáb. 16 y Dom. 17 Marzo
+
+Málaga  Espanyol
+R. Sociedad  Valladolid
+Osasuna  Atlético
+Valencia  Betis
+Getafe  Athletic
+Granada  Levante
+Sevilla  Zaragoza
+R. Madrid  Mallorca
+Deportivo  Celta
+Barcelona  Rayo
+
+
+Jornada 29 /  Sáb. 30 y Dom. 31 Marzo
+
+Rayo  Málaga
+Espanyol  R. Sociedad
+Valladolid  Osasuna
+Athletic  Granada
+Levante  Sevilla
+Zaragoza  R. Madrid
+Mallorca  Deportivo
+Celta  Barcelona
+Atlético  Valencia
+Betis  Getafe
+
+
+Jornada 30 /  Sáb. 6 y Dom. 7 Abril
+
+R. Sociedad  Málaga
+Osasuna  Espanyol
+Valencia  Valladolid
+Getafe  Atlético
+Granada  Betis
+Sevilla  Athletic
+R. Madrid  Levante
+Deportivo  Zaragoza
+Barcelona  Mallorca
+Celta  Rayo
+
+
+Jornada 31 /  Sáb. 13 y Dom. 14 Abril
+
+Rayo  R. Sociedad
+Málaga  Osasuna
+Espanyol  Valencia
+Valladolid  Getafe
+Atlético  Granada
+Betis  Sevilla
+Athletic  R. Madrid
+Levante  Deportivo
+Zaragoza  Barcelona
+Mallorca  Celta
+
+
+Jornada 32 /  Sáb. 20 y Dom. 21 Abril
+
+Granada  Valladolid
+Sevilla  Atlético
+R. Madrid  Betis
+Deportivo  Athletic
+Barcelona  Levante
+Celta  Zaragoza
+Mallorca  Rayo
+Osasuna  R. Sociedad
+Valencia  Málaga
+Getafe  Espanyol
+
+
+Jornada 33 /  Sáb. 27 y Dom. 28 Abril
+
+Athletic  Barcelona
+Levante  Celta
+Zaragoza  Mallorca
+Rayo  Osasuna
+R. Sociedad  Valencia
+Málaga  Getafe
+Espanyol  Granada
+Valladolid  Sevilla
+Atlético  R. Madrid
+Betis  Deportivo
+
+
+Jornada 34 / Sáb. 4 y Dom. 5 Mayo
+
+Valencia  Osasuna
+Getafe  R. Sociedad
+Granada  Málaga
+Sevilla  Espanyol
+R. Madrid  Valladolid
+Deportivo  Atlético
+Barcelona  Betis
+Celta  Athletic
+Mallorca  Levante
+Zaragoza  Rayo
+
+
+Jornada 35 /  Sáb. 11 y Dom. 12 Mayo
+
+Rayo  Valencia
+Osasuna  Getafe
+R. Sociedad  Granada
+Málaga  Sevilla
+Espanyol  R. Madrid
+Valladolid  Deportivo
+Atlético  Barcelona
+Betis  Celta
+Athletic  Mallorca
+Levante  Zaragoza
+
+
+Jornada 36 / Sáb. 18 y Dom. 19 Mayo
+
+Mallorca  Betis
+Zaragoza  Athletic
+Levante  Rayo
+Getafe  Valencia
+Granada  Osasuna
+Sevilla  R. Sociedad
+R. Madrid  Málaga
+Deportivo  Espanyol
+Celta  Atlético
+Barcelona  Valladolid
+
+
+Jornada 37 / Mar. 28 y Mier. 29 Mayo
+
+Getafe  Rayo
+Valencia  Granada
+Osasuna  Sevilla
+R. Sociedad  R. Madrid
+Málaga  Deportivo
+Espanyol  Barcelona
+Valladolid  Celta
+Atlético  Mallorca
+Betis  Zaragoza
+Athletic  Levante
+
+
+Jornada 38 / Sáb. 1 y Sáb. 1 Junio
+
+Granada  Getafe
+Sevilla  Valencia
+R. Madrid  Osasuna
+Deportivo  R. Sociedad
+Barcelona  Málaga
+Celta  Espanyol
+Mallorca  Valladolid
+Zaragoza  Atlético
+Levante  Betis
+Rayo  Athletic
+
