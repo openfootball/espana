@@ -1,0 +1,5 @@
+
+
+mallorca,   RCD Mallorca|Real CD Mallorca|Real Club Deportivo Mallorca,  MLL, city:palma
+deportivo,  Deportivo La Coruña|Deportivo de La Coruña|Deportivo da Coruña|Real Club Deportivo La Coruña, DEP, city:acoruna
+zaragoza,   Real Zaragoza,  ZAR, city:zaragoza

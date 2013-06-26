@@ -1,12 +1,8 @@
-################################
-# Primera División de España - La Liga
+#################################################
+# Primera División de España - La Liga 2013/14
+#
 #  20 teams
-#  see es.wikipedia.org/wiki/Primera_División_de_España
-#      en.wikipedia.org/wiki/La_Liga
-#
-#  official -> lfp.es
-#
-#
+
 #  NB: use offical three letter codes from lfp.es
 
 ###
@@ -34,8 +30,13 @@ athletic,  Athletic Bilbao,              ATH,   city:bilbao
 granada,   Granada|Granada CF|Granada Club de Fútbol, GRA, city:granada
 osasuna,   Osasuna|CA Osasuna|Club Atlético Osasuna, OSA, city:pamplona
 celta,     Celta Vigo|Real Club Celta Vigo|Real Club Celta de Vigo, CEL, city:vigo
-deportivo, Deportivo La Coruña|Deportivo de La Coruña|Deportivo da Coruña|Real Club Deportivo La Coruña, DEP, city:acoruna
-mallorca,  RCD Mallorca|Real CD Mallorca|Real Club Deportivo Mallorca,  MLL, city:palma
 realsociedad, Real Sociedad San Sebastián|Real Sociedad|Real Sociedad de Fútbol, RSO, city:sansebastian
 valladolid, Real Valladolid|Real Valladolid CF|Real Valladolid Club de Fútbol, VID,  city:valladolid
-zaragoza,   Real Zaragoza,  ZAR, city:zaragoza
+
+
+almeria,    UD Almería|Unión Deportiva Almería,  ALM,   city:almeria
+
+# todo: add three letter codes from lfp.es
+
+elche,      Elche CF,      city:elche   
+villareal,  Villarreal CF, city:villarreal

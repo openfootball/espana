@@ -1,0 +1,36 @@
+#################################################
+# La Liga -  Primera División de España 2012/13
+
+league: es
+season: 2012/13
+start_at: 2012-08-18
+
+
+fixtures:
+- liga
+- liga_ii
+
+############
+# 20 Teams
+
+teams:
+- barcelona
+- espanyol
+- madrid
+- atletico
+- getafe
+- rayo
+- realbetis
+- sevilla
+- valencia
+- levante
+- malaga
+- athletic
+- granada
+- osasuna
+- celta
+- realsociedad
+- valladolid
+- mallorca
+- deportivo
+- zaragoza
