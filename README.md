@@ -29,7 +29,7 @@ madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD, city:ma
 ~~~
 ### La Liga - Primera División de España
 
-Jornada 1 // Sáb. 18 y Dom. 19 Agosto
+Jornada 1   //   Sáb. 18 y Dom. 19 Agosto
 
 19.08. 19:00  Real Madrid    Valencia CF     1-1
 19.08. 21:00  FC Barcelona   Real Sociedad   5-1
