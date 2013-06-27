@@ -2,7 +2,7 @@
 # La Liga -  Primera División de España 2012/13
 
 
-Jornada 18  / Sáb. 5 y Dom. 6 Enero
+Jornada 18  //  Sáb. 5 y Dom. 6 Enero
 
 05.01.2013   Rayo  Getafe  3-1
 05.01.2013   Granada  Valencia  1-2
@@ -16,7 +16,7 @@ Jornada 18  / Sáb. 5 y Dom. 6 Enero
 05.01.2013   Levante  Athletic  3-1
 
 
-Jornada 19 /  Sáb. 12 y Dom. 13 Enero
+Jornada 19 //  Sáb. 12 y Dom. 13 Enero
 
 12.01.2013   Getafe  Granada  2-2
 12.01.2013   Valencia  Sevilla  2-0
@@ -30,10 +30,9 @@ Jornada 19 /  Sáb. 12 y Dom. 13 Enero
 12.01.2013   Athletic  Rayo  1-2
 
 
-#############################
-# Segunda Vuelta
+# -- Segunda Vuelta
 
-Jornada 20  /  Sáb. 19 y Dom. 20 Enero
+Jornada 20  //  Sáb. 19 y Dom. 20 Enero
 
 19.01.2013   R. Sociedad  Barcelona  3-2
 19.01.2013   Atlético  Levante  2-0
@@ -47,7 +46,7 @@ Jornada 20  /  Sáb. 19 y Dom. 20 Enero
 19.01.2013   Osasuna  Deportivo  2-1
 
 
-Jornada 21  / Sáb. 26 y Dom. 27 Enero
+Jornada 21  // Sáb. 26 y Dom. 27 Enero
 
 26.01.2013   Levante  Valladolid  2-1
 26.01.2013   Zaragoza  Espanyol  0-0
@@ -61,7 +60,7 @@ Jornada 21  / Sáb. 26 y Dom. 27 Enero
 26.01.2013   Athletic  Atlético  3-0
 
 
-Jornada 22  /  Sáb. 2 y Dom. 3 Febrero
+Jornada 22  //  Sáb. 2 y Dom. 3 Febrero
 
 02.02.2013   Atlético  Betis
 02.02.2013   Málaga  Zaragoza
@@ -75,7 +74,7 @@ Jornada 22  /  Sáb. 2 y Dom. 3 Febrero
 02.02.2013   Valladolid  Athletic
 
 
-Jornada 23  /  Sáb. 9 y Dom. 10 Febrero
+Jornada 23  //  Sáb. 9 y Dom. 10 Febrero
 
 09.02.2013   Rayo  Atlético
 09.02.2013   Betis  Valladolid
@@ -89,7 +88,7 @@ Jornada 23  /  Sáb. 9 y Dom. 10 Febrero
 09.02.2013   R. Madrid  Sevilla
 
 
-Jornada 24 /  Sáb. 16 y Dom. 17 Febrero
+Jornada 24 //  Sáb. 16 y Dom. 17 Febrero
 
 16.02.2013   Valladolid  Atlético
 16.02.2013   Espanyol  Betis
@@ -103,7 +102,7 @@ Jornada 24 /  Sáb. 16 y Dom. 17 Febrero
 16.02.2013   R. Madrid  Rayo
 
 
-Jornada 25 /  Sáb. 23 y Dom. 24 Febrero
+Jornada 25 //  Sáb. 23 y Dom. 24 Febrero
 
 23.02.2013   Rayo  Valladolid
 23.02.2013   Atlético  Espanyol
@@ -117,7 +116,7 @@ Jornada 25 /  Sáb. 23 y Dom. 24 Febrero
 23.02.2013   Deportivo  R. Madrid
 
 
-Jornada 26  / Sáb. 2 y Dom. 3 Marzo
+Jornada 26  // Sáb. 2 y Dom. 3 Marzo
 
 02.03.2013   Espanyol  Valladolid
 02.03.2013   Málaga  Atlético
@@ -131,7 +130,7 @@ Jornada 26  / Sáb. 2 y Dom. 3 Marzo
 02.03.2013   Deportivo  Rayo
 
 
-Jornada 27 /  Sáb. 9 y Dom. 10 Marzo
+Jornada 27 //  Sáb. 9 y Dom. 10 Marzo
 
 09.03.2013   Rayo  Espanyol
 09.03.2013   Valladolid  Málaga
@@ -145,7 +144,7 @@ Jornada 27 /  Sáb. 9 y Dom. 10 Marzo
 09.03.2013   Barcelona  Deportivo
 
 
-Jornada 28 /  Sáb. 16 y Dom. 17 Marzo
+Jornada 28 //  Sáb. 16 y Dom. 17 Marzo
 
 16.03.2013   Málaga  Espanyol
 16.03.2013   R. Sociedad  Valladolid
@@ -159,7 +158,7 @@ Jornada 28 /  Sáb. 16 y Dom. 17 Marzo
 16.03.2013   Barcelona  Rayo
 
 
-Jornada 29 /  Sáb. 30 y Dom. 31 Marzo
+Jornada 29 //  Sáb. 30 y Dom. 31 Marzo
 
 30.03.2013   Rayo  Málaga
 30.03.2013   Espanyol  R. Sociedad
@@ -173,7 +172,7 @@ Jornada 29 /  Sáb. 30 y Dom. 31 Marzo
 30.03.2013   Betis  Getafe
 
 
-Jornada 30 /  Sáb. 6 y Dom. 7 Abril
+Jornada 30 //  Sáb. 6 y Dom. 7 Abril
 
 06.04.2013   R. Sociedad  Málaga
 06.04.2013   Osasuna  Espanyol
@@ -187,7 +186,7 @@ Jornada 30 /  Sáb. 6 y Dom. 7 Abril
 06.04.2013   Celta  Rayo
 
 
-Jornada 31 /  Sáb. 13 y Dom. 14 Abril
+Jornada 31 //  Sáb. 13 y Dom. 14 Abril
 
 13.04.2013   Rayo  R. Sociedad
 13.04.2013   Málaga  Osasuna
@@ -201,7 +200,7 @@ Jornada 31 /  Sáb. 13 y Dom. 14 Abril
 13.04.2013   Mallorca  Celta
 
 
-Jornada 32 /  Sáb. 20 y Dom. 21 Abril
+Jornada 32 //  Sáb. 20 y Dom. 21 Abril
 
 20.04.2013   Granada  Valladolid
 20.04.2013   Sevilla  Atlético
@@ -215,7 +214,7 @@ Jornada 32 /  Sáb. 20 y Dom. 21 Abril
 20.04.2013   Getafe  Espanyol
 
 
-Jornada 33 /  Sáb. 27 y Dom. 28 Abril
+Jornada 33 //  Sáb. 27 y Dom. 28 Abril
 
 27.04.2013   Athletic  Barcelona
 27.04.2013   Levante  Celta
@@ -229,7 +228,7 @@ Jornada 33 /  Sáb. 27 y Dom. 28 Abril
 27.04.2013   Betis  Deportivo
 
 
-Jornada 34 / Sáb. 4 y Dom. 5 Mayo
+Jornada 34 // Sáb. 4 y Dom. 5 Mayo
 
 04.05.2013   Valencia  Osasuna
 04.05.2013   Getafe  R. Sociedad
@@ -243,7 +242,7 @@ Jornada 34 / Sáb. 4 y Dom. 5 Mayo
 04.05.2013   Zaragoza  Rayo
 
 
-Jornada 35 /  Sáb. 11 y Dom. 12 Mayo
+Jornada 35 //  Sáb. 11 y Dom. 12 Mayo
 
 11.05.2013   Rayo  Valencia
 11.05.2013   Osasuna  Getafe
@@ -257,7 +256,7 @@ Jornada 35 /  Sáb. 11 y Dom. 12 Mayo
 11.05.2013   Levante  Zaragoza
 
 
-Jornada 36 / Sáb. 18 y Dom. 19 Mayo
+Jornada 36 // Sáb. 18 y Dom. 19 Mayo
 
 18.05.2013   Mallorca  Betis
 18.05.2013   Zaragoza  Athletic
@@ -271,7 +270,7 @@ Jornada 36 / Sáb. 18 y Dom. 19 Mayo
 18.05.2013   Barcelona  Valladolid
 
 
-Jornada 37 / Mar. 28 y Mier. 29 Mayo
+Jornada 37 // Mar. 28 y Mier. 29 Mayo
 
 28.05.2013   Getafe  Rayo
 28.05.2013   Valencia  Granada
@@ -285,7 +284,7 @@ Jornada 37 / Mar. 28 y Mier. 29 Mayo
 28.05.2013   Athletic  Levante
 
 
-Jornada 38 / Sáb. 1 Junio
+Jornada 38 // Sáb. 1 Junio
 
 01.06.2013   Granada  Getafe
 01.06.2013   Sevilla  Valencia

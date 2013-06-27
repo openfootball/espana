@@ -1,0 +1,25 @@
+####
+# all
+
+seasons:
+- es-espana!/setups/data/seasons
+
+
+leagues:
+- es-espana!/leagues
+
+#########
+# teams
+
+teams:
+- es-espana!/teams
+- es-espana!/teams_x
+
+############
+# fixtures
+
+2012_13:
+- es-espana!/2012_13/liga
+
+2013_14:
+- es-espana!/2013_14/liga

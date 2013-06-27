@@ -1,15 +1,12 @@
 #################################################
 # La Liga -  Primera División de España 2012/13
-#
-#  dates: 18 de agosto de 2012 -  1 de junio de 2013
 
 
-####################
-# Primera Vuelta
+# -- Primera Vuelta
 
 ## todo: cleanup/polish match dates
 
-Jornada 1 / Sáb. 18 y Dom. 19 Agosto
+Jornada 1 // Sáb. 18 y Dom. 19 Agosto
 
 18.08.2012   Barcelona  R. Sociedad  5-1
 18.08.2012   Levante  Atlético  1-1
@@ -23,7 +20,7 @@ Jornada 1 / Sáb. 18 y Dom. 19 Agosto
 18.08.2012  Deportivo  Osasuna  2-0
 
 
-Jornada 2 / Sáb. 25 y Dom. 26 Agosto
+Jornada 2 // Sáb. 25 y Dom. 26 Agosto
 
 25.08.2012   Valladolid  Levante  2-0
 25.08.2012   Espanyol  Zaragoza  1-2
@@ -37,7 +34,7 @@ Jornada 2 / Sáb. 25 y Dom. 26 Agosto
 25.08.2012   Atlético  Athletic  4-0
 
 
-Jornada 3 /  Sáb. 1 y Dom. 2 Septiembre
+Jornada 3 //  Sáb. 1 y Dom. 2 Septiembre
 
 01.09.2012   Betis  Atlético  2-4
 01.09.2012   Zaragoza  Málaga  0-1
@@ -51,7 +48,7 @@ Jornada 3 /  Sáb. 1 y Dom. 2 Septiembre
 01.09.2012   Athletic  Valladolid  2-0
 
 
-Jornada 4  /  Sáb. 15 y Dom. 16 Septiembre
+Jornada 4  //  Sáb. 15 y Dom. 16 Septiembre
 
 15.09.2012   Atlético  Rayo  4-3
 15.09.2012   Valladolid  Betis  0-1
@@ -65,7 +62,7 @@ Jornada 4  /  Sáb. 15 y Dom. 16 Septiembre
 15.09.2012   Sevilla  R. Madrid  1-0
 
 
-Jornada 5  /  Sáb. 22 y Dom. 23 Septiembre
+Jornada 5  //  Sáb. 22 y Dom. 23 Septiembre
 
 22.09.2012   Atlético  Valladolid  2-1
 22.09.2012   Betis  Espanyol  1-0
@@ -79,7 +76,7 @@ Jornada 5  /  Sáb. 22 y Dom. 23 Septiembre
 22.09.2012   Rayo  R. Madrid  0-2
 
 
-Jornada 6  /  Sáb. 29 y Lun. 1 Octubre
+Jornada 6  //  Sáb. 29 y Lun. 1 Octubre
 
 29.09.2012   Valladolid  Rayo  6-1
 29.09.2012   Espanyol  Atlético  0-1
@@ -93,7 +90,7 @@ Jornada 6  /  Sáb. 29 y Lun. 1 Octubre
 29.09.2012   R. Madrid  Deportivo  5-1
 
 
-Jornada 7  /  Sáb. 6 y Dom. 7 Octubre
+Jornada 7  //  Sáb. 6 y Dom. 7 Octubre
 
 06.10.2012   Valladolid  Espanyol  1-1
 06.10.2012   Atlético  Málaga  2-1
@@ -107,7 +104,7 @@ Jornada 7  /  Sáb. 6 y Dom. 7 Octubre
 06.10.2012   Rayo  Deportivo  2-1
 
 
-Jornada 8 /  Sáb. 20 y Dom. 21 Octubre
+Jornada 8 //  Sáb. 20 y Dom. 21 Octubre
 
 20.10.2012   Espanyol  Rayo  3-2
 20.10.2012   Málaga  Valladolid  2-1
@@ -121,7 +118,7 @@ Jornada 8 /  Sáb. 20 y Dom. 21 Octubre
 20.10.2012   Deportivo  Barcelona  4-5
 
 
-Jornada 9  / Sáb. 27 y Dom. 28 Octubre
+Jornada 9  // Sáb. 27 y Dom. 28 Octubre
 
 27.10.2012   Espanyol  Málaga  0-0
 27.10.2012   Valladolid  R. Sociedad  2-2
@@ -135,7 +132,7 @@ Jornada 9  / Sáb. 27 y Dom. 28 Octubre
 27.10.2012   Rayo  Barcelona  0-5
 
 
-Jornada 10  / Sáb. 3 y Dom. 4 Noviembre
+Jornada 10  // Sáb. 3 y Dom. 4 Noviembre
 
 03.11.2012   Málaga  Rayo  1-2
 03.11.2012   R. Sociedad  Espanyol  0-1
@@ -149,7 +146,7 @@ Jornada 10  / Sáb. 3 y Dom. 4 Noviembre
 03.11.2012   Getafe  Betis  2-4
 
 
-Jornada 11  /  Sáb. 10 y Dom. 11 Noviembre
+Jornada 11  //  Sáb. 10 y Dom. 11 Noviembre
 
 10.11.2012   Málaga  R. Sociedad  1-2
 10.11.2012   Espanyol  Osasuna  0-3
@@ -163,7 +160,7 @@ Jornada 11  /  Sáb. 10 y Dom. 11 Noviembre
 10.11.2012   Rayo  Celta  3-2
 
 
-Jornada 12  /  Sáb. 17 y Dom. 18 Noviembre
+Jornada 12  //  Sáb. 17 y Dom. 18 Noviembre
 
 17.11.2012   R. Sociedad  Rayo  4-0
 17.11.2012   Osasuna  Málaga  0-0
@@ -177,7 +174,7 @@ Jornada 12  /  Sáb. 17 y Dom. 18 Noviembre
 17.11.2012   Celta  Mallorca  1-1
 
 
-Jornada 13  /  Sáb. 24 y Dom. 25 Noviembre
+Jornada 13  //  Sáb. 24 y Dom. 25 Noviembre
 
 24.11.2012   Valladolid  Granada  1-0
 24.11.2012   Atlético  Sevilla  4-0
@@ -191,7 +188,7 @@ Jornada 13  /  Sáb. 24 y Dom. 25 Noviembre
 24.11.2012   Espanyol  Getafe  0-2
 
 
-Jornada 14  /  Sáb. 1 y Dom. 2 Diciembre
+Jornada 14  //  Sáb. 1 y Dom. 2 Diciembre
 
 01.12.2012   Barcelona  Athletic  5-1
 01.12.2012   Celta  Levante  1-1
@@ -205,7 +202,7 @@ Jornada 14  /  Sáb. 1 y Dom. 2 Diciembre
 01.12.2012   Deportivo  Betis  2-3
 
 
-Jornada 15  /  Sáb. 8 y Dom. 9 Diciembre
+Jornada 15  //  Sáb. 8 y Dom. 9 Diciembre
 
 08.12.2012   Osasuna  Valencia  0-1
 08.12.2012   R. Sociedad  Getafe  1-1
@@ -219,7 +216,7 @@ Jornada 15  /  Sáb. 8 y Dom. 9 Diciembre
 08.12.2012   Rayo  Zaragoza  0-2
 
 
-Jornada 16 /  Sáb. 15 y Dom. 16 Diciembre
+Jornada 16 //  Sáb. 15 y Dom. 16 Diciembre
 
 15.12.2012   Valencia  Rayo  0-1
 15.12.2012   Getafe  Osasuna  1-1
@@ -233,7 +230,7 @@ Jornada 16 /  Sáb. 15 y Dom. 16 Diciembre
 15.12.2012   Zaragoza  Levante  0-1
 
 
-Jornada 17  /  Vie. 21 y Sáb. 22 Diciembre
+Jornada 17  //  Vie. 21 y Sáb. 22 Diciembre
 
 21.12.2012   Betis  Mallorca  1-2
 21.12.2012   Athletic  Zaragoza  0-2

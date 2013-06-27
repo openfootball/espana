@@ -21,8 +21,8 @@ Example:
 ~~~
 ### La Liga - Primera División de España Teams
 
-barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR,  city:barcelona
-madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,  city:madrid
+barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR, city:barcelona
+madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD, city:madrid
 ...
 ~~~
 
@@ -31,8 +31,8 @@ madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,  city:m
 
 Jornada 1 / Sáb. 18 y Dom. 19 Agosto
 
-Barcelona    R. Sociedad  5-1
-R. Madrid    Valencia     1-1
+19.08. 19:00  Real Madrid    Valencia CF     1-1
+19.08. 21:00  FC Barcelona   Real Sociedad   5-1
 ...
 ~~~
 
@@ -71,8 +71,8 @@ Try the `football.db` Web Admin app running on Heroku
 Official Site - [`www.lfp.es` (es)](http://www.lfp.es)
 
 - 20 Teams
-- 380 Matches (= 19 x 2 x 10)
 - 38 Rounds (19 x 2) - 10 matches per round
+- 380 Matches (= 19 x 2 x 10)
 
 
 

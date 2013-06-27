@@ -11,14 +11,14 @@
 #    Espanyol Barcelona instead of Barcelona 
 
 barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
-espanyol,  Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
+espanyol,  Espanyol|Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
 
-madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,       city:madrid
-atletico,  Atlético Madrid|Club Atlético de Madrid,   ATL,              city:madrid
+madrid,    R. Madrid|Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,       city:madrid
+atletico,  Atlético|Atlético Madrid|Club Atlético de Madrid,   ATL,              city:madrid
 getafe,    Getafe|Getafe CF|Getafe Club de Fútbol,    GET, city:madrid    # Getafe - city in madrid metro area
-rayo,      Rayo Vallecano|Rayo Vallecano de Madrid, RAY, city:madrid
+rayo,      Rayo|Rayo Vallecano|Rayo Vallecano de Madrid, RAY, city:madrid
 
-realbetis, Real Betis Sevilla|Real Betis|Real Betis Balompié, BET, city:sevilla
+betis,     Betis|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET, city:sevilla
 sevilla,   Sevilla|Sevilla FC|Sevilla Fútbol Club, SEV, city:sevilla
 
 valencia,  Valencia|FC Valencia|CF Valencia|Valencia CF|Valencia Club de Fútbol,   VAL,    city:valencia
@@ -26,12 +26,12 @@ levante,   Levante|Levante UD|Levante Unión Deportiva, LEV, city:valencia
 
 
 malaga,    Málaga|FC Málaga|Málaga CF|CF Málaga,   MAG, city:malaga
-athletic,  Athletic Bilbao,              ATH,   city:bilbao
+athletic,  Athletic|Athletic Bilbao,              ATH,   city:bilbao
 granada,   Granada|Granada CF|Granada Club de Fútbol, GRA, city:granada
 osasuna,   Osasuna|CA Osasuna|Club Atlético Osasuna, OSA, city:pamplona
-celta,     Celta Vigo|Real Club Celta Vigo|Real Club Celta de Vigo, CEL, city:vigo
-realsociedad, Real Sociedad San Sebastián|Real Sociedad|Real Sociedad de Fútbol, RSO, city:sansebastian
-valladolid, Real Valladolid|Real Valladolid CF|Real Valladolid Club de Fútbol, VID,  city:valladolid
+celta,     Celta|Celta Vigo|Real Club Celta Vigo|Real Club Celta de Vigo, CEL, city:vigo
+realsociedad, R. Sociedad|Real Sociedad San Sebastián|Real Sociedad|Real Sociedad de Fútbol, RSO, city:sansebastian
+valladolid, Valladolid|Real Valladolid|Real Valladolid CF|Real Valladolid Club de Fútbol, VID,  city:valladolid
 
 
 almeria,    UD Almería|Unión Deportiva Almería,  ALM,   city:almeria

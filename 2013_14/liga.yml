@@ -1,9 +1,9 @@
 #################################################
-# La Liga -  Primera División de España 2012/13
+# La Liga -  Primera División de España 2013/14
 
 league: es
-season: 2012/13
-start_at: 2012-08-18
+season: 2013/14
+start_at: 2013-08-17
 
 
 fixtures:
@@ -31,6 +31,6 @@ teams:
 - celta
 - realsociedad
 - valladolid
-- mallorca
-- deportivo
-- zaragoza
+- almeria
+- elche
+- villareal
