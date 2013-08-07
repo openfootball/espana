@@ -39,41 +39,20 @@ Jornada 1   //   Sáb. 18 y Dom. 19 Agosto
 
 ## Build Your Own `football.db` Copy
 
-To build your own `football.db` copy from the plain text fixtures
-use the sportdb command line tool. Example:
-
-Step 1:  Get a copy of the `world.db` fixtures
-
-    $ git clone git://github.com/geraldb/world.db.git
-
-Step 2:  Get a copy the `es-espana` fixtures
-
-    $ git clone git://github.com/openfootball/es-espana.git
-
-Step 3:  Let's build the `football.db`
-
-    $ sportdb setup --include ./es-espana --worldinclude ./world.db
-
-That's it. For more
-see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
 
 ## Links
 
-### Web Admin App
-
-Try the `football.db` Web Admin app running on Heroku
-[`footballdb.herokuapp.com/es`](http://footballdb.herokuapp.com/es).
-
 ### La Liga / Primera División de España
 
 Official Site - [`www.lfp.es` (es)](http://www.lfp.es)
 
-- 20 Teams
-- 38 Rounds (19 x 2) - 10 matches per round
-- 380 Matches (= 19 x 2 x 10)
-
+- 20 teams
+- 38 rounds (19 x 2) - 10 matches per round
+- 380 matches (= 19 x 2 x 10)
 
 
 #### Wikipedia
@@ -82,7 +61,7 @@ Official Site - [`www.lfp.es` (es)](http://www.lfp.es)
 - [2013–14_La_Liga](http://en.wikipedia.org/wiki/2013–14_La_Liga)
 - [2012–13_La_Liga](http://en.wikipedia.org/wiki/2012–13_La_Liga)
 
----
+----
 
 - [Primera_División_de_España (es)](http://es.wikipedia.org/wiki/Primera_División_de_España)
 - [Primera_División_de_España_2013/14 (es)](http://es.wikipedia.org/wiki/Primera_División_de_España_2013/14)
@@ -94,5 +73,4 @@ Official Site - [`www.lfp.es` (es)](http://www.lfp.es)
 Send them along to the
 [Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
 Thanks!
-
 

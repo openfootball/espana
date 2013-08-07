@@ -1,9 +1,5 @@
-####
-# all
-
-seasons:
-- es-espana!/setups/data/seasons
-
+#######################
+# all fixtures
 
 leagues:
 - es-espana!/leagues
