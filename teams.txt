@@ -10,33 +10,33 @@
 #   sort by length first to enable greediest match of team name, for example, 
 #    Espanyol Barcelona instead of Barcelona 
 
-barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
-espanyol,  Espanyol|RCD Espanyol|Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
+barcelona, Barcelona|FC Barcelona|F.C. Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
+espanyol,  Espanyol|RCD Espanyol|R.C.D. Espanyol|Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
 
 madrid,    R. Madrid|Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,       city:madrid
 atletico,  Atlético|Atlético Madrid|Club Atlético de Madrid,   ATL,              city:madrid
-getafe,    Getafe|Getafe CF|Getafe Club de Fútbol,    GET, city:madrid    # Getafe - city in madrid metro area
+getafe,    Getafe|Getafe CF|Getafe C.F.|Getafe Club de Fútbol,    GET, city:madrid    # Getafe - city in madrid metro area
 rayo,      Rayo|Rayo Vallecano|Rayo Vallecano de Madrid, RAY, city:madrid
 
 betis,     Betis|Betis Sevilla|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET, city:sevilla
-sevilla,   Sevilla|Sevilla FC|Sevilla Fútbol Club, SEV, city:sevilla
+sevilla,   Sevilla|Sevilla FC|Sevilla F.C.|Sevilla Fútbol Club, SEV, city:sevilla
 
-valencia,  Valencia|FC Valencia|CF Valencia|Valencia CF|Valencia Club de Fútbol,   VAL,    city:valencia
-levante,   Levante|Levante UD|Levante Unión Deportiva, LEV, city:valencia
+valencia,  Valencia|Valencia CF|Valencia C.F.|Valencia Club de Fútbol|FC Valencia|CF Valencia,   VAL,    city:valencia
+levante,   Levante|Levante UD|Levante U.D.|Levante Unión Deportiva, LEV, city:valencia
 
 
-malaga,    Málaga|FC Málaga|Málaga CF|CF Málaga,   MAG, city:malaga
-athletic,  Athletic|Athletic Bilbao,              ATH,   city:bilbao
-granada,   Granada|Granada CF|Granada Club de Fútbol, GRA, city:granada
-osasuna,   Osasuna|CA Osasuna|Club Atlético Osasuna, OSA, city:pamplona
-celta,     Celta|Celta Vigo|Real Club Celta Vigo|Real Club Celta de Vigo, CEL, city:vigo
+malaga,    Málaga|Málaga CF|Málaga C.F.|CF Málaga|FC Málaga,   MAG, city:malaga
+athletic,  Athletic|Athletic Club|Athletic Bilbao,              ATH,   city:bilbao
+granada,   Granada|Granada CF|Granada C.F.|Granada Club de Fútbol, GRA, city:granada
+osasuna,   Osasuna|CA Osasuna|At. Osasuna|Club Atlético Osasuna, OSA, city:pamplona
+celta,     Celta|Celta Vigo|R.C. Celta|Real Club Celta Vigo|Real Club Celta de Vigo, CEL, city:vigo
 realsociedad, R. Sociedad|Real Sociedad San Sebastián|Real Sociedad|Real Sociedad de Fútbol, RSO, city:sansebastian
-valladolid, Valladolid|Real Valladolid|Real Valladolid CF|Real Valladolid Club de Fútbol, VID,  city:valladolid
+valladolid, Valladolid|Real Valladolid|Real Valladolid CF|R. Valladolid C.F.|Real Valladolid Club de Fútbol, VID,  city:valladolid
 
 
-almeria,    UD Almería|Unión Deportiva Almería,  ALM,   city:almeria
+almeria,    UD Almería|U.D. Almería|Unión Deportiva Almería,  ALM,   city:almeria
 
 # todo: add three letter codes from lfp.es
 
-elche,      Elche CF,      city:elche   
-villareal,  Villarreal CF, city:villarreal
+elche,      Elche CF|Elche C.F.,       ELC, city:elche   
+villareal,  Villarreal CF|Villarreal C.F.,  VLL, city:villarreal
