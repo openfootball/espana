@@ -11,14 +11,14 @@
 #    Espanyol Barcelona instead of Barcelona 
 
 barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,    BAR,     city:barcelona
-espanyol,  Espanyol|Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
+espanyol,  Espanyol|RCD Espanyol|Espanyol Barcelona|Real CD Espanyol|Real Club Deportivo Espanyol|Real Club Deportivo Español,  ESP, city:barcelona
 
 madrid,    R. Madrid|Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD,       city:madrid
 atletico,  Atlético|Atlético Madrid|Club Atlético de Madrid,   ATL,              city:madrid
 getafe,    Getafe|Getafe CF|Getafe Club de Fútbol,    GET, city:madrid    # Getafe - city in madrid metro area
 rayo,      Rayo|Rayo Vallecano|Rayo Vallecano de Madrid, RAY, city:madrid
 
-betis,     Betis|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET, city:sevilla
+betis,     Betis|Betis Sevilla|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET, city:sevilla
 sevilla,   Sevilla|Sevilla FC|Sevilla Fútbol Club, SEV, city:sevilla
 
 valencia,  Valencia|FC Valencia|CF Valencia|Valencia CF|Valencia Club de Fútbol,   VAL,    city:valencia
