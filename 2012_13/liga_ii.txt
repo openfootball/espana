@@ -2,34 +2,6 @@
 # La Liga -  Primera División de España 2012/13
 
 
-Jornada 18  //  Sáb. 5 y Dom. 6 Enero
-
-05.01.2013   Rayo  Getafe  3-1
-05.01.2013   Granada  Valencia  1-2
-05.01.2013   Sevilla  Osasuna  1-0
-05.01.2013   R. Madrid  R. Sociedad  4-3
-05.01.2013   Deportivo  Málaga  1-0
-05.01.2013   Barcelona  Espanyol  4-0
-05.01.2013   Celta  Valladolid  3-1
-05.01.2013   Mallorca  Atlético  1-1
-05.01.2013   Zaragoza  Betis  1-2
-05.01.2013   Levante  Athletic  3-1
-
-
-Jornada 19 //  Sáb. 12 y Dom. 13 Enero
-
-12.01.2013   Getafe  Granada  2-2
-12.01.2013   Valencia  Sevilla  2-0
-12.01.2013   Osasuna  R. Madrid  0-0
-12.01.2013   R. Sociedad  Deportivo  1-1
-12.01.2013   Málaga  Barcelona  1-3
-12.01.2013   Espanyol  Celta  1-0
-12.01.2013   Valladolid  Mallorca  3-1
-12.01.2013   Atlético  Zaragoza  2-0
-12.01.2013   Betis  Levante  2-0
-12.01.2013   Athletic  Rayo  1-2
-
-
 # -- Segunda Vuelta
 
 Jornada 20  //  Sáb. 19 y Dom. 20 Enero

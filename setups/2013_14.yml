@@ -1,0 +1,18 @@
+#######################
+# 2013_14 fixtures
+
+leagues:
+- es-espana!/leagues
+
+#########
+# teams
+
+teams:
+- es-espana!/teams
+- es-espana!/teams_x
+
+############
+# fixtures
+
+2013_14:
+- es-espana!/2013_14/liga
