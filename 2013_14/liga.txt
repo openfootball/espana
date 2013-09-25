@@ -71,7 +71,7 @@ Jornada 4
 Jornada 5
  
 22.09.2013 (Dom.) Betis Sevilla         0-0  Granada CF
-22.09.2013 (Dom.) RCD Espanyol          -  Athletic Bilbao
+22.09.2013 (Dom.) RCD Espanyol          3-2  Athletic Bilbao
 22.09.2013 (Dom.) Celta Vigo            0-0  Villarreal CF
 22.09.2013 (Dom.) Real Madrid           4-1  Getafe CF
 22.09.2013 (Dom.) CA Osasuna            2-1  Elche CF
@@ -89,10 +89,10 @@ Jornada 6
 25.09.2013 (Mié.) Villarreal CF         -  RCD Espanyol
 25.09.2013 (Mié.) Getafe CF             -  Celta Vigo
 25.09.2013 (Mié.) Elche CF              -  Real Madrid
-25.09.2013 (Mié.) Atlético Madrid       -  CA Osasuna
-25.09.2013 (Mié.) Levante UD            -  Real Valladolid
-25.09.2013 (Mié.) Málaga CF             -  UD Almería
-25.09.2013 (Mié.) FC Barcelona          -  Real Sociedad
+25.09.2013 (Mié.) Atlético Madrid       2-1  CA Osasuna
+25.09.2013 (Mié.) Levante UD            1-1  Real Valladolid
+25.09.2013 (Mié.) Málaga CF             2-0  UD Almería
+25.09.2013 (Mié.) FC Barcelona          4-1  Real Sociedad
 25.09.2013 (Mié.) Sevilla FC            -  Rayo Vallecano
 
 
