@@ -202,69 +202,69 @@ Jornada 33 //  Sáb. 27 y Dom. 28 Abril
 
 Jornada 34 // Sáb. 4 y Dom. 5 Mayo
 
-04.05.2013   Valencia  Osasuna
-04.05.2013   Getafe  R. Sociedad
-04.05.2013   Granada  Málaga
-04.05.2013   Sevilla  Espanyol
-04.05.2013   R. Madrid  Valladolid
-04.05.2013   Deportivo  Atlético
-04.05.2013   Barcelona  Betis
-04.05.2013   Celta  Athletic
-04.05.2013   Mallorca  Levante
-04.05.2013   Zaragoza  Rayo
+04.05.2013   Valencia  Osasuna      4-0
+04.05.2013   Getafe  R. Sociedad    2-1
+04.05.2013   Granada  Málaga        1-0
+04.05.2013   Sevilla  Espanyol      3-0
+04.05.2013   R. Madrid  Valladolid  4-3
+04.05.2013   Deportivo  Atlético    0-0
+04.05.2013   Barcelona  Betis       4-2
+04.05.2013   Celta  Athletic        1-1
+04.05.2013   Mallorca  Levante      1-1
+04.05.2013   Zaragoza  Rayo         3-0
 
 
 Jornada 35 //  Sáb. 11 y Dom. 12 Mayo
 
-11.05.2013   Rayo  Valencia
-11.05.2013   Osasuna  Getafe
-11.05.2013   R. Sociedad  Granada
-11.05.2013   Málaga  Sevilla
-11.05.2013   Espanyol  R. Madrid
-11.05.2013   Valladolid  Deportivo
-11.05.2013   Atlético  Barcelona
-11.05.2013   Betis  Celta
-11.05.2013   Athletic  Mallorca
-11.05.2013   Levante  Zaragoza
+11.05.2013   Rayo  Valencia         0-4
+11.05.2013   Osasuna  Getafe        1-0
+11.05.2013   R. Sociedad  Granada   2-2
+11.05.2013   Málaga  Sevilla        0-0
+11.05.2013   Espanyol  R. Madrid    1-1
+11.05.2013   Valladolid  Deportivo  1-0
+11.05.2013   Atlético  Barcelona    1-2
+11.05.2013   Betis  Celta           1-0
+11.05.2013   Athletic  Mallorca     2-1
+11.05.2013   Levante  Zaragoza      0-0
 
 
 Jornada 36 // Sáb. 18 y Dom. 19 Mayo
 
-18.05.2013   Mallorca  Betis
-18.05.2013   Zaragoza  Athletic
-18.05.2013   Levante  Rayo
-18.05.2013   Getafe  Valencia
-18.05.2013   Granada  Osasuna
-18.05.2013   Sevilla  R. Sociedad
-18.05.2013   R. Madrid  Málaga
-18.05.2013   Deportivo  Espanyol
-18.05.2013   Celta  Atlético
-18.05.2013   Barcelona  Valladolid
+18.05.2013   Mallorca  Betis        1-0
+18.05.2013   Zaragoza  Athletic     1-2
+18.05.2013   Levante  Rayo          2-3
+18.05.2013   Getafe  Valencia       0-1
+18.05.2013   Granada  Osasuna       3-0
+18.05.2013   Sevilla  R. Sociedad   1-2
+18.05.2013   R. Madrid  Málaga      6-2
+18.05.2013   Deportivo  Espanyol    2-0
+18.05.2013   Celta  Atlético        1-3
+18.05.2013   Barcelona  Valladolid  2-1
 
 
 Jornada 37 // Mar. 28 y Mier. 29 Mayo
 
-28.05.2013   Getafe  Rayo
-28.05.2013   Valencia  Granada
-28.05.2013   Osasuna  Sevilla
-28.05.2013   R. Sociedad  R. Madrid
-28.05.2013   Málaga  Deportivo
-28.05.2013   Espanyol  Barcelona
-28.05.2013   Valladolid  Celta
-28.05.2013   Atlético  Mallorca
-28.05.2013   Betis  Zaragoza
-28.05.2013   Athletic  Levante
+28.05.2013   Getafe  Rayo             1-2
+28.05.2013   Valencia  Granada        1-0
+28.05.2013   Osasuna  Sevilla         2-1
+28.05.2013   R. Sociedad  R. Madrid   3-3
+28.05.2013   Málaga  Deportivo        3-1
+28.05.2013   Espanyol  Barcelona      0-2
+28.05.2013   Valladolid  Celta        0-2
+28.05.2013   Atlético  Mallorca       0-0
+28.05.2013   Betis  Zaragoza          4-0
+28.05.2013   Athletic  Levante        0-1
 
 
 Jornada 38 // Sáb. 1 Junio
 
-01.06.2013   Granada  Getafe
-01.06.2013   Sevilla  Valencia
-01.06.2013   R. Madrid  Osasuna
-01.06.2013   Deportivo  R. Sociedad
-01.06.2013   Barcelona  Málaga
-01.06.2013   Celta  Espanyol
-01.06.2013   Mallorca  Valladolid
-01.06.2013   Zaragoza  Atlético
-01.06.2013   Levante  Betis
-01.06.2013   Rayo  Athletic
+01.06.2013   Granada  Getafe         2-0
+01.06.2013   Sevilla  Valencia       4-3
+01.06.2013   R. Madrid  Osasuna      4-2
+01.06.2013   Deportivo  R. Sociedad  0-1
+01.06.2013   Barcelona  Málaga       4-1
+01.06.2013   Celta  Espanyol         1-0
+01.06.2013   Mallorca  Valladolid    4-2
+01.06.2013   Zaragoza  Atlético      1-3
+01.06.2013   Levante  Betis          1-1
+01.06.2013   Rayo  Athletic          2-2
