@@ -6,44 +6,51 @@
 
 Jornada 20  //  Sáb. 19 y Dom. 20 Enero
 
-19.01.2013   R. Sociedad  Barcelona  3-2
-19.01.2013   Atlético  Levante  2-0
-19.01.2013   Betis  Athletic  1-1
-19.01.2013   Valladolid  Zaragoza  2-0
-19.01.2013   Valencia  R. Madrid  0-5
-19.01.2013   Málaga  Celta  1-1
-19.01.2013   Getafe  Sevilla  1-1
-19.01.2013   Espanyol  Mallorca  3-2
-19.01.2013   Granada  Rayo  2-0
-19.01.2013   Osasuna  Deportivo  2-1
+18.01.2013 21.00   Espanyol  Mallorca  3-2
+
+19.01.2013 16.00   Granada  Rayo  2-0
+19.01.2013 18.00   R. Sociedad  Barcelona  3-2
+19.01.2013 20.00   Getafe  Sevilla  1-1
+19.01.2013 22.00   Málaga  Celta  1-1
+
+20.01.2013 12.00   Osasuna  Deportivo  2-1
+20.01.2013 17.00   Valladolid  Zaragoza  2-0
+20.01.2013 19.00   Atlético  Levante  2-0
+20.01.2013 21.00   Valencia  R. Madrid  0-5
+
+21.01.2013 21.30   Betis  Athletic  1-1
 
 
 Jornada 21  // Sáb. 26 y Dom. 27 Enero
 
-26.01.2013   Levante  Valladolid  2-1
-26.01.2013   Zaragoza  Espanyol  0-0
-26.01.2013   Mallorca  Málaga  2-3
-26.01.2013   Celta  R. Sociedad  1-1
-26.01.2013   Barcelona  Osasuna  5-1
-26.01.2013   Deportivo  Valencia  2-3
-26.01.2013   R. Madrid  Getafe  4-0
-26.01.2013   Sevilla  Granada
-26.01.2013   Rayo  Betis  3-0
-26.01.2013   Athletic  Atlético  3-0
+26.01.2013 16.00   Celta  R. Sociedad  1-1
+26.01.2013 18.00   Levante  Valladolid  2-1
+26.01.2013 20.00   Zaragoza  Espanyol  0-0
+26.01.2013 22.00   Deportivo  Valencia  2-3
+
+27.01.2013 12.00   R. Madrid  Getafe  4-0
+27.01.2013 17.00   Rayo  Betis  3-0
+27.01.2013 19.00   Barcelona  Osasuna  5-1
+27.01.2013 21.00   Mallorca  Málaga  2-3
+27.01.2013 21.00   Athletic  Atlético  3-0
+
+28.01.2013 21.30   Sevilla  Granada   3-0
 
 
 Jornada 22  //  Sáb. 2 y Dom. 3 Febrero
 
-02.02.2013   Atlético  Betis        1-0
-02.02.2013   Málaga  Zaragoza       1-1
-02.02.2013   R. Sociedad  Mallorca  3-0
-02.02.2013   Osasuna  Celta         1-0
-02.02.2013   Valencia  Barcelona    1-1
-02.02.2013   Getafe  Deportivo      3-1
-02.02.2013   Granada  R. Madrid     1-0
-02.02.2013   Sevilla  Rayo          2-1
-02.02.2013   Espanyol  Levante      3-2
-02.02.2013   Valladolid  Athletic   2-2
+01.02.2013 21.30   Valladolid  Athletic   2-2
+
+02.02.2013 16.00   Osasuna  Celta         1-0
+02.02.2013 18.00   Getafe  Deportivo      3-1
+02.02.2013 20.00   Espanyol  Levante      3-2
+02.02.2013 22.00   Granada  R. Madrid     1-0
+
+03.02.2013 12.00   Málaga  Zaragoza       1-1
+03.02.2013 17.00   Sevilla  Rayo          2-1
+03.02.2013 19.00   Valencia  Barcelona    1-1
+03.02.2013 21.00   Atlético  Betis        1-0
+03.02.2013 21.00   R. Sociedad  Mallorca  3-0
 
 
 Jornada 23  //  Sáb. 9 y Dom. 10 Febrero
