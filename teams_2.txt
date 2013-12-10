@@ -1,0 +1,28 @@
+#####################################
+# Segunda División / Liga Adelante
+#
+# 22 teams
+
+
+alcorcon,     Alcorcón|AD Alcorcón|Agrupación Deportiva Alcorcón
+sabadell,     Sabadell|CE Sabadell FC|Centre d'Esports Sabadell Futbol Club
+lugo,         Lugo|CD Lugo|Club Deportivo Lugo
+mirandes,     Mirandés|CD Mirandés|Club Deportivo Mirandés
+numancia,     Numancia|CD Numancia|Club Deportivo Numancia de Soria
+tenerife,     Tenerife|CD Tenerife|Club Deportivo Tenerife
+cordoba,      Córdoba|Córdoba CF|Córdoba Club de Fútbol
+alaves,       Alavés|Deportivo Alavés
+barcelonab,   Barcelona B|FC Barcelona B|Fútbol Club Barcelona B
+girona,       Girona|Girona FC|Girona Futbol Club
+hercules,     Hércules|Hércules CF|Hércules de Alicante Club de Fútbol
+deportivo,    Deportivo|Deportivo La Coruña|RC Deportivo de La Coruña|Deportivo de La Coruña|Deportivo da Coruña|Real Club Deportivo La Coruña, DEP, city:acoruna
+mallorca,     Mallorca|RCD Mallorca|Real CD Mallorca|Real Club Deportivo Mallorca,  MLL, city:palma
+recreativo,   Recreativo|RC Recreativo de Huelva|Real Club Recreativo de Huelva
+jaen,         Jaén|Real Jaén CF|Real Jaén Club de Fútbol
+castilla,     Castilla|Real Madrid Castilla|Real Madrid Castilla Club de Fútbol
+murcia,       Murcia|Real Murcia CF|Real Murcia Club de Fútbol
+sporting,     Sporting|Real Sporting|Real Sporting de Gijón
+zaragoza,     Zaragoza|Real Zaragoza,  ZAR, city:zaragoza
+eibar,        Eibar|SD Eibar|Sociedad Deportiva Eibar
+ponferradina, Ponferradina|SD Ponferradina|Sociedad Deportiva Ponferradina
+laspalmas,    Las Palmas|UD Las Palmas|Unión Deportiva Las Palmas
