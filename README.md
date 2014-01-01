@@ -23,8 +23,8 @@ Example:
 ~~~
 ### La Liga - Primera División de España Teams
 
-barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR, city:barcelona
-madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD, city:madrid
+barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR
+madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD
 ...
 ~~~
 
@@ -33,8 +33,8 @@ madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD, city:ma
 
 Jornada 1   //   Sáb. 18 y Dom. 19 Agosto
 
-19.08. 19:00  Real Madrid    Valencia CF     1-1
-19.08. 21:00  FC Barcelona   Real Sociedad   5-1
+Sáb 18 Ago 19:00  Real Madrid   1-1  Valencia CF
+Sáb 18 Ago 21:00  FC Barcelona  5-1  Real Sociedad
 ...
 ~~~
 
