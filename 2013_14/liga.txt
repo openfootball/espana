@@ -2,277 +2,298 @@
 # La Liga -  Primera División de España 2013/14
 
 
-# -- Primera Vuelta
-
+# -- Primera Vuelta --
 
 Jornada 1
 
-17.08.2013 19:00 (Sáb.) Real Sociedad   2-0  Getafe CF
-17.08.2013 21:00 (Sáb.) Real Valladolid 1-2  Athletic Bilbao
-17.08.2013 23:00 (Sáb.) Valencia CF     1-0  Málaga CF
+17.08. (Sáb.) Real Sociedad   2-0  Getafe CF
+17.08. (Sáb.) Real Valladolid 1-2  Athletic Bilbao
+17.08. (Sáb.) Valencia CF     1-0  Málaga CF
 
-18.08.2013 19:00 (Dom.) FC Barcelona    7-0  Levante UD
-18.08.2013 21:00 (Dom.) Real Madrid     2-1  Betis Sevilla
-18.08.2013 21:00 (Dom.) CA Osasuna      1-2  Granada CF
-18.08.2013 23:00 (Dom.) Sevilla FC      1-3  Atlético Madrid
+18.08. (Dom.) FC Barcelona    7-0  Levante UD
+18.08. (Dom.) Real Madrid     2-1  Betis Sevilla
+18.08. (Dom.) CA Osasuna      1-2  Granada CF
+18.08. (Dom.) Sevilla FC      1-3  Atlético Madrid
 
-19.08.2013 20:00 (Lun.) Rayo Vallecano  3-0  Elche CF
-19.08.2013 22:00 (Lun.) Celta Vigo      2-2  RCD Espanyol
-19.08.2013 22:00 (Lun.) UD Almería      2-3  Villarreal CF
+19.08. (Lun.) Rayo Vallecano  3-0  Elche CF
+19.08. (Lun.) Celta Vigo      2-2  RCD Espanyol
+19.08. (Lun.) UD Almería      2-3  Villarreal CF
 
 
 Jornada 2
  
-23.08.2013 20:00 (Vié.) Getafe CF       2-2  UD Almería
-23.08.2013 22:00 (Vié.) Athletic Bilbao 2-0  CA Osasuna
+23.08. (Vié.) Getafe CF       2-2  UD Almería
+23.08. (Vié.) Athletic Bilbao 2-0  CA Osasuna
 
-24.08.2013 19:00 (Sáb.) Elche CF        1-1  Real Sociedad
-24.08.2013 21:00 (Sáb.) RCD Espanyol    3-1  Valencia CF
-24.08.2013 23:00 (Sáb.) Villarreal CF   2-1  Real Valladolid
+24.08. (Sáb.) Elche CF        1-1  Real Sociedad
+24.08. (Sáb.) RCD Espanyol    3-1  Valencia CF
+24.08. (Sáb.) Villarreal CF   2-1  Real Valladolid
 
-25.08.2013 19:00 (Dom.) Atlético Madrid 5-0  Rayo Vallecano
-25.08.2013 21:00 (Dom.) Levante UD      0-0  Sevilla FC
-25.08.2013 21:00 (Dom.) Málaga CF       0-1  FC Barcelona
-25.08.2013 23:00 (Dom.) Betis Sevilla   1-2  Celta Vigo
+25.08. (Dom.) Atlético Madrid 5-0  Rayo Vallecano
+25.08. (Dom.) Levante UD      0-0  Sevilla FC
+25.08. (Dom.) Málaga CF       0-1  FC Barcelona
+25.08. (Dom.) Betis Sevilla   1-2  Celta Vigo
 
-26.08.2013 21:00 (Lun.) Granada CF      0-1  Real Madrid
+26.08. (Lun.) Granada CF      0-1  Real Madrid
 
 
 Jornada 3
  
-30.08.2013 23:00 (Vié.) UD Almería      2-2  Elche CF
-30.08.2013 23:00 (Vié.) Rayo Vallecano  1-2  Levante UD
+30.08. (Vié.) UD Almería      2-2  Elche CF
+30.08. (Vié.) Rayo Vallecano  1-2  Levante UD
 
-31.08.2013 19:00 (Sáb.) Celta Vigo      1-1  Granada CF
-31.08.2013 21:00 (Sáb.) Real Valladolid 1-0  Getafe CF
-31.08.2013 23:00 (Sáb.) CA Osasuna      0-3  Villarreal CF
+31.08. (Sáb.) Celta Vigo      1-1  Granada CF
+31.08. (Sáb.) Real Valladolid 1-0  Getafe CF
+31.08. (Sáb.) CA Osasuna      0-3  Villarreal CF
 
-01.09.2013 12:00 (Dom.) Real Madrid     3-1  Athletic Bilbao
-01.09.2013 17:00 (Dom.) RCD Espanyol    0-0  Betis Sevilla
-01.09.2013 19:00 (Dom.) Real Sociedad   1-2  Atlético Madrid
-01.09.2013 21:00 (Dom.) Sevilla FC      2-2  Málaga CF
-01.09.2013 21:00 (Dom.) Valencia CF     2-3  FC Barcelona
+01.09. (Dom.) Real Madrid     3-1  Athletic Bilbao
+01.09. (Dom.) RCD Espanyol    0-0  Betis Sevilla
+01.09. (Dom.) Real Sociedad   1-2  Atlético Madrid
+01.09. (Dom.) Sevilla FC      2-2  Málaga CF
+01.09. (Dom.) Valencia CF     2-3  FC Barcelona
 
 
 Jornada 4
  
-15.09.2013 (Dom.) Betis Sevilla         3-1  Valencia CF
-15.09.2013 (Dom.) Granada CF            0-1  RCD Espanyol
-15.09.2013 (Dom.) Athletic Bilbao       3-2  Celta Vigo
-15.09.2013 (Dom.) Villarreal CF         2-2  Real Madrid
-15.09.2013 (Dom.) Getafe CF             2-1  CA Osasuna
-15.09.2013 (Dom.) Elche CF              0-0  Real Valladolid
-15.09.2013 (Dom.) Atlético Madrid       4-2  UD Almería
-15.09.2013 (Dom.) Levante UD            0-0  Real Sociedad
-15.09.2013 (Dom.) Málaga CF             5-0  Rayo Vallecano
-15.09.2013 (Dom.) FC Barcelona          3-2  Sevilla FC
+14.09. (Sáb.) Atlético Madrid       4-2  UD Almería
+14.09. (Sáb.) Levante UD            0-0  Real Sociedad
+14.09. (Sáb.) FC Barcelona          3-2  Sevilla FC
+14.09. (Sáb.) Villarreal CF         2-2  Real Madrid
+
+15.09. (Dom.) Betis Sevilla         3-1  Valencia CF
+15.09. (Dom.) Granada CF            0-1  RCD Espanyol
+15.09. (Dom.) Getafe CF             2-1  CA Osasuna
+15.09. (Dom.) Málaga CF             5-0  Rayo Vallecano
+
+16.09. (Lun.) Elche CF              0-0  Real Valladolid
+16.09. (Lun.) Athletic Bilbao       3-2  Celta Vigo
 
 
 Jornada 5
+
+20.09. (Vié.) CA Osasuna            2-1  Elche CF
  
-22.09.2013 (Dom.) Betis Sevilla         0-0  Granada CF
-22.09.2013 (Dom.) RCD Espanyol          3-2  Athletic Bilbao
-22.09.2013 (Dom.) Celta Vigo            0-0  Villarreal CF
-22.09.2013 (Dom.) Real Madrid           4-1  Getafe CF
-22.09.2013 (Dom.) CA Osasuna            2-1  Elche CF
-22.09.2013 (Dom.) Real Valladolid       0-2  Atlético Madrid
-22.09.2013 (Dom.) UD Almería            2-2  Levante UD
-22.09.2013 (Dom.) Real Sociedad         0-0  Málaga CF
-22.09.2013 (Dom.) Rayo Vallecano        0-4  FC Barcelona
-22.09.2013 (Dom.) Valencia CF           3-1  Sevilla FC
+21.09. (Sáb.) Real Sociedad         0-0  Málaga CF
+21.09. (Sáb.) UD Almería            2-2  Levante UD
+21.09. (Sáb.) Rayo Vallecano        0-4  FC Barcelona
+21.09. (Sáb.) Real Valladolid       0-2  Atlético Madrid
+
+22.09. (Dom.) Betis Sevilla         0-0  Granada CF
+22.09. (Dom.) Celta Vigo            0-0  Villarreal CF
+22.09. (Dom.) Real Madrid           4-1  Getafe CF
+22.09. (Dom.) Valencia CF           3-1  Sevilla FC
+
+23.09. (Lun.) RCD Espanyol          3-2  Athletic Bilbao
 
 
 Jornada 6
+
+24.09. (Mar.) Levante UD            1-1  Real Valladolid
+24.09. (Mar.) FC Barcelona          4-1  Real Sociedad
+24.09. (Mar.) Atlético Madrid       2-1  CA Osasuna
+24.09. (Mar.) Málaga CF             2-0  UD Almería
  
-25.09.2013 (Mié.) Granada CF            0-1  Valencia CF
-25.09.2013 (Mié.) Athletic Bilbao       2-1  Betis Sevilla
-25.09.2013 (Mié.) Villarreal CF         2-1  RCD Espanyol
-25.09.2013 (Mié.) Getafe CF             2-0  Celta Vigo
-25.09.2013 (Mié.) Elche CF              1-2  Real Madrid
-25.09.2013 (Mié.) Atlético Madrid       2-1  CA Osasuna
-25.09.2013 (Mié.) Levante UD            1-1  Real Valladolid
-25.09.2013 (Mié.) Málaga CF             2-0  UD Almería
-25.09.2013 (Mié.) FC Barcelona          4-1  Real Sociedad
-25.09.2013 (Mié.) Sevilla FC            4-1  Rayo Vallecano
+25.09. (Mié.) Granada CF            0-1  Valencia CF
+25.09. (Mié.) Elche CF              1-2  Real Madrid
+25.09. (Mié.) Sevilla FC            4-1  Rayo Vallecano
+
+26.09. (Jue.) Athletic Bilbao       2-1  Betis Sevilla
+26.09. (Jue.) Villarreal CF         2-1  RCD Espanyol
+26.09. (Jue.) Getafe CF             2-0  Celta Vigo
 
 
 Jornada 7
  
-29.09.2013 (Dom.) Granada CF            2-0  Athletic Bilbao
-29.09.2013 (Dom.) Betis Sevilla         1-0  Villarreal CF
-29.09.2013 (Dom.) RCD Espanyol          0-2  Getafe CF
-29.09.2013 (Dom.) Celta Vigo            0-1  Elche CF
-29.09.2013 (Dom.) Real Madrid           0-1  Atlético Madrid
-29.09.2013 (Dom.) CA Osasuna            0-1  Levante UD
-29.09.2013 (Dom.) Real Valladolid       2-2  Málaga CF
-29.09.2013 (Dom.) UD Almería            0-2  FC Barcelona
-29.09.2013 (Dom.) Real Sociedad         1-1  Sevilla FC
-29.09.2013 (Dom.) Valencia CF           1-0  Rayo Vallecano
+27.09. (Vié.) Real Valladolid       2-2  Málaga CF
+
+28.09. (Sáb.) Valencia CF           1-0  Rayo Vallecano
+28.09. (Sáb.) UD Almería            0-2  FC Barcelona
+28.09. (Sáb.) Real Sociedad         1-1  Sevilla FC
+28.09. (Sáb.) Real Madrid           0-1  Atlético Madrid
+
+29.09. (Dom.) CA Osasuna            0-1  Levante UD
+29.09. (Dom.) Betis Sevilla         1-0  Villarreal CF
+29.09. (Dom.) RCD Espanyol          0-2  Getafe CF
+29.09. (Dom.) Celta Vigo            0-1  Elche CF
+
+30.09. (Lun.) Granada CF            2-0  Athletic Bilbao
 
 
 Jornada 8
- 
-06.10.2013 (Dom.) Athletic Bilbao       1-1  Valencia CF
-06.10.2013 (Dom.) Villarreal CF         3-0  Granada CF
-06.10.2013 (Dom.) Getafe CF             3-1  Betis Sevilla
-06.10.2013 (Dom.) Elche CF              2-1  RCD Espanyol
-06.10.2013 (Dom.) Atlético Madrid       2-1  Celta Vigo
-06.10.2013 (Dom.) Levante UD            2-3  Real Madrid
-06.10.2013 (Dom.) Málaga CF             0-1  CA Osasuna
-06.10.2013 (Dom.) FC Barcelona          4-1  Real Valladolid
-06.10.2013 (Dom.) Sevilla FC            2-1  UD Almería
-06.10.2013 (Dom.) Rayo Vallecano        1-0  Real Sociedad
+
+04.10. (Vié.) Villarreal CF         3-0  Granada CF
+04.10. (Vié.) Málaga CF             0-1  CA Osasuna
+
+05.10. (Sáb.) Elche CF              2-1  RCD Espanyol
+05.10. (Sáb.) Rayo Vallecano        1-0  Real Sociedad
+05.10. (Sáb.) Levante UD            2-3  Real Madrid
+05.10. (Sáb.) FC Barcelona          4-1  Real Valladolid
+
+06.10. (Dom.) Athletic Bilbao       1-1  Valencia CF
+06.10. (Dom.) Getafe CF             3-1  Betis Sevilla
+06.10. (Dom.) Atlético Madrid       2-1  Celta Vigo
+06.10. (Dom.) Sevilla FC            2-1  UD Almería
 
 
 Jornada 9
  
-20.10.2013 (Dom.) Athletic Bilbao       2-0  Villarreal CF
-20.10.2013 (Dom.) Granada CF            0-2  Getafe CF
-20.10.2013 (Dom.) Betis Sevilla         1-2  Elche CF
-20.10.2013 (Dom.) RCD Espanyol          1-0  Atlético Madrid
-20.10.2013 (Dom.) Celta Vigo            0-1  Levante UD
-20.10.2013 (Dom.) Real Madrid           2-0  Málaga CF
-20.10.2013 (Dom.) CA Osasuna            0-0  FC Barcelona
-20.10.2013 (Dom.) Real Valladolid       2-2  Sevilla FC
-20.10.2013 (Dom.) UD Almería            0-1  Rayo Vallecano
-20.10.2013 (Dom.) Valencia CF           1-2  Real Sociedad
+19.10. (Sáb.) Real Madrid           2-0  Málaga CF
+19.10. (Sáb.) Valencia CF           1-2  Real Sociedad
+19.10. (Sáb.) CA Osasuna            0-0  FC Barcelona
+19.10. (Sáb.) RCD Espanyol          1-0  Atlético Madrid
+
+20.10. (Dom.) Granada CF            0-2  Getafe CF
+20.10. (Dom.) Betis Sevilla         1-2  Elche CF
+20.10. (Dom.) Real Valladolid       2-2  Sevilla FC
+20.10. (Dom.) UD Almería            0-1  Rayo Vallecano
+
+21.10. (Lun.) Celta Vigo            0-1  Levante UD
+21.10. (Lun.) Athletic Bilbao       2-0  Villarreal CF
 
 
 Jornada 10
  
-27.10.2013 (Dom.) Villarreal CF         4-1  Valencia CF
-27.10.2013 (Dom.) Getafe CF             0-1  Athletic Bilbao
-27.10.2013 (Dom.) Elche CF              0-1  Granada CF
-27.10.2013 (Dom.) Atlético Madrid       5-0  Betis Sevilla
-27.10.2013 (Dom.) Levante UD            3-0  RCD Espanyol
-27.10.2013 (Dom.) Málaga CF             0-5  Celta Vigo
-27.10.2013 (Dom.) FC Barcelona          2-1  Real Madrid
-27.10.2013 (Dom.) Sevilla FC            2-1  CA Osasuna
-27.10.2013 (Dom.) Rayo Vallecano        0-3  Real Valladolid
-27.10.2013 (Dom.) Real Sociedad         3-0  UD Almería
+25.10. (Vié.) Rayo Vallecano        0-3  Real Valladolid
 
+26.10. (Sáb.) Málaga CF             0-5  Celta Vigo
+26.10. (Sáb.) FC Barcelona          2-1  Real Madrid
+26.10. (Sáb.) Elche CF              0-1  Granada CF
+26.10. (Sáb.) Levante UD            3-0  RCD Espanyol
+
+27.10. (Dom.) Villarreal CF         4-1  Valencia CF
+27.10. (Dom.) Atlético Madrid       5-0  Betis Sevilla
+27.10. (Dom.) Sevilla FC            2-1  CA Osasuna
+27.10. (Dom.) Real Sociedad         3-0  UD Almería
+
+28.10. (Lun.) Getafe CF             0-1  Athletic Bilbao
+
+
+##########################
+## cont. cleanup here!!!
 
 Jornada 11
  
-30.10.2013 (Mié.) Villarreal CF         0-2  Getafe CF
-30.10.2013 (Mié.) Athletic Bilbao       2-2  Elche CF
-30.10.2013 (Mié.) Granada CF            1-2  Atlético Madrid
-30.10.2013 (Mié.) Betis Sevilla         0-0  Levante UD
-30.10.2013 (Mié.) RCD Espanyol          0-0  Málaga CF
-30.10.2013 (Mié.) Celta Vigo            0-3  FC Barcelona
-30.10.2013 (Mié.) Real Madrid           7-3  Sevilla FC
-30.10.2013 (Mié.) CA Osasuna            3-1  Rayo Vallecano
-30.10.2013 (Mié.) Real Valladolid       2-2  Real Sociedad
-30.10.2013 (Mié.) Valencia CF           1-2  UD Almería
+30.10. (Mié.) Villarreal CF         0-2  Getafe CF
+30.10. (Mié.) Athletic Bilbao       2-2  Elche CF
+30.10. (Mié.) Granada CF            1-2  Atlético Madrid
+30.10. (Mié.) Betis Sevilla         0-0  Levante UD
+30.10. (Mié.) RCD Espanyol          0-0  Málaga CF
+30.10. (Mié.) Celta Vigo            0-3  FC Barcelona
+30.10. (Mié.) Real Madrid           7-3  Sevilla FC
+30.10. (Mié.) CA Osasuna            3-1  Rayo Vallecano
+30.10. (Mié.) Real Valladolid       2-2  Real Sociedad
+30.10. (Mié.) Valencia CF           1-2  UD Almería
 
 
 Jornada 12
 
-03.11.2013 (Dom.) Getafe CF             0-1  Valencia CF
-03.11.2013 (Dom.) Elche CF              0-1  Villarreal CF
-03.11.2013 (Dom.) Atlético Madrid       2-0  Athletic Bilbao
-03.11.2013 (Dom.) Levante UD            0-1  Granada CF
-03.11.2013 (Dom.) Málaga CF             3-2  Betis Sevilla
-03.11.2013 (Dom.) FC Barcelona          1-0  RCD Espanyol
-03.11.2013 (Dom.) Sevilla FC            0-1  Celta Vigo
-03.11.2013 (Dom.) Rayo Vallecano        2-3  Real Madrid
-03.11.2013 (Dom.) Real Sociedad         5-0  CA Osasuna
-03.11.2013 (Dom.) UD Almería            1-0  Real Valladolid
+03.11. (Dom.) Getafe CF             0-1  Valencia CF
+03.11. (Dom.) Elche CF              0-1  Villarreal CF
+03.11. (Dom.) Atlético Madrid       2-0  Athletic Bilbao
+03.11. (Dom.) Levante UD            0-1  Granada CF
+03.11. (Dom.) Málaga CF             3-2  Betis Sevilla
+03.11. (Dom.) FC Barcelona          1-0  RCD Espanyol
+03.11. (Dom.) Sevilla FC            0-1  Celta Vigo
+03.11. (Dom.) Rayo Vallecano        2-3  Real Madrid
+03.11. (Dom.) Real Sociedad         5-0  CA Osasuna
+03.11. (Dom.) UD Almería            1-0  Real Valladolid
 
 
 Jornada 13
  
-10.11.2013 (Dom.) Getafe CF             1-1  Elche CF
-10.11.2013 (Dom.) Villarreal CF         1-1  Atlético Madrid
-10.11.2013 (Dom.) Athletic Bilbao       2-1  Levante UD
-10.11.2013 (Dom.) Granada CF            3-1  Málaga CF
-10.11.2013 (Dom.) Betis Sevilla         1-4  FC Barcelona
-10.11.2013 (Dom.) RCD Espanyol          1-3  Sevilla FC
-10.11.2013 (Dom.) Celta Vigo            0-2  Rayo Vallecano
-10.11.2013 (Dom.) Real Madrid           5-1  Real Sociedad
-10.11.2013 (Dom.) CA Osasuna            0-1  UD Almería
-10.11.2013 (Dom.) Valencia CF           2-2  Real Valladolid
+10.11. (Dom.) Getafe CF             1-1  Elche CF
+10.11. (Dom.) Villarreal CF         1-1  Atlético Madrid
+10.11. (Dom.) Athletic Bilbao       2-1  Levante UD
+10.11. (Dom.) Granada CF            3-1  Málaga CF
+10.11. (Dom.) Betis Sevilla         1-4  FC Barcelona
+10.11. (Dom.) RCD Espanyol          1-3  Sevilla FC
+10.11. (Dom.) Celta Vigo            0-2  Rayo Vallecano
+10.11. (Dom.) Real Madrid           5-1  Real Sociedad
+10.11. (Dom.) CA Osasuna            0-1  UD Almería
+10.11. (Dom.) Valencia CF           2-2  Real Valladolid
 
 
 Jornada 14
  
-24.11.2013 (Dom.) Elche CF              2-1  Valencia CF
-24.11.2013 (Dom.) Atlético Madrid       7-0  Getafe CF
-24.11.2013 (Dom.) Levante UD            0-3  Villarreal CF
-24.11.2013 (Dom.) Málaga CF             1-2  Athletic Bilbao
-24.11.2013 (Dom.) FC Barcelona          4-0  Granada CF
-24.11.2013 (Dom.) Sevilla FC            4-0  Betis Sevilla
-24.11.2013 (Dom.) Rayo Vallecano        1-4  RCD Espanyol
-24.11.2013 (Dom.) Real Sociedad         4-3  Celta Vigo
-24.11.2013 (Dom.) UD Almería            0-5  Real Madrid
-24.11.2013 (Dom.) Real Valladolid       0-1  CA Osasuna
+24.11. (Dom.) Elche CF              2-1  Valencia CF
+24.11. (Dom.) Atlético Madrid       7-0  Getafe CF
+24.11. (Dom.) Levante UD            0-3  Villarreal CF
+24.11. (Dom.) Málaga CF             1-2  Athletic Bilbao
+24.11. (Dom.) FC Barcelona          4-0  Granada CF
+24.11. (Dom.) Sevilla FC            4-0  Betis Sevilla
+24.11. (Dom.) Rayo Vallecano        1-4  RCD Espanyol
+24.11. (Dom.) Real Sociedad         4-3  Celta Vigo
+24.11. (Dom.) UD Almería            0-5  Real Madrid
+24.11. (Dom.) Real Valladolid       0-1  CA Osasuna
 
 
 Jornada 15
  
-01.12.2013 (Dom.) Elche CF              0-2  Atlético Madrid
-01.12.2013 (Dom.) Getafe CF             1-0  Levante UD
-01.12.2013 (Dom.) Villarreal CF         1-1  Málaga CF
-01.12.2013 (Dom.) Athletic Bilbao       1-0  FC Barcelona
-01.12.2013 (Dom.) Granada CF            1-2  Sevilla FC
-01.12.2013 (Dom.) Betis Sevilla         2-2  Rayo Vallecano
-01.12.2013 (Dom.) RCD Espanyol          1-2  Real Sociedad
-01.12.2013 (Dom.) Celta Vigo            3-1  UD Almería
-01.12.2013 (Dom.) Real Madrid           4-0  Real Valladolid
-01.12.2013 (Dom.) Valencia CF           3-0  CA Osasuna
+01.12. (Dom.) Elche CF              0-2  Atlético Madrid
+01.12. (Dom.) Getafe CF             1-0  Levante UD
+01.12. (Dom.) Villarreal CF         1-1  Málaga CF
+01.12. (Dom.) Athletic Bilbao       1-0  FC Barcelona
+01.12. (Dom.) Granada CF            1-2  Sevilla FC
+01.12. (Dom.) Betis Sevilla         2-2  Rayo Vallecano
+01.12. (Dom.) RCD Espanyol          1-2  Real Sociedad
+01.12. (Dom.) Celta Vigo            3-1  UD Almería
+01.12. (Dom.) Real Madrid           4-0  Real Valladolid
+01.12. (Dom.) Valencia CF           3-0  CA Osasuna
 
 
 Jornada 16
  
-15.12.2013 (Dom.) Atlético Madrid       3-0  Valencia CF
-15.12.2013 (Dom.) Levante UD            2-1  Elche CF
-15.12.2013 (Dom.) Málaga CF             1-0  Getafe CF
-15.12.2013 (Dom.) FC Barcelona          2-1  Villarreal CF
-15.12.2013 (Dom.) Sevilla FC            1-1  Athletic Bilbao
-15.12.2013 (Dom.) Rayo Vallecano        0-2  Granada CF
-15.12.2013 (Dom.) Real Sociedad         5-1  Betis Sevilla
-15.12.2013 (Dom.) UD Almería            0-0  RCD Espanyol
-15.12.2013 (Dom.) Real Valladolid       2-0  Celta Vigo
-15.12.2013 (Dom.) CA Osasuna            2-2  Real Madrid
+15.12. (Dom.) Atlético Madrid       3-0  Valencia CF
+15.12. (Dom.) Levante UD            2-1  Elche CF
+15.12. (Dom.) Málaga CF             1-0  Getafe CF
+15.12. (Dom.) FC Barcelona          2-1  Villarreal CF
+15.12. (Dom.) Sevilla FC            1-1  Athletic Bilbao
+15.12. (Dom.) Rayo Vallecano        0-2  Granada CF
+15.12. (Dom.) Real Sociedad         5-1  Betis Sevilla
+15.12. (Dom.) UD Almería            0-0  RCD Espanyol
+15.12. (Dom.) Real Valladolid       2-0  Celta Vigo
+15.12. (Dom.) CA Osasuna            2-2  Real Madrid
 
 
 Jornada 17
  
-22.12.2013 (Dom.) Atlético Madrid       3-2  Levante UD
-22.12.2013 (Dom.) Elche CF              0-1  Málaga CF
-22.12.2013 (Dom.) Getafe CF             2-5  FC Barcelona
-22.12.2013 (Dom.) Villarreal CF         1-2  Sevilla FC
-22.12.2013 (Dom.) Athletic Bilbao       2-1  Rayo Vallecano
-22.12.2013 (Dom.) Granada CF            1-3  Real Sociedad
-22.12.2013 (Dom.) Betis Sevilla         0-1  UD Almería
-22.12.2013 (Dom.) RCD Espanyol          4-2  Real Valladolid
-22.12.2013 (Dom.) Celta Vigo            1-1  CA Osasuna
-22.12.2013 (Dom.) Valencia CF           2-3  Real Madrid
+22.12. (Dom.) Atlético Madrid       3-2  Levante UD
+22.12. (Dom.) Elche CF              0-1  Málaga CF
+22.12. (Dom.) Getafe CF             2-5  FC Barcelona
+22.12. (Dom.) Villarreal CF         1-2  Sevilla FC
+22.12. (Dom.) Athletic Bilbao       2-1  Rayo Vallecano
+22.12. (Dom.) Granada CF            1-3  Real Sociedad
+22.12. (Dom.) Betis Sevilla         0-1  UD Almería
+22.12. (Dom.) RCD Espanyol          4-2  Real Valladolid
+22.12. (Dom.) Celta Vigo            1-1  CA Osasuna
+22.12. (Dom.) Valencia CF           2-3  Real Madrid
 
+
+# -- 2014 --
 
 Jornada 18
  
-05.01.2014 (Dom.) Valencia CF           2-0  Levante UD
-05.01.2014 (Dom.) Málaga CF             0-1  Atlético Madrid
-05.01.2014 (Dom.) FC Barcelona          4-0  Elche CF
-05.01.2014 (Dom.) Sevilla FC            3-0  Getafe CF
-05.01.2014 (Dom.) Rayo Vallecano        2-5  Villarreal CF
-05.01.2014 (Dom.) Real Sociedad         2-0  Athletic Bilbao
-05.01.2014 (Dom.) UD Almería            3-0  Granada CF
-05.01.2014 (Dom.) Real Valladolid       0-0  Betis Sevilla
-05.01.2014 (Dom.) CA Osasuna            1-0  RCD Espanyol
-05.01.2014 (Dom.) Real Madrid           3-0  Celta Vigo
+05.01. (Dom.) Valencia CF           2-0  Levante UD
+05.01. (Dom.) Málaga CF             0-1  Atlético Madrid
+05.01. (Dom.) FC Barcelona          4-0  Elche CF
+05.01. (Dom.) Sevilla FC            3-0  Getafe CF
+05.01. (Dom.) Rayo Vallecano        2-5  Villarreal CF
+05.01. (Dom.) Real Sociedad         2-0  Athletic Bilbao
+05.01. (Dom.) UD Almería            3-0  Granada CF
+05.01. (Dom.) Real Valladolid       0-0  Betis Sevilla
+05.01. (Dom.) CA Osasuna            1-0  RCD Espanyol
+05.01. (Dom.) Real Madrid           3-0  Celta Vigo
 
 
 Jornada 19
 
-12.01.2014 (Dom.) Levante UD            1-0  Málaga CF
-12.01.2014 (Dom.) Atlético Madrid       0-0  FC Barcelona
-12.01.2014 (Dom.) Elche CF              1-1  Sevilla FC
-12.01.2014 (Dom.) Getafe CF             0-1  Rayo Vallecano
-12.01.2014 (Dom.) Villarreal CF         5-1  Real Sociedad
-12.01.2014 (Dom.) Athletic Bilbao       6-1  UD Almería
-12.01.2014 (Dom.) Granada CF            4-0  Real Valladolid
-12.01.2014 (Dom.) Betis Sevilla         1-2  CA Osasuna
-12.01.2014 (Dom.) RCD Espanyol          0-1  Real Madrid
-12.01.2014 (Dom.) Celta Vigo            2-1  Valencia CF
+12.01. (Dom.) Levante UD            1-0  Málaga CF
+12.01. (Dom.) Atlético Madrid       0-0  FC Barcelona
+12.01. (Dom.) Elche CF              1-1  Sevilla FC
+12.01. (Dom.) Getafe CF             0-1  Rayo Vallecano
+12.01. (Dom.) Villarreal CF         5-1  Real Sociedad
+12.01. (Dom.) Athletic Bilbao       6-1  UD Almería
+12.01. (Dom.) Granada CF            4-0  Real Valladolid
+12.01. (Dom.) Betis Sevilla         1-2  CA Osasuna
+12.01. (Dom.) RCD Espanyol          0-1  Real Madrid
+12.01. (Dom.) Celta Vigo            2-1  Valencia CF
