@@ -207,24 +207,24 @@ Jornada 31
 
 Jornada 32
 
-04.04. (Vié.)  UD Almería                   1-2 CA Osasuna
+04.04. (Vié.)  UD Almería                   1-2  CA Osasuna
 
-05.04. (Sáb.)  Atlético Madrid              1-0 Villarreal CF  
-05.04. (Sáb.)  FC Barcelona                 3-1 Betis Sevilla  
-05.04. (Sáb.)  Real Sociedad San Sebastian  0-4 Real Madrid  
-05.04. (Sáb.)  Rayo Vallecano               3-0 Celta Vigo  
+05.04. (Sáb.)  Atlético Madrid              1-0  Villarreal CF  
+05.04. (Sáb.)  FC Barcelona                 3-1  Betis Sevilla  
+05.04. (Sáb.)  Real Sociedad San Sebastian  0-4  Real Madrid  
+05.04. (Sáb.)  Rayo Vallecano               3-0  Celta Vigo  
 
-06.04. (Dom.)  Málaga CF                    4-1 Granada CF  
-06.04. (Dom.)  Elche CF                     1-0 Getafe CF  
-06.04. (Dom.)  Sevilla FC                   4-1 Espanyol  
-06.04. (Dom.)  Real Valladolid              0-0 Valencia CF  
+06.04. (Dom.)  Málaga CF                    4-1  Granada CF  
+06.04. (Dom.)  Elche CF                     1-0  Getafe CF  
+06.04. (Dom.)  Sevilla FC                   4-1  Espanyol  
+06.04. (Dom.)  Real Valladolid              0-0  Valencia CF  
 
-07.04. (Lun.)  Levante UD                   1-2 Athletic Bilbao  
+07.04. (Lun.)  Levante UD                   1-2  Athletic Bilbao  
 
 
 Jornada 33
 
-11.04. (Vié.)  CA Osasuna                   0-0 Real Valladolid
+11.04. (Vié.)  CA Osasuna                   0-0  Real Valladolid
 
 12.04. (Sáb.)  Celta Vigo                   2-2  Real Sociedad San Sebastian  
 12.04. (Sáb.)  Villarreal CF                1-0  Levante UD  
@@ -236,7 +236,7 @@ Jornada 33
 13.04. (Dom.)  Getafe CF                    0-2  Atlético Madrid  
 13.04. (Dom.)  Espanyol                     2-2  Rayo Vallecano  
 
-14.04. (Lun.)  Athletic Bilbao   Málaga CF  
+14.04. (Lun.)  Athletic Bilbao              3-0  Málaga CF  
 
 
 Jornada 34
