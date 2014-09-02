@@ -5,10 +5,10 @@
 es-espana!/leagues
 
 
-# -- Teams
-es-espana!/teams
-es-espana!/teams_2
-es-espana!/teams_x
+# -- Clubs
+es-espana!/clubs
+es-espana!/clubs_2
+es-espana!/clubs_x
 
 
 # -- Fixtures

@@ -1,4 +1,0 @@
-#########
-# Teams
-
-es-espana!/teams
