@@ -1,5 +1,5 @@
 #################################################
-# Primera División de España - La Liga 2013/14
+# Primera División de España - La Liga 2014/15
 #
 #  20 teams
 
@@ -9,6 +9,7 @@
 # todo: improve team name matcher
 #   sort by length first to enable greediest match of team name, for example, 
 #    Espanyol Barcelona instead of Barcelona 
+
 
 [barcelona]
   Barcelona|FC Barcelona|F.C. Barcelona|Fútbol Club Barcelona, BAR
@@ -36,10 +37,6 @@
   city:madrid
 
 
-[betis]
-  Betis|Betis Sevilla|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET
-  city:sevilla
-
 [sevilla]
   Sevilla|Sevilla FC|Sevilla F.C.|Sevilla Fútbol Club, SEV
   city:sevilla
@@ -66,9 +63,6 @@
   Granada|Granada CF|Granada C.F.|Granada Club de Fútbol, GRA
   city:granada
 
-[osasuna]
-  Osasuna|CA Osasuna|At. Osasuna|Club Atlético Osasuna, OSA
-  city:pamplona
 
 [celta]
   Celta|Celta Vigo|R.C. Celta|Real Club Celta Vigo|Real Club Celta de Vigo, CEL
@@ -90,7 +84,13 @@
   Elche CF|Elche C.F., ELC
   city:elche
 
-[villareal]
-  Villarreal CF|Villarreal C.F., VLL
-  city:villarreal
+[eibar]
+  Eibar|SD Eibar|Sociedad Deportiva Eibar
+
+[deportivo]
+  Deportivo|Deportivo La Coruña|RC Deportivo de La Coruña|Deportivo de La Coruña|Deportivo da Coruña|Real Club Deportivo La Coruña, DEP
+  city:acoruna
+
+[cordoba]
+  Córdoba|Córdoba CF|Córdoba Club de Fútbol
 

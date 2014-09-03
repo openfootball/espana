@@ -1,0 +1,42 @@
+#################################################
+# La Liga -  Primera División de España 2014/15
+
+league: es
+season: 2014/15
+start_at: 2014-08-23
+
+
+fixtures:
+- liga-i
+- liga-ii
+
+############
+# 20 Teams
+
+teams:
+- barcelona
+- espanyol
+- madrid
+- atletico
+- getafe
+- rayo
+- sevilla
+- valencia
+- levante
+- malaga
+- athletic
+- granada
+- celta
+- realsociedad
+- almeria
+- elche
+- villareal
+- eibar
+- deportivo
+- cordoba
+
+###
+##
+# -- 18.º C. A. Osasuna; 19.º Real Valladolid C. F.; 20.º Real Betis Balompié
+#
+# ++ 1.º S. D. Eibar: 2.º R. C. Deportivo de La Coruña; 7.º Córdoba C. F. (Promoción)
