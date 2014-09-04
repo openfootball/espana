@@ -3,3 +3,287 @@
 
 # -- Segunda Vuelta --
 
+Jornada 20
+
+[Dom. 25.1.]
+  Valencia CF  Sevilla FC
+  Villarreal CF  Levante UD
+  Atlético Madrid  Rayo Vallecano
+  Getafe CF  Celta Vigo
+  Elche CF  FC Barcelona
+  RCD Espanyol  UD Almería
+  Real Sociedad San Sebastian  SD Eibar
+  Athletic Bilbao  Málaga CF
+  Deportivo La Coruña  Granada CF
+  Córdoba CF  Real Madrid
+
+
+Jornada 21
+
+[Dom. 1.2.]
+  Málaga CF  Valencia CF
+  Sevilla FC  RCD Espanyol
+  UD Almería  Getafe CF
+  Celta Vigo  Córdoba CF
+  Real Madrid  Real Sociedad San Sebastian
+  SD Eibar  Atlético Madrid
+  Rayo Vallecano  Deportivo La Coruña
+  Granada CF  Elche CF
+  FC Barcelona  Villarreal CF
+  Levante UD  Athletic Bilbao
+
+
+Jornada 22
+
+[Dom. 8.2.]
+  RCD Espanyol  Valencia CF
+  Getafe CF  Sevilla FC
+  Córdoba CF  UD Almería
+  Real Sociedad San Sebastian  Celta Vigo
+  Atlético Madrid  Real Madrid
+  Deportivo La Coruña  SD Eibar
+  Elche CF  Rayo Vallecano
+  Villarreal CF  Granada CF
+  Athletic Bilbao  FC Barcelona
+  Levante UD  Málaga CF
+
+
+Jornada 23
+
+[Dom. 15.2.]
+  Málaga CF  RCD Espanyol
+  Valencia CF  Getafe CF
+  Sevilla FC  Córdoba CF
+  UD Almería  Real Sociedad San Sebastian
+  Celta Vigo  Atlético Madrid
+  Real Madrid  Deportivo La Coruña
+  SD Eibar  Elche CF
+  Rayo Vallecano  Villarreal CF
+  Granada CF  Athletic Bilbao
+  FC Barcelona  Levante UD
+
+
+Jornada 24
+
+[Dom. 22.2.]
+  Getafe CF  RCD Espanyol
+  Córdoba CF  Valencia CF
+  Real Sociedad San Sebastian  Sevilla FC
+  Atlético Madrid  UD Almería
+  Deportivo La Coruña  Celta Vigo
+  Elche CF  Real Madrid
+  Villarreal CF  SD Eibar
+  Athletic Bilbao  Rayo Vallecano
+  Levante UD  Granada CF
+  FC Barcelona  Málaga CF
+
+
+Jornada 25
+
+[Dom. 1.3.]
+  Málaga CF  Getafe CF
+  RCD Espanyol  Córdoba CF
+  Valencia CF  Real Sociedad San Sebastian
+  Sevilla FC  Atlético Madrid
+  UD Almería  Deportivo La Coruña
+  Celta Vigo  Elche CF
+  Real Madrid  Villarreal CF
+  SD Eibar  Athletic Bilbao
+  Rayo Vallecano  Levante UD
+  Granada CF  FC Barcelona
+
+
+Jornada 26
+
+[Dom. 8.3.]
+  Córdoba CF  Getafe CF
+  Real Sociedad San Sebastian  RCD Espanyol
+  Atlético Madrid  Valencia CF
+  Deportivo La Coruña  Sevilla FC
+  Elche CF  UD Almería
+  Villarreal CF  Celta Vigo
+  Athletic Bilbao  Real Madrid
+  Levante UD  SD Eibar
+  FC Barcelona  Rayo Vallecano
+  Granada CF  Málaga CF
+
+
+Jornada 27
+
+[Dom. 15.3.]
+  Málaga CF  Córdoba CF
+  Getafe CF  Real Sociedad San Sebastian
+  RCD Espanyol  Atlético Madrid
+  Valencia CF  Deportivo La Coruña
+  Sevilla FC  Elche CF
+  UD Almería  Villarreal CF
+  Celta Vigo  Athletic Bilbao
+  Real Madrid  Levante UD
+  SD Eibar  FC Barcelona
+  Rayo Vallecano  Granada CF
+
+
+Jornada 28
+
+[Dom. 22.3.]
+  Real Sociedad San Sebastian  Córdoba CF
+  Atlético Madrid  Getafe CF
+  Deportivo La Coruña  RCD Espanyol
+  Elche CF  Valencia CF
+  Villarreal CF  Sevilla FC
+  Athletic Bilbao  UD Almería
+  Levante UD  Celta Vigo
+  FC Barcelona  Real Madrid
+  Granada CF  SD Eibar
+  Rayo Vallecano  Málaga CF
+
+
+Jornada 29
+
+[Dom. 5.4.]
+  Málaga CF  Real Sociedad San Sebastian
+  Córdoba CF  Atlético Madrid
+  Getafe CF  Deportivo La Coruña
+  RCD Espanyol  Elche CF
+  Valencia CF  Villarreal CF
+  Sevilla FC  Athletic Bilbao
+  UD Almería  Levante UD
+  Celta Vigo  FC Barcelona
+  Real Madrid  Granada CF
+  SD Eibar  Rayo Vallecano
+
+
+Jornada 30
+
+[Mié. 8.4.]
+  Atlético Madrid  Real Sociedad San Sebastian
+  Deportivo La Coruña  Córdoba CF
+  Elche CF  Getafe CF
+  Villarreal CF  RCD Espanyol
+  Athletic Bilbao  Valencia CF
+  Levante UD  Sevilla FC
+  FC Barcelona  UD Almería
+  Granada CF  Celta Vigo
+  Rayo Vallecano  Real Madrid
+  SD Eibar  Málaga CF
+
+
+Jornada 31
+
+[Dom. 12.4.]
+  Málaga CF  Atlético Madrid
+  Real Sociedad San Sebastian  Deportivo La Coruña
+  Córdoba CF  Elche CF
+  Getafe CF  Villarreal CF
+  RCD Espanyol  Athletic Bilbao
+  Valencia CF  Levante UD
+  Sevilla FC  FC Barcelona
+  UD Almería  Granada CF
+  Celta Vigo  Rayo Vallecano
+  Real Madrid  SD Eibar
+
+
+Jornada 32
+
+[Dom. 19.4.]
+  Deportivo La Coruña  Atlético Madrid
+  Elche CF  Real Sociedad San Sebastian
+  Villarreal CF  Córdoba CF
+  Athletic Bilbao  Getafe CF
+  Levante UD  RCD Espanyol
+  FC Barcelona  Valencia CF
+  Granada CF  Sevilla FC
+  Rayo Vallecano  UD Almería
+  SD Eibar  Celta Vigo
+  Real Madrid  Málaga CF
+
+
+Jornada 33
+
+[Dom. 26.4.]
+  Málaga CF  Deportivo La Coruña
+  Atlético Madrid  Elche CF
+  Real Sociedad San Sebastian  Villarreal CF
+  Córdoba CF  Athletic Bilbao
+  Getafe CF  Levante UD
+  RCD Espanyol  FC Barcelona
+  Valencia CF  Granada CF
+  Sevilla FC  Rayo Vallecano
+  UD Almería  SD Eibar
+  Celta Vigo  Real Madrid
+
+
+Jornada 34
+
+[Mié. 29.4.]
+  Elche CF  Deportivo La Coruña
+  Villarreal CF  Atlético Madrid
+  Athletic Bilbao  Real Sociedad San Sebastian
+  Levante UD  Córdoba CF
+  FC Barcelona  Getafe CF
+  Granada CF  RCD Espanyol
+  Rayo Vallecano  Valencia CF
+  SD Eibar  Sevilla FC
+  Real Madrid  UD Almería
+  Celta Vigo  Málaga CF
+
+
+Jornada 35
+
+[Dom. 3.5.]
+  Málaga CF  Elche CF
+  Deportivo La Coruña  Villarreal CF
+  Atlético Madrid  Athletic Bilbao
+  Real Sociedad San Sebastian  Levante UD
+  Córdoba CF  FC Barcelona
+  Getafe CF  Granada CF
+  RCD Espanyol  Rayo Vallecano
+  Valencia CF  SD Eibar
+  Sevilla FC  Real Madrid
+  UD Almería  Celta Vigo
+
+
+Jornada 36
+
+[Dom. 10.5.]
+  Villarreal CF  Elche CF
+  Athletic Bilbao  Deportivo La Coruña
+  Levante UD  Atlético Madrid
+  FC Barcelona  Real Sociedad San Sebastian
+  Granada CF  Córdoba CF
+  Rayo Vallecano  Getafe CF
+  SD Eibar  RCD Espanyol
+  Real Madrid  Valencia CF
+  Celta Vigo  Sevilla FC
+  UD Almería  Málaga CF
+
+
+Jornada 37
+
+[Dom. 17.5.]
+  Villarreal CF  Málaga CF
+  Elche CF  Athletic Bilbao
+  Deportivo La Coruña  Levante UD
+  Atlético Madrid  FC Barcelona
+  Real Sociedad San Sebastian  Granada CF
+  Córdoba CF  Rayo Vallecano
+  Getafe CF  SD Eibar
+  RCD Espanyol  Real Madrid
+  Valencia CF  Celta Vigo
+  Sevilla FC  UD Almería
+
+
+Jornada 38
+
+[Dom. 24.5.]
+  Athletic Bilbao  Villarreal CF
+  Levante UD  Elche CF
+  FC Barcelona  Deportivo La Coruña
+  Granada CF  Atlético Madrid
+  Rayo Vallecano  Real Sociedad San Sebastian
+  SD Eibar  Córdoba CF
+  Real Madrid  Getafe CF
+  Celta Vigo  RCD Espanyol
+  UD Almería  Valencia CF
+  Málaga CF  Sevilla FC
+

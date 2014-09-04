@@ -3,3 +3,303 @@
 
 # -- Primera Vuelta --
 
+
+Jornada 1
+
+[Sáb. 23.8.]
+  Málaga CF   1-0  Athletic Bilbao
+  Sevilla FC  1-1  Valencia CF
+  Granada CF  2-1  Deportivo La Coruña
+  UD Almería  1-1  RCD Espanyol
+[Dom. 24.8.]
+  SD Eibar      1-0  Real Sociedad San Sebastian
+  Celta Vigo    3-1  Getafe CF
+  FC Barcelona  3-0  Elche CF
+  Levante UD    0-2  Villarreal CF
+[Lun. 25.8.]
+  Real Madrid     2-0  Córdoba CF
+  Rayo Vallecano  0-0  Atlético Madrid
+
+
+Jornada 2
+
+[Vié. 29.8.]
+  Getafe CF    1-0  UD Almería
+  Valencia CF  3-0  Málaga CF
+[Sáb. 30.8.]
+  Córdoba CF       1-1  Celta Vigo
+  Athletic Bilbao  3-0  Levante UD
+  Atlético Madrid  2-1  SD Eibar
+  RCD Espanyol  1-2  Sevilla FC
+[Dom. 31.8.]
+  Villarreal CF  0-1  FC Barcelona
+  Real Sociedad San Sebastian  4-2  Real Madrid
+  Deportivo La Coruña  2-2  Rayo Vallecano
+  Elche CF  1-1  Granada CF
+
+
+Jornada 3
+
+[Vié. 12.9.]
+  UD Almería - Córdoba CF
+[Sáb. 13.9. ]
+  FC Barcelona - Athletic Bilbao
+  Málaga CF - Levante UD
+  Real Madrid - Atlético Madrid
+  Celta Vigo - Real Sociedad San Sebastian
+[Dom. 14.9.]
+  Rayo Vallecano - Elche CF
+  Valencia CF - RCD Espanyol
+  Sevilla FC - Getafe CF
+  Granada CF - Villarreal CF
+[Lun. 15.9.]
+  SD Eibar - Deportivo La Coruña
+
+
+Jornada 4
+
+[Vié. 19.9.]
+  Elche CF - SD Eibar
+[Sáb. 20.9.]
+  Deportivo La Coruña - Real Madrid
+  Athletic Bilbao - Granada CF
+  Atlético Madrid - Celta Vigo
+  RCD Espanyol - Málaga CF
+[Dom. 21.9.]
+  Real Sociedad San Sebastian - UD Almería
+  Villarreal CF - Rayo Vallecano
+  Córdoba CF - Sevilla FC
+  Levante UD - FC Barcelona
+[Lun. 22.9.]
+  Getafe CF - Valencia CF
+
+
+Jornada 5
+
+[Mar. 23.9.]
+  Real Madrid - Elche CF
+  Celta Vigo - Deportivo La Coruña
+[Mié. 24.9.]
+  UD Almería - Atlético Madrid
+  SD Eibar - Villarreal CF
+  Rayo Vallecano - Athletic Bilbao
+  Sevilla FC - Real Sociedad San Sebastian
+  Granada CF - Levante UD
+  Málaga CF - FC Barcelona
+[Jue. 25.9.]
+  RCD Espanyol - Getafe CF
+  Valencia CF - Córdoba CF
+
+
+Jornada 6
+
+[Vié. 26.9.]
+  Elche CF - Celta Vigo
+[Sáb. 27.9.]
+  Atlético Madrid - Sevilla FC
+  Levante UD - Rayo Vallecano
+[Dom. 28.9.]
+  Villarreal CF - Real Madrid
+  Athletic Bilbao - SD Eibar
+  FC Barcelona - Granada CF
+  Getafe CF - Málaga CF
+  Real Sociedad San Sebastian - Valencia CF
+  Córdoba CF - RCD Espanyol
+[Lun. 29.9.]
+  Deportivo La Coruña - UD Almería
+
+
+Jornada 7
+
+[Dom. 5.10.]
+  Getafe CF - Córdoba CF
+  RCD Espanyol - Real Sociedad San Sebastian
+  Valencia CF - Atlético Madrid
+  Sevilla FC - Deportivo La Coruña
+  UD Almería - Elche CF
+  Celta Vigo - Villarreal CF
+  Real Madrid - Athletic Bilbao
+  SD Eibar - Levante UD
+  Rayo Vallecano - FC Barcelona
+  Málaga CF - Granada CF
+
+
+Jornada 8
+
+[Dom. 19.10.]
+  Córdoba CF - Málaga CF
+  Real Sociedad San Sebastian - Getafe CF
+  Atlético Madrid - RCD Espanyol
+  Deportivo La Coruña - Valencia CF
+  Elche CF - Sevilla FC
+  Villarreal CF - UD Almería
+  Athletic Bilbao - Celta Vigo
+  Levante UD - Real Madrid
+  FC Barcelona - SD Eibar
+  Granada CF - Rayo Vallecano
+
+
+Jornada 9
+
+[Dom. 26.10.]
+  Córdoba CF - Real Sociedad San Sebastian
+  Getafe CF - Atlético Madrid
+  RCD Espanyol - Deportivo La Coruña
+  Valencia CF - Elche CF
+  Sevilla FC - Villarreal CF
+  UD Almería - Athletic Bilbao
+  Celta Vigo - Levante UD
+  Real Madrid - FC Barcelona
+  SD Eibar - Granada CF
+  Málaga CF - Rayo Vallecano
+
+
+Jornada 10
+
+[Dom. 2.11.]
+  Real Sociedad San Sebastian - Málaga CF
+  Atlético Madrid - Córdoba CF
+  Deportivo La Coruña - Getafe CF
+  Elche CF - RCD Espanyol
+  Villarreal CF - Valencia CF
+  Athletic Bilbao - Sevilla FC
+  Levante UD - UD Almería
+  FC Barcelona - Celta Vigo
+  Granada CF - Real Madrid
+  Rayo Vallecano - SD Eibar
+
+
+Jornada 11
+
+[Dom. 9.11.]
+  Real Sociedad San Sebastian - Atlético Madrid
+  Córdoba CF - Deportivo La Coruña
+  Getafe CF - Elche CF
+  RCD Espanyol - Villarreal CF
+  Valencia CF - Athletic Bilbao
+  Sevilla FC - Levante UD
+  UD Almería - FC Barcelona
+  Celta Vigo - Granada CF
+  Real Madrid - Rayo Vallecano
+  Málaga CF - SD Eibar
+
+
+Jornada 12
+
+[Dom. 23.11.]
+  Atlético Madrid - Málaga CF
+  Deportivo La Coruña - Real Sociedad San Sebastian
+  Elche CF - Córdoba CF
+  Villarreal CF - Getafe CF
+  Athletic Bilbao - RCD Espanyol
+  Levante UD - Valencia CF
+  FC Barcelona - Sevilla FC
+  Granada CF - UD Almería
+  Rayo Vallecano - Celta Vigo
+  SD Eibar - Real Madrid
+
+
+Jornada 13
+
+[Dom. 30.11.]
+  Atlético Madrid - Deportivo La Coruña
+  Real Sociedad San Sebastian - Elche CF
+  Córdoba CF - Villarreal CF
+  Getafe CF - Athletic Bilbao
+  RCD Espanyol - Levante UD
+  Valencia CF - FC Barcelona
+  Sevilla FC - Granada CF
+  UD Almería - Rayo Vallecano
+  Celta Vigo - SD Eibar
+  Málaga CF - Real Madrid
+
+
+Jornada 14
+
+[Dom. 7.12.]
+  Deportivo La Coruña - Málaga CF
+  Elche CF - Atlético Madrid
+  Villarreal CF - Real Sociedad San Sebastian
+  Athletic Bilbao - Córdoba CF
+  Levante UD - Getafe CF
+  FC Barcelona - RCD Espanyol
+  Granada CF - Valencia CF
+  Rayo Vallecano - Sevilla FC
+  SD Eibar - UD Almería
+  Real Madrid - Celta Vigo
+
+
+Jornada 15
+
+[Dom. 14.12.]
+  Deportivo La Coruña - Elche CF
+  Atlético Madrid - Villarreal CF
+  Real Sociedad San Sebastian - Athletic Bilbao
+  Córdoba CF - Levante UD
+  Getafe CF - FC Barcelona
+  RCD Espanyol - Granada CF
+  Valencia CF - Rayo Vallecano
+  Sevilla FC - SD Eibar
+  UD Almería - Real Madrid
+  Málaga CF - Celta Vigo
+
+
+Jornada 16
+
+[Dom. 21.12.]
+  Elche CF - Málaga CF
+  Villarreal CF - Deportivo La Coruña
+  Athletic Bilbao - Atlético Madrid
+  Levante UD - Real Sociedad San Sebastian
+  FC Barcelona - Córdoba CF
+  Granada CF - Getafe CF
+  Rayo Vallecano - RCD Espanyol
+  SD Eibar - Valencia CF
+  Real Madrid - Sevilla FC
+  Celta Vigo - UD Almería
+
+
+Jornada 17
+
+[Dom. 4.1.]
+  Elche CF - Villarreal CF
+  Deportivo La Coruña - Athletic Bilbao
+  Atlético Madrid - Levante UD
+  Real Sociedad San Sebastian - FC Barcelona
+  Córdoba CF - Granada CF
+  Getafe CF - Rayo Vallecano
+  RCD Espanyol - SD Eibar
+  Valencia CF - Real Madrid
+  Sevilla FC - Celta Vigo
+  Málaga CF - UD Almería
+
+
+Jornada 18
+
+[Dom. 11.1.]
+  Málaga CF - Villarreal CF
+  Athletic Bilbao - Elche CF
+  Levante UD - Deportivo La Coruña
+  FC Barcelona - Atlético Madrid
+  Granada CF - Real Sociedad San Sebastian
+  Rayo Vallecano - Córdoba CF
+  SD Eibar - Getafe CF
+  Real Madrid - RCD Espanyol
+  Celta Vigo - Valencia CF
+  UD Almería - Sevilla FC
+
+
+Jornada 19
+
+[Dom. 18.1.]
+  Villarreal CF - Athletic Bilbao
+  Elche CF - Levante UD
+  Deportivo La Coruña - FC Barcelona
+  Atlético Madrid - Granada CF
+  Real Sociedad San Sebastian - Rayo Vallecano
+  Córdoba CF - SD Eibar
+  Getafe CF - Real Madrid
+  RCD Espanyol - Celta Vigo
+  Valencia CF - UD Almería
+  Sevilla FC - Málaga CF
+
