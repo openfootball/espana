@@ -7,35 +7,35 @@
 Jornada 1
 
 [Sáb. 23.8.]
-  Málaga CF   1-0  Athletic Bilbao
-  Sevilla FC  1-1  Valencia CF
-  Granada CF  2-1  Deportivo La Coruña
-  UD Almería  1-1  RCD Espanyol
+  Málaga CF                    1-0  Athletic Bilbao
+  Sevilla FC                   1-1  Valencia CF
+  Granada CF                   2-1  Deportivo La Coruña
+  UD Almería                   1-1  RCD Espanyol
 [Dom. 24.8.]
-  SD Eibar      1-0  Real Sociedad San Sebastian
-  Celta Vigo    3-1  Getafe CF
-  FC Barcelona  3-0  Elche CF
-  Levante UD    0-2  Villarreal CF
+  SD Eibar                     1-0  Real Sociedad San Sebastian
+  Celta Vigo                   3-1  Getafe CF
+  FC Barcelona                 3-0  Elche CF
+  Levante UD                   0-2  Villarreal CF
 [Lun. 25.8.]
-  Real Madrid     2-0  Córdoba CF
-  Rayo Vallecano  0-0  Atlético Madrid
+  Real Madrid                  2-0  Córdoba CF
+  Rayo Vallecano               0-0  Atlético Madrid
 
 
 Jornada 2
 
 [Vié. 29.8.]
-  Getafe CF    1-0  UD Almería
-  Valencia CF  3-0  Málaga CF
+  Getafe CF                    1-0  UD Almería
+  Valencia CF                  3-0  Málaga CF
 [Sáb. 30.8.]
-  Córdoba CF       1-1  Celta Vigo
-  Athletic Bilbao  3-0  Levante UD
-  Atlético Madrid  2-1  SD Eibar
-  RCD Espanyol  1-2  Sevilla FC
+  Córdoba CF                   1-1  Celta Vigo
+  Athletic Bilbao              3-0  Levante UD
+  Atlético Madrid              2-1  SD Eibar
+  RCD Espanyol                 1-2  Sevilla FC
 [Dom. 31.8.]
-  Villarreal CF  0-1  FC Barcelona
+  Villarreal CF                0-1  FC Barcelona
   Real Sociedad San Sebastian  4-2  Real Madrid
-  Deportivo La Coruña  2-2  Rayo Vallecano
-  Elche CF  1-1  Granada CF
+  Deportivo La Coruña          2-2  Rayo Vallecano
+  Elche CF                     1-1  Granada CF
 
 
 Jornada 3
