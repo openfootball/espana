@@ -2,9 +2,9 @@
 
 ## What's `football.db`?
 
-A free open public domain football (soccer) database & schema
+A free open public domain football database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+(e.g. uses plain text data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -31,10 +31,22 @@ madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD
 ~~~
 ### La Liga - Primera División de España
 
-Jornada 1   //   Sáb. 18 y Dom. 19 Agosto
+Jornada 1
 
-Sáb 18 Ago 19:00  Real Madrid   1-1  Valencia CF
-Sáb 18 Ago 21:00  FC Barcelona  5-1  Real Sociedad
+[Sáb. 23.8.]
+  Málaga CF       1-0  Athletic Bilbao
+  Sevilla FC      1-1  Valencia CF
+  Granada CF      2-1  Deportivo La Coruña
+  UD Almería      1-1  RCD Espanyol
+[Dom. 24.8.]
+  SD Eibar        1-0  Real Sociedad
+  Celta Vigo      3-1  Getafe CF
+  FC Barcelona    3-0  Elche CF
+  Levante UD      0-2  Villarreal CF
+[Lun. 25.8.]
+  Real Madrid     2-0  Córdoba CF
+  Rayo Vallecano  0-0  Atlético Madrid
+
 ...
 ~~~
 
@@ -42,7 +54,18 @@ Sáb 18 Ago 21:00  FC Barcelona  5-1  Real Sociedad
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text datasets. [More »](http://openfootball.github.io/build.html)
+
+### Examples
+
+Build the database for all Spanish clubs, leagues and seasons:
+
+    $ rake build DATA=es
+
+Build the database for the 2014/15 season:
+
+    $ rake build DATA=es_2014_15
+
 
 
 ## Questions? Comments?
