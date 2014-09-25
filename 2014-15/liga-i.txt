@@ -80,12 +80,12 @@ Jornada 5
   Real Madrid          5-1  Elche CF
   Celta Vigo           2-1  Deportivo La Coruña
 [Mié. 24.9.]
-  UD Almería - Atlético Madrid
-  SD Eibar - Villarreal CF
-  Rayo Vallecano - Athletic Bilbao
-  Sevilla FC - Real Sociedad
-  Granada CF - Levante UD
-  Málaga CF - FC Barcelona
+  UD Almería           0-1  Atlético Madrid
+  SD Eibar             1-1  Villarreal CF
+  Rayo Vallecano       2-1  Athletic Bilbao
+  Sevilla FC           1-0  Real Sociedad
+  Granada CF           0-1  Levante UD
+  Málaga CF            0-0  FC Barcelona
 [Jue. 25.9.]
   RCD Espanyol - Getafe CF
   Valencia CF - Córdoba CF
