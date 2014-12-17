@@ -232,14 +232,14 @@ Jornada 14
 Jornada 15
 
 [Dom. 14.12.]
-  Deportivo La Coruña  Elche CF
-  Atlético Madrid      0-1  Villarreal CF
-  Real Sociedad        1-1  Athletic Bilbao
+  Deportivo La Coruña  1-0 Elche CF
+  Atlético Madrid      0-1 Villarreal CF
+  Real Sociedad        1-1 Athletic Bilbao
   Córdoba CF           0-0 Levante UD
   Getafe CF            0-0 FC Barcelona
-  RCD Espanyol         2-1  Granada CF
+  RCD Espanyol         2-1 Granada CF
   Valencia CF          3-0 Rayo Vallecano
-  Sevilla FC           0-0  SD Eibar
+  Sevilla FC           0-0 SD Eibar
   UD Almería           1-4 Real Madrid
   Málaga CF            1-0 Celta Vigo
 
