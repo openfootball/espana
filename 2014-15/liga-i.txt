@@ -202,61 +202,61 @@ Jornada 12
 Jornada 13
 
 [Dom. 30.11.]
-  Atlético Madrid      2-0 Deportivo La Coruña
-  Real Sociedad        3-0 Elche CF
-  Córdoba CF           0-2 Villarreal CF
-  Getafe CF            1-2 Athletic Bilbao
-  RCD Espanyol         2-1 Levante UD
-  Valencia CF          0-1 FC Barcelona
-  Sevilla FC           5-1 Granada CF
-  UD Almería           0-1 Rayo Vallecano
-  Celta Vigo           0-1 SD Eibar
-  Málaga CF            1-2 Real Madrid
+  Atlético Madrid      2-0  Deportivo La Coruña
+  Real Sociedad        3-0  Elche CF
+  Córdoba CF           0-2  Villarreal CF
+  Getafe CF            1-2  Athletic Bilbao
+  RCD Espanyol         2-1  Levante UD
+  Valencia CF          0-1  FC Barcelona
+  Sevilla FC           5-1  Granada CF
+  UD Almería           0-1  Rayo Vallecano
+  Celta Vigo           0-1  SD Eibar
+  Málaga CF            1-2  Real Madrid
 
 
 Jornada 14
 
 [Dom. 7.12.]
-  Deportivo La Coruña  0-1 Málaga CF
-  Elche CF             0-2 Atlético Madrid
-  Villarreal CF        4-0 Real Sociedad
-  Athletic Bilbao      0-1 Córdoba CF
-  Levante UD           1-1 Getafe CF
-  FC Barcelona         5-1 RCD Espanyol
-  Granada CF           1-1 Valencia CF
-  Rayo Vallecano       0-1 Sevilla FC
-  SD Eibar             5-2 UD Almería
-  Real Madrid          3-0 Celta Vigo
+  Deportivo La Coruña  0-1  Málaga CF
+  Elche CF             0-2  Atlético Madrid
+  Villarreal CF        4-0  Real Sociedad
+  Athletic Bilbao      0-1  Córdoba CF
+  Levante UD           1-1  Getafe CF
+  FC Barcelona         5-1  RCD Espanyol
+  Granada CF           1-1  Valencia CF
+  Rayo Vallecano       0-1  Sevilla FC
+  SD Eibar             5-2  UD Almería
+  Real Madrid          3-0  Celta Vigo
 
 
 Jornada 15
 
 [Dom. 14.12.]
-  Deportivo La Coruña  1-0 Elche CF
-  Atlético Madrid      0-1 Villarreal CF
-  Real Sociedad        1-1 Athletic Bilbao
-  Córdoba CF           0-0 Levante UD
-  Getafe CF            0-0 FC Barcelona
-  RCD Espanyol         2-1 Granada CF
-  Valencia CF          3-0 Rayo Vallecano
-  Sevilla FC           0-0 SD Eibar
-  UD Almería           1-4 Real Madrid
-  Málaga CF            1-0 Celta Vigo
+  Deportivo La Coruña  1-0  Elche CF
+  Atlético Madrid      0-1  Villarreal CF
+  Real Sociedad        1-1  Athletic Bilbao
+  Córdoba CF           0-0  Levante UD
+  Getafe CF            0-0  FC Barcelona
+  RCD Espanyol         2-1  Granada CF
+  Valencia CF          3-0  Rayo Vallecano
+  Sevilla FC           0-0  SD Eibar
+  UD Almería           1-4  Real Madrid
+  Málaga CF            1-0  Celta Vigo
 
 
 Jornada 16
 
 [Dom. 21.12.]
-  Elche CF  Málaga CF
-  Villarreal CF  Deportivo La Coruña
-  Athletic Bilbao  Atlético Madrid
-  Levante UD           1-1 Real Sociedad
-  FC Barcelona         5-0 Córdoba CF
-  Granada CF  Getafe CF
-  Rayo Vallecano       1-3 RCD Espanyol
-  SD Eibar             0-1 Valencia CF
-  Real Madrid  Sevilla FC
-  Celta Vigo           0-1 UD Almería
+  Elche CF             1-2  Málaga CF
+  Villarreal CF        3-0  Deportivo La Coruña
+  Athletic Bilbao      1-4  Atlético Madrid
+  Levante UD           1-1  Real Sociedad
+  FC Barcelona         5-0  Córdoba CF
+  Granada CF           1-1  Getafe CF
+  Rayo Vallecano       1-3  RCD Espanyol
+  SD Eibar             0-1  Valencia CF
+  Real Madrid  Sevilla FC     5.2.15
+  Celta Vigo           0-1  UD Almería
 
 
 Jornada 17
