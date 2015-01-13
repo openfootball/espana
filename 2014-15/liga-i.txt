@@ -282,11 +282,11 @@ Jornada 18
   Levante UD           0-0  Deportivo La Coruña
   FC Barcelona         3-1  Atlético Madrid
   Granada CF           1-1  Real Sociedad
-  Rayo Vallecano  Córdoba CF
-  SD Eibar            2-1  Getafe CF
-  Real Madrid         3-0  RCD Espanyol
-  Celta Vigo          1-1  Valencia CF
-  UD Almería          0-2  Sevilla FC
+  Rayo Vallecano       0-1  Córdoba CF
+  SD Eibar             2-1  Getafe CF
+  Real Madrid          3-0  RCD Espanyol
+  Celta Vigo           1-1  Valencia CF
+  UD Almería           0-2  Sevilla FC
 
 
 Jornada 19
