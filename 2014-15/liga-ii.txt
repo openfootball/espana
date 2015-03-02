@@ -21,76 +21,76 @@ Jornada 20
 Jornada 21
 
 [Dom. 1.2.]
-  Málaga CF            1-0  Valencia CF
-  Sevilla FC           3-2  RCD Espanyol
-  UD Almería           1-0  Getafe CF
-  Celta Vigo           1-0  Córdoba CF
-  Real Madrid          4-1  Real Sociedad
-  SD Eibar             1-3  Atlético Madrid
-  Rayo Vallecano       1-2  Deportivo La Coruña
-  Granada CF           1-0  Elche CF
-  FC Barcelona         3-2  Villarreal CF
-  Levante UD           0-2  Athletic Bilbao
+  Málaga CF             1-0  Valencia CF
+  Sevilla FC            3-2  RCD Espanyol
+  UD Almería            1-0  Getafe CF
+  Celta Vigo            1-0  Córdoba CF
+  Real Madrid           4-1  Real Sociedad
+  SD Eibar              1-3  Atlético Madrid
+  Rayo Vallecano        1-2  Deportivo La Coruña
+  Granada CF            1-0  Elche CF
+  FC Barcelona          3-2  Villarreal CF
+  Levante UD            0-2  Athletic Bilbao
 
 
 Jornada 22
 
 [Dom. 8.2.]
-  RCD Espanyol         1-2  Valencia CF
-  Getafe CF            2-1  Sevilla FC
-  Córdoba CF           1-2  UD Almería
-  Real Sociedad        1-1  Celta Vigo
-  Atlético Madrid      4-0  Real Madrid
-  Deportivo La Coruña  2-0  SD Eibar
-  Elche CF             2-0  Rayo Vallecano
-  Villarreal CF        2-0  Granada CF
-  Athletic Bilbao      2-5  FC Barcelona
-  Levante UD           4-1  Málaga CF
+  RCD Espanol           1-2  Valencia CF
+  Getafe CF             2-1  Sevilla FC
+  Córdoba CF            1-2  UD Almería
+  Real Sociedad         1-1  Celta Vigo
+  Atlético Madrid       4-0  Real Madrid
+  Deportivo La Coruña   2-0  SD Eibar
+  Elche CF              2-0  Rayo Vallecano
+  Villarreal CF         2-0  Granada CF
+  Athletic Bilbao       2-5  FC Barcelona
+  Levante UD            4-1  Málaga CF
 
 
 Jornada 23
 
 [Dom. 15.2.]
-  Málaga CF            0-2  RCD Espanyol
-  Valencia CF          1-0  Getafe CF
-  Sevilla FC           3-0  Córdoba CF
-  UD Almería           2-2  Real Sociedad
-  Celta Vigo           2-0  Atlético Madrid
-  Real Madrid          2-0  Deportivo La Coruña
-  SD Eibar             0-1  Elche CF
-  Rayo Vallecano       2-0  Villarreal CF
-  Granada CF           0-0  Athletic Bilbao
-  FC Barcelona         5-0  Levante UD
+  Málaga CF             0-2  RCD Espanyol
+  Valencia CF           1-0  Getafe CF
+  Sevilla FC            3-0  Córdoba CF
+  UD Almería            2-2  Real Sociedad
+  Celta Vigo            2-0  Atlético Madrid
+  Real Madrid           2-0  Deportivo La Coruña
+  SD Eibar              0-1  Elche CF
+  Rayo Vallecano        2-0  Villarreal CF
+  Granada CF            0-0  Athletic Bilbao
+  FC Barcelona          5-0  Levante UD
 
 
 Jornada 24
 
 [Dom. 22.2.]
-  Getafe CF            2-1  RCD Espanyol
-  Córdoba CF           1-2  Valencia CF
-  Real Sociedad        4-3  Sevilla FC
-  Atlético Madrid      3-0  UD Almería
-  Deportivo La Coruña  0-2  Celta Vigo
-  Elche CF             0-2  Real Madrid
-  Villarreal CF        1-0  SD Eibar
-  Athletic Bilbao      1-0  Rayo Vallecano
-  Levante UD           2-1  Granada CF
-  FC Barcelona         0-1  Málaga CF
+  Getafe CF             2-1  RCD Espanyol
+  Córdoba CF            1-2  Valencia CF
+  Real Sociedad         4-3  Sevilla FC
+  Atlético Madrid       3-0  UD Almería
+  Deportivo La Coruña   0-2  Celta Vigo
+  Elche CF              0-2  Real Madrid
+  Villarreal CF         1-0  SD Eibar
+  Athletic Bilbao       1-0  Rayo Vallecano
+  Levante UD            2-1  Granada CF
+  FC Barcelona          0-1  Málaga CF
 
 
 Jornada 25
 
 [Dom. 1.3.]
-  Málaga CF           3-2  Getafe CF
-  RCD Espanyo         1-0  Córdoba CF
-  Valencia CF  Real Sociedad
-  Sevilla FC  Atlético Madrid
-  UD Almería          0-0  Deportivo La Coruña
+  Málaga CF             3-2  Getafe CF
+  RCD Espanyo           1-0  Córdoba CF
+  Valencia CF           2-0  Real Sociedad
+  Sevilla FC            0-0  Atlético Madrid
+  UD Almería            0-0  Deportivo La Coruña
   Celta Vigo  Elche CF
-  Real Madrid  Villarreal CF
-  SD Eibar  Athletic Bilbao
-  Rayo Vallecano      4-2  Levante UD
-  Granada CF          1-3  FC Barcelona
+  Real Madrid           1-1  Villarreal CF
+  SD Eibar              0-1  Athletic Bilbao
+  Rayo Vallecano        4-2  Levante UD
+  Granada CF            1-3  FC Barcelona
 
 
 Jornada 26
