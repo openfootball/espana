@@ -96,46 +96,46 @@ Jornada 25
 Jornada 26
 
 [Dom. 8.3.]
-  Córdoba CF           1-2  Getafe CF
-  Real Sociedad        1-0  RCD Espanyol
-  Atlético Madrid      1-1  Valencia CF
-  Deportivo La Coruña  3-4  Sevilla FC
-  Elche CF             1-0  UD Almería
-  Villarreal CF        4-1  Celta Vigo
-  Athletic Bilbao      1-0  Real Madrid
-  Levante UD           2-1  SD Eibar
-  FC Barcelona         6-1  Rayo Vallecano
-  Granada CF           1-0  Málaga CF
+  Córdoba CF            1-2  Getafe CF
+  Real Sociedad         1-0  RCD Espanyol
+  Atlético Madrid       1-1  Valencia CF
+  Deportivo La Coruña   3-4  Sevilla FC
+  Elche CF              1-0  UD Almería
+  Villarreal CF         4-1  Celta Vigo
+  Athletic Bilbao       1-0  Real Madrid
+  Levante UD            2-1  SD Eibar
+  FC Barcelona          6-1  Rayo Vallecano
+  Granada CF            1-0  Málaga CF
 
 
 Jornada 27
 
 [Dom. 15.3.]
-  Málaga CF            2-0  Córdoba CF
-  Getafe CF            0-1  Real Sociedad
-  RCD Espanyol         0-0  Atlético Madrid
-  Valencia CF          2-0  Deportivo La Coruña
-  Sevilla FC           3-0  Elche CF
-  UD Almería           0-0  Villarreal CF
-  Celta Vigo           1-2  Athletic Bilbao
-  Real Madrid          2-0  Levante UD
-  SD Eibar             0-2  FC Barcelona
-  Rayo Vallecano       3-1  Granada CF
+  Málaga CF             2-0  Córdoba CF
+  Getafe CF             0-1  Real Sociedad
+  RCD Espanyol          0-0  Atlético Madrid
+  Valencia CF           2-0  Deportivo La Coruña
+  Sevilla FC            3-0  Elche CF
+  UD Almería            0-0  Villarreal CF
+  Celta Vigo            1-2  Athletic Bilbao
+  Real Madrid           2-0  Levante UD
+  SD Eibar              0-2  FC Barcelona
+  Rayo Vallecano        3-1  Granada CF
 
 
 Jornada 28
 
 [Dom. 22.3.]
   Real Sociedad  Córdoba CF
-  Atlético Madrid  Getafe CF
+  Atlético Madrid       2-0  Getafe CF
   Deportivo La Coruña  RCD Espanyol
-  Elche CF  Valencia CF
+  Elche CF              0-4  Valencia CF
   Villarreal CF  Sevilla FC
-  Athletic Bilbao  UD Almería
-  Levante UD  Celta Vigo
+  Athletic Bilbao       2-1  UD Almería
+  Levante UD            0-1  Celta Vigo
   FC Barcelona  Real Madrid
-  Granada CF  SD Eibar
-  Rayo Vallecano  Málaga CF
+  Granada CF            0-0  SD Eibar
+  Rayo Vallecano        1-0  Málaga CF
 
 
 Jornada 29
