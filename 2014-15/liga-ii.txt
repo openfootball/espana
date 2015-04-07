@@ -144,13 +144,13 @@ Jornada 29
   Málaga CF             1-1  Real Sociedad
   Córdoba CF            0-2  Atlético Madrid
   Getafe CF             2-1  Deportivo La Coruña
-  RCD Espanyol  Elche CF
-  Valencia CF          0-0  Villarreal CF
-  Sevilla FC           2-0  Athletic Bilbao
-  UD Almería           1-4  Levante UD
-  Celta Vigo           0-1  FC Barcelona
-  Real Madrid          9-1  Granada CF
-  SD Eibar             1-2  Rayo Vallecano
+  RCD Espanyol          1-1  Elche CF
+  Valencia CF           0-0  Villarreal CF
+  Sevilla FC            2-0  Athletic Bilbao
+  UD Almería            1-4  Levante UD
+  Celta Vigo            0-1  FC Barcelona
+  Real Madrid           9-1  Granada CF
+  SD Eibar              1-2  Rayo Vallecano
 
 
 Jornada 30
