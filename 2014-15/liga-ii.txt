@@ -176,11 +176,11 @@ Jornada 31
   Córdoba CF            0-2  Elche CF
   Getafe CF             1-1  Villarreal CF
   RCD Espanyol          1-0  Athletic Bilbao
-  Valencia CF  Levante UD
-  Sevilla FC           2-2  FC Barcelona
-  UD Almería           3-0  Granada CF
-  Celta Vigo           6-1  Rayo Vallecano
-  Real Madrid          3-0  SD Eibar
+  Valencia CF           3-0  Levante UD
+  Sevilla FC            2-2  FC Barcelona
+  UD Almería            3-0  Granada CF
+  Celta Vigo            6-1  Rayo Vallecano
+  Real Madrid           3-0  SD Eibar
 
 
 Jornada 32
