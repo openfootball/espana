@@ -188,13 +188,13 @@ Jornada 32
 [Dom. 19.4.]
   Deportivo La Coruña   1-2  Atlético Madrid
   Elche CF  Real Sociedad
-  Villarreal CF  Córdoba CF
+  Villarreal CF         0-0  Córdoba CF
   Athletic Bilbao       4-0  Getafe CF
   Levante UD            2-2  RCD Espanyol
   FC Barcelona          2-0  Valencia CF
-  Granada CF  Sevilla FC
-  Rayo Vallecano  UD Almería
-  SD Eibar  Celta Vigo
+  Granada CF            1-1  Sevilla FC
+  Rayo Vallecano        2-0  UD Almería
+  SD Eibar              0-1  Celta Vigo
   Real Madrid           3-1  Málaga CF
 
 
