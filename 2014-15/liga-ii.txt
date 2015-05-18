@@ -261,16 +261,16 @@ Jornada 36
 Jornada 37
 
 [Dom. 17.5.]
-  Villarreal CF  Málaga CF
-  Elche CF  Athletic Bilbao
-  Deportivo La Coruña  Levante UD
-  Atlético Madrid  FC Barcelona
-  Real Sociedad  Granada CF
-  Córdoba CF  Rayo Vallecano
-  Getafe CF  SD Eibar
-  RCD Espanyol  Real Madrid
-  Valencia CF  Celta Vigo
-  Sevilla FC  UD Almería
+  Villarreal CF        2-1  Málaga CF
+  Elche CF             2-3  Athletic Bilbao
+  Deportivo La Coruña  2-0  Levante UD
+  Atlético Madrid      0-1  FC Barcelona
+  Real Sociedad        0-3  Granada CF
+  Córdoba CF           1-2  Rayo Vallecano
+  Getafe CF            1-1  SD Eibar
+  RCD Espanyol         1-4  Real Madrid
+  Valencia CF          1-1  Celta Vigo
+  Sevilla FC           2-1  UD Almería
 
 
 Jornada 38
