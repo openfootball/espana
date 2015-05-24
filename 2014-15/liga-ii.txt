@@ -276,14 +276,14 @@ Jornada 37
 Jornada 38
 
 [Dom. 24.5.]
-  Athletic Bilbao  Villarreal CF
-  Levante UD  Elche CF
-  FC Barcelona  Deportivo La Coruña
-  Granada CF  Atlético Madrid
-  Rayo Vallecano  Real Sociedad
-  SD Eibar  Córdoba CF
-  Real Madrid  Getafe CF
-  Celta Vigo  RCD Espanyol
-  UD Almería  Valencia CF
-  Málaga CF  Sevilla FC
+  Athletic Bilbao      4-0  Villarreal CF
+  Levante UD           0-0  Elche CF
+  FC Barcelona         2-2  Deportivo La Coruña
+  Granada CF           0-0  Atlético Madrid
+  Rayo Vallecano       2-4  Real Sociedad
+  SD Eibar             3-0  Córdoba CF
+  Real Madrid          7-3  Getafe CF
+  Celta Vigo           3-2  RCD Espanyol
+  UD Almería           2-3  Valencia CF
+  Málaga CF            2-3  Sevilla FC
 
