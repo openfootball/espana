@@ -10,30 +10,28 @@ fixtures:
 - liga-i
 - liga-ii
 
-############
-# 20 Teams
 
-teams:
-- barcelona
-- espanyol
-- madrid
-- atletico
-- getafe
-- rayo
-- sevilla
-- valencia
-- levante
-- malaga
-- athletic
-- granada
-- celta
-- realsociedad
-- almeria
-- elche
-- villareal
-- eibar
-- deportivo
-- cordoba
+20 teams:
+- FC Barcelona
+- Real Madrid
+- Atlético Madrid
+- Valencia CF
+- Sevilla FC
+- Villarreal CF
+- Athletic Bilbao
+- Celta Vigo
+- Málaga CF
+- Espanyol Barcelona
+- Rayo Vallecano
+- Real Sociedad San Sebastian
+- Elche CF 
+- Levante UD
+- Getafe CF
+- Deportivo La Coruña
+- Granada CF
+- SD Eibar
+- UD Almería
+- Córdoba CF
 
 ###
 ##
