@@ -255,3 +255,16 @@ Jornada 18
   Athletic Bilbao  UD Las Palmas
   Málaga CF  Celta Vigo
   Atlético Madrid  Levante UD
+  
+Jornada 19
+[Dom. 10.1.]
+  Real Sociedad San Sebastian  Valencia CF
+  Real Madrid  Deportivo La Coruña
+  Villarreal CF  Sporting Gijón
+  Getafe CF  Betis Sevilla
+  SD Eibar  Espanyol Barcelona
+  FC Barcelona  Granada CF
+  Sevilla FC  Athletic Bilbao
+  UD Las Palmas  Málaga CF
+  Celta Vigo  Atlético Madrid
+  Levante UD  Rayo Vallecano
