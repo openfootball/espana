@@ -1,0 +1,257 @@
+#################################################
+# La Liga -  Primera División de España 2015/16
+
+# -- Primera Vuelta --
+
+
+Jornada 1
+[Vié. 21.8.]
+  Málaga CF           0-0  Sevilla FC
+[Sáb. 22.8.]
+  Espanyol Barcelona  1-0  Getafe CF
+  Deportivo La Coruña 0-0  Real Sociedad San Sebastian
+  Atlético Madrid     1-0  UD Las Palmas
+  Rayo Vallecano      0-0  Valencia CF
+[Dom. 23.8.]
+  Athletic Bilbao     0-1  FC Barcelona
+  Sporting Gijón      0-0  Real Madrid
+  Levante UD          1-2  Celta Vigo
+  Betis Sevilla       1-1  Villarreal CF
+[Lun. 24.8.]
+  Granada CF          1-3  SD Eibar
+
+
+Jornada 2
+[Vié. 28.8.]
+  Villarreal CF  Espanyol Barcelona
+[Sáb. 29.8.]
+  Celta Vigo  Rayo Vallecano
+  Real Sociedad San Sebastian  Sporting Gijón
+  FC Barcelona  Málaga CF
+  Real Madrid  Betis Sevilla
+[Dom. 30.8.]
+  SD Eibar  Athletic Bilbao
+  Sevilla FC  Atlético Madrid
+  Valencia CF  Deportivo La Coruña
+  UD Las Palmas  Levante UD
+  Getafe CF  Granada CF
+
+
+Jornada 3
+[Vié. 11.9.]
+  Levante UD  Sevilla FC
+[Sáb. 12.9.]
+  Espanyol Barcelona  Real Madrid
+  Sporting Gijón  Valencia CF
+  Atlético Madrid  FC Barcelona
+  Betis Sevilla  Real Sociedad San Sebastian
+[Dom. 13.9.]
+  Granada CF  Villarreal CF
+  Athletic Bilbao  Getafe CF
+  Celta Vigo  UD Las Palmas
+  Málaga CF  SD Eibar
+[Lun. 14.9.]
+  Rayo Vallecano  Deportivo La Coruña
+
+Jornada 4
+[Vié. 18.9.]
+  Getafe CF  Málaga CF
+[Sáb. 19.9.]
+  Real Madrid  Granada CF
+  Valencia CF  Betis Sevilla
+  SD Eibar  Atlético Madrid
+  Real Sociedad San Sebastian  Espanyol Barcelona
+[Dom. 20.9.]
+  Sevilla FC  Celta Vigo
+  Deportivo La Coruña  Sporting Gijón
+  Villarreal CF  Athletic Bilbao
+  UD Las Palmas  Rayo Vallecano
+  FC Barcelona  Levante UD
+
+Jornada 5
+
+[Mar. 22.9.]
+  Atlético Madrid  Getafe CF
+  Espanyol Barcelona  Valencia CF
+  Granada CF  Real Sociedad San Sebastian
+[Mié. 23.9.]
+  Celta Vigo  FC Barcelona
+  Levante UD  SD Eibar
+  Rayo Vallecano  Sporting Gijón
+  Athletic Bilbao  Real Madrid
+  UD Las Palmas  Sevilla FC
+  Málaga CF  Villarreal CF
+[Jue. 24.9.]
+  Betis Sevilla  Deportivo La Coruña
+
+Jornada 6
+[Vié. 25.9.]
+  Valencia CF  Granada CF
+[Sáb. 26.9.]
+  FC Barcelona  UD Las Palmas
+  Real Madrid  Málaga CF
+  Sevilla FC  Rayo Vallecano
+  Villarreal CF  Atlético Madrid
+  SD Eibar  Celta Vigo
+[Dom. 27.9.]
+  Sporting Gijón  Betis Sevilla
+  Deportivo La Coruña  Espanyol Barcelona
+  Getafe CF  Levante UD
+  Real Sociedad San Sebastian  Athletic Bilbao
+
+Jornada 7
+[Dom. 4.10.]
+  Sevilla FC  FC Barcelona
+  UD Las Palmas  SD Eibar
+  Celta Vigo  Getafe CF
+  Levante UD  Villarreal CF
+  Atlético Madrid  Real Madrid
+  Málaga CF  Real Sociedad San Sebastian
+  Athletic Bilbao  Valencia CF
+  Granada CF  Deportivo La Coruña
+  Espanyol Barcelona  Sporting Gijón
+  Rayo Vallecano  Betis Sevilla
+
+Jornada 8
+[Dom. 18.10.]
+  FC Barcelona  Rayo Vallecano
+  SD Eibar  Sevilla FC
+  Getafe CF  UD Las Palmas
+  Villarreal CF  Celta Vigo
+  Real Madrid  Levante UD
+  Real Sociedad San Sebastian  Atlético Madrid
+  Valencia CF  Málaga CF
+  Deportivo La Coruña  Athletic Bilbao
+  Sporting Gijón  Granada CF
+  Betis Sevilla  Espanyol Barcelona
+
+Jornada 9
+[Dom. 25.10.]
+  FC Barcelona  SD Eibar
+  Sevilla FC  Getafe CF
+  UD Las Palmas  Villarreal CF
+  Celta Vigo  Real Madrid
+  Levante UD  Real Sociedad San Sebastian
+  Atlético Madrid  Valencia CF
+  Málaga CF  Deportivo La Coruña
+  Athletic Bilbao  Sporting Gijón
+  Granada CF  Betis Sevilla
+  Rayo Vallecano  Espanyol Barcelona
+
+Jornada 10
+[Mié. 28.10.]
+  Getafe CF  FC Barcelona
+[Dom. 1.11.]
+  SD Eibar  Rayo Vallecano
+  Villarreal CF  Sevilla FC
+  Real Madrid  UD Las Palmas
+  Real Sociedad San Sebastian  Celta Vigo
+  Valencia CF  Levante UD
+  Deportivo La Coruña  Atlético Madrid
+  Sporting Gijón  Málaga CF
+  Betis Sevilla  Athletic Bilbao
+  Espanyol Barcelona  Granada CF
+
+Jornada 11
+[Dom. 8.11.]
+  SD Eibar  Getafe CF
+  FC Barcelona  Villarreal CF
+  Sevilla FC  Real Madrid
+  UD Las Palmas  Real Sociedad San Sebastian
+  Celta Vigo  Valencia CF
+  Levante UD  Deportivo La Coruña
+  Atlético Madrid  Sporting Gijón
+  Málaga CF  Betis Sevilla
+  Athletic Bilbao  Espanyol Barcelona
+  Rayo Vallecano  Granada CF
+
+Jornada 12
+[Dom. 22.11.]
+  Getafe CF  Rayo Vallecano
+  Villarreal CF  SD Eibar
+  Real Madrid  FC Barcelona
+  Real Sociedad San Sebastian  Sevilla FC
+  Valencia CF  UD Las Palmas
+  Deportivo La Coruña  Celta Vigo
+  Sporting Gijón  Levante UD
+  Betis Sevilla  Atlético Madrid
+  Espanyol Barcelona  Málaga CF
+  Granada CF  Athletic Bilbao
+
+Jornada 13
+[Jue. 26.11.]
+  UD Las Palmas  Deportivo La Coruña
+  Celta Vigo  Sporting Gijón
+  Levante UD  Betis Sevilla
+  Atlético Madrid  Espanyol Barcelona
+  Málaga CF  Granada CF
+  Rayo Vallecano  Athletic Bilbao
+  Getafe CF  Villarreal CF
+  SD Eibar  Real Madrid
+  FC Barcelona  Real Sociedad San Sebastian
+  Sevilla FC  Valencia CF
+
+Jornada 14
+[Dom. 29.11.]
+  Villarreal CF  Rayo Vallecano
+  Real Madrid  Getafe CF
+  Real Sociedad San Sebastian  SD Eibar
+  Valencia CF  FC Barcelona
+  Deportivo La Coruña  Sevilla FC
+  Sporting Gijón  UD Las Palmas
+  Betis Sevilla  Celta Vigo
+  Espanyol Barcelona  Levante UD
+  Granada CF  Atlético Madrid
+  Athletic Bilbao  Málaga CF
+
+Jornada 15
+[Dom. 6.12.]
+  Villarreal CF  Real Madrid
+  Getafe CF  Real Sociedad San Sebastian
+  SD Eibar  Valencia CF
+  FC Barcelona  Deportivo La Coruña
+  Sevilla FC  Sporting Gijón
+  UD Las Palmas  Betis Sevilla
+  Celta Vigo  Espanyol Barcelona
+  Levante UD  Granada CF
+  Atlético Madrid  Athletic Bilbao
+  Rayo Vallecano  Málaga CF
+
+Jornada 16
+[Dom. 13.12.]
+  Real Madrid  Rayo Vallecano
+  Real Sociedad San Sebastian  Villarreal CF
+  Valencia CF  Getafe CF
+  Deportivo La Coruña  SD Eibar
+  Sporting Gijón  FC Barcelona
+  Betis Sevilla  Sevilla FC
+  Espanyol Barcelona  UD Las Palmas
+  Granada CF  Celta Vigo
+  Athletic Bilbao  Levante UD
+  Málaga CF  Atlético Madrid
+
+Jornada 17
+[Mié. 30.12.]
+  Real Madrid  Real Sociedad San Sebastian
+  Villarreal CF  Valencia CF
+  Getafe CF  Deportivo La Coruña
+  SD Eibar  Sporting Gijón
+  FC Barcelona  Betis Sevilla
+  Sevilla FC  Espanyol Barcelona
+  UD Las Palmas  Granada CF
+  Celta Vigo  Athletic Bilbao
+  Levante UD  Málaga CF
+  Rayo Vallecano  Atlético Madrid
+
+Jornada 18
+[Dom. 3.1.]
+  Rayo Vallecano  Real Sociedad San Sebastian
+  Valencia CF  Real Madrid
+  Deportivo La Coruña  Villarreal CF
+  Sporting Gijón  Getafe CF
+  Betis Sevilla  SD Eibar
+  Espanyol Barcelona  FC Barcelona
+  Granada CF  Sevilla FC
+  Athletic Bilbao  UD Las Palmas
+  Málaga CF  Celta Vigo
+  Atlético Madrid  Levante UD
