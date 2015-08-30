@@ -6,12 +6,13 @@
 es-espana!/leagues
 
 # -- Teams --
-es-espana!/clubs
-es-espana!/clubs_2
-es-espana!/clubs_x
+es-espana!/clubs/1-liga
+es-espana!/clubs/2-liga2
+es-espana!/clubs/more
 
 # -- Fixtures --
-es-espana!/2012-13/liga
-es-espana!/2013-14/liga
+es-espana!/2015-16/liga
 es-espana!/2014-15/liga
+es-espana!/2013-14/liga
+es-espana!/2012-13/liga
 

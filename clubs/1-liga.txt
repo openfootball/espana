@@ -1,5 +1,5 @@
 #################################################
-# Primera División de España - La Liga 2014/15
+# Primera División de España - La Liga 2015/16
 #
 #  20 teams
 
@@ -76,21 +76,33 @@
   Valladolid|Real Valladolid|Real Valladolid CF|R. Valladolid C.F.|Real Valladolid Club de Fútbol, VID
   city:valladolid
 
-[almeria]
-  UD Almería|U.D. Almería|Unión Deportiva Almería, ALM
-  city:almeria
-
-[elche]
-  Elche CF|Elche C.F., ELC
-  city:elche
-
-[eibar]
-  Eibar|SD Eibar|Sociedad Deportiva Eibar
 
 [deportivo]
   Deportivo|Deportivo La Coruña|RC Deportivo de La Coruña|Deportivo de La Coruña|Deportivo da Coruña|Real Club Deportivo La Coruña, DEP
   city:acoruna
 
-[cordoba]
-  Córdoba|Córdoba CF|Córdoba Club de Fútbol
+[eibar]
+  Eibar|SD Eibar|Sociedad Deportiva Eibar
+
+
+[betis]
+  Betis|Betis Sevilla|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET
+  city:sevilla
+
+[sporting]
+  Sporting|Real Sporting|Real Sporting de Gijón
+
+[laspalmas]
+  Las Palmas|UD Las Palmas|Unión Deportiva Las Palmas
+
+
+
+######
+## 2015/16:
+##  --  13.º Elche C. F. (*D. administrativo), 19.º U. D. Almería, 20.º Córdoba C. F.
+##  ++  1.º Real Betis Balompié, 2.º Real Sporting de Gijón, 4.º U. D. Las Palmas
+##
+## 2014/15:
+##  --  18.º C. A. Osasuna, 19.º Real Valladolid C. F., 20º Real Betis Balompié
+##  ++  1.º S. D. Eibar, 2.º R. C. Deportivo de La Coruña, 7.º Córdoba C. F. (*Promoción)
 

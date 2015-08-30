@@ -4,6 +4,18 @@
 # 22 teams
 
 
+[elche]
+  Elche CF|Elche C.F., ELC
+  city:elche
+
+[almeria]
+  UD Almería|U.D. Almería|Unión Deportiva Almería, ALM
+  city:almeria
+
+[cordoba]
+  Córdoba|Córdoba CF|Córdoba Club de Fútbol
+
+
 [osasuna]
   Osasuna|CA Osasuna|At. Osasuna|Club Atlético Osasuna, OSA
   city:pamplona
@@ -12,9 +24,6 @@
   Villarreal CF|Villarreal C.F., VLL
   city:villarreal
 
-[betis]
-  Betis|Betis Sevilla|Real Betis Sevilla|Real Betis|Real Betis Balompié, BET
-  city:sevilla
 
 
 alcorcon,     Alcorcón|AD Alcorcón|Agrupación Deportiva Alcorcón
@@ -32,7 +41,5 @@ recreativo,   Recreativo|RC Recreativo de Huelva|Real Club Recreativo de Huelva
 jaen,         Jaén|Real Jaén CF|Real Jaén Club de Fútbol
 castilla,     Castilla|Real Madrid Castilla|Real Madrid Castilla Club de Fútbol
 murcia,       Murcia|Real Murcia CF|Real Murcia Club de Fútbol
-sporting,     Sporting|Real Sporting|Real Sporting de Gijón
 zaragoza,     Zaragoza|Real Zaragoza,  ZAR, city:zaragoza
 ponferradina, Ponferradina|SD Ponferradina|Sociedad Deportiva Ponferradina
-laspalmas,    Las Palmas|UD Las Palmas|Unión Deportiva Las Palmas

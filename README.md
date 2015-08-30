@@ -12,10 +12,10 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data for España (Spain) / Europe.
 Events include:
 
-| Level |                                    |            |
-| ----- | ---------------------------------- | ---------- |
-| I     |  Primera División / La Liga        |  20 Clubs  |
-| II    |  Segunda División / Liga Adelante  |  22 Clubs  |
+| Level |                                    |           |
+| ----: | ---------------------------------- | --------- |
+|     I | Primera División / La Liga         | 20 Clubs  |
+|    II | Segunda División / Liga Adelante   | 22 Clubs  |
 
 
 Example:
@@ -60,11 +60,11 @@ from the plain text datasets. [More »](http://openfootball.github.io/build.html
 
 Build the database for all Spanish clubs, leagues and seasons:
 
-    $ rake build DATA=es
+    $ sportdb new es
 
-Build the database for the 2014/15 season:
+Build the database for the 2015/16 season:
 
-    $ rake build DATA=es_2014_15
+    $ sportdb new es2015-15
 
 
 
