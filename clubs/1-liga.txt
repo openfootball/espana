@@ -90,7 +90,7 @@
   city:sevilla
 
 [sporting]
-  Sporting|Real Sporting|Real Sporting de Gijón
+  Sporting|Sporting Gijón|Real Sporting|Real Sporting de Gijón
 
 [laspalmas]
   Las Palmas|UD Las Palmas|Unión Deportiva Las Palmas
