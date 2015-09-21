@@ -62,11 +62,11 @@ Jornada 4
   SD Eibar                     0-2  Atlético Madrid
   Real Sociedad San Sebastian  2-3  Espanyol Barcelona
 [Dom. 20.9.]
-  Sevilla FC  Celta Vigo
-  Deportivo La Coruña  Sporting Gijón
-  Villarreal CF  Athletic Bilbao
-  UD Las Palmas  Rayo Vallecano
-  FC Barcelona  Levante UD
+  Sevilla FC                   1-2  Celta Vigo
+  Deportivo La Coruña          2-3  Sporting Gijón
+  Villarreal CF                3-1  Athletic Bilbao
+  UD Las Palmas                0-1  Rayo Vallecano
+  FC Barcelona                 4-1  Levante UD
 
 Jornada 5
 
