@@ -114,16 +114,16 @@ Jornada 7
 
 Jornada 8
 [Dom. 18.10.]
-  FC Barcelona  Rayo Vallecano
-  SD Eibar  Sevilla FC
-  Getafe CF  UD Las Palmas
-  Villarreal CF  Celta Vigo
-  Real Madrid  Levante UD
-  Real Sociedad San Sebastian  Atlético Madrid
-  Valencia CF  Málaga CF
-  Deportivo La Coruña  Athletic Bilbao
-  Sporting Gijón  Granada CF
-  Betis Sevilla  Espanyol Barcelona
+  FC Barcelona                 5-2  Rayo Vallecano
+  SD Eibar                     1-1  Sevilla FC
+  Getafe CF                    4-0  UD Las Palmas
+  Villarreal CF                1-2  Celta Vigo
+  Real Madrid                  3-0  Levante UD
+  Real Sociedad San Sebastian  0-2  Atlético Madrid
+  Valencia CF                  3-0  Málaga CF
+  Deportivo La Coruña          2-2  Athletic Bilbao
+  Sporting Gijón               3-3  Granada CF
+  Betis Sevilla                1-3  Espanyol Barcelona
 
 Jornada 9
 [Dom. 25.10.]
@@ -136,7 +136,7 @@ Jornada 9
   Málaga CF  Deportivo La Coruña
   Athletic Bilbao  Sporting Gijón
   Granada CF  Betis Sevilla
-  Rayo Vallecano  Espanyol Barcelona
+  Rayo Vallecano               3-0  Espanyol Barcelona
 
 Jornada 10
 [Mié. 28.10.]
