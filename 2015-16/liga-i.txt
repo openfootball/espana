@@ -172,13 +172,13 @@ Jornada 12
   Real Sociedad San Sebastian 2-0  Sevilla FC
   Valencia CF                 1-1  UD Las Palmas
   Deportivo La Coruña         2-0  Celta Vigo
-  Sporting Gijón  Levante UD
+  Sporting Gijón              0-3  Levante UD
   Betis Sevilla  Atlético Madrid
   Espanyol Barcelona          2-0  Málaga CF
   Granada CF  Athletic Bilbao
 
 Jornada 13
-[Jue. 26.11.]
+[Dom. 29.11.]
   UD Las Palmas  Deportivo La Coruña
   Celta Vigo  Sporting Gijón
   Levante UD  Betis Sevilla
@@ -191,7 +191,7 @@ Jornada 13
   Sevilla FC  Valencia CF
 
 Jornada 14
-[Dom. 29.11.]
+[Dom. 6.12.]
   Villarreal CF  Rayo Vallecano
   Real Madrid  Getafe CF
   Real Sociedad San Sebastian  SD Eibar
@@ -204,7 +204,7 @@ Jornada 14
   Athletic Bilbao  Málaga CF
 
 Jornada 15
-[Dom. 6.12.]
+[Dom. 13.12.]
   Villarreal CF  Real Madrid
   Getafe CF  Real Sociedad San Sebastian
   SD Eibar  Valencia CF
@@ -217,7 +217,7 @@ Jornada 15
   Rayo Vallecano  Málaga CF
 
 Jornada 16
-[Dom. 13.12.]
+[Dom. 20.12.]
   Real Madrid  Rayo Vallecano
   Real Sociedad San Sebastian  Villarreal CF
   Valencia CF  Getafe CF
