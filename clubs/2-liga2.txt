@@ -5,11 +5,11 @@
 
 
 [elche]
-  Elche CF|Elche C.F., ELC
+  Elche CF|Elche C.F.|Elche, ELC
   city:elche
 
 [almeria]
-  UD Almería|U.D. Almería|Unión Deportiva Almería, ALM
+  UD Almería|U.D. Almería|Unión Deportiva Almería|Almería, ALM
   city:almeria
 
 [cordoba]
@@ -21,7 +21,7 @@
   city:pamplona
 
 [villareal]
-  Villarreal CF|Villarreal C.F., VLL
+  Villarreal CF|Villarreal C.F.|Villarreal, VLL
   city:villarreal
 
 
