@@ -21,7 +21,7 @@
 
 
 [madrid]
-  R. Madrid|Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol, RMD
+  R. Madrid|Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol|Madrid, RMD
   city:madrid
 
 [atletico]
@@ -69,7 +69,7 @@
   city:vigo
 
 [realsociedad]
-  R. Sociedad|Real Sociedad San Sebastián|Real Sociedad|Real Sociedad de Fútbol, RSO
+  R. Sociedad|Real Sociedad San Sebastián|Real Sociedad|Real Sociedad de Fútbol|Sociedad, RSO
   city:sansebastian
 
 [valladolid]
