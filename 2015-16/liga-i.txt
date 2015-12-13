@@ -208,11 +208,11 @@ Jornada 15
   Villarreal CF  Real Madrid
   Getafe CF                    1-1  Real Sociedad San Sebastian
   SD Eibar  Valencia CF
-  FC Barcelona  Deportivo La Coruña
-  Sevilla FC  Sporting Gijón
-  UD Las Palmas  Betis Sevilla
-  Celta Vigo  Espanyol Barcelona
-  Levante UD  Granada CF
+  FC Barcelona                 2-2  Deportivo La Coruña
+  Sevilla FC                   2-0  Sporting Gijón
+  UD Las Palmas                1-0  Betis Sevilla
+  Celta Vigo                   1-0  Espanyol Barcelona
+  Levante UD                   1-2  Granada CF
   Atlético Madrid  Athletic Bilbao
   Rayo Vallecano  Málaga CF
 
