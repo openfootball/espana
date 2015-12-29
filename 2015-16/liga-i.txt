@@ -218,16 +218,16 @@ Jornada 15
 
 Jornada 16
 [Dom. 20.12.]
-  Real Madrid  Rayo Vallecano
-  Real Sociedad San Sebastian  Villarreal CF
-  Valencia CF  Getafe CF
-  Deportivo La Coruña  SD Eibar
-  Sporting Gijón  FC Barcelona
-  Betis Sevilla  Sevilla FC
-  Espanyol Barcelona  UD Las Palmas
-  Granada CF  Celta Vigo
-  Athletic Bilbao  Levante UD
-  Málaga CF  Atlético Madrid
+  Real Madrid                 10-2  Rayo Vallecano
+  Real Sociedad San Sebastian  0-2  Villarreal CF
+  Valencia CF                  2-2  Getafe CF
+  Deportivo La Coruña          2-0  SD Eibar
+  Sporting Gijón 17.02.  FC Barcelona
+  Betis Sevilla                0-0  Sevilla FC
+  Espanyol Barcelona           1-0  UD Las Palmas
+  Granada CF                   0-2  Celta Vigo
+  Athletic Bilbao              2-0  Levante UD
+  Málaga CF                    1-0  Atlético Madrid
 
 Jornada 17
 [Mié. 30.12.]
