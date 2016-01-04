@@ -244,16 +244,16 @@ Jornada 17
 
 Jornada 18
 [Dom. 3.1.]
-  Rayo Vallecano  Real Sociedad San Sebastian
-  Valencia CF  Real Madrid
-  Deportivo La Coruña  Villarreal CF
+  Rayo Vallecano               2-2  Real Sociedad San Sebastian
+  Valencia CF                  2-2  Real Madrid
+  Deportivo La Coruña          1-2  Villarreal CF
   Sporting Gijón  Getafe CF
-  Betis Sevilla  SD Eibar
-  Espanyol Barcelona  FC Barcelona
-  Granada CF  Sevilla FC
-  Athletic Bilbao  UD Las Palmas
-  Málaga CF  Celta Vigo
-  Atlético Madrid  Levante UD
+  Betis Sevilla                0-4  SD Eibar
+  Espanyol Barcelona           0-0  FC Barcelona
+  Granada CF                   2-1  Sevilla FC
+  Athletic Bilbao              2-2  UD Las Palmas
+  Málaga CF                    2-0  Celta Vigo
+  Atlético Madrid              1-0  Levante UD
   
 Jornada 19
 [Dom. 10.1.]
