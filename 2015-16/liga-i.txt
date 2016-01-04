@@ -232,15 +232,15 @@ Jornada 16
 Jornada 17
 [Mié. 30.12.]
   Real Madrid                  3-1  Real Sociedad San Sebastian
-  Villarreal CF  Valencia CF
-  Getafe CF  Deportivo La Coruña
-  SD Eibar  Sporting Gijón
-  FC Barcelona  Betis Sevilla
-  Sevilla FC  Espanyol Barcelona
-  UD Las Palmas  Granada CF
-  Celta Vigo  Athletic Bilbao
-  Levante UD  Málaga CF
-  Rayo Vallecano  Atlético Madrid
+  Villarreal CF                1-0  Valencia CF
+  Getafe CF                    0-0  Deportivo La Coruña
+  SD Eibar                     2-0  Sporting Gijón
+  FC Barcelona                 4-0  Betis Sevilla
+  Sevilla FC                   2-0  Espanyol Barcelona
+  UD Las Palmas                4-1  Granada CF
+  Celta Vigo                   0-1  Athletic Bilbao
+  Levante UD                   0-1  Málaga CF
+  Rayo Vallecano               0-2  Atlético Madrid
 
 Jornada 18
 [Dom. 3.1.]
