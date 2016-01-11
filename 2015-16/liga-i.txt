@@ -257,13 +257,13 @@ Jornada 18
   
 Jornada 19
 [Dom. 10.1.]
-  Real Sociedad San Sebastian  Valencia CF
-  Real Madrid  Deportivo La Coruña
-  Villarreal CF  Sporting Gijón
-  Getafe CF  Betis Sevilla
-  SD Eibar  Espanyol Barcelona
-  FC Barcelona  Granada CF
-  Sevilla FC  Athletic Bilbao
-  UD Las Palmas  Málaga CF
-  Celta Vigo  Atlético Madrid
-  Levante UD  Rayo Vallecano
+  Real Sociedad San Sebastian  2-0  Valencia CF
+  Real Madrid                  5-0  Deportivo La Coruña
+  Villarreal CF                2-0  Sporting Gijón
+  Getafe CF                    1-0  Betis Sevilla
+  SD Eibar                     2-1  Espanyol Barcelona
+  FC Barcelona                 4-0  Granada CF
+  Sevilla FC                   2-0  Athletic Bilbao
+  UD Las Palmas                1-1  Málaga CF
+  Celta Vigo                   0-2  Atlético Madrid
+  Levante UD                   2-1  Rayo Vallecano
