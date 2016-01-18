@@ -36,7 +36,7 @@ Jornada 21
 Jornada 22
 
 [Dom. 8.2.]
-  RCD Espanol           1-2  Valencia CF
+  RCD Espanyol          1-2  Valencia CF
   Getafe CF             2-1  Sevilla FC
   Córdoba CF            1-2  UD Almería
   Real Sociedad         1-1  Celta Vigo
@@ -82,7 +82,7 @@ Jornada 25
 
 [Dom. 1.3.]
   Málaga CF             3-2  Getafe CF
-  RCD Espanol           1-0  Córdoba CF
+  RCD Espanyol          1-0  Córdoba CF
   Valencia CF           2-0  Real Sociedad
   Sevilla FC            0-0  Atlético Madrid
   UD Almería            0-0  Deportivo La Coruña
