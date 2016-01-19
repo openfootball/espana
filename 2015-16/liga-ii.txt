@@ -5,16 +5,16 @@
 
 Jornada 20
 [Dom. 17.1.]
-  FC Barcelona  Athletic Bilbao
-  Sevilla FC  Málaga CF
-  Valencia CF  Rayo Vallecano
-  Celta Vigo  Levante UD
-  Getafe CF  Espanyol Barcelona
-  Real Sociedad San Sebastian  Deportivo La Coruña
-  SD Eibar  Granada CF
-  Villarreal CF  Betis Sevilla
-  Real Madrid  Sporting Gijón
-  UD Las Palmas  Atlético Madrid
+  FC Barcelona                 6-0  Athletic Bilbao
+  Sevilla FC                   2-1  Málaga CF
+  Valencia CF                  2-2  Rayo Vallecano
+  Celta Vigo                   4-3  Levante UD
+  Getafe CF                    3-1  Espanyol Barcelona
+  Real Sociedad San Sebastian  1-1  Deportivo La Coruña
+  SD Eibar                     5-1  Granada CF
+  Villarreal CF                0-0  Betis Sevilla
+  Real Madrid                  5-1  Sporting Gijón
+  UD Las Palmas                0-3  Atlético Madrid
 
 Jornada 21
 [Dom. 24.1.]
