@@ -31,16 +31,16 @@ Jornada 21
 
 Jornada 22
 [Dom. 31.1.]
-  UD Las Palmas  Celta Vigo
-  Sevilla FC  Levante UD
-  FC Barcelona  Atlético Madrid
-  SD Eibar  Málaga CF
-  Getafe CF  Athletic Bilbao
-  Villarreal CF  Granada CF
-  Real Madrid  Espanyol Barcelona
-  Real Sociedad San Sebastian  Betis Sevilla
-  Valencia CF  Sporting Gijón
-  Deportivo La Coruña  Rayo Vallecano
+  UD Las Palmas               2-1  Celta Vigo
+  Sevilla FC                  3-1  Levante UD
+  FC Barcelona                2-1  Atlético Madrid
+  SD Eibar                    1-2  Málaga CF
+  Getafe CF                   0-1  Athletic Bilbao
+  Villarreal CF               1-0  Granada CF
+  Real Madrid                 6-0  Espanyol Barcelona
+  Real Sociedad San Sebastian 2-1  Betis Sevilla
+  Valencia CF                 0-1  Sporting Gijón
+  Deportivo La Coruña         2-2  Rayo Vallecano
 
 Jornada 23
 [Dom. 7.2.]
