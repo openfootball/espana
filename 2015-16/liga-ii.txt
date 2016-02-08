@@ -18,29 +18,29 @@ Jornada 20
 
 Jornada 21
 [Dom. 24.1.]
-  Rayo Vallecano              3-0  Celta Vigo
-  Levante UD                  3-2  UD Las Palmas
-  Atlético Madrid             0-0  Sevilla FC
-  Málaga CF                   1-2  FC Barcelona
-  Athletic Bilbao             5-2  SD Eibar
-  Granada CF                  3-2  Getafe CF
-  Espanyol Barcelona          2-2  Villarreal CF
-  Betis Sevilla               1-1  Real Madrid
-  Sporting Gijón              5-1  Real Sociedad San Sebastian
-  Deportivo La Coruña         1-1  Valencia CF
+  Rayo Vallecano               3-0  Celta Vigo
+  Levante UD                   3-2  UD Las Palmas
+  Atlético Madrid              0-0  Sevilla FC
+  Málaga CF                    1-2  FC Barcelona
+  Athletic Bilbao              5-2  SD Eibar
+  Granada CF                   3-2  Getafe CF
+  Espanyol Barcelona           2-2  Villarreal CF
+  Betis Sevilla                1-1  Real Madrid
+  Sporting Gijón               5-1  Real Sociedad San Sebastian
+  Deportivo La Coruña          1-1  Valencia CF
 
 Jornada 22
 [Dom. 31.1.]
-  UD Las Palmas               2-1  Celta Vigo
-  Sevilla FC                  3-1  Levante UD
-  FC Barcelona                2-1  Atlético Madrid
-  SD Eibar                    1-2  Málaga CF
-  Getafe CF                   0-1  Athletic Bilbao
-  Villarreal CF               1-0  Granada CF
-  Real Madrid                 6-0  Espanyol Barcelona
-  Real Sociedad San Sebastian 2-1  Betis Sevilla
-  Valencia CF                 0-1  Sporting Gijón
-  Deportivo La Coruña         2-2  Rayo Vallecano
+  UD Las Palmas                2-1  Celta Vigo
+  Sevilla FC                   3-1  Levante UD
+  FC Barcelona                 2-1  Atlético Madrid
+  SD Eibar                     1-2  Málaga CF
+  Getafe CF                    0-1  Athletic Bilbao
+  Villarreal CF                1-0  Granada CF
+  Real Madrid                  6-0  Espanyol Barcelona
+  Real Sociedad San Sebastian  2-1  Betis Sevilla
+  Valencia CF                  0-1  Sporting Gijón
+  Deportivo La Coruña          2-2  Rayo Vallecano
 
 Jornada 23
 [Dom. 7.2.]
