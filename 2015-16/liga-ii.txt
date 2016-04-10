@@ -147,7 +147,7 @@ Jornada 30
   Granada CF                   2-2  Rayo Vallecano
 
 Jornada 31
-[Dom. 03.4.]
+[Dom. 3.4.]
   Rayo Vallecano               2-0  Getafe CF
   SD Eibar                     1-2  Villarreal CF
   FC Barcelona                 1-2  Real Madrid
@@ -199,7 +199,7 @@ Jornada 34
   Málaga CF  Rayo Vallecano
 
 Jornada 35
-[Dom. 24.5.]
+[Dom. 24.4.]
   Rayo Vallecano  Real Madrid
   Villarreal CF  Real Sociedad San Sebastian
   Getafe CF  Valencia CF
