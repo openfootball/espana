@@ -173,7 +173,7 @@ Jornada 32
   Valencia CF  Sevilla FC
 
 Jornada 33
-[Mié. 20.4.]
+[Dom. 17.4.]
   Rayo Vallecano  Villarreal CF
   Getafe CF  Real Madrid
   SD Eibar  Real Sociedad San Sebastian
@@ -186,7 +186,7 @@ Jornada 33
   Málaga CF  Athletic Bilbao
 
 Jornada 34
-[Dom. 24.4.]
+[Mie. 20.4.]
   Real Madrid  Villarreal CF
   Real Sociedad San Sebastian  Getafe CF
   Valencia CF  SD Eibar
@@ -199,7 +199,7 @@ Jornada 34
   Málaga CF  Rayo Vallecano
 
 Jornada 35
-[Dom. 1.5.]
+[Dom. 24.5.]
   Rayo Vallecano  Real Madrid
   Villarreal CF  Real Sociedad San Sebastian
   Getafe CF  Valencia CF
@@ -212,7 +212,7 @@ Jornada 35
   Atlético Madrid  Málaga CF
 
 Jornada 36
-[Mié. 11.5.]
+[Dom. 1.5.]
   Real Sociedad San Sebastian  Real Madrid
   Valencia CF  Villarreal CF
   Deportivo La Coruña  Getafe CF
@@ -225,7 +225,7 @@ Jornada 36
   Atlético Madrid  Rayo Vallecano
 
 Jornada 37
-[Dom. 15.5.]
+[Dom. 8.5.]
   Real Sociedad San Sebastian  Rayo Vallecano
   Real Madrid  Valencia CF
   Villarreal CF  Deportivo La Coruña
@@ -238,7 +238,7 @@ Jornada 37
   Levante UD  Atlético Madrid
 
 Jornada 38
-[Dom. 22.5.]
+[Dom. 15.5.]
   Valencia CF  Real Sociedad San Sebastian
   Deportivo La Coruña  Real Madrid
   Sporting Gijón  Villarreal CF
