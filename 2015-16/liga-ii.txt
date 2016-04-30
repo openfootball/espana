@@ -207,7 +207,7 @@ Jornada 35
   FC Barcelona                 6-0  Sporting Gijón
   Sevilla FC                   2-0  Betis Sevilla
   UD Las Palmas                4-0  Espanyol Barcelona
-  Celta Vigo  Granada CF
+  Celta Vigo                   2-1  Granada CF
   Levante UD                   2-2  Athletic Bilbao
   Atlético Madrid              1-0  Málaga CF
 
@@ -216,7 +216,7 @@ Jornada 36
   Real Sociedad San Sebastian  Real Madrid
   Valencia CF  Villarreal CF
   Deportivo La Coruña  Getafe CF
-  Sporting Gijón  SD Eibar
+  Sporting Gijón              2-0  SD Eibar
   Betis Sevilla  FC Barcelona
   Espanyol Barcelona  Sevilla FC
   Granada CF  UD Las Palmas
