@@ -214,13 +214,13 @@ Jornada 35
 Jornada 36
 [Dom. 1.5.]
   Real Sociedad San Sebastian  0-1  Real Madrid
-  Valencia CF  Villarreal CF
-  Deportivo La Coruña  Getafe CF
+  Valencia CF                  0-2  Villarreal CF
+  Deportivo La Coruña          0-2  Getafe CF
   Sporting Gijón               2-0  SD Eibar
   Betis Sevilla                0-2  FC Barcelona
-  Espanyol Barcelona  Sevilla FC
+  Espanyol Barcelona           1-0  Sevilla FC
   Granada CF                   3-2  UD Las Palmas
-  Athletic Bilbao  Celta Vigo
+  Athletic Bilbao              2-1  Celta Vigo
   Málaga CF  Levante UD
   Atlético Madrid              1-0  Rayo Vallecano
 
