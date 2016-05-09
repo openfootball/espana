@@ -224,21 +224,21 @@ Jornada 36
   Málaga CF                    3-1  Levante UD
   Atlético Madrid              1-0  Rayo Vallecano
   
-  Absteiger i Segunda Division :    Levante, 2 Plätze noch offen.
+  Absteiger 1 Segunda Division :    Levante, 2 Plätze noch offen.
   
 
 Jornada 37
 [Dom. 8.5.]
-  Real Sociedad San Sebastian  Rayo Vallecano
-  Real Madrid  Valencia CF
-  Villarreal CF  Deportivo La Coruña
-  Getafe CF  Sporting Gijón
-  SD Eibar  Betis Sevilla
-  FC Barcelona  Espanyol Barcelona
-  Sevilla FC  Granada CF
-  UD Las Palmas  Athletic Bilbao
-  Celta Vigo  Málaga CF
-  Levante UD  Atlético Madrid
+  Real Sociedad San Sebastian  2-1  Rayo Vallecano
+  Real Madrid                  3-2  Valencia CF
+  Villarreal CF                0-2  Deportivo La Coruña
+  Getafe CF                    1-1  Sporting Gijón
+  SD Eibar                     1-1  Betis Sevilla
+  FC Barcelona                 5-0  Espanyol Barcelona
+  Sevilla FC                   1-4  Granada CF
+  UD Las Palmas                0-0  Athletic Bilbao
+  Celta Vigo                   1-0  Málaga CF
+  Levante UD                   2-1  Atlético Madrid
 
 Jornada 38
 [Dom. 15.5.]
