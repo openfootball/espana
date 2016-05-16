@@ -243,13 +243,16 @@ Jornada 37
 Jornada 38
 [Dom. 15.5.]
   Valencia CF                  0-1  Real Sociedad San Sebastian
-  Deportivo La Coruña  Real Madrid
-  Sporting Gijón  Villarreal CF
-  Betis Sevilla  Getafe CF
-  Espanyol Barcelona  SD Eibar
-  Granada CF  FC Barcelona
-  Athletic Bilbao  Sevilla FC
-  Málaga CF  UD Las Palmas
-  Atlético Madrid  Celta Vigo
-  Rayo Vallecano  Levante UD
+  Deportivo La Coruña          0-2  Real Madrid
+  Sporting Gijón               2-0  Villarreal CF
+  Betis Sevilla                2-1  Getafe CF
+  Espanyol Barcelona           4-2  SD Eibar
+  Granada CF                   0-3  FC Barcelona
+  Athletic Bilbao              3-1  Sevilla FC
+  Málaga CF                    4-1  UD Las Palmas
+  Atlético Madrid              2-0  Celta Vigo
+  Rayo Vallecano               3-1  Levante UD
 
+Meister:  FC Barcelona.
+Absteiger: Rayo Vallecano, Getafe CF, Levante UD.
+Aufsteiger: 3 Plätze noch offen.
