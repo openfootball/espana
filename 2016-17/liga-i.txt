@@ -1,0 +1,35 @@
+Jornada 1
+
+[Vié. 19.8.]
+  Málaga CF           1-1  CA Osasuna
+  Deportivo La Coruña 2-1  SD Eibar
+[Sáb. 20.8.]
+  FC Barcelona        6-2  Betis Sevilla
+  Granada CF          1-1  Villarreal CF
+  Sevilla FC          6-4  Espanyol Barcelona
+[Dom. 21.8.]
+  Sporting Gijón             2-1  Athletic Bilbao
+  Real Sociedad San Sebastian 0-1 Real Madrid
+  Atlético Madrid   CD Alavés
+[Lun. 22.8.]
+  Celta Vigo   CD Leganés
+  Valencia CF   UD Las Palmas
+
+
+Jornada 2
+
+[Vié. 26.8.]
+  Betis Sevilla  Deportivo La Coruña
+  Espanyol Barcelona  Málaga CF
+[Sáb. 27.8.]
+  CA Osasuna  Real Sociedad San Sebastian
+  SD Eibar  Valencia CF
+  Real Madrid  Celta Vigo
+  CD Leganés  Atlético Madrid
+[Dom. 28.8.]
+  UD Las Palmas  Granada CF
+  CD Alavés  Sporting Gijón
+  Athletic Bilbao  FC Barcelona
+  Villarreal CF  Sevilla FC
+
+
