@@ -1,0 +1,287 @@
+
+Jornada 17
+[Dom. 8.1.]
+  Athletic Bilbao  CD Alavés
+  Betis Sevilla  CD Leganés
+  SD Eibar  Atlético Madrid
+  UD Las Palmas  Sporting Gijón
+  Villarreal CF  FC Barcelona
+  Espanyol Barcelona  Deportivo La Coruña
+  CA Osasuna  Valencia CF
+  Real Madrid  Granada CF
+  Real Sociedad San Sebastian  Sevilla FC
+  Celta Vigo  Málaga CF
+
+Jornada 18
+[Dom. 15.1.]
+  Celta Vigo  CD Alavés
+  CD Leganés  Athletic Bilbao
+  Atlético Madrid  Betis Sevilla
+  Sporting Gijón  SD Eibar
+  FC Barcelona  UD Las Palmas
+  Deportivo La Coruña  Villarreal CF
+  Valencia CF  Espanyol Barcelona
+  Granada CF  CA Osasuna
+  Sevilla FC  Real Madrid
+  Málaga CF  Real Sociedad San Sebastian
+
+Jornada 19
+[Dom. 22.1.]
+  CD Alavés  CD Leganés
+  Athletic Bilbao  Atlético Madrid
+  Betis Sevilla  Sporting Gijón
+  SD Eibar  FC Barcelona
+  UD Las Palmas  Deportivo La Coruña
+  Villarreal CF  Valencia CF
+  Espanyol Barcelona  Granada CF
+  CA Osasuna  Sevilla FC
+  Real Madrid  Málaga CF
+  Real Sociedad San Sebastian  Celta Vigo
+
+Jornada 20
+[Dom. 29.1.]
+  Real Madrid  Real Sociedad San Sebastian
+  CD Alavés  Atlético Madrid
+  Athletic Bilbao  Sporting Gijón
+  Betis Sevilla  FC Barcelona
+  SD Eibar  Deportivo La Coruña
+  UD Las Palmas  Valencia CF
+  Villarreal CF  Granada CF
+  Espanyol Barcelona  Sevilla FC
+  CA Osasuna  Málaga CF
+  CD Leganés  Celta Vigo
+
+Jornada 21
+[Dom. 5.2.]
+  Celta Vigo  Real Madrid
+  Real Sociedad San Sebastian  CA Osasuna
+  Málaga CF  Espanyol Barcelona
+  Sevilla FC  Villarreal CF
+  Granada CF  UD Las Palmas
+  Valencia CF  SD Eibar
+  Deportivo La Coruña  Betis Sevilla
+  FC Barcelona  Athletic Bilbao
+  Sporting Gijón  CD Alavés
+  Atlético Madrid  CD Leganés
+
+Jornada 22
+[Dom. 12.2.]
+  CA Osasuna  Real Madrid
+  Espanyol Barcelona  Real Sociedad San Sebastian
+  Villarreal CF  Málaga CF
+  UD Las Palmas  Sevilla FC
+  SD Eibar  Granada CF
+  Betis Sevilla  Valencia CF
+  Athletic Bilbao  Deportivo La Coruña
+  CD Alavés  FC Barcelona
+  CD Leganés  Sporting Gijón
+  Atlético Madrid  Celta Vigo
+
+Jornada 23
+[Dom. 19.2.]
+  Celta Vigo  CA Osasuna
+  Real Madrid  Espanyol Barcelona
+  Real Sociedad San Sebastian  Villarreal CF
+  Málaga CF  UD Las Palmas
+  Sevilla FC  SD Eibar
+  Granada CF  Betis Sevilla
+  Valencia CF  Athletic Bilbao
+  Deportivo La Coruña  CD Alavés
+  FC Barcelona  CD Leganés
+  Sporting Gijón  Atlético Madrid
+
+Jornada 24
+[Dom. 26.2.]
+  Espanyol Barcelona  CA Osasuna
+  Villarreal CF  Real Madrid
+  UD Las Palmas  Real Sociedad San Sebastian
+  SD Eibar  Málaga CF
+  Betis Sevilla  Sevilla FC
+  Athletic Bilbao  Granada CF
+  CD Alavés  Valencia CF
+  CD Leganés  Deportivo La Coruña
+  Atlético Madrid  FC Barcelona
+  Sporting Gijón  Celta Vigo
+
+Jornada 25
+[Mié. 1.3.]
+  Celta Vigo  Espanyol Barcelona
+  CA Osasuna  Villarreal CF
+  Real Madrid  UD Las Palmas
+  Real Sociedad San Sebastian  SD Eibar
+  Málaga CF  Betis Sevilla
+  Sevilla FC  Athletic Bilbao
+  Granada CF  CD Alavés
+  Valencia CF  CD Leganés
+  Deportivo La Coruña  Atlético Madrid
+  FC Barcelona  Sporting Gijón
+
+Jornada 26
+[Dom. 5.3.]
+  Villarreal CF  Espanyol Barcelona
+  UD Las Palmas  CA Osasuna
+  SD Eibar  Real Madrid
+  Betis Sevilla  Real Sociedad San Sebastian
+  Athletic Bilbao  Málaga CF
+  CD Alavés  Sevilla FC
+  CD Leganés  Granada CF
+  Atlético Madrid  Valencia CF
+  Sporting Gijón  Deportivo La Coruña
+  FC Barcelona  Celta Vigo
+
+Jornada 27
+[Dom. 12.3.]
+  Celta Vigo  Villarreal CF
+  Espanyol Barcelona  UD Las Palmas
+  CA Osasuna  SD Eibar
+  Real Madrid  Betis Sevilla
+  Real Sociedad San Sebastian  Athletic Bilbao
+  Málaga CF  CD Alavés
+  Sevilla FC  CD Leganés
+  Granada CF  Atlético Madrid
+  Valencia CF  Sporting Gijón
+  Deportivo La Coruña  FC Barcelona
+
+Jornada 28
+[Dom. 19.3.]
+  UD Las Palmas  Villarreal CF
+  SD Eibar  Espanyol Barcelona
+  Betis Sevilla  CA Osasuna
+  Athletic Bilbao  Real Madrid
+  CD Alavés  Real Sociedad San Sebastian
+  CD Leganés  Málaga CF
+  Atlético Madrid  Sevilla FC
+  Sporting Gijón  Granada CF
+  FC Barcelona  Valencia CF
+  Deportivo La Coruña  Celta Vigo
+
+Jornada 29
+[Dom. 2.4.]
+  Celta Vigo  UD Las Palmas
+  Villarreal CF  SD Eibar
+  Espanyol Barcelona  Betis Sevilla
+  CA Osasuna  Athletic Bilbao
+  Real Madrid  CD Alavés
+  Real Sociedad San Sebastian  CD Leganés
+  Málaga CF  Atlético Madrid
+  Sevilla FC  Sporting Gijón
+  Granada CF  FC Barcelona
+  Valencia CF  Deportivo La Coruña
+
+Jornada 30
+[Mié. 5.4.]
+  SD Eibar  UD Las Palmas
+  Betis Sevilla  Villarreal CF
+  Athletic Bilbao  Espanyol Barcelona
+  CD Alavés  CA Osasuna
+  CD Leganés  Real Madrid
+  Atlético Madrid  Real Sociedad San Sebastian
+  Sporting Gijón  Málaga CF
+  FC Barcelona  Sevilla FC
+  Deportivo La Coruña  Granada CF
+  Valencia CF  Celta Vigo
+
+Jornada 31
+[Dom. 9.4.]
+  Celta Vigo  SD Eibar
+  UD Las Palmas  Betis Sevilla
+  Villarreal CF  Athletic Bilbao
+  Espanyol Barcelona  CD Alavés
+  CA Osasuna  CD Leganés
+  Real Madrid  Atlético Madrid
+  Real Sociedad San Sebastian  Sporting Gijón
+  Málaga CF  FC Barcelona
+  Sevilla FC  Deportivo La Coruña
+  Granada CF  Valencia CF
+
+Jornada 32
+[Dom. 16.4.]
+  Betis Sevilla  SD Eibar
+  Athletic Bilbao  UD Las Palmas
+  CD Alavés  Villarreal CF
+  CD Leganés  Espanyol Barcelona
+  Atlético Madrid  CA Osasuna
+  Sporting Gijón  Real Madrid
+  FC Barcelona  Real Sociedad San Sebastian
+  Deportivo La Coruña  Málaga CF
+  Valencia CF  Sevilla FC
+  Granada CF  Celta Vigo
+
+Jornada 33
+[Dom. 23.4.]
+  Celta Vigo  Betis Sevilla
+  SD Eibar  Athletic Bilbao
+  UD Las Palmas  CD Alavés
+  Villarreal CF  CD Leganés
+  Espanyol Barcelona  Atlético Madrid
+  CA Osasuna  Sporting Gijón
+  Real Madrid  FC Barcelona
+  Real Sociedad San Sebastian  Deportivo La Coruña
+  Málaga CF  Valencia CF
+  Sevilla FC  Granada CF
+
+Jornada 34
+[Mié. 26.4.]
+  Athletic Bilbao  Betis Sevilla
+  CD Alavés  SD Eibar
+  CD Leganés  UD Las Palmas
+  Atlético Madrid  Villarreal CF
+  Sporting Gijón  Espanyol Barcelona
+  FC Barcelona  CA Osasuna
+  Deportivo La Coruña  Real Madrid
+  Valencia CF  Real Sociedad San Sebastian
+  Granada CF  Málaga CF
+  Sevilla FC  Celta Vigo
+
+Jornada 35
+[Dom. 30.4.]
+  Celta Vigo  Athletic Bilbao
+  Betis Sevilla  CD Alavés
+  SD Eibar  CD Leganés
+  UD Las Palmas  Atlético Madrid
+  Villarreal CF  Sporting Gijón
+  Espanyol Barcelona  FC Barcelona
+  CA Osasuna  Deportivo La Coruña
+  Real Madrid  Valencia CF
+  Real Sociedad San Sebastian  Granada CF
+  Málaga CF  Sevilla FC
+
+Jornada 36
+[Dom. 7.5.]
+  CD Alavés  Athletic Bilbao
+  CD Leganés  Betis Sevilla
+  Atlético Madrid  SD Eibar
+  Sporting Gijón  UD Las Palmas
+  FC Barcelona  Villarreal CF
+  Deportivo La Coruña  Espanyol Barcelona
+  Valencia CF  CA Osasuna
+  Granada CF  Real Madrid
+  Sevilla FC  Real Sociedad San Sebastian
+  Málaga CF  Celta Vigo
+
+Jornada 37
+[Dom. 14.5.]
+  CD Alavés  Celta Vigo
+  Athletic Bilbao  CD Leganés
+  Betis Sevilla  Atlético Madrid
+  SD Eibar  Sporting Gijón
+  UD Las Palmas  FC Barcelona
+  Villarreal CF  Deportivo La Coruña
+  Espanyol Barcelona  Valencia CF
+  CA Osasuna  Granada CF
+  Real Madrid  Sevilla FC
+  Real Sociedad San Sebastian  Málaga CF
+
+Jornada 38
+[Dom. 21.5.]
+  CD Leganés  CD Alavés
+  Atlético Madrid  Athletic Bilbao
+  Sporting Gijón  Betis Sevilla
+  FC Barcelona  SD Eibar
+  Deportivo La Coruña  UD Las Palmas
+  Valencia CF  Villarreal CF
+  Granada CF  Espanyol Barcelona
+  Sevilla FC  CA Osasuna
+  Málaga CF  Real Madrid
+  Celta Vigo  Real Sociedad San Sebastian
+
