@@ -2,14 +2,19 @@
 
 ```
 3 leagues
-Primera División (es) |  4 events
+Primera División (es) |  5 events
 Segunda División (es.2) |  0 events
 Copa del Rey (es.cup) |  0 events
-4 events:
+5 events:
 #######################
-## 2015/16 Primera División  |  20 Teams, 381 Matches, 1041 Goals (+0 a.e.t.)
+## 2016/17 Primera División  |  20 Teams, 380 Matches, 48 Goals (+0 a.e.t.)
     0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
-1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (11)  
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
+
+#######################
+## 2015/16 Primera División  |  20 Teams, 380 Matches, 1041 Goals (+0 a.e.t.)
+    0 Groups, 38 Rounds (38 Matchdays, 0 K.O.s)
+1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
 #######################
 ## 2014/15 Primera División  |  20 Teams, 380 Matches, 1009 Goals (+0 a.e.t.)
@@ -27,7 +32,7 @@ Copa del Rey (es.cup) |  0 events
 1 (10)  2 (10)  3 (10)  4 (10)  5 (10)  6 (10)  7 (10)  8 (10)  9 (10)  10 (10)  11 (10)  12 (10)  13 (10)  14 (10)  15 (10)  16 (10)  17 (10)  18 (10)  19 (10)  20 (10)  21 (10)  22 (10)  23 (10)  24 (10)  25 (10)  26 (10)  27 (10)  28 (10)  29 (10)  30 (10)  31 (10)  32 (10)  33 (10)  34 (10)  35 (10)  36 (10)  37 (10)  38 (10)  
 
 79 logs:
-[warn] Rakefile - 2016-08-23 08:57:26 +0200
+[warn] Rakefile - 2016-08-28 13:22:25 +0200
 [warn] hash reader - found implicit bool (no) for key; adding quotes to turn into string; see yaml.org/refcard.html (path=)
 [warn] no country match found for >Bonaire<; skipping line; in [1-codes/fifa]
 [warn] no country match found for >Kosovo<; skipping line; in [1-codes/fifa]
