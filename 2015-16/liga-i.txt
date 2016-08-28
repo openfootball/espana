@@ -9,7 +9,7 @@ Jornada 1
   Málaga CF                    0-0  Sevilla FC
 [Sáb. 22.8.]
   Espanyol Barcelona           1-0  Getafe CF
-  Deportivo La Coruña          0-0  Real Sociedad San Sebastian
+  Deportivo La Coruña          0-0  Real Sociedad San Sebastián
   Atlético Madrid              1-0  UD Las Palmas
   Rayo Vallecano               0-0  Valencia CF
 [Dom. 23.8.]
@@ -26,7 +26,7 @@ Jornada 2
   Villarreal CF                3-1  Espanyol Barcelona
 [Sáb. 29.8.]
   Celta Vigo                   3-0  Rayo Vallecano
-  Real Sociedad San Sebastian  0-0  Sporting Gijón
+  Real Sociedad San Sebastián  0-0  Sporting Gijón
   FC Barcelona                 1-0  Málaga CF
   Real Madrid                  5-0  Betis Sevilla
 [Dom. 30.8.]
@@ -44,7 +44,7 @@ Jornada 3
   Espanyol Barcelona           0-6  Real Madrid
   Sporting Gijón               0-1  Valencia CF
   Atlético Madrid              1-2  FC Barcelona
-  Betis Sevilla                1-0  Real Sociedad San Sebastian
+  Betis Sevilla                1-0  Real Sociedad San Sebastián
 [Dom. 13.9.]
   Granada CF                   1-3  Villarreal CF
   Athletic Bilbao              3-1  Getafe CF
@@ -60,7 +60,7 @@ Jornada 4
   Real Madrid                  1-0  Granada CF
   Valencia CF                  0-0  Betis Sevilla
   SD Eibar                     0-2  Atlético Madrid
-  Real Sociedad San Sebastian  2-3  Espanyol Barcelona
+  Real Sociedad San Sebastián  2-3  Espanyol Barcelona
 [Dom. 20.9.]
   Sevilla FC                   1-2  Celta Vigo
   Deportivo La Coruña          2-3  Sporting Gijón
@@ -73,7 +73,7 @@ Jornada 5
 [Mar. 22.9.]
   Atlético Madrid              2-0  Getafe CF
   Espanyol Barcelona           1-0  Valencia CF
-  Granada CF                   0-3  Real Sociedad San Sebastian
+  Granada CF                   0-3  Real Sociedad San Sebastián
 [Mié. 23.9.]
   Celta Vigo                   4-1  FC Barcelona
   Levante UD                   2-2  SD Eibar
@@ -97,7 +97,7 @@ Jornada 6
   Sporting Gijón               1-2  Betis Sevilla
   Deportivo La Coruña          3-0  Espanyol Barcelona
   Getafe CF                    3-0  Levante UD
-  Real Sociedad San Sebastian  0-0  Athletic Bilbao
+  Real Sociedad San Sebastián  0-0  Athletic Bilbao
 
 Jornada 7
 [Dom. 4.10.]
@@ -106,7 +106,7 @@ Jornada 7
   Celta Vigo                   0-0  Getafe CF
   Levante UD                   1-0  Villarreal CF
   Atlético Madrid              1-1  Real Madrid
-  Málaga CF                    3-1  Real Sociedad San Sebastian
+  Málaga CF                    3-1  Real Sociedad San Sebastián
   Athletic Bilbao              3-1  Valencia CF
   Granada CF                   1-1  Deportivo La Coruña
   Espanyol Barcelona           1-2  Sporting Gijón
@@ -119,7 +119,7 @@ Jornada 8
   Getafe CF                    4-0  UD Las Palmas
   Villarreal CF                1-2  Celta Vigo
   Real Madrid                  3-0  Levante UD
-  Real Sociedad San Sebastian  0-2  Atlético Madrid
+  Real Sociedad San Sebastián  0-2  Atlético Madrid
   Valencia CF                  3-0  Málaga CF
   Deportivo La Coruña          2-2  Athletic Bilbao
   Sporting Gijón               3-3  Granada CF
@@ -131,7 +131,7 @@ Jornada 9
   Sevilla FC                   5-0  Getafe CF
   UD Las Palmas                0-0  Villarreal CF
   Celta Vigo                   1-2  Real Madrid
-  Levante UD                   0-4  Real Sociedad San Sebastian
+  Levante UD                   0-4  Real Sociedad San Sebastián
   Atlético Madrid              2-1  Valencia CF
   Málaga CF                    2-0  Deportivo La Coruña
   Athletic Bilbao              3-0  Sporting Gijón
@@ -144,7 +144,7 @@ Jornada 10
   SD Eibar                     1-0  Rayo Vallecano
   Villarreal CF                2-1  Sevilla FC
   Real Madrid                  3-1  UD Las Palmas
-  Real Sociedad San Sebastian  2-3  Celta Vigo
+  Real Sociedad San Sebastián  2-3  Celta Vigo
   Valencia CF                  3-0  Levante UD
   Deportivo La Coruña          1-1  Atlético Madrid
   Sporting Gijón               1-0  Málaga CF
@@ -156,7 +156,7 @@ Jornada 11
   SD Eibar                     3-1  Getafe CF
   FC Barcelona                 3-0  Villarreal CF
   Sevilla FC                   3-2  Real Madrid
-  UD Las Palmas                2-0  Real Sociedad San Sebastian
+  UD Las Palmas                2-0  Real Sociedad San Sebastián
   Celta Vigo                   1-5  Valencia CF
   Levante UD                   1-1  Deportivo La Coruña
   Atlético Madrid              1-0  Sporting Gijón
@@ -169,7 +169,7 @@ Jornada 12
   Getafe CF                    1-1  Rayo Vallecano
   Villarreal CF                1-1  SD Eibar
   Real Madrid                  0-4  FC Barcelona
-  Real Sociedad San Sebastian  2-0  Sevilla FC
+  Real Sociedad San Sebastián  2-0  Sevilla FC
   Valencia CF                  1-1  UD Las Palmas
   Deportivo La Coruña          2-0  Celta Vigo
   Sporting Gijón               0-3  Levante UD
@@ -187,14 +187,14 @@ Jornada 13
   Rayo Vallecano               0-3  Athletic Bilbao
   Getafe CF                    2-0  Villarreal CF
   SD Eibar                     0-2  Real Madrid
-  FC Barcelona                 4-0  Real Sociedad San Sebastian
+  FC Barcelona                 4-0  Real Sociedad San Sebastián
   Sevilla FC                   1-0  Valencia CF
 
 Jornada 14
 [Dom. 6.12.]
   Villarreal CF                2-1  Rayo Vallecano
   Real Madrid                  4-1  Getafe CF
-  Real Sociedad San Sebastian  2-1  SD Eibar
+  Real Sociedad San Sebastián  2-1  SD Eibar
   Valencia CF                  1-1  FC Barcelona
   Deportivo La Coruña          1-1  Sevilla FC
   Sporting Gijón               3-1  UD Las Palmas
@@ -206,7 +206,7 @@ Jornada 14
 Jornada 15
 [Dom. 13.12.]
   Villarreal CF                1-0  Real Madrid
-  Getafe CF                    1-1  Real Sociedad San Sebastian
+  Getafe CF                    1-1  Real Sociedad San Sebastián
   SD Eibar                     1-1  Valencia CF
   FC Barcelona                 2-2  Deportivo La Coruña
   Sevilla FC                   2-0  Sporting Gijón
@@ -219,7 +219,7 @@ Jornada 15
 Jornada 16
 [Dom. 20.12.]
   Real Madrid                 10-2  Rayo Vallecano
-  Real Sociedad San Sebastian  0-2  Villarreal CF
+  Real Sociedad San Sebastián  0-2  Villarreal CF
   Valencia CF                  2-2  Getafe CF
   Deportivo La Coruña          2-0  SD Eibar
   Sporting Gijón               1-3  FC Barcelona
@@ -231,7 +231,7 @@ Jornada 16
 
 Jornada 17
 [Mié. 30.12.]
-  Real Madrid                  3-1  Real Sociedad San Sebastian
+  Real Madrid                  3-1  Real Sociedad San Sebastián
   Villarreal CF                1-0  Valencia CF
   Getafe CF                    0-0  Deportivo La Coruña
   SD Eibar                     2-0  Sporting Gijón
@@ -244,7 +244,7 @@ Jornada 17
 
 Jornada 18
 [Dom. 3.1.]
-  Rayo Vallecano               2-2  Real Sociedad San Sebastian
+  Rayo Vallecano               2-2  Real Sociedad San Sebastián
   Valencia CF                  2-2  Real Madrid
   Deportivo La Coruña          1-2  Villarreal CF
   Sporting Gijón               1-2  Getafe CF
@@ -254,10 +254,10 @@ Jornada 18
   Athletic Bilbao              2-2  UD Las Palmas
   Málaga CF                    2-0  Celta Vigo
   Atlético Madrid              1-0  Levante UD
-  
+
 Jornada 19
 [Dom. 10.1.]
-  Real Sociedad San Sebastian  2-0  Valencia CF
+  Real Sociedad San Sebastián  2-0  Valencia CF
   Real Madrid                  5-0  Deportivo La Coruña
   Villarreal CF                2-0  Sporting Gijón
   Getafe CF                    1-0  Betis Sevilla

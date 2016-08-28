@@ -9,7 +9,7 @@ Jornada 1
   Sevilla FC                   6-4  Espanyol Barcelona
 [Dom. 21.8.]
   Sporting Gijón               2-1  Athletic Bilbao
-  Real Sociedad San Sebastian  0-1  Real Madrid
+  Real Sociedad San Sebastián  0-1  Real Madrid
   Atlético Madrid              1-1  CD Alavés
 [Lun. 22.8.]
   Celta Vigo                   0-1  CD Leganés
@@ -22,7 +22,7 @@ Jornada 2
   Betis Sevilla               0-0  Deportivo La Coruña
   Espanyol Barcelona          2-2  Málaga CF
 [Sáb. 27.8.]
-  CA Osasuna                  0-2  Real Sociedad San Sebastian
+  CA Osasuna                  0-2  Real Sociedad San Sebastián
   SD Eibar                    1-0  Valencia CF
   Real Madrid                 2-1  Celta Vigo
   CD Leganés                  0-0  Atlético Madrid
@@ -36,7 +36,7 @@ Jornada 2
 Jornada 3
 
 [Vié. 9.9.]
-  Real Sociedad San Sebastian  Espanyol Barcelona
+  Real Sociedad San Sebastián  Espanyol Barcelona
 [Sáb. 10.9.]
   Celta Vigo  Atlético Madrid
   Real Madrid  CA Osasuna
@@ -54,7 +54,7 @@ Jornada 4
 [Vié. 16.9.]
   Betis Sevilla  Granada CF
 [Sáb. 17.9.]
-  Villarreal CF  Real Sociedad San Sebastian
+  Villarreal CF  Real Sociedad San Sebastián
   CD Leganés  FC Barcelona
   UD Las Palmas  Málaga CF
   SD Eibar  Sevilla FC
@@ -70,7 +70,7 @@ Jornada 5
 [Mié. 21.9.]
   CA Osasuna  Espanyol Barcelona
   Real Madrid  Villarreal CF
-  Real Sociedad San Sebastian  UD Las Palmas
+  Real Sociedad San Sebastián  UD Las Palmas
   Málaga CF  SD Eibar
   Sevilla FC  Betis Sevilla
   Granada CF  Athletic Bilbao
@@ -84,7 +84,7 @@ Jornada 6
   Espanyol Barcelona  Celta Vigo
   Villarreal CF  CA Osasuna
   UD Las Palmas  Real Madrid
-  SD Eibar  Real Sociedad San Sebastian
+  SD Eibar  Real Sociedad San Sebastián
   Betis Sevilla  Málaga CF
   Athletic Bilbao  Sevilla FC
   CD Alavés  Granada CF
@@ -97,7 +97,7 @@ Jornada 7
   Espanyol Barcelona  Villarreal CF
   CA Osasuna  UD Las Palmas
   Real Madrid  SD Eibar
-  Real Sociedad San Sebastian  Betis Sevilla
+  Real Sociedad San Sebastián  Betis Sevilla
   Málaga CF  Athletic Bilbao
   Sevilla FC  CD Alavés
   Granada CF  CD Leganés
@@ -111,7 +111,7 @@ Jornada 8
   UD Las Palmas  Espanyol Barcelona
   SD Eibar  CA Osasuna
   Betis Sevilla  Real Madrid
-  Athletic Bilbao  Real Sociedad San Sebastian
+  Athletic Bilbao  Real Sociedad San Sebastián
   CD Alavés  Málaga CF
   CD Leganés  Sevilla FC
   Atlético Madrid  Granada CF
@@ -124,7 +124,7 @@ Jornada 9
   Espanyol Barcelona  SD Eibar
   CA Osasuna  Betis Sevilla
   Real Madrid  Athletic Bilbao
-  Real Sociedad San Sebastian  CD Alavés
+  Real Sociedad San Sebastián  CD Alavés
   Málaga CF  CD Leganés
   Sevilla FC  Atlético Madrid
   Granada CF  Sporting Gijón
@@ -138,7 +138,7 @@ Jornada 10
   Betis Sevilla  Espanyol Barcelona
   Athletic Bilbao  CA Osasuna
   CD Alavés  Real Madrid
-  CD Leganés  Real Sociedad San Sebastian
+  CD Leganés  Real Sociedad San Sebastián
   Atlético Madrid  Málaga CF
   Sporting Gijón  Sevilla FC
   FC Barcelona  Granada CF
@@ -151,7 +151,7 @@ Jornada 11
   Espanyol Barcelona  Athletic Bilbao
   CA Osasuna  CD Alavés
   Real Madrid  CD Leganés
-  Real Sociedad San Sebastian  Atlético Madrid
+  Real Sociedad San Sebastián  Atlético Madrid
   Málaga CF  Sporting Gijón
   Sevilla FC  FC Barcelona
   Granada CF  Deportivo La Coruña
@@ -165,7 +165,7 @@ Jornada 12
   CD Alavés  Espanyol Barcelona
   CD Leganés  CA Osasuna
   Atlético Madrid  Real Madrid
-  Sporting Gijón  Real Sociedad San Sebastian
+  Sporting Gijón  Real Sociedad San Sebastián
   FC Barcelona  Málaga CF
   Deportivo La Coruña  Sevilla FC
   Valencia CF  Granada CF
@@ -178,7 +178,7 @@ Jornada 13
   Espanyol Barcelona  CD Leganés
   CA Osasuna  Atlético Madrid
   Real Madrid  Sporting Gijón
-  Real Sociedad San Sebastian  FC Barcelona
+  Real Sociedad San Sebastián  FC Barcelona
   Málaga CF  Deportivo La Coruña
   Sevilla FC  Valencia CF
   Celta Vigo  Granada CF
@@ -192,7 +192,7 @@ Jornada 14
   Atlético Madrid  Espanyol Barcelona
   Sporting Gijón  CA Osasuna
   FC Barcelona  Real Madrid
-  Deportivo La Coruña  Real Sociedad San Sebastian
+  Deportivo La Coruña  Real Sociedad San Sebastián
   Valencia CF  Málaga CF
   Granada CF  Sevilla FC
 
@@ -205,7 +205,7 @@ Jornada 15
   Espanyol Barcelona  Sporting Gijón
   CA Osasuna  FC Barcelona
   Real Madrid  Deportivo La Coruña
-  Real Sociedad San Sebastian  Valencia CF
+  Real Sociedad San Sebastián  Valencia CF
   Málaga CF  Granada CF
   Celta Vigo  Sevilla FC
 
@@ -219,7 +219,5 @@ Jornada 16
   FC Barcelona  Espanyol Barcelona
   Deportivo La Coruña  CA Osasuna
   Valencia CF  Real Madrid
-  Granada CF  Real Sociedad San Sebastian
+  Granada CF  Real Sociedad San Sebastián
   Sevilla FC  Málaga CF
-
-

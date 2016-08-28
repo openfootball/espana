@@ -25,14 +25,13 @@
   city:villarreal
 
 
-
 alcorcon,     Alcorcón|AD Alcorcón|Agrupación Deportiva Alcorcón
 sabadell,     Sabadell|CE Sabadell FC|Centre d'Esports Sabadell Futbol Club
 lugo,         Lugo|CD Lugo|Club Deportivo Lugo
 mirandes,     Mirandés|CD Mirandés|Club Deportivo Mirandés
 numancia,     Numancia|CD Numancia|Club Deportivo Numancia de Soria
 tenerife,     Tenerife|CD Tenerife|Club Deportivo Tenerife
-alaves,       Alavés|Deportivo Alavés
+alaves,       Alavés|Deportivo Alavés|CD Alavés
 barcelonab,   Barcelona B|FC Barcelona B|Fútbol Club Barcelona B
 girona,       Girona|Girona FC|Girona Futbol Club
 hercules,     Hércules|Hércules CF|Hércules de Alicante Club de Fútbol
@@ -43,3 +42,5 @@ castilla,     Castilla|Real Madrid Castilla|Real Madrid Castilla Club de Fútbol
 murcia,       Murcia|Real Murcia CF|Real Murcia Club de Fútbol
 zaragoza,     Zaragoza|Real Zaragoza,  ZAR, city:zaragoza
 ponferradina, Ponferradina|SD Ponferradina|Sociedad Deportiva Ponferradina
+
+leganes,      Club Deportivo Leganés|CD Leganés
