@@ -19,51 +19,51 @@ Jornada 1
 Jornada 2
 
 [Vié. 26.8.]
-  Betis Sevilla               0-0  Deportivo La Coruña
-  Espanyol Barcelona          2-2  Málaga CF
+  Betis Sevilla                0-0  Deportivo La Coruña
+  Espanyol Barcelona           2-2  Málaga CF
 [Sáb. 27.8.]
-  CA Osasuna                  0-2  Real Sociedad San Sebastián
-  SD Eibar                    1-0  Valencia CF
-  Real Madrid                 2-1  Celta Vigo
-  CD Leganés                  0-0  Atlético Madrid
+  CA Osasuna                   0-2  Real Sociedad San Sebastián
+  SD Eibar                     1-0  Valencia CF
+  Real Madrid                  2-1  Celta Vigo
+  CD Leganés                   0-0  Atlético Madrid
 [Dom. 28.8.]
-  UD Las Palmas               5-1  Granada CF
-  CD Alavés                   0-0  Sporting Gijón
-  Athletic Bilbao             0-1  FC Barcelona
-  Villarreal CF               0-0  Sevilla FC
+  UD Las Palmas                5-1  Granada CF
+  CD Alavés                    0-0  Sporting Gijón
+  Athletic Bilbao              0-1  FC Barcelona
+  Villarreal CF                0-0  Sevilla FC
 
 
 Jornada 3
 
 [Vié. 9.9.]
-  Real Sociedad San Sebastián 1-1  Espanyol Barcelona
+  Real Sociedad San Sebastián  1-1  Espanyol Barcelona
 [Sáb. 10.9.]
-  Celta Vigo                  0-4  Atlético Madrid
-  Real Madrid                 5-2  CA Osasuna
-  Málaga CF                   0-2  Villarreal CF
-  Sevilla FC                  2-1  UD Las Palmas
-  FC Barcelona                1-2  CD Alavés
+  Celta Vigo                   0-4  Atlético Madrid
+  Real Madrid                  5-2  CA Osasuna
+  Málaga CF                    0-2  Villarreal CF
+  Sevilla FC                   2-1  UD Las Palmas
+  FC Barcelona                 1-2  CD Alavés
 [Dom. 11.9.]
-  Sporting Gijón              2-1  CD Leganés
-  Valencia CF                 2-3  Betis Sevilla
-  Granada CF                  1-2  SD Eibar
-  Deportivo La Coruña         0-1  Athletic Bilbao
+  Sporting Gijón               2-1  CD Leganés
+  Valencia CF                  2-3  Betis Sevilla
+  Granada CF                   1-2  SD Eibar
+  Deportivo La Coruña          0-1  Athletic Bilbao
 
 Jornada 4
 
 [Vié. 16.9.]
-  Betis Sevilla               2-2  Granada CF
+  Betis Sevilla                2-2  Granada CF
 [Sáb. 17.9.]
-  Villarreal CF  Real Sociedad San Sebastián
-  CD Leganés                  1-5  FC Barcelona
-  UD Las Palmas               1-0  Málaga CF
-  SD Eibar                    1-1  Sevilla FC
-  Atlético Madrid             5-0  Sporting Gijón
+  Villarreal CF                2-1  Real Sociedad San Sebastián
+  CD Leganés                   1-5  FC Barcelona
+  UD Las Palmas                1-0  Málaga CF
+  SD Eibar                     1-1  Sevilla FC
+  Atlético Madrid              5-0  Sporting Gijón
 [Dom. 18.9.]
-  CD Alavés  Deportivo La Coruña
-  Athletic Bilbao  Valencia CF
-  CA Osasuna  Celta Vigo
-  Espanyol Barcelona  Real Madrid
+  CD Alavés                    0-0  Deportivo La Coruña
+  Athletic Bilbao              2-1  Valencia CF
+  CA Osasuna                   0-0  Celta Vigo
+  Espanyol Barcelona           0-2  Real Madrid
 
 Jornada 5
 
