@@ -211,12 +211,12 @@ Jornada 15
 [Dom. 11.12.]
   Betis Sevilla  Athletic Bilbao
   SD Eibar  CD Alavés
-  UD Las Palmas  CD Leganés
+  UD Las Palmas                1-1  CD Leganés
   Villarreal CF  Atlético Madrid
   Espanyol Barcelona  Sporting Gijón
-  CA Osasuna  FC Barcelona
-  Real Madrid  Deportivo La Coruña
-  Real Sociedad San Sebastián  Valencia CF
+  CA Osasuna                   0-3  FC Barcelona
+  Real Madrid                  3-2  Deportivo La Coruña
+  Real Sociedad San Sebastián  3-2  Valencia CF
   Málaga CF                    1-1  Granada CF
   Celta Vigo  Sevilla FC
 
@@ -229,6 +229,6 @@ Jornada 16
   Sporting Gijón  Villarreal CF
   FC Barcelona  Espanyol Barcelona
   Deportivo La Coruña  CA Osasuna
-  Valencia CF  Real Madrid
+  Valencia CF  Real Madrid                           neuer Termin
   Granada CF  Real Sociedad San Sebastián
   Sevilla FC  Málaga CF
