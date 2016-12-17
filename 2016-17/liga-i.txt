@@ -223,7 +223,7 @@ Jornada 15
 Jornada 16
 [Dom. 18.12.]
   Athletic Bilbao  Celta Vigo
-  CD Alavés  Betis Sevilla
+  CD Alavés                    1-0  Betis Sevilla
   CD Leganés  SD Eibar
   Atlético Madrid  UD Las Palmas
   Sporting Gijón  Villarreal CF
@@ -232,3 +232,5 @@ Jornada 16
   Valencia CF  Real Madrid                           neuer Termin
   Granada CF  Real Sociedad San Sebastián
   Sevilla FC  Málaga CF
+  
+  
