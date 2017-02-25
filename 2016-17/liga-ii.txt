@@ -97,7 +97,7 @@ Jornada 24
 [Dom. 26.2.]
   Espanyol Barcelona  CA Osasuna
   Villarreal CF  Real Madrid
-  UD Las Palmas  Real Sociedad San Sebastián
+  UD Las Palmas                0-1  Real Sociedad San Sebastián
   SD Eibar  Málaga CF
   Betis Sevilla  Sevilla FC
   Athletic Bilbao  Granada CF
@@ -106,8 +106,6 @@ Jornada 24
   Atlético Madrid  FC Barcelona
   Sporting Gijón  Celta Vigo
   
-  Valencia CF - Real Madrid  (Jornada 16)    27.02.
-
 Jornada 25
 [Mié. 1.3.]
   Celta Vigo  Espanyol Barcelona
