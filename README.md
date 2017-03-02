@@ -54,7 +54,7 @@ Jornada 1
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text datasets. [More »](http://openfootball.github.io/build.html)
+from the plain text datasets. [More »](http://openfootball.github.io/docs/build.html)
 
 ### Examples
 
