@@ -59,7 +59,7 @@ Jornada 21
   Sevilla FC                   0-0  Villarreal CF
   Granada CF                   1-0  UD Las Palmas
   Valencia CF                  0-4  SD Eibar
-  Deportivo La Coruña          1-1  Betis Sevilla    Spieltermin verschoben 8.3.
+  Deportivo La Coruña          1-1  Betis Sevilla    
   FC Barcelona                 3-0  Athletic Bilbao
   Sporting Gijón               2-4  CD Alavés
   Atlético Madrid              2-0  CD Leganés
@@ -142,10 +142,10 @@ Jornada 27
   CA Osasuna  SD Eibar
   Real Madrid  Betis Sevilla
   Real Sociedad San Sebastián  Athletic Bilbao
-  Málaga CF  CD Alavés
-  Sevilla FC  CD Leganés
-  Granada CF  Atlético Madrid
-  Valencia CF  Sporting Gijón
+  Málaga CF                    1-2  CD Alavés
+  Sevilla FC                   1-1  CD Leganés
+  Granada CF                   0-1  Atlético Madrid
+  Valencia CF                  1-1  Sporting Gijón
   Deportivo La Coruña  FC Barcelona
 
 Jornada 28
