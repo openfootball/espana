@@ -53,7 +53,7 @@ Jornada 20
 
 Jornada 21
 [Dom. 5.2.]
-  Celta Vigo  Real Madrid       Spieltermin verschoben
+  Celta Vigo  Real Madrid                              Spieltermin verschoben
   Real Sociedad San Sebastián  3-2  CA Osasuna
   Málaga CF                    0-1  Espanyol Barcelona
   Sevilla FC                   0-0  Villarreal CF
@@ -137,16 +137,16 @@ Jornada 26
 
 Jornada 27
 [Dom. 12.3.]
-  Celta Vigo  Villarreal CF
+  Celta Vigo                   0-1  Villarreal CF
   Espanyol Barcelona           4-3  UD Las Palmas
   CA Osasuna  SD Eibar
-  Real Madrid  Betis Sevilla
-  Real Sociedad San Sebastián  Athletic Bilbao
+  Real Madrid                  2-1  Betis Sevilla
+  Real Sociedad San Sebastián  0-2  Athletic Bilbao
   Málaga CF                    1-2  CD Alavés
   Sevilla FC                   1-1  CD Leganés
   Granada CF                   0-1  Atlético Madrid
   Valencia CF                  1-1  Sporting Gijón
-  Deportivo La Coruña  FC Barcelona
+  Deportivo La Coruña          2-1  FC Barcelona
 
 Jornada 28
 [Dom. 19.3.]
