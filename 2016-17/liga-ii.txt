@@ -155,11 +155,11 @@ Jornada 28
   Betis Sevilla                2-0  CA Osasuna
   Athletic Bilbao              1-2  Real Madrid
   CD Alavés                    1-0  Real Sociedad San Sebastián
-  CD Leganés  Málaga CF
-  Atlético Madrid  Sevilla FC
-  Sporting Gijón  Granada CF
-  FC Barcelona  Valencia CF
-  Deportivo La Coruña  Celta Vigo
+  CD Leganés                   0-0  Málaga CF
+  Atlético Madrid              3-1  Sevilla FC
+  Sporting Gijón               3-1  Granada CF
+  FC Barcelona                 4-2  Valencia CF
+  Deportivo La Coruña          0-1  Celta Vigo
 
 Jornada 29
 [Dom. 2.4.]
