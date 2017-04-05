@@ -163,7 +163,7 @@ Jornada 28
 
 Jornada 29
 [Dom. 2.4.]
-  Celta Vigo  UD Las Palmas
+  Celta Vigo                   3-1  UD Las Palmas
   Villarreal CF                2-3  SD Eibar
   Espanyol Barcelona           2-1  Betis Sevilla
   CA Osasuna                   1-2  Athletic Bilbao
@@ -177,11 +177,11 @@ Jornada 29
 Jornada 30
 [Mié. 5.4.]
   SD Eibar  UD Las Palmas
-  Betis Sevilla  Villarreal CF
-  Athletic Bilbao  Espanyol Barcelona
+  Betis Sevilla                0-1  Villarreal CF
+  Athletic Bilbao              2-0  Espanyol Barcelona
   CD Alavés  CA Osasuna
   CD Leganés  Real Madrid
-  Atlético Madrid  Real Sociedad San Sebastián
+  Atlético Madrid              1-0  Real Sociedad San Sebastián
   Sporting Gijón  Málaga CF
   FC Barcelona  Sevilla FC
   Deportivo La Coruña  Granada CF
