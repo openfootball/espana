@@ -179,12 +179,12 @@ Jornada 30
   SD Eibar  UD Las Palmas
   Betis Sevilla                0-1  Villarreal CF
   Athletic Bilbao              2-0  Espanyol Barcelona
-  CD Alavés  CA Osasuna
-  CD Leganés  Real Madrid
+  CD Alavés                    0-1  CA Osasuna
+  CD Leganés                   2-4  Real Madrid
   Atlético Madrid              1-0  Real Sociedad San Sebastián
-  Sporting Gijón  Málaga CF
-  FC Barcelona  Sevilla FC
-  Deportivo La Coruña  Granada CF
+  Sporting Gijón               0-1  Málaga CF
+  FC Barcelona                 3-0  Sevilla FC
+  Deportivo La Coruña          0-0  Granada CF
   Valencia CF  Celta Vigo
 
 Jornada 31
