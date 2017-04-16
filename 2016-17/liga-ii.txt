@@ -206,10 +206,10 @@ Jornada 32
   Athletic Bilbao              5-1  UD Las Palmas
   CD Alavés  Villarreal CF
   CD Leganés  Espanyol Barcelona
-  Atlético Madrid  CA Osasuna
-  Sporting Gijón  Real Madrid
-  FC Barcelona  Real Sociedad San Sebastián
-  Deportivo La Coruña  Málaga CF
+  Atlético Madrid              3-0  CA Osasuna
+  Sporting Gijón               2-3  Real Madrid
+  FC Barcelona                 3-2  Real Sociedad San Sebastián
+  Deportivo La Coruña          2-0  Málaga CF
   Valencia CF  Sevilla FC
   Granada CF  Celta Vigo
 
