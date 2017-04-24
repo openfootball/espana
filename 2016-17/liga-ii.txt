@@ -215,16 +215,16 @@ Jornada 32
 
 Jornada 33
 [Dom. 23.4.]
-  Celta Vigo  Betis Sevilla
+  Celta Vigo                   0-1  Betis Sevilla
   SD Eibar  Athletic Bilbao
-  UD Las Palmas  CD Alavés
-  Villarreal CF               2-1  CD Leganés
-  Espanyol Barcelona          0-1  Atlético Madrid
-  CA Osasuna                  2-2  Sporting Gijón
-  Real Madrid  FC Barcelona
-  Real Sociedad San Sebastián  Deportivo La Coruña
-  Málaga CF                   2-0  Valencia CF
-  Sevilla FC                  2-0  Granada CF
+  UD Las Palmas                1-1  CD Alavés
+  Villarreal CF                2-1  CD Leganés
+  Espanyol Barcelona           0-1  Atlético Madrid
+  CA Osasuna                   2-2  Sporting Gijón
+  Real Madrid                  2-3  FC Barcelona
+  Real Sociedad San Sebastián  1-0  Deportivo La Coruña
+  Málaga CF                    2-0  Valencia CF
+  Sevilla FC                   2-0  Granada CF
 
 Jornada 34
 [Mié. 26.4.]
