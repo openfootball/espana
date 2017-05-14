@@ -282,8 +282,8 @@ Jornada 37
   SD Eibar  Sporting Gijón
   UD Las Palmas  FC Barcelona
   Villarreal CF  Deportivo La Coruña
-  Espanyol Barcelona  Valencia CF
-  CA Osasuna  Granada CF
+  Espanyol Barcelona           0-1  Valencia CF
+  CA Osasuna                   2-1  Granada CF
   Real Madrid  Sevilla FC
   Real Sociedad San Sebastián  Málaga CF
 
