@@ -132,7 +132,7 @@ Jornada 26
   Sporting Gijón               0-1  Deportivo La Coruña
   FC Barcelona                 5-0  Celta Vigo
 
-(Mie.8.3.)  Jornada 21
+[Mie.8.3.]  Jornada 21
   Deportivo La Coruna          1-1  Betis Sevilla 
 
 Jornada 27
