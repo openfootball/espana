@@ -53,7 +53,7 @@ Jornada 20
 
 Jornada 21
 [Dom. 5.2.]
-  Celta Vigo  Real Madrid                              Spieltermin verschoben
+  Celta Vigo  Real Madrid                              17.5.
   Real Sociedad San Sebastián  3-2  CA Osasuna
   Málaga CF                    0-1  Espanyol Barcelona
   Sevilla FC                   0-0  Villarreal CF
@@ -90,7 +90,7 @@ Jornada 23
   FC Barcelona                 2-1  CD Leganés
   Sporting Gijón               1-4  Atlético Madrid
   
-( Mie. 22.2.)  Jornada 16
+[Mie. 22.2.]  Jornada 16
   Valencia CF                  2-1  Real Madrid
   
 Jornada 24
@@ -289,6 +289,9 @@ Jornada 37
   
 3. Absteiger Primera Division 2016/17
   Sporting Gijon
+  
+[Mie. 17.5.]  Jornada 21
+  Celta Vigo    Real Marid
 
 Jornada 38
 [Dom. 21.5.]
