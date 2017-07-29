@@ -53,13 +53,13 @@ Jornada 20
 
 Jornada 21
 [Dom. 5.2.]
-  Celta Vigo                   1-4  Real Madrid                              
+  Celta Vigo                   1-4  Real Madrid
   Real Sociedad San Sebastián  3-2  CA Osasuna
   Málaga CF                    0-1  Espanyol Barcelona
   Sevilla FC                   0-0  Villarreal CF
   Granada CF                   1-0  UD Las Palmas
   Valencia CF                  0-4  SD Eibar
-  Deportivo La Coruña          1-1  Betis Sevilla    
+  Deportivo La Coruña          1-1  Betis Sevilla
   FC Barcelona                 3-0  Athletic Bilbao
   Sporting Gijón               2-4  CD Alavés
   Atlético Madrid              2-0  CD Leganés
@@ -89,10 +89,12 @@ Jornada 23
   Deportivo La Coruña          0-1  CD Alavés
   FC Barcelona                 2-1  CD Leganés
   Sporting Gijón               1-4  Atlético Madrid
-  
-[Mie. 22.2.]  Jornada 16
+
+Jornada 16     ## postponed
+[Mié. 22.2.]
   Valencia CF                  2-1  Real Madrid
-  
+
+
 Jornada 24
 [Dom. 26.2.]
   Espanyol Barcelona           3-0  CA Osasuna
@@ -105,7 +107,7 @@ Jornada 24
   CD Leganés                   4-0  Deportivo La Coruña
   Atlético Madrid              1-2  FC Barcelona
   Sporting Gijón               1-1  Celta Vigo
-  
+
 Jornada 25
 [Mié. 1.3.]
   Celta Vigo                   2-2  Espanyol Barcelona
@@ -132,8 +134,9 @@ Jornada 26
   Sporting Gijón               0-1  Deportivo La Coruña
   FC Barcelona                 5-0  Celta Vigo
 
-[Mie.8.3.]  Jornada 21
-  Deportivo La Coruna          1-1  Betis Sevilla 
+Jornada 21      ## postponed
+[Mié. 8.3.]
+  Deportivo La Coruna          1-1  Betis Sevilla
 
 Jornada 27
 [Dom. 12.3.]
@@ -225,10 +228,10 @@ Jornada 33
   Real Sociedad San Sebastián  1-0  Deportivo La Coruña
   Málaga CF                    2-0  Valencia CF
   Sevilla FC                   2-0  Granada CF
-  
-1.Absteiger Primera Division 2016/17
-  CA Osasuna
-  
+
+# 1.Absteiger Primera Division 2016/17
+#  CA Osasuna
+
 Jornada 34
 [Mié. 26.4.]
   Athletic Bilbao              2-1  Betis Sevilla
@@ -254,13 +257,13 @@ Jornada 35
   Real Madrid                  2-1  Valencia CF
   Real Sociedad San Sebastián  2-1  Granada CF
   Málaga CF                    4-2  Sevilla FC
-  
-2.Absteiger Primera Division 2016/17
-  Granada CF
-  
-1.Aufsteiger Primera Division 2017/18
-  Levante UD
-  
+
+# 2.Absteiger Primera Division 2016/17
+#  Granada CF
+#
+# 1.Aufsteiger Primera Division 2017/18
+#  Levante UD
+
 Jornada 36
 [Dom. 7.5.]
   CD Alavés                    1-0  Athletic Bilbao
@@ -286,12 +289,13 @@ Jornada 37
   CA Osasuna                   2-1  Granada CF
   Real Madrid                  4-1  Sevilla FC
   Real Sociedad San Sebastián  2-2  Málaga CF
-  
-3. Absteiger Primera Division 2016/17
-  Sporting Gijon
-  
-[Mie. 17.5.]  Jornada 21
-  Celta Vigo                   1-4  Real Marid
+
+# 3. Absteiger Primera Division 2016/17
+#   Sporting Gijon
+
+Jornada 21     ## postponed
+[Mié. 17.5.]
+  Celta Vigo                   1-4  Real Madrid
 
 Jornada 38
 [Dom. 21.5.]
@@ -305,39 +309,38 @@ Jornada 38
   Sevilla FC                   5-0  CA Osasuna
   Málaga CF                    0-2  Real Madrid
   Celta Vigo                   2-2  Real Sociedad San Sebastián
-  
-Meister Primera Division 2016/17
-  Real Madrid
-  
-2. Aufsteiger Primera Division 2017/18
-  Girona FC 
-  
- 4 Play-Off Teilnehmer für einen Aufstiegsplatz Primera Division 2017/18
-   Getafe CF und Cadiz CF; entweder CD Tenerife oder Real Valladolid oder SD Huesca oder Real Oviedo.
-   
- Sieger Play-Off Aufstieg Primera Division 2017/18
- 
- [Mie. 14.6.]
-   SD Huesca    2-2 Getafe CF
-    
- [Jue. 15.6.]
-   Cadiz CF     1-0 CD Tenerife
-   
- [Sab. 17.6.]
-   Getafe CF    3-0 SD Huesca
-   
- [Dom. 18.6.]
-   CD Tenerife  1-0 n.V. Cadiz CF
- 
- [Mie. 21.6.]
-   CD Tenerife  1-0 Getafe CF
-   
- [Sab. 24.6.]
-   Getafe CF    3-1 CD Tenerife
-   
- 3. Aufsteiger in Primera Division 2017/18
-   Getafe CF
-   
-   
-  Sommerpause bis 10.8.2017
-  
+
+# Meister Primera Division 2016/17
+#  Real Madrid
+#
+# 2. Aufsteiger Primera Division 2017/18
+#  Girona FC
+#
+# 4 Play-Off Teilnehmer für einen Aufstiegsplatz Primera Division 2017/18
+#   Getafe CF und Cadiz CF; entweder CD Tenerife oder Real Valladolid oder SD Huesca oder Real Oviedo.
+#
+# Sieger Play-Off Aufstieg Primera Division 2017/18
+#
+# [Mié. 14.6.]
+#   SD Huesca    2-2 Getafe CF
+#
+# [Jue. 15.6.]
+#   Cadiz CF     1-0 CD Tenerife
+#
+# [Sab. 17.6.]
+#   Getafe CF    3-0 SD Huesca
+#
+# [Dom. 18.6.]
+#   CD Tenerife  1-0 n.V. Cadiz CF
+#
+# [Mié. 21.6.]
+#   CD Tenerife  1-0 Getafe CF
+#
+# [Sab. 24.6.]
+#   Getafe CF    3-1 CD Tenerife
+#
+# 3. Aufsteiger in Primera Division 2017/18
+#   Getafe CF
+#
+#
+#  Sommerpause bis 10.8.2017

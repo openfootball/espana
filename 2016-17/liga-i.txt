@@ -186,7 +186,7 @@ Jornada 13
   SD Eibar                     3-1  Betis Sevilla
   UD Las Palmas                3-1  Athletic Bilbao
   Villarreal CF                0-2  CD Alavés
-  Espanol Barcelona            3-0  CD Leganés
+  Espanyol Barcelona            3-0  CD Leganés
   CA Osasuna                   0-3  Atlético Madrid
   Real Madrid                  2-1  Sporting Gijón
   Real Sociedad San Sebastián  1-1  FC Barcelona
@@ -229,11 +229,9 @@ Jornada 16
   Sporting Gijón               1-3  Villarreal CF
   FC Barcelona                 4-1  Espanyol Barcelona
   Deportivo La Coruña          2-0  CA Osasuna
-  Valencia CF                  2-1  Real Madrid                          
+  Valencia CF                  2-1  Real Madrid
   Granada CF                   0-2  Real Sociedad San Sebastián
   Sevilla FC                   4-1  Málaga CF
-  
-  
-  Winterpause bis 06.01.2017
-  
-  
+
+
+#  Winterpause bis 06.01.2017
