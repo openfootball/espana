@@ -9,7 +9,7 @@ Jornada 1
   Sevilla FC                   6-4  Espanyol Barcelona
 [Dom. 21.8.]
   Sporting Gijón               2-1  Athletic Bilbao
-  Real Sociedad San Sebastián  0-1  Real Madrid
+  Real Sociedad San Sebastián  0-3  Real Madrid
   Atlético Madrid              1-1  CD Alavés
 [Lun. 22.8.]
   Celta Vigo                   0-1  CD Leganés
@@ -159,7 +159,7 @@ Jornada 11
 [Dom. 6.11.]
   UD Las Palmas                1-0  SD Eibar
   Villarreal CF                2-0  Betis Sevilla
-  Espanyol Barcelona           1-2  Athletic Bilbao
+  Espanyol Barcelona           0-0  Athletic Bilbao
   CA Osasuna                   0-1  CD Alavés
   Real Madrid                  3-0  CD Leganés
   Real Sociedad San Sebastián  2-0  Atlético Madrid
