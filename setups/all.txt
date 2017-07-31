@@ -11,6 +11,9 @@ es-espana!/clubs/2-liga2
 es-espana!/clubs/more
 
 # -- Fixtures --
+es-espana!/2017-18/liga.conf
+es-espana!/2017-18/liga
+
 es-espana!/2016-17/liga.conf
 es-espana!/2016-17/liga
 

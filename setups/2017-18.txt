@@ -1,0 +1,15 @@
+#######################
+# 2017/18 Fixtures
+
+# -- Leagues
+es-espana!/leagues
+
+# -- Clubs
+es-espana!/clubs/1-liga
+es-espana!/clubs/2-liga2
+es-espana!/clubs/more
+
+
+# -- Fixtures
+es-espana!/2017-18/liga.conf
+es-espana!/2017-18/liga
