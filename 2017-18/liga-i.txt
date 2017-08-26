@@ -30,21 +30,23 @@ Jornada 2
    Getafe CF  Sevilla FC
    Real Madrid  Valencia CF
    
-
 Jornada 3
-[Dom. 10.9.]
-   Athletic Bilbao  Girona FC
-   FC Barcelona  Espanyol Barcelona
+[Vie. 8.9.]
    Celta Vigo  CD Alavés
-   Deportivo La Coruña  Real Sociedad San Sebastián
    CD Leganés  Getafe CF
-   Málaga CF  UD Las Palmas
+[Sab. 9.9]
    Real Madrid  Levante UD
    Sevilla FC  SD Eibar
    Valencia CF  Atlético Madrid
+   FC Barcelona  Espanyol Barcelona
+[Dom. 10.9.]
+   Athletic Bilbao  Girona FC
+   Deportivo La Coruña  Real Sociedad San Sebastián
    Villarreal CF  Betis Sevilla
-
-Jornada 4
+[Lue. 11.9.]
+   Málaga CF  UD Las Palmas
+  
+   Jornada 4
 [Dom. 17.9.]
    CD Alavés  Villarreal CF
    Atlético Madrid  Málaga CF
