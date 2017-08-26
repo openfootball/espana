@@ -14,9 +14,12 @@ Jornada 1
    Málaga CF                     0-1  SD Eibar
    
 Jornada 2
-[Dom. 27.8.]
-   CD Alavés  FC Barcelona
+[Vie. 25.8.]
    Betis Sevilla                 2-1  Celta Vigo
+   Real Sociedad San Sebastián   3-0  Villarreal CF
+[Sab.26.8.]   
+   CD Alavés  FC Barcelona
+[Dom. 27.8.]
    SD Eibar  Athletic Bilbao
    Espanyol Barcelona  CD Leganés
    Getafe CF  Sevilla FC
@@ -24,7 +27,7 @@ Jornada 2
    UD Las Palmas  Atlético Madrid
    Levante UD  Deportivo La Coruña
    Real Madrid  Valencia CF
-   Real Sociedad San Sebastián   3-0  Villarreal CF
+   
 
 Jornada 3
 [Dom. 10.9.]
