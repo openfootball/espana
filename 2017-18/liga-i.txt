@@ -46,7 +46,7 @@ Jornada 3
 [Lue. 11.9.]
    Málaga CF                     1-3  UD Las Palmas
   
-   Jornada 4
+Jornada 4
 [Vie. 15.9.]
    SD Eibar  CD Leganés
 [Sab. 16.9.]
@@ -59,22 +59,24 @@ Jornada 3
    Girona FC  Sevilla FC
    UD Las Palmas  Athletic Bilbao
    Real Sociedad San Sebastián  Real Madrid
-[Lue. 17.9.]
+[Lue. 18.9.]
    Espanyol Barcelona  Celta Vigo
    
 Jornada 5
+[Mar. 19.9.]
+   FC Barcelona  SD Eibar
+   Valencia CF  Málaga CF
 [Mié. 20.9.]
    Athletic Bilbao  Atlético Madrid
-   FC Barcelona  SD Eibar
-   Celta Vigo  Getafe CF
    Deportivo La Coruña  CD Alavés
-   CD Leganés  Girona FC
    Levante UD  Real Sociedad San Sebastián
    Real Madrid  Betis Sevilla
    Sevilla FC  UD Las Palmas
-   Valencia CF  Málaga CF
+[Jue. 21.9.]
    Villarreal CF  Espanyol Barcelona
-
+   Celta Vigo  Getafe CF
+   CD Leganés  Girona FC
+   
 Jornada 6
 [Dom. 24.9.]
    CD Alavés  Real Madrid
