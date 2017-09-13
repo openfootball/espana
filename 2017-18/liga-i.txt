@@ -1,6 +1,6 @@
 
 Jornada 1
-[Vie.18.8.]
+[Vie. 18.8.]
    CD Leganés                    1-0  CD Alavés
    Valencia CF                   1-0  UD Las Palmas
 [Sab. 19.8.]
@@ -19,7 +19,7 @@ Jornada 2
 [Vie. 25.8.]
    Betis Sevilla                 2-1  Celta Vigo
    Real Sociedad San Sebastián   3-0  Villarreal CF
-[Sab.26.8.]   
+[Sab. 26.8.]   
    CD Alavés                     0-2  FC Barcelona
    Girona FC                     1-0  Málaga CF
    UD Las Palmas                 1-5  Atlético Madrid
@@ -47,18 +47,21 @@ Jornada 3
    Málaga CF                     1-3  UD Las Palmas
   
    Jornada 4
-[Dom. 17.9.]
-   CD Alavés  Villarreal CF
+[Vie. 15.9.]
+   SD Eibar  CD Leganés
+[Sab. 16.9.]
    Atlético Madrid  Málaga CF
    Betis Sevilla  Deportivo La Coruña
-   SD Eibar  CD Leganés
-   Espanyol Barcelona  Celta Vigo
+   Levante UD  Valencia CF
    Getafe CF  FC Barcelona
+[Dom. 17.9.]
+   CD Alavés  Villarreal CF
    Girona FC  Sevilla FC
    UD Las Palmas  Athletic Bilbao
-   Levante UD  Valencia CF
    Real Sociedad San Sebastián  Real Madrid
-
+[Lue. 17.9.]
+   Espanyol Barcelona  Celta Vigo
+   
 Jornada 5
 [Mié. 20.9.]
    Athletic Bilbao  Atlético Madrid
