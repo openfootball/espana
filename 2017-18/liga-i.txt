@@ -84,24 +84,26 @@ Jornada 6
    Girona FC                     0-3  FC Barcelona
    Málaga CF                     3-3  Athletic Bilbao
 [Dom. 24.9.]
-   Betis Sevilla  Levante UD
    SD Eibar  Celta Vigo
    Espanyol Barcelona  Deportivo La Coruña
    Getafe CF  Villarreal CF
    UD Las Palmas  CD Leganés
    Real Sociedad San Sebastián  Valencia CF
 [Lue. 25.9.]
-
+   Betis Sevilla  Levante UD
+   
 Jornada 7
-[Dom. 1.10.]
-   FC Barcelona  UD Las Palmas
+[Vie. 29.9.]
    Celta Vigo  Girona FC
+[Sab. 30.9.]
    Deportivo La Coruña  Getafe CF
    CD Leganés  Atlético Madrid
    Levante UD  CD Alavés
+   Sevilla FC  Málaga CF
+[Dom. 1.10.]
+   FC Barcelona  UD Las Palmas
    Real Madrid  Espanyol Barcelona
    Real Sociedad San Sebastián  Betis Sevilla
-   Sevilla FC  Málaga CF
    Valencia CF  Athletic Bilbao
    Villarreal CF  SD Eibar
 
