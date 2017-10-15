@@ -119,22 +119,25 @@ Jornada 8
    Betis Sevilla  Valencia CF
    SD Eibar  Deportivo La Coruña
    Girona FC  Villarreal CF
-   UD Las Palmas  Celta Vigo
    Málaga CF  CD Leganés
-
+[Lue. 16.10.]
+    UD Las Palmas  Celta Vigo
+    
 Jornada 9
-[Dom. 22.10.]
+[Sab. 21.10.]
    FC Barcelona  Málaga CF
    Betis Sevilla  CD Alavés
-   Celta Vigo  Atlético Madrid
-   Deportivo La Coruña  Girona FC
-   CD Leganés  Athletic Bilbao
-   Levante UD  Getafe CF
-   Real Madrid  SD Eibar
-   Real Sociedad San Sebastián  Espanyol Barcelona
    Valencia CF  Sevilla FC
+   Levante UD  Getafe CF
+[Dom. 22.10.]
+   Celta Vigo  Atlético Madrid
+   CD Leganés  Athletic Bilbao
+   Real Madrid  SD Eibar
    Villarreal CF  UD Las Palmas
-
+[Lue. 23.10.]
+   Real Sociedad San Sebastián  Espanyol Barcelona
+   Deportivo La Coruña  Girona FC
+   
 Jornada 10
 [Dom. 29.10.]
    CD Alavés  Valencia CF
