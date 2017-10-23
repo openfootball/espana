@@ -139,29 +139,33 @@ Jornada 9
    Deportivo La Coruña  Girona FC
    
 Jornada 10
-[Dom. 29.10.]
+[Sab. 28.10.]
    CD Alavés  Valencia CF
    Athletic Bilbao  FC Barcelona
    Atlético Madrid  Villarreal CF
+   Sevilla FC  CD Leganés
+[Dom. 29.10.]
    SD Eibar  Levante UD
-   Espanyol Barcelona  Betis Sevilla
    Getafe CF  Real Sociedad San Sebastián
    Girona FC  Real Madrid
-   UD Las Palmas  Deportivo La Coruña
    Málaga CF  Celta Vigo
-   Sevilla FC  CD Leganés
-
+[Lue. 30.10.]
+   Espanyol Barcelona  Betis Sevilla
+   UD Las Palmas  Deportivo La Coruña
+   
 Jornada 11
-[Dom. 5.11.]
+[Vie. 3.11.]
+   Betis Sevilla  Getafe CF
+[Sab. 4.11.]
    CD Alavés  Espanyol Barcelona
    FC Barcelona  Sevilla FC
-   Betis Sevilla  Getafe CF
-   Celta Vigo  Athletic Bilbao
    Deportivo La Coruña  Atlético Madrid
+   Valencia CF  CD Leganés
+[Dom. 5.11.]
+   Celta Vigo  Athletic Bilbao
    Levante UD  Girona FC
    Real Madrid  UD Las Palmas
    Real Sociedad San Sebastián  SD Eibar
-   Valencia CF  CD Leganés
    Villarreal CF  Málaga CF
 
 Jornada 12
