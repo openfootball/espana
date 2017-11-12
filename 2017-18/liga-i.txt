@@ -233,27 +233,36 @@ Jornada 15
    Espanyol Barcelona  Girona FC
    
 Jornada 16
-[Dom. 17.12.]
-   Athletic Bilbao  Real Sociedad San Sebastián
+[Vie.15.12.]
+   SD Eibar  Valencia CF
+[Sab. 16.12.]
+Athletic Bilbao  Real Sociedad San Sebastián
    Atlético Madrid  CD Alavés
+   Sevilla FC  Levante UD
+[Dom. 17.12.]
    FC Barcelona  Deportivo La Coruña
    Celta Vigo  Villarreal CF
-   SD Eibar  Valencia CF
    Girona FC  Getafe CF
    UD Las Palmas  Espanyol Barcelona
    CD Leganés  Real Madrid
+[Lue.18.12.]
    Málaga CF  Betis Sevilla
-   Sevilla FC  Levante UD
 
 Jornada 17
-[Mié. 20.12.]
-   CD Alavés  Málaga CF
-   Betis Sevilla  Athletic Bilbao
-   Deportivo La Coruña  Celta Vigo
-   SD Eibar  Girona FC
-   Espanyol Barcelona  Atlético Madrid
-   Getafe CF  UD Las Palmas
+[Mar.19.12]
    Levante UD  CD Leganés
-   Real Madrid  FC Barcelona
+[Mié. 20.12.]
+   Getafe CF  UD Las Palmas
    Real Sociedad San Sebastián  Sevilla FC
+[Jue. 21.12.]
+   SD Eibar  Girona FC
+   Betis Sevilla  Athletic Bilbao
+[Vie. 22.12.]
+   CD Alavés  Málaga CF
+   Espanyol Barcelona  Atlético Madrid
+[Sab. 23.12.]
+   Deportivo La Coruña  Celta Vigo
+   Real Madrid  FC Barcelona
    Valencia CF  Villarreal CF
+
+Winterpause bis 7.1.18
