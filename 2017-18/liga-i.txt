@@ -185,44 +185,53 @@ Jornada 12
    SD Eibar  Betis Sevilla
    
 Jornada 13
-[Dom. 26.11.]
+[Vie. 24.11.]
+   Celta Vigo  CD Leganés
+[Sab. 25.11.]
    CD Alavés  SD Eibar
    Betis Sevilla  Girona FC
-   Celta Vigo  CD Leganés
-   Deportivo La Coruña  Athletic Bilbao
-   Espanyol Barcelona  Getafe CF
    Levante UD  Atlético Madrid
    Real Madrid  Málaga CF
+[Dom. 26.11.]
+   Deportivo La Coruña  Athletic Bilbao
    Real Sociedad San Sebastián  UD Las Palmas
    Valencia CF  FC Barcelona
    Villarreal CF  Sevilla FC
+[Lue. 27.11.]
+   Espanyol Barcelona  Getafe CF
 
 Jornada 14
-[Dom. 3.12.]
+[Vie. 1.12.]
+   Málaga CF  Levante UD
+[Sab. 2.12.]
    Athletic Bilbao  Real Madrid
    Atlético Madrid  Real Sociedad San Sebastián
    FC Barcelona  Celta Vigo
+   Sevilla FC  Deportivo La Coruña
+[Dom. 3.12.]
    SD Eibar  Espanyol Barcelona
    Getafe CF  Valencia CF
-   Girona FC  CD Alavés
    UD Las Palmas  Betis Sevilla
    CD Leganés  Villarreal CF
-   Málaga CF  Levante UD
-   Sevilla FC  Deportivo La Coruña
+[Lue. 4.12.]
+   Girona FC  CD Alavés
 
 Jornada 15
-[Dom. 10.12.]
+[Vie. 8.12.]
    CD Alavés  UD Las Palmas
-   Betis Sevilla  Atlético Madrid
+[Sab. 9.12.]
    Deportivo La Coruña  CD Leganés
-   Espanyol Barcelona  Girona FC
    Getafe CF  SD Eibar
-   Levante UD  Athletic Bilbao
    Real Madrid  Sevilla FC
-   Real Sociedad San Sebastián  Málaga CF
    Valencia CF  Celta Vigo
+[Dom. 10.12.]
+   Betis Sevilla  Atlético Madrid
+   Levante UD  Athletic Bilbao
+   Real Sociedad San Sebastián  Málaga CF
    Villarreal CF  FC Barcelona
-
+[Lue. 11.12.]
+   Espanyol Barcelona  Girona FC
+   
 Jornada 16
 [Dom. 17.12.]
    Athletic Bilbao  Real Sociedad San Sebastián
