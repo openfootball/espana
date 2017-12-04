@@ -209,10 +209,10 @@ Jornada 14
    FC Barcelona                  2-2  Celta Vigo
    Sevilla FC                    2-0  Deportivo La Coruña
 [Dom. 3.12.]
-   SD Eibar  Espanyol Barcelona
-   Getafe CF  Valencia CF
-   UD Las Palmas  Betis Sevilla
-   CD Leganés  Villarreal CF
+   SD Eibar                      3-1  Espanyol Barcelona
+   Getafe CF                     1-0  Valencia CF
+   UD Las Palmas                 1-0  Betis Sevilla
+   CD Leganés                    3-1  Villarreal CF
 [Lue. 4.12.]
    Girona FC  CD Alavés
 
