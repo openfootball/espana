@@ -222,7 +222,7 @@ Jornada 15
 [Sab. 9.12.]
    Deportivo La Coruña  CD Leganés
    Getafe CF  SD Eibar
-   Real Madrid  Sevilla FC        Spieltermin verschoben
+   Real Madrid  Sevilla FC        
    Valencia CF  Celta Vigo
 [Dom. 10.12.]
    Betis Sevilla  Atlético Madrid
@@ -244,7 +244,7 @@ Athletic Bilbao  Real Sociedad San Sebastián
    Celta Vigo  Villarreal CF
    Girona FC  Getafe CF
    UD Las Palmas  Espanyol Barcelona
-   CD Leganés  Real Madrid
+   CD Leganés  Real Madrid       Spieltermin verschoben
 [Lue.18.12.]
    Málaga CF  Betis Sevilla
 
