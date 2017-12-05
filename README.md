@@ -62,9 +62,9 @@ Build the database for all Spanish clubs, leagues and seasons:
 
     $ sportdb new es
 
-Build the database for the 2015/16 season:
+Build the database for the 2017/18 season:
 
-    $ sportdb new es2015-16
+    $ sportdb new es2017-18
 
 
 
