@@ -225,10 +225,10 @@ Jornada 15
    Real Madrid                   5-0  Sevilla FC        
    Valencia CF                   2-1  Celta Vigo
 [Dom. 10.12.]
-   Betis Sevilla  Atlético Madrid
-   Levante UD  Athletic Bilbao
-   Real Sociedad San Sebastián  Málaga CF
-   Villarreal CF  FC Barcelona
+   Betis Sevilla                 0-1  Atlético Madrid
+   Levante UD                    1-2  Athletic Bilbao
+   Real Sociedad San Sebastián   0-2  Málaga CF
+   Villarreal CF                 0-2  FC Barcelona
 [Lue. 11.12.]
    Espanyol Barcelona  Girona FC
    
