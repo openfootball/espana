@@ -1,16 +1,18 @@
 Jornada 18
-[Dom. 7.1.]
-   Athletic Bilbao  CD Alavés
+[Sab. 6.1.]
    Atlético Madrid  Getafe CF
-   FC Barcelona  Levante UD
-   Celta Vigo  Real Madrid
    UD Las Palmas  SD Eibar
-   CD Leganés  Real Sociedad San Sebastián
-   Málaga CF  Espanyol Barcelona
    Sevilla FC  Betis Sevilla
    Valencia CF  Girona FC
+[Dom. 7.1.]
+   Athletic Bilbao  CD Alavés
+   FC Barcelona  Levante UD
+   Celta Vigo  Real Madrid
+   CD Leganés  Real Sociedad San Sebastián
    Villarreal CF  Deportivo La Coruña
-
+[Lue. 8.1.]
+   Málaga CF  Espanyol Barcelona
+   
 Jornada 19
 [Dom. 14.1.]
    CD Alavés  Sevilla FC
