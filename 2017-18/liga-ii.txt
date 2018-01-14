@@ -30,43 +30,53 @@ Jornada 19
    Betis Sevilla  CD Leganés
    
 Jornada 20
+[Vie. 19.1.]
+   Getafe CF  Athletic Bilbao
+[Sab. 20.1.]
+   Espanyol Barcelona  Sevilla FC
+   Villarreal CF  Levante UD
+   UD Las Palmas  Valencia CF
+   Real Madrid  Deportivo La Coruña
 [Dom. 21.1.]
    CD Alavés  CD Leganés
    Atlético Madrid  Girona FC
    Betis Sevilla  FC Barcelona
-   SD Eibar  Málaga CF
-   Espanyol Barcelona  Sevilla FC
-   Getafe CF  Athletic Bilbao
-   UD Las Palmas  Valencia CF
-   Real Madrid  Deportivo La Coruña
    Real Sociedad San Sebastián  Celta Vigo
-   Villarreal CF  Levante UD
+[Lue. 22.1.]
+   SD Eibar  Málaga CF
 
 Jornada 21
-[Dom. 28.1.]
+[Vie. 26.1.]
    Athletic Bilbao  SD Eibar
-   Atlético Madrid  UD Las Palmas
-   FC Barcelona  CD Alavés
-   Celta Vigo  Betis Sevilla
-   Deportivo La Coruña  Levante UD
+[Sab. 27.1.]
    CD Leganés  Espanyol Barcelona
    Málaga CF  Girona FC
-   Sevilla FC  Getafe CF
    Valencia CF  Real Madrid
    Villarreal CF  Real Sociedad San Sebastián
+[Dom. 28.1.]
+   Atlético Madrid  UD Las Palmas
+   FC Barcelona  CD Alavés
+   Deportivo La Coruña  Levante UD
+   Sevilla FC  Getafe CF
+[Lue. 29.1.] 
+   Celta Vigo  Betis Sevilla
 
 Jornada 22
-[Dom. 4.2.]
-   CD Alavés  Celta Vigo
-   Atlético Madrid  Valencia CF
+[Vie. 2.2.]
+   Real Sociedad San Sebastián  Deportivo La Coruña
+[Sab. 3.2.]
    Betis Sevilla  Villarreal CF
-   SD Eibar  Sevilla FC
+   SD CD Alavés  Celta Vigo
+   Eibar  Sevilla FC
+   Levante UD  Real Madrid
+[Dom. 4.2.]
+   Atlético Madrid  Valencia CF
    Espanyol Barcelona  FC Barcelona
    Getafe CF  CD Leganés
    Girona FC  Athletic Bilbao
+[Lue. 5.2.]
    UD Las Palmas  Málaga CF
-   Levante UD  Real Madrid
-   Real Sociedad San Sebastián  Deportivo La Coruña
+   
 
 Jornada 23
 [Dom. 11.2.]
