@@ -80,31 +80,42 @@ Jornada 22
    
 
 Jornada 23
-[Dom. 11.2.]
+[Vie. 9.2.]
    Athletic Bilbao  UD Las Palmas
-   FC Barcelona  Getafe CF
-   Celta Vigo  Espanyol Barcelona
-   Deportivo La Coruña  Betis Sevilla
+[Sab. 10.2.]  
    CD Leganés  SD Eibar
    Málaga CF  Atlético Madrid
    Real Madrid  Real Sociedad San Sebastián
+   Villarreal CF  CD Alavés
+[Dom. 11.2.]
+   FC Barcelona  Getafe CF
+   Celta Vigo  Espanyol Barcelona
    Sevilla FC  Girona FC
    Valencia CF  Levante UD
-   Villarreal CF  CD Alavés
+[Lue. 12.2.]
+   Deportivo La Coruña  Betis Sevilla
+   
 
 Jornada 24
-[Dom. 18.2.]
-   CD Alavés  Deportivo La Coruña
-   Atlético Madrid  Athletic Bilbao
-   Betis Sevilla  Real Madrid
-   SD Eibar  FC Barcelona
-   Espanyol Barcelona  Villarreal CF
-   Getafe CF  Celta Vigo
+[Vie. 16.2.]
    Girona FC  CD Leganés
+[Sab. 17.2.]
+   CD Alavés  Deportivo La Coruña
+   SD Eibar  FC Barcelona
    UD Las Palmas  Sevilla FC
    Málaga CF  Valencia CF
+[Dom. 18.2.]
+   Atlético Madrid  Athletic Bilbao
+   Betis Sevilla  Real Madrid
+   Espanyol Barcelona  Villarreal CF
    Real Sociedad San Sebastián  Levante UD
-
+[Lue. 19.2.]
+   Getafe CF  Celta Vigo
+   
+ ## Nachtrag Jornada 16
+[Mie. 21.2.]
+   CD Leganes  Real Madrid
+   
 Jornada 25
 [Dom. 25.2.]
    Athletic Bilbao  Málaga CF
