@@ -88,10 +88,10 @@ Jornada 23
    Real Madrid                   5-2  Real Sociedad San Sebastián
    Villarreal CF                 1-2  CD Alavés
 [Dom. 11.2.]
-   FC Barcelona  Getafe CF
-   Celta Vigo  Espanyol Barcelona
-   Sevilla FC  Girona FC
-   Valencia CF  Levante UD
+   FC Barcelona                  0-0  Getafe CF
+   Celta Vigo                    2-2  Espanyol Barcelona
+   Sevilla FC                    1-0  Girona FC
+   Valencia CF                   3-1  Levante UD
 [Lue. 12.2.]
    Deportivo La Coruña  Betis Sevilla
    
