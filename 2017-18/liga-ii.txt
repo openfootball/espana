@@ -148,18 +148,20 @@ Jornada 26
    Betis Sevilla  Real Sociedad San Sebastián
    
 Jornada 27
-[Dom. 4.3.]
-   FC Barcelona  Atlético Madrid
-   Celta Vigo  UD Las Palmas
+[Sab. 3.3.]
    Deportivo La Coruña  SD Eibar
    CD Leganés  Málaga CF
-   Levante UD  Espanyol Barcelona
    Real Madrid  Getafe CF
-   Real Sociedad San Sebastián  CD Alavés
    Sevilla FC  Athletic Bilbao
-   Valencia CF  Betis Sevilla
    Villarreal CF  Girona FC
-
+[Dom. 4.3.]
+   FC Barcelona  Atlético Madrid
+   Levante UD  Espanyol Barcelona
+   Real Sociedad San Sebastián  CD Alavés
+   Valencia CF  Betis Sevilla
+[Lue. 5.3.]
+   Celta Vigo  UD Las Palmas
+ 
 Jornada 28
 [Dom. 11.3.]
    CD Alavés  Betis Sevilla
