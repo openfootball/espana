@@ -120,10 +120,10 @@ Jornada 25
 [Vie. 23.2.]
    Deportivo La Coruña           0-0  Espanyol Barcelona
 [Sab. 24.2.]
-    Real Madrid  CD Alavés
-    FC Barcelona  Girona FC
-    Celta Vigo  SD Eibar
-    CD Leganés  UD Las Palmas
+    Real Madrid                  4-0  CD Alavés
+    FC Barcelona                 6-1  Girona FC
+    Celta Vigo                   2-0  SD Eibar
+    CD Leganés                   0-0  UD Las Palmas
 [Dom. 25.2.]
    Athletic Bilbao  Málaga CF
    Sevilla FC  Atlético Madrid
@@ -136,7 +136,7 @@ Jornada 26
 [Ma. 27.2.]
    Espanyol Barcelona  Real Madrid
    Girona FC  Celta Vigo
-[Mié. 28.2.]
+[Mie. 28.2.]
    Athletic Bilbao  Valencia CF
    Atlético Madrid  CD Leganés
    SD Eibar  Villarreal CF
