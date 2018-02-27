@@ -163,29 +163,34 @@ Jornada 27
    Celta Vigo  UD Las Palmas
  
 Jornada 28
-[Dom. 11.3.]
-   CD Alavés  Betis Sevilla
-   Athletic Bilbao  CD Leganés
-   Atlético Madrid  Celta Vigo
-   SD Eibar  Real Madrid
-   Espanyol Barcelona  Real Sociedad San Sebastián
-   Getafe CF  Levante UD
+[Vie. 9.3.]
    Girona FC  Deportivo La Coruña
-   UD Las Palmas  Villarreal CF
+[Sab. 10.3.]
+   SD Eibar  Real Madrid
    Málaga CF  FC Barcelona
    Sevilla FC  Valencia CF
+   Getafe CF  Levante UD
+[Dom. 11.3.]
+   Athletic Bilbao  CD Leganés
+   Atlético Madrid  Celta Vigo
+   Espanyol Barcelona  Real Sociedad San Sebastián
+   UD Las Palmas  Villarreal CF
+[Lue. 12.3.]
+   CD Alavés  Betis Sevilla
 
 Jornada 29
-[Dom. 18.3.]
-   FC Barcelona  Athletic Bilbao
-   Betis Sevilla  Espanyol Barcelona
-   Celta Vigo  Málaga CF
-   Deportivo La Coruña  UD Las Palmas
-   CD Leganés  Sevilla FC
+[Vie. 16.3.]
    Levante UD  SD Eibar
-   Real Madrid  Girona FC
+[Sab. 17.3.]
+   Betis Sevilla  Espanyol Barcelona
+   CD Leganés  Sevilla FC
    Real Sociedad San Sebastián  Getafe CF
    Valencia CF  CD Alavés
+   Deportivo La Coruña  UD Las Palmas
+[Dom. 18.3.]
+   FC Barcelona  Athletic Bilbao
+   Celta Vigo  Málaga CF
+   Real Madrid  Girona FC
    Villarreal CF  Atlético Madrid
 
 Jornada 30
