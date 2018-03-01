@@ -137,11 +137,11 @@ Jornada 26
    Espanyol Barcelona            1-0  Real Madrid
    Girona FC                     1-0  Celta Vigo
 [Mie. 28.2.]
-   Athletic Bilbao  Valencia CF
-   Atlético Madrid  CD Leganés
-   SD Eibar  Villarreal CF
-   Getafe CF  Deportivo La Coruña
-   Málaga CF  Sevilla FC
+   Athletic Bilbao               1-1  Valencia CF
+   Atlético Madrid               4-0  CD Leganés
+   SD Eibar                      1-0  Villarreal CF
+   Getafe CF                     3-0  Deportivo La Coruña
+   Málaga CF                     0-1  Sevilla FC
 [Jue. 1.3.]
    CD Alavés  Levante UD
    UD Las Palmas  FC Barcelona
