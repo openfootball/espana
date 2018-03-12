@@ -1,7 +1,7 @@
 Jornada 18
 [Sab. 6.1.]
    Atlético Madrid               2-0  Getafe CF
-   UD Las Palma                  1-2  SD Eibar
+   UD Las Palmas                 1-2  SD Eibar
    Sevilla FC                    3-5  Betis Sevilla
    Valencia CF                   2-1  Girona FC
 [Dom. 7.1.]
@@ -171,10 +171,10 @@ Jornada 28
    Sevilla FC                    0-2  Valencia CF
    Getafe CF                     0-1  Levante UD
 [Dom. 11.3.]
-   Athletic Bilbao  CD Leganés
-   Atlético Madrid  Celta Vigo
-   Espanyol Barcelona  Real Sociedad San Sebastián
-   UD Las Palmas  Villarreal CF
+   Athletic Bilbao               2-0  CD Leganés
+   Atlético Madrid               3-0  Celta Vigo
+   Espanyol Barcelona            2-1  Real Sociedad San Sebastián
+   UD Las Palmas                 0-2  Villarreal CF
 [Lue. 12.3.]
    CD Alavés  Betis Sevilla
 
