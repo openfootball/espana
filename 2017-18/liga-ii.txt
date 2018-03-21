@@ -194,29 +194,34 @@ Jornada 29
    Villarreal CF                 2-1  Atlético Madrid
 
 Jornada 30
-[Dom. 1.4.]
+[Sab. 31.3.]
+   Girona FC  Levante UD
+   UD Las Palmas  Real Madrid
    Athletic Bilbao  Celta Vigo
+   Sevilla FC  FC Barcelona
+[Dom. 1.4.]
    Atlético Madrid  Deportivo La Coruña
    SD Eibar  Real Sociedad San Sebastián
    Espanyol Barcelona  CD Alavés
-   Getafe CF  Betis Sevilla
-   Girona FC  Levante UD
-   UD Las Palmas  Real Madrid
    CD Leganés  Valencia CF
    Málaga CF  Villarreal CF
-   Sevilla FC  FC Barcelona
+[Lue. 2.4.]
+   Getafe CF  Betis Sevilla
 
 Jornada 31
-[Dom. 8.4.]
+[Vie.6.4.]
+  Deportivo La Coruña  Málaga CF
+[Sab. 7.4.]
    CD Alavés  Getafe CF
    FC Barcelona  CD Leganés
    Betis Sevilla  SD Eibar
    Celta Vigo  Sevilla FC
-   Deportivo La Coruña  Málaga CF
+[Dom. 8.4.]
    Levante UD  UD Las Palmas
    Real Madrid  Atlético Madrid
    Real Sociedad San Sebastián  Girona FC
    Valencia CF  Espanyol Barcelona
+[Lue. 9.4.]
    Villarreal CF  Athletic Bilbao
 
 Jornada 32
