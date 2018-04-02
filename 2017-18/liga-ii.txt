@@ -195,16 +195,16 @@ Jornada 29
 
 Jornada 30
 [Sab. 31.3.]
-   Girona FC                    1-1  Levante UD
-   UD Las Palmas                0-3  Real Madrid
-   Athletic Bilbao              1-1  Celta Vigo
-   Sevilla FC                   2-2  FC Barcelona
+   Girona FC                     1-1  Levante UD
+   UD Las Palmas                 0-3  Real Madrid
+   Athletic Bilbao               1-1  Celta Vigo
+   Sevilla FC                    2-2  FC Barcelona
 [Dom. 1.4.]
-   Atlético Madrid  Deportivo La Coruña
-   SD Eibar  Real Sociedad San Sebastián
-   Espanyol Barcelona  CD Alavés
-   CD Leganés  Valencia CF
-   Málaga CF  Villarreal CF
+   Atlético Madrid               1-0  Deportivo La Coruña
+   SD Eibar                      0-0  Real Sociedad San Sebastián
+   Espanyol Barcelona            0-0  CD Alavés
+   CD Leganés                    0-1  Valencia CF
+   Málaga CF                     1-0  Villarreal CF
 [Lue. 2.4.]
    Getafe CF  Betis Sevilla
 
