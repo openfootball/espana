@@ -212,10 +212,10 @@ Jornada 31
 [Vie.6.4.]
   Deportivo La Coruña            3-2  Málaga CF
 [Sab. 7.4.]
-   CD Alavés  Getafe CF
-   FC Barcelona  CD Leganés
-   Betis Sevilla  SD Eibar
-   Celta Vigo  Sevilla FC
+   CD Alavés                     2-0  Getafe CF
+   FC Barcelona                  3-1  CD Leganés
+   Betis Sevilla                 2-0  SD Eibar
+   Celta Vigo                    4-0  Sevilla FC
 [Dom. 8.4.]
    Levante UD  UD Las Palmas
    Real Madrid  Atlético Madrid
