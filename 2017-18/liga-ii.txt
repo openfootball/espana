@@ -225,44 +225,51 @@ Jornada 31
    Villarreal CF  Athletic Bilbao
 
 Jornada 32
-[Dom. 15.4.]
-   Athletic Bilbao  Deportivo La Coruña
+[Vie. 13.4.]
+   Girona FC  Betis Sevilla
+[Sab. 14.4.]
    Atlético Madrid  Levante UD
    FC Barcelona  Valencia CF
    SD Eibar  CD Alavés
    Getafe CF  Espanyol Barcelona
-   Girona FC  Betis Sevilla
+[Dom. 15.4.]
+   Athletic Bilbao  Deportivo La Coruña
+   Málaga CF  Real Madrid
    UD Las Palmas  Real Sociedad San Sebastián
    CD Leganés  Celta Vigo
-   Málaga CF  Real Madrid
    Sevilla FC  Villarreal CF
 
 Jornada 33
+[Mar. 17.4.]
+   Celta Vigo  FC Barcelona
+   Deportivo La Coruña  Sevilla FC
+   Villarreal CF  CD Leganés
 [Mié. 18.4.]
    CD Alavés  Girona FC
    Betis Sevilla  UD Las Palmas
-   Celta Vigo  FC Barcelona
-   Deportivo La Coruña  Sevilla FC
    Espanyol Barcelona  SD Eibar
    Levante UD  Málaga CF
    Real Madrid  Athletic Bilbao
    Real Sociedad San Sebastián  Atlético Madrid
    Valencia CF  Getafe CF
-   Villarreal CF  CD Leganés
+   
 
 Jornada 34
-[Dom. 22.4.]
-   Athletic Bilbao  Levante UD
-   Atlético Madrid  Betis Sevilla
-   FC Barcelona  Villarreal CF
+[Vie. 20.4.]
+   CD Leganés  Deportivo La Coruña
+[Sab. 21.4.]
    Celta Vigo  Valencia CF
    SD Eibar  Getafe CF
+[Dom. 22.4.]
+   Atlético Madrid  Betis Sevilla
+   FC Barcelona  Villarreal CF          9.5.18
    Girona FC  Espanyol Barcelona
    UD Las Palmas  CD Alavés
-   CD Leganés  Deportivo La Coruña
    Málaga CF  Real Sociedad San Sebastián
-   Sevilla FC  Real Madrid
-
+   Sevilla FC  Real Madrid              9.5.18
+[Lue. 23.4.]
+   Athletic Bilbao  Levante UD
+   
 Jornada 35
 [Dom. 29.4.]
    CD Alavés  Atlético Madrid
