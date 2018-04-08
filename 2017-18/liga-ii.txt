@@ -112,7 +112,7 @@ Jornada 24
 [Lue. 19.2.]
    Getafe CF                     3-0  Celta Vigo
    
- ## Nachtrag Jornada 16
+## Nachtrag Jornada 16
 [Mie. 21.2.]
    CD Leganes                    1-3  Real Madrid
    
@@ -296,7 +296,7 @@ Jornada 36
    Sevilla FC  Real Sociedad San Sebastián
    Villarreal CF  Valencia CF
    
-## Jornada 34
+## Nachtrag Jornada 34
 [Mie. 9.5.]
    Sevilla FC  Real Madrid              
    FC Barcelona  Villarreal CF 
