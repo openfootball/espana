@@ -296,7 +296,7 @@ Jornada 36
    Sevilla FC  Real Sociedad San Sebastián
    Villarreal CF  Valencia CF
    
-## Nachtrag Jornada 34
+## suplemento Jornada 34
 [Mie. 9.5.]
    Sevilla FC  Real Madrid              
    FC Barcelona  Villarreal CF 
