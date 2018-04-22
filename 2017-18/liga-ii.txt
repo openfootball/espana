@@ -274,30 +274,37 @@ Jornada 34
    Athletic Bilbao  Levante UD
    
 Jornada 35
-[Dom. 29.4.]
-   CD Alavés  Atlético Madrid
-   Betis Sevilla  Málaga CF
-   Deportivo La Coruña  FC Barcelona
-   Espanyol Barcelona  UD Las Palmas
-   Getafe CF  Girona FC
+[Vie. 27.4.]
    Levante UD  Sevilla FC
+[Sab. 28.4.]
    Real Madrid  CD Leganés
    Real Sociedad San Sebastián  Athletic Bilbao
-   Valencia CF  SD Eibar
+   Espanyol Barcelona  UD Las Palmas
    Villarreal CF  Celta Vigo
+[Dom. 29.4.]
+   CD Alavés  Atlético Madrid
+   Deportivo La Coruña  FC Barcelona
+   Getafe CF  Girona FC
+   Valencia CF  SD Eibar
+[Lun. 30.4.]
+   Betis Sevilla  Málaga CF
 
 Jornada 36
-[Dom. 6.5.]
-   Athletic Bilbao  Betis Sevilla
-   Atlético Madrid  Espanyol Barcelona
-   FC Barcelona  Real Madrid
+[Vie. 4.5.]
+   Sevilla FC  Real Sociedad San Sebastián
+[Sab. 5.5.]
    Celta Vigo  Deportivo La Coruña
    Girona FC  SD Eibar
-   UD Las Palmas  Getafe CF
-   CD Leganés  Levante UD
-   Málaga CF  CD Alavés
-   Sevilla FC  Real Sociedad San Sebastián
+   Athletic Bilbao  Betis Sevilla
    Villarreal CF  Valencia CF
+[Dom. 6.5.]
+   Atlético Madrid  Espanyol Barcelona
+   FC Barcelona  Real Madrid
+   UD Las Palmas  Getafe CF
+   Málaga CF  CD Alavés
+[Lun. 7.5.]
+   CD Leganés  Levante UD
+   
    
 ## suplemento Jornada 34
 [Mie. 9.5.]
