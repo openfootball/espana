@@ -285,13 +285,19 @@ Jornada 35
    Espanyol Barcelona            1-1  UD Las Palmas
    Villarreal CF                 4-1  Celta Vigo
 [Dom. 29.4.]
-   CD Alavés  Atlético Madrid
-   Deportivo La Coruña  FC Barcelona
-   Getafe CF  Girona FC
-   Valencia CF  SD Eibar
+   CD Alavés                     0-1  Atlético Madrid
+   Deportivo La Coruña           2-4  FC Barcelona
+   Getafe CF                     1-1  Girona FC
+   Valencia CF                   0-0  SD Eibar
 [Lun. 30.4.]
    Betis Sevilla  Málaga CF
 
+## Meister Primera Division 2017/18:
+   FC Barcelona
+   
+## 3. Absteiger Primera Division 2017/18:
+   Deportivo La Coruna
+   
 Jornada 36
 [Vie. 4.5.]
    Sevilla FC  Real Sociedad San Sebastián
