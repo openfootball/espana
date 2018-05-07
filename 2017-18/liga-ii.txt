@@ -307,10 +307,10 @@ Jornada 36
    Athletic Bilbao               2-0  Betis Sevilla
    Villarreal CF                 1-0  Valencia CF
 [Dom. 6.5.]
-   Atlético Madrid  Espanyol Barcelona
-   FC Barcelona  Real Madrid
-   UD Las Palmas  Getafe CF
-   Málaga CF  CD Alavés
+   Atlético Madrid               0-2  Espanyol Barcelona
+   FC Barcelona                  2-2  Real Madrid
+   UD Las Palmas                 0-1  Getafe CF
+   Málaga CF                     0-3  CD Alavés
 [Lun. 7.5.]
    CD Leganés  Levante UD
    
