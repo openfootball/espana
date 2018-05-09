@@ -321,20 +321,21 @@ Jornada 36
    FC Barcelona  Villarreal CF 
 
 Jornada 37
-[Dom. 13.5.]
+[Sab. 12.5.]
    CD Alavés  Athletic Bilbao
    Betis Sevilla  Sevilla FC
    Deportivo La Coruña  Villarreal CF
    SD Eibar  UD Las Palmas
-   Espanyol Barcelona  Málaga CF
    Getafe CF  Atlético Madrid
    Girona FC  Valencia CF
-   Levante UD  FC Barcelona
    Real Madrid  Celta Vigo
    Real Sociedad San Sebastián  CD Leganés
+[Dom. 13.5.]
+   Espanyol Barcelona  Málaga CF
+   Levante UD  FC Barcelona
 
 Jornada 38
-[Dom. 20.5.]
+[Sab. 19.5.]
    Athletic Bilbao  Espanyol Barcelona
    Atlético Madrid  SD Eibar
    FC Barcelona  Real Sociedad San Sebastián
