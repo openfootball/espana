@@ -265,11 +265,11 @@ Jornada 34
    SD Eibar                      0-1  Getafe CF
 [Dom. 22.4.]
    Atlético Madrid               0-0  Betis Sevilla
-   FC Barcelona  Villarreal CF          9.5.
+   FC Barcelona                  5-1  Villarreal CF          
    Girona FC                     0-2  Espanyol Barcelona
    UD Las Palmas                 0-4  CD Alavés
    Málaga CF                     2-0  Real Sociedad San Sebastián
-   Sevilla FC  Real Madrid              9.5.
+   Sevilla FC                    3-2  Real Madrid              
 [Lue. 23.4.]
    Athletic Bilbao               1-3  Levante UD
  
@@ -317,8 +317,8 @@ Jornada 36
    
 ## suplemento Jornada 34
 [Mie. 9.5.]
-   Sevilla FC  Real Madrid              
-   FC Barcelona  Villarreal CF 
+   Sevilla FC                    3-2  Real Madrid              
+   FC Barcelona                  5-1  Villarreal CF 
 
 Jornada 37
 [Sab. 12.5.]
