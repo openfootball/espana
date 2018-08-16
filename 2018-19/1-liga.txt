@@ -1,0 +1,552 @@
+###################################
+# Primera Division 2018/19
+
+
+Jornada 1
+[Vie. 17.8.]
+  Girona FC               - Real Valladolid
+  Betis Sevilla           - Levante UD
+[Sab. 18.8.]
+  Celta Vigo              - Espanyol Barcelona
+  Villarreal CF           - Real Sociedad San Sebastian
+  FC Barcelona            - CD Alavés
+[Dom. 19.8.]
+  SD Eibar                - SD Huesca
+  Rayo Vallecano          - Sevilla FC
+  Real Madrid             - Getafe CF
+[Lue. 20.8.]
+  Valencia CF             - Atlético Madrid
+  Athletic Bilbao         - CD Leganés
+
+
+Jornada 2
+[Vie. 24.8.]
+  Getafe CF               - SD Eibar
+  CD Leganés              - Real Sociedad San Sebastian
+[Sab. 25.8.]
+  CD Alavés               - Betis Sevilla
+  Atlético Madrid         - Rayo Vallecano
+  Real Valladolid         - FC Barcelona
+[Dom. 26.8.]
+  Espanyol Barcelona      - Valencia CF
+  Sevilla FC              - Villarreal CF
+  Girona FC               - Real Madrid
+[Lue. 27.8.]
+  Levante UD              - Celta Vigo
+  Athletic Bilbao         - SD Huesca
+
+
+Jornada 3
+[Vie. 31.8.]
+  Getafe CF               - Real Valladolid
+  SD Eibar                - Real Sociedad San Sebastian
+  Villarreal CF           - Girona FC
+[Sab. 1.9.]
+  Celta Vigo              - Atlético Madrid
+  Rayo Vallecano          - Athletic Bilbao
+  Real Madrid             - CD Leganés
+[Dom. 2.9.]
+  Levante UD              - Valencia CF
+  CD Alavés               - Espanyol Barcelona
+  FC Barcelona            - SD Huesca
+  Betis Sevilla           - Sevilla FC
+
+
+Jornada 4
+[Vie. 14.9.]
+  SD Huesca               - Rayo Vallecano
+[Sab. 15.9.]
+  Atlético Madrid         - SD Eibar
+  Real Sociedad San Sebastian - FC Barcelona
+  Valencia CF             - Betis Sevilla
+  Athletic Bilbao         - Real Madrid
+[Dom. 16.9.]
+  CD Leganés              - Villarreal CF
+  Espanyol Barcelona      - Levante UD
+  Real Valladolid         - CD Alavés
+  Sevilla FC              - Getafe CF
+[Lue. 17.9.]
+  Girona FC               - Celta Vigo
+
+
+Jornada 5
+[Vie. 21.9.]
+  SD Huesca               - Real Sociedad San Sebastian
+[Sab. 22.9.]
+  Rayo Vallecano          - CD Alavés
+  Celta Vigo              - Real Valladolid
+  SD Eibar                - CD Leganés
+  Getafe CF               - Atlético Madrid
+  Real Madrid             - Espanyol Barcelona
+[Dom. 23.9.]
+  Levante UD              - Sevilla FC
+  Villarreal CF           - Valencia CF
+  Betis Sevilla           - Athletic Bilbao
+  FC Barcelona            - Girona FC
+
+
+Jornada 6
+[Mar. 25.9.]
+  Espanyol Barcelona      - SD Eibar
+  Real Sociedad San Sebastian - Rayo Vallecano
+  Atlético Madrid         - SD Huesca
+[Mié. 26.9.]
+  Athletic Bilbao         - Villarreal CF
+  CD Leganés              - FC Barcelona
+  Valencia CF             - Celta Vigo
+  Sevilla FC              - Real Madrid
+[Jue. 27.9.]
+  CD Alavés               - Getafe CF
+  Real Valladolid         - Levante UD
+  Girona FC               - Betis Sevilla
+
+
+Jornada 7
+[Vie. 28.9.]
+  Rayo Vallecano          - Espanyol Barcelona
+[Sab. 29.9.]
+  Real Sociedad San Sebastian - Valencia CF
+  FC Barcelona            - Athletic Bilbao
+  SD Eibar                - Sevilla FC
+  Real Madrid             - Atlético Madrid
+[Dom. 30.9.]
+  SD Huesca               - Girona FC
+  Villarreal CF           - Real Valladolid
+  Levante UD              - CD Alavés
+  Betis Sevilla           - CD Leganés
+[Lue. 1.10.]
+  Celta Vigo              - Getafe CF
+
+
+Jornada 8
+[Dom. 7.10.]
+  CD Alavés               - Real Madrid
+  Athletic Bilbao         - Real Sociedad San Sebastian
+  Atlético Madrid         - Betis Sevilla
+  Espanyol Barcelona      - Villarreal CF
+  Getafe CF               - Levante UD
+  CD Leganés              - Rayo Vallecano
+  Valencia CF             - FC Barcelona
+  Sevilla FC              - Celta Vigo
+  Girona FC               - SD Eibar
+  Real Valladolid         - SD Huesca
+
+
+Jornada 9
+[Dom. 21.10.]
+  FC Barcelona            - Sevilla FC
+  Betis Sevilla           - Real Valladolid
+  Celta Vigo              - CD Alavés
+  SD Eibar                - Athletic Bilbao
+  Villarreal CF           - Atlético Madrid
+  SD Huesca               - Espanyol Barcelona
+  Rayo Vallecano          - Getafe CF
+  Real Sociedad San Sebastian - Girona FC
+  Valencia CF             - CD Leganés
+  Real Madrid             - Levante UD
+
+
+Jornada 10
+[Dom. 28.10.]
+  FC Barcelona            - Real Madrid
+  CD Alavés               - Villarreal CF
+  Athletic Bilbao         - Valencia CF
+  Atlético Madrid         - Real Sociedad San Sebastian
+  Celta Vigo              - SD Eibar
+  Girona FC               - Rayo Vallecano
+  Getafe CF               - Betis Sevilla
+  Real Valladolid         - Espanyol Barcelona
+  Sevilla FC              - SD Huesca
+  Levante UD              - CD Leganés
+
+
+Jornada 11
+[Dom. 4.11.]
+  Betis Sevilla           - Celta Vigo
+  Real Madrid             - Real Valladolid
+  Real Sociedad San Sebastian - Sevilla FC
+  SD Eibar                - CD Alavés
+  Espanyol Barcelona      - Athletic Bilbao
+  CD Leganés              - Atlético Madrid
+  Rayo Vallecano          - FC Barcelona
+  SD Huesca               - Getafe CF
+  Valencia CF             - Girona FC
+  Villarreal CF           - Levante UD
+
+
+Jornada 12
+[Dom. 11.11.]
+  CD Alavés               - SD Huesca
+  FC Barcelona            - Betis Sevilla
+  Celta Vigo              - Real Madrid
+  Getafe CF               - Valencia CF
+  Girona FC               - CD Leganés
+  Levante UD              - Real Sociedad San Sebastian
+  Rayo Vallecano          - Villarreal CF
+  Atlético Madrid         - Athletic Bilbao
+  Real Valladolid         - SD Eibar
+  Sevilla FC              - Espanyol Barcelona
+
+
+Jornada 13
+[Dom. 25.11.]
+  Atlético Madrid         - FC Barcelona
+  Athletic Bilbao         - Getafe CF
+  SD Eibar                - Real Madrid
+  Espanyol Barcelona      - Girona FC
+  SD Huesca               - Levante UD
+  Sevilla FC              - Real Valladolid
+  CD Leganés              - CD Alavés
+  Villarreal CF           - Betis Sevilla
+  Real Sociedad San Sebastian - Celta Vigo
+  Valencia CF             - Rayo Vallecano
+
+
+Jornada 14
+[Dom. 2.12.]
+  CD Alavés               - Sevilla FC
+  FC Barcelona            - Villarreal CF
+  Betis Sevilla           - Real Sociedad San Sebastian
+  Celta Vigo              - SD Huesca
+  Real Madrid             - Valencia CF
+  Levante UD              - Athletic Bilbao
+  Girona FC               - Atlético Madrid
+  Rayo Vallecano          - SD Eibar
+  Getafe CF               - Espanyol Barcelona
+  Real Valladolid         - CD Leganés
+
+
+Jornada 15
+[Dom. 9.12.]
+  Athletic Bilbao         - Girona FC
+  Betis Sevilla           - Rayo Vallecano
+  SD Eibar                - Levante UD
+  SD Huesca               - Real Madrid
+  Real Sociedad San Sebastian - Real Valladolid
+  Atlético Madrid         - CD Alavés
+  Espanyol Barcelona      - FC Barcelona
+  Villarreal CF           - Celta Vigo
+  CD Leganés              - Getafe CF
+  Valencia CF             - Sevilla FC
+
+
+Jornada 16
+[Dom. 16.12.]
+  CD Alavés               - Athletic Bilbao
+  Celta Vigo              - CD Leganés
+  SD Eibar                - Valencia CF
+  Getafe CF               - Real Sociedad San Sebastian
+  SD Huesca               - Villarreal CF
+  Real Valladolid         - Atlético Madrid
+  Levante UD              - FC Barcelona
+  Espanyol Barcelona      - Betis Sevilla
+  Sevilla FC              - Girona FC
+  Real Madrid             - Rayo Vallecano
+
+
+Jornada 17
+[Sab. 22.12.]
+  Athletic Bilbao         - Real Valladolid
+  Atlético Madrid         - Espanyol Barcelona
+  FC Barcelona            - Celta Vigo
+  Betis Sevilla           - SD Eibar
+  CD Leganés              - Sevilla FC
+  Real Sociedad San Sebastian - CD Alavés
+  Girona FC               - Getafe CF
+  Valencia CF             - SD Huesca
+  Rayo Vallecano          - Levante UD
+  Villarreal CF           - Real Madrid
+
+
+Jornada 18
+[Dom. 6.1.]
+  CD Alavés               - Valencia CF
+  SD Eibar                - Villarreal CF
+  Espanyol Barcelona      - CD Leganés
+  Real Madrid             - Real Sociedad San Sebastian
+  Celta Vigo              - Athletic Bilbao
+  Sevilla FC              - Atlético Madrid
+  Getafe CF               - FC Barcelona
+  SD Huesca               - Betis Sevilla
+  Levante UD              - Girona FC
+  Real Valladolid         - Rayo Vallecano
+
+
+Jornada 19
+[Dom. 13.1.]
+  Athletic Bilbao         - Sevilla FC
+  Atlético Madrid         - Levante UD
+  FC Barcelona            - SD Eibar
+  Betis Sevilla           - Real Madrid
+  Valencia CF             - Real Valladolid
+  Girona FC               - CD Alavés
+  Rayo Vallecano          - Celta Vigo
+  Real Sociedad San Sebastian - Espanyol Barcelona
+  Villarreal CF           - Getafe CF
+  CD Leganés              - SD Huesca
+
+
+Jornada 20
+[Dom. 20.1.]
+  FC Barcelona            - CD Leganés
+  Betis Sevilla           - Girona FC
+  Celta Vigo              - Valencia CF
+  SD Eibar                - Espanyol Barcelona
+  Levante UD              - Real Valladolid
+  Rayo Vallecano          - Real Sociedad San Sebastian
+  Real Madrid             - Sevilla FC
+  Getafe CF               - CD Alavés
+  Villarreal CF           - Athletic Bilbao
+  SD Huesca               - Atlético Madrid
+
+
+Jornada 21
+[Dom. 27.1.]
+  CD Alavés               - Rayo Vallecano
+  Athletic Bilbao         - Betis Sevilla
+  Atlético Madrid         - Getafe CF
+  Espanyol Barcelona      - Real Madrid
+  Valencia CF             - Villarreal CF
+  Girona FC               - FC Barcelona
+  Real Valladolid         - Celta Vigo
+  CD Leganés              - SD Eibar
+  Real Sociedad San Sebastian - SD Huesca
+  Sevilla FC              - Levante UD
+
+
+Jornada 22
+[Dom. 3.2.]
+  FC Barcelona            - Valencia CF
+  Celta Vigo              - Sevilla FC
+  SD Eibar                - Girona FC
+  SD Huesca               - Real Valladolid
+  Real Madrid             - CD Alavés
+  Real Sociedad San Sebastian - Athletic Bilbao
+  Betis Sevilla           - Atlético Madrid
+  Villarreal CF           - Espanyol Barcelona
+  Levante UD              - Getafe CF
+  Rayo Vallecano          - CD Leganés
+
+
+Jornada 23
+[Dom. 10.2.]
+  Atlético Madrid         - Real Madrid
+  CD Alavés               - Levante UD
+  Athletic Bilbao         - FC Barcelona
+  Espanyol Barcelona      - Rayo Vallecano
+  Girona FC               - SD Huesca
+  Real Valladolid         - Villarreal CF
+  CD Leganés              - Betis Sevilla
+  Getafe CF               - Celta Vigo
+  Sevilla FC              - SD Eibar
+  Valencia CF             - Real Sociedad San Sebastian
+
+
+Jornada 24
+[Dom. 17.2.]
+  FC Barcelona            - Real Valladolid
+  Celta Vigo              - Levante UD
+  SD Eibar                - Getafe CF
+  Betis Sevilla           - CD Alavés
+  SD Huesca               - Athletic Bilbao
+  Rayo Vallecano          - Atlético Madrid
+  Valencia CF             - Espanyol Barcelona
+  Real Madrid             - Girona FC
+  Real Sociedad San Sebastian - CD Leganés
+  Villarreal CF           - Sevilla FC
+
+
+Jornada 25
+[Dom. 24.2.]
+  CD Alavés               - Celta Vigo
+  Athletic Bilbao         - SD Eibar
+  Atlético Madrid         - Villarreal CF
+  Espanyol Barcelona      - SD Huesca
+  Getafe CF               - Rayo Vallecano
+  Girona FC               - Real Sociedad San Sebastian
+  CD Leganés              - Valencia CF
+  Levante UD              - Real Madrid
+  Sevilla FC              - FC Barcelona
+  Real Valladolid         - Betis Sevilla
+
+
+Jornada 26
+[Dom. 3.3.]
+  Betis Sevilla           - Getafe CF
+  Espanyol Barcelona      - Real Valladolid
+  SD Huesca               - Sevilla FC
+  CD Leganés              - Levante UD
+  Real Madrid             - FC Barcelona
+  Villarreal CF           - CD Alavés
+  Valencia CF             - Athletic Bilbao
+  Real Sociedad San Sebastian - Atlético Madrid
+  SD Eibar                - Celta Vigo
+  Rayo Vallecano          - Girona FC
+
+
+Jornada 27
+[Dom. 10.3.]
+  CD Alavés               - SD Eibar
+  Athletic Bilbao         - Espanyol Barcelona
+  Atlético Madrid         - CD Leganés
+  FC Barcelona            - Rayo Vallecano
+  Getafe CF               - SD Huesca
+  Girona FC               - Valencia CF
+  Levante UD              - Villarreal CF
+  Celta Vigo              - Betis Sevilla
+  Real Valladolid         - Real Madrid
+  Sevilla FC              - Real Sociedad San Sebastian
+
+
+Jornada 28
+[Dom. 17.3.]
+  Athletic Bilbao         - Atlético Madrid
+  SD Eibar                - Real Valladolid
+  Espanyol Barcelona      - Sevilla FC
+  SD Huesca               - CD Alavés
+  Betis Sevilla           - FC Barcelona
+  Real Madrid             - Celta Vigo
+  Valencia CF             - Getafe CF
+  CD Leganés              - Girona FC
+  Real Sociedad San Sebastian - Levante UD
+  Villarreal CF           - Rayo Vallecano
+
+
+Jornada 29
+[Dom. 31.3.]
+  CD Alavés               - Atlético Madrid
+  FC Barcelona            - Espanyol Barcelona
+  Celta Vigo              - Villarreal CF
+  Getafe CF               - CD Leganés
+  Sevilla FC              - Valencia CF
+  Girona FC               - Athletic Bilbao
+  Rayo Vallecano          - Betis Sevilla
+  Levante UD              - SD Eibar
+  Real Madrid             - SD Huesca
+  Real Valladolid         - Real Sociedad San Sebastian
+
+
+Jornada 30
+[Mié. 3.4.]
+  Athletic Bilbao         - Levante UD
+  Atlético Madrid         - Girona FC
+  SD Eibar                - Rayo Vallecano
+  Espanyol Barcelona      - Getafe CF
+  CD Leganés              - Real Valladolid
+  Sevilla FC              - CD Alavés
+  Villarreal CF           - FC Barcelona
+  Real Sociedad San Sebastian - Betis Sevilla
+  SD Huesca               - Celta Vigo
+  Valencia CF             - Real Madrid
+
+
+Jornada 31
+[Dom. 7.4.]
+  CD Alavés               - CD Leganés
+  Betis Sevilla           - Villarreal CF
+  Celta Vigo              - Real Sociedad San Sebastian
+  Rayo Vallecano          - Valencia CF
+  Getafe CF               - Athletic Bilbao
+  FC Barcelona            - Atlético Madrid
+  Real Madrid             - SD Eibar
+  Girona FC               - Espanyol Barcelona
+  Levante UD              - SD Huesca
+  Real Valladolid         - Sevilla FC
+
+
+Jornada 32
+[Dom. 14.4.]
+  Athletic Bilbao         - Rayo Vallecano
+  Atlético Madrid         - Celta Vigo
+  Girona FC               - Villarreal CF
+  CD Leganés              - Real Madrid
+  Espanyol Barcelona      - CD Alavés
+  SD Huesca               - FC Barcelona
+  Sevilla FC              - Betis Sevilla
+  Real Sociedad San Sebastian - SD Eibar
+  Real Valladolid         - Getafe CF
+  Valencia CF             - Levante UD
+
+
+Jornada 33
+[Dom. 21.4.]
+  CD Alavés               - Real Valladolid
+  FC Barcelona            - Real Sociedad San Sebastian
+  Betis Sevilla           - Valencia CF
+  Celta Vigo              - Girona FC
+  Getafe CF               - Sevilla FC
+  Real Madrid             - Athletic Bilbao
+  SD Eibar                - Atlético Madrid
+  Levante UD              - Espanyol Barcelona
+  Rayo Vallecano          - SD Huesca
+  Villarreal CF           - CD Leganés
+
+
+Jornada 34
+[Mié. 24.4.]
+  CD Alavés               - FC Barcelona
+  Atlético Madrid         - Valencia CF
+  Getafe CF               - Real Madrid
+  Real Sociedad San Sebastian - Villarreal CF
+  CD Leganés              - Athletic Bilbao
+  Levante UD              - Betis Sevilla
+  Espanyol Barcelona      - Celta Vigo
+  SD Huesca               - SD Eibar
+  Real Valladolid         - Girona FC
+  Sevilla FC              - Rayo Vallecano
+
+
+Jornada 35
+[Dom. 28.4.]
+  Atlético Madrid         - Real Valladolid
+  FC Barcelona            - Levante UD
+  Betis Sevilla           - Espanyol Barcelona
+  Girona FC               - Sevilla FC
+  Rayo Vallecano          - Real Madrid
+  Athletic Bilbao         - CD Alavés
+  CD Leganés              - Celta Vigo
+  Valencia CF             - SD Eibar
+  Real Sociedad San Sebastian - Getafe CF
+  Villarreal CF           - SD Huesca
+
+
+Jornada 36
+[Dom. 5.5.]
+  CD Alavés               - Real Sociedad San Sebastian
+  Getafe CF               - Girona FC
+  SD Huesca               - Valencia CF
+  Levante UD              - Rayo Vallecano
+  Real Madrid             - Villarreal CF
+  Real Valladolid         - Athletic Bilbao
+  Espanyol Barcelona      - Atlético Madrid
+  Celta Vigo              - FC Barcelona
+  SD Eibar                - Betis Sevilla
+  Sevilla FC              - CD Leganés
+
+
+Jornada 37
+[Dom. 12.5.]
+  Athletic Bilbao         - Celta Vigo
+  Atlético Madrid         - Sevilla FC
+  FC Barcelona            - Getafe CF
+  Betis Sevilla           - SD Huesca
+  Girona FC               - Levante UD
+  Rayo Vallecano          - Real Valladolid
+  Valencia CF             - CD Alavés
+  Villarreal CF           - SD Eibar
+  CD Leganés              - Espanyol Barcelona
+  Real Sociedad San Sebastian - Real Madrid
+
+
+Jornada 38
+[Dom. 19.5.]
+  CD Alavés               - Girona FC
+  Celta Vigo              - Rayo Vallecano
+  Espanyol Barcelona      - Real Sociedad San Sebastian
+  Getafe CF               - Villarreal CF
+  SD Huesca               - CD Leganés
+  Sevilla FC              - Athletic Bilbao
+  Levante UD              - Atlético Madrid
+  SD Eibar                - FC Barcelona
+  Real Madrid             - Betis Sevilla
+  Real Valladolid         - Valencia CF
