@@ -6,7 +6,7 @@ Jornada 1
 [Vie. 17.8.]
   Girona FC               - Real Valladolid
   Betis Sevilla           - Levante UD
-[Sab. 18.8.]
+[Sáb. 18.8.]
   Celta Vigo              - Espanyol Barcelona
   Villarreal CF           - Real Sociedad San Sebastian
   FC Barcelona            - CD Alavés
@@ -14,7 +14,7 @@ Jornada 1
   SD Eibar                - SD Huesca
   Rayo Vallecano          - Sevilla FC
   Real Madrid             - Getafe CF
-[Lue. 20.8.]
+[Lun. 20.8.]
   Valencia CF             - Atlético Madrid
   Athletic Bilbao         - CD Leganés
 
@@ -23,7 +23,7 @@ Jornada 2
 [Vie. 24.8.]
   Getafe CF               - SD Eibar
   CD Leganés              - Real Sociedad San Sebastian
-[Sab. 25.8.]
+[Sáb. 25.8.]
   CD Alavés               - Betis Sevilla
   Atlético Madrid         - Rayo Vallecano
   Real Valladolid         - FC Barcelona
@@ -31,7 +31,7 @@ Jornada 2
   Espanyol Barcelona      - Valencia CF
   Sevilla FC              - Villarreal CF
   Girona FC               - Real Madrid
-[Lue. 27.8.]
+[Lun. 27.8.]
   Levante UD              - Celta Vigo
   Athletic Bilbao         - SD Huesca
 
@@ -41,7 +41,7 @@ Jornada 3
   Getafe CF               - Real Valladolid
   SD Eibar                - Real Sociedad San Sebastian
   Villarreal CF           - Girona FC
-[Sab. 1.9.]
+[Sáb. 1.9.]
   Celta Vigo              - Atlético Madrid
   Rayo Vallecano          - Athletic Bilbao
   Real Madrid             - CD Leganés
@@ -55,7 +55,7 @@ Jornada 3
 Jornada 4
 [Vie. 14.9.]
   SD Huesca               - Rayo Vallecano
-[Sab. 15.9.]
+[Sáb. 15.9.]
   Atlético Madrid         - SD Eibar
   Real Sociedad San Sebastian - FC Barcelona
   Valencia CF             - Betis Sevilla
@@ -65,14 +65,14 @@ Jornada 4
   Espanyol Barcelona      - Levante UD
   Real Valladolid         - CD Alavés
   Sevilla FC              - Getafe CF
-[Lue. 17.9.]
+[Lun. 17.9.]
   Girona FC               - Celta Vigo
 
 
 Jornada 5
 [Vie. 21.9.]
   SD Huesca               - Real Sociedad San Sebastian
-[Sab. 22.9.]
+[Sáb. 22.9.]
   Rayo Vallecano          - CD Alavés
   Celta Vigo              - Real Valladolid
   SD Eibar                - CD Leganés
@@ -104,7 +104,7 @@ Jornada 6
 Jornada 7
 [Vie. 28.9.]
   Rayo Vallecano          - Espanyol Barcelona
-[Sab. 29.9.]
+[Sáb. 29.9.]
   Real Sociedad San Sebastian - Valencia CF
   FC Barcelona            - Athletic Bilbao
   SD Eibar                - Sevilla FC
@@ -114,7 +114,7 @@ Jornada 7
   Villarreal CF           - Real Valladolid
   Levante UD              - CD Alavés
   Betis Sevilla           - CD Leganés
-[Lue. 1.10.]
+[Lun. 1.10.]
   Celta Vigo              - Getafe CF
 
 
@@ -245,7 +245,7 @@ Jornada 16
 
 
 Jornada 17
-[Sab. 22.12.]
+[Sáb. 22.12.]
   Athletic Bilbao         - Real Valladolid
   Atlético Madrid         - Espanyol Barcelona
   FC Barcelona            - Celta Vigo
