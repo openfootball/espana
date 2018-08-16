@@ -3,7 +3,7 @@ Jornada 1
 [Vie. 18.8.]
    CD Leganés                    1-0  CD Alavés
    Valencia CF                   1-0  UD Las Palmas
-[Sab. 19.8.]
+[Sáb. 19.8.]
    Celta Vigo                    2-3  Real Sociedad San Sebastián
    Girona FC                     2-2  Atlético Madrid
    Sevilla FC                    1-1  Espanyol Barcelona
@@ -11,7 +11,7 @@ Jornada 1
    Athletic Bilbao               0-0  Getafe CF
    FC Barcelona                  2-0  Betis Sevilla
    Deportivo La Coruña           0-3  Real Madrid
-[Lue. 21.8.]
+[Lun. 21.8.]
    Levante UD                    1-0  Villarreal CF
    Málaga CF                     0-1  SD Eibar
    
@@ -19,7 +19,7 @@ Jornada 2
 [Vie. 25.8.]
    Betis Sevilla                 2-1  Celta Vigo
    Real Sociedad San Sebastián   3-0  Villarreal CF
-[Sab. 26.8.]   
+[Sáb. 26.8.]   
    CD Alavés                     0-2  FC Barcelona
    Girona FC                     1-0  Málaga CF
    UD Las Palmas                 1-5  Atlético Madrid
@@ -33,7 +33,7 @@ Jornada 2
 Jornada 3
 [Vie. 8.9.]
    CD Leganés                    1-2  Getafe CF
-[Sab. 9.9]
+[Sáb. 9.9]
    Real Madrid                   1-1  Levante UD
    Sevilla FC                    3-0  SD Eibar
    Valencia CF                   0-0  Atlético Madrid
@@ -43,13 +43,13 @@ Jornada 3
    Deportivo La Coruña           2-4  Real Sociedad San Sebastián
    Villarreal CF                 3-1  Betis Sevilla
    Celta Vigo                    1-0  CD Alavés
-[Lue. 11.9.]
+[Lun. 11.9.]
    Málaga CF                     1-3  UD Las Palmas
   
 Jornada 4
 [Vie. 15.9.]
    SD Eibar                      1-0  CD Leganés
-[Sab. 16.9.]
+[Sáb. 16.9.]
    Atlético Madrid               1-0  Málaga CF
    Betis Sevilla                 2-1  Deportivo La Coruña
    Levante UD                    1-1  Valencia CF
@@ -59,7 +59,7 @@ Jornada 4
    Girona FC                     0-1  Sevilla FC
    UD Las Palmas                 1-0  Athletic Bilbao
    Real Sociedad San Sebastián   1-3  Real Madrid
-[Lue. 18.9.]
+[Lun. 18.9.]
    Espanyol Barcelona            2-1  Celta Vigo
    
 Jornada 5
@@ -78,7 +78,7 @@ Jornada 5
    Levante UD                    3-0  Real Sociedad San Sebastián
    
 Jornada 6
-[Sab. 23.9.]
+[Sáb. 23.9.]
    CD Alavés                     1-2  Real Madrid
    Atlético Madrid               2-0  Sevilla FC
    Girona FC                     0-3  FC Barcelona
@@ -89,13 +89,13 @@ Jornada 6
    Getafe CF                     4-0  Villarreal CF
    UD Las Palmas                 0-2  CD Leganés
    Real Sociedad San Sebastián   2-3  Valencia CF
-[Lue. 25.9.]
+[Lun. 25.9.]
    Betis Sevilla                 4-0  Levante UD
    
 Jornada 7
 [Vie. 29.9.]
    Celta Vigo                    3-3  Girona FC
-[Sab. 30.9.]
+[Sáb. 30.9.]
    Deportivo La Coruña           2-1  Getafe CF
    CD Leganés                    0-0  Atlético Madrid
    Levante UD                    0-2  CD Alavés
@@ -110,7 +110,7 @@ Jornada 7
 Jornada 8
 [Vie. 13.10.]
    Espanyol Barcelona            0-0  Levante UD
-[Sab. 14.10.]
+[Sáb. 14.10.]
    CD Alavés                     0-2  Real Sociedad San Sebastián
    Athletic Bilbao               1-0  Sevilla FC
    Atlético Madrid               1-1  FC Barcelona
@@ -120,11 +120,11 @@ Jornada 8
    SD Eibar                      0-0  Deportivo La Coruña
    Girona FC                     1-2  Villarreal CF
    Málaga CF                     0-2  CD Leganés
-[Lue. 16.10.]
+[Lun. 16.10.]
     UD Las Palmas                2-5  Celta Vigo
     
 Jornada 9
-[Sab. 21.10.]
+[Sáb. 21.10.]
    FC Barcelona                  2-0  Málaga CF
    Betis Sevilla                 2-0  CD Alavés
    Valencia CF                   4-0  Sevilla FC
@@ -134,12 +134,12 @@ Jornada 9
    CD Leganés                    1-0  Athletic Bilbao
    Real Madrid                   3-0  SD Eibar
    Villarreal CF                 4-0  UD Las Palmas
-[Lue. 23.10.]
+[Lun. 23.10.]
    Real Sociedad San Sebastián   1-1  Espanyol Barcelona
    Deportivo La Coruña           1-2  Girona FC
    
 Jornada 10
-[Sab. 28.10.]
+[Sáb. 28.10.]
    CD Alavés                     1-2  Valencia CF
    Athletic Bilbao               0-2  FC Barcelona
    Atlético Madrid               1-1  Villarreal CF
@@ -149,14 +149,14 @@ Jornada 10
    Getafe CF                     2-1  Real Sociedad San Sebastián
    Girona FC                     2-1  Real Madrid
    Málaga CF                     2-1  Celta Vigo
-[Lue. 30.10.]
+[Lun. 30.10.]
    Espanyol Barcelona            1-0  Betis Sevilla
    UD Las Palmas                 1-3  Deportivo La Coruña
    
 Jornada 11
 [Vie. 3.11.]
    Betis Sevilla                 2-2  Getafe CF
-[Sab. 4.11.]
+[Sáb. 4.11.]
    CD Alavés                     1-0  Espanyol Barcelona
    FC Barcelona                  2-1  Sevilla FC
    Deportivo La Coruña           0-1  Atlético Madrid
@@ -171,7 +171,7 @@ Jornada 11
 Jornada 12
 [Vie. 17.11.]
    Girona FC                     1-1  Real Sociedad San Sebastián
-[Sab. 18.11.]
+[Sáb. 18.11.]
    Atlético Madrid               0-0  Real Madrid
    Getafe CF                     4-1  CD Alavés
    CD Leganés                    0-3  FC Barcelona
@@ -181,13 +181,13 @@ Jornada 12
    Espanyol Barcelona            0-2  Valencia CF
    UD Las Palmas                 0-2  Levante UD
    Málaga CF                     3-2  Deportivo La Coruña
- [Lue. 20.11.]
+ [Lun. 20.11.]
    SD Eibar                      5-0  Betis Sevilla
    
 Jornada 13
 [Vie. 24.11.]
    Celta Vigo                    1-0  CD Leganés
-[Sab. 25.11.]
+[Sáb. 25.11.]
    CD Alavés                     1-2  SD Eibar
    Betis Sevilla                 2-2  Girona FC
    Levante UD                    0-5  Atlético Madrid
@@ -197,13 +197,13 @@ Jornada 13
    Real Sociedad San Sebastián   2-2  UD Las Palmas
    Valencia CF                   1-1  FC Barcelona
    Villarreal CF                 2-3  Sevilla FC
-[Lue. 27.11.]
+[Lun. 27.11.]
    Espanyol Barcelona            1-0  Getafe CF
 
 Jornada 14
 [Vie. 1.12.]
    Málaga CF                     0-0  Levante UD
-[Sab. 2.12.]
+[Sáb. 2.12.]
    Athletic Bilbao               0-0  Real Madrid
    Atlético Madrid               2-1  Real Sociedad San Sebastián
    FC Barcelona                  2-2  Celta Vigo
@@ -213,13 +213,13 @@ Jornada 14
    Getafe CF                     1-0  Valencia CF
    UD Las Palmas                 1-0  Betis Sevilla
    CD Leganés                    3-1  Villarreal CF
-[Lue. 4.12.]
+[Lun. 4.12.]
    Girona FC                     2-3  CD Alavés
 
 Jornada 15
 [Vie. 8.12.]
    CD Alavés                     2-0  UD Las Palmas
-[Sab. 9.12.]
+[Sáb. 9.12.]
    Deportivo La Coruña           1-0  CD Leganés
    Getafe CF                     0-0  SD Eibar
    Real Madrid                   5-0  Sevilla FC        
@@ -229,13 +229,13 @@ Jornada 15
    Levante UD                    1-2  Athletic Bilbao
    Real Sociedad San Sebastián   0-2  Málaga CF
    Villarreal CF                 0-2  FC Barcelona
-[Lue. 11.12.]
+[Lun. 11.12.]
    Espanyol Barcelona            0-1  Girona FC
    
 Jornada 16
 [Vie.15.12.]
    Sevilla FC                    0-0  Levante UD
-[Sab. 16.12.]
+[Sáb. 16.12.]
    Athletic Bilbao               0-0  Real Sociedad San Sebastián
    Atlético Madrid               1-0  CD Alavés
    SD Eibar                      2-1  Valencia CF
@@ -245,7 +245,7 @@ Jornada 16
    Girona FC                     1-0  Getafe CF
    UD Las Palmas                 2-2  Espanyol Barcelona
    CD Leganés                    1-3  Real Madrid       
-[Lue.18.12.]
+[Lun.18.12.]
    Málaga CF                     0-2  Betis Sevilla
 
 Jornada 17
@@ -260,9 +260,10 @@ Jornada 17
 [Vie. 22.12.]
    Betis Sevilla                 0-2  Athletic Bilbao
    Espanyol Barcelona            1-0  Atlético Madrid
-[Sab. 23.12.]
+[Sáb. 23.12.]
    Deportivo La Coruña           1-3  Celta Vigo
    Real Madrid                   0-3  FC Barcelona
    Valencia CF                   0-1  Villarreal CF
 
-Winterpause bis 6.1.18
+
+###  Winterpause bis 6.1.18
