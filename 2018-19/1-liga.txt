@@ -38,16 +38,16 @@ Jornada 2
 
 Jornada 3
 [Vie. 31.8.]
-  Getafe CF               - Real Valladolid
-  SD Eibar                - Real Sociedad San Sebastian
-  Villarreal CF           - Girona FC
+  Getafe CF               0-0 Real Valladolid
+  SD Eibar                2-1 Real Sociedad San Sebastian
+  Villarreal CF           0-1 Girona FC
 [Sáb. 1.9.]
-  Celta Vigo              - Atlético Madrid
-  Rayo Vallecano          - Athletic Bilbao
-  Real Madrid             - CD Leganés
+  Celta Vigo              2-0 Atlético Madrid
+  Rayo Vallecano           Athletic Bilbao
+  Real Madrid             4-1 CD Leganés
 [Dom. 2.9.]
-  Levante UD              - Valencia CF
-  CD Alavés               - Espanyol Barcelona
+  Levante UD              2-2 Valencia CF
+  CD Alavés               2-1 Espanyol Barcelona
   FC Barcelona            - SD Huesca
   Betis Sevilla           - Sevilla FC
 
