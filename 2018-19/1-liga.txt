@@ -4,62 +4,62 @@
 
 Jornada 1
 [Vie. 17.8.]
-  Girona FC               0-0 Real Valladolid
-  Betis Sevilla           0-3 Levante UD
+  Girona FC                   0-0 Real Valladolid
+  Betis Sevilla               0-3 Levante UD
 [Sáb. 18.8.]
-  Celta Vigo              1-1 Espanyol Barcelona
-  Villarreal CF           1-2 Real Sociedad San Sebastian
-  FC Barcelona            3-0 CD Alavés
+  Celta Vigo                  1-1 Espanyol Barcelona
+  Villarreal CF               1-2 Real Sociedad San Sebastian
+  FC Barcelona                3-0 CD Alavés
 [Dom. 19.8.]
-  SD Eibar                1-2 SD Huesca
-  Rayo Vallecano          1-4 Sevilla FC
-  Real Madrid             2-0 Getafe CF
+  SD Eibar                    1-2 SD Huesca
+  Rayo Vallecano              1-4 Sevilla FC
+  Real Madrid                 2-0 Getafe CF
 [Lun. 20.8.]
-  Valencia CF             1-1 Atlético Madrid
-  Athletic Bilbao         2-1 CD Leganés
+  Valencia CF                 1-1 Atlético Madrid
+  Athletic Bilbao             2-1 CD Leganés
 
 
 Jornada 2
 [Vie. 24.8.]
-  Getafe CF               2-0 SD Eibar
-  CD Leganés              2-2 Real Sociedad San Sebastian
+  Getafe CF                    2-0 SD Eibar
+  CD Leganés                   2-2 Real Sociedad San Sebastian
 [Sáb. 25.8.]
-  CD Alavés               0-0 Betis Sevilla
-  Atlético Madrid         1-0 Rayo Vallecano
-  Real Valladolid         0-1 FC Barcelona
+  CD Alavés                    0-0 Betis Sevilla
+  Atlético Madrid              1-0 Rayo Vallecano
+  Real Valladolid              0-1 FC Barcelona
 [Dom. 26.8.]
-  Espanyol Barcelona      2-0 Valencia CF
-  Sevilla FC              0-0 Villarreal CF
-  Girona FC               1-4 Real Madrid
+  Espanyol Barcelona           2-0 Valencia CF
+  Sevilla FC                   0-0 Villarreal CF
+  Girona FC                    1-4 Real Madrid
 [Lun. 27.8.]
-  Levante UD              1-2 Celta Vigo
-  Athletic Bilbao         2-2 SD Huesca
+  Levante UD                   1-2 Celta Vigo
+  Athletic Bilbao              2-2 SD Huesca
 
 
 Jornada 3
 [Vie. 31.8.]
-  Getafe CF               0-0 Real Valladolid
-  SD Eibar                2-1 Real Sociedad San Sebastian
-  Villarreal CF           0-1 Girona FC
+  Getafe CF                    0-0 Real Valladolid
+  SD Eibar                     2-1 Real Sociedad San Sebastian
+  Villarreal CF                0-1 Girona FC
 [Sáb. 1.9.]
-  Celta Vigo              2-0 Atlético Madrid
-  Rayo Vallecano           -  Athletic Bilbao   aplazar
-  Real Madrid             4-1 CD Leganés
+  Celta Vigo                   2-0 Atlético Madrid
+  Rayo Vallecano               -  Athletic Bilbao   aplazar
+  Real Madrid                  4-1 CD Leganés
 [Dom. 2.9.]
-  Levante UD              2-2 Valencia CF
-  CD Alavés               2-1 Espanyol Barcelona
-  FC Barcelona            8-2 SD Huesca
-  Betis Sevilla           1-0 Sevilla FC
+  Levante UD                   2-2 Valencia CF
+  CD Alavés                    2-1 Espanyol Barcelona
+  FC Barcelona                 8-2 SD Huesca
+  Betis Sevilla                1-0 Sevilla FC
 
 
 Jornada 4
 [Vie. 14.9.]
-  SD Huesca               - Rayo Vallecano
+  SD Huesca                    0-1 Rayo Vallecano
 [Sáb. 15.9.]
-  Atlético Madrid         - SD Eibar
-  Real Sociedad San Sebastian - FC Barcelona
-  Valencia CF             - Betis Sevilla
-  Athletic Bilbao         - Real Madrid
+  Atlético Madrid              1-1 SD Eibar
+  Real Sociedad San Sebastian  1-2 FC Barcelona
+  Valencia CF                  0-0 Betis Sevilla
+  Athletic Bilbao              1-1 Real Madrid
 [Dom. 16.9.]
   CD Leganés              - Villarreal CF
   Espanyol Barcelona      - Levante UD
