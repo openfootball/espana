@@ -119,45 +119,53 @@ Jornada 7
 
 
 Jornada 8
-[Dom. 7.10.]
-  CD Alavés               - Real Madrid
+[Vie. 5.10.]
   Athletic Bilbao         - Real Sociedad San Sebastian
+[Sab. 6.10]
+ Getafe CF               - Levante UD
+  CD Leganés              - Rayo Vallecano
+  CD Alavés               - Real Madrid
+  Girona FC               - SD Eibar
+[Dom. 7.10.]
   Atlético Madrid         - Betis Sevilla
   Espanyol Barcelona      - Villarreal CF
-  Getafe CF               - Levante UD
-  CD Leganés              - Rayo Vallecano
   Valencia CF             - FC Barcelona
   Sevilla FC              - Celta Vigo
-  Girona FC               - SD Eibar
   Real Valladolid         - SD Huesca
 
 
 Jornada 9
-[Dom. 21.10.]
-  FC Barcelona            - Sevilla FC
-  Betis Sevilla           - Real Valladolid
+[Vie. 19.10.]
   Celta Vigo              - CD Alavés
-  SD Eibar                - Athletic Bilbao
+[Sab. 20.10.]
+ Valencia CF              - CD Leganés
+  Real Madrid             - Levante UD
+  FC Barcelona            - Sevilla FC
   Villarreal CF           - Atlético Madrid
+[Dom. 21.10.]
+  Betis Sevilla           - Real Valladolid
+  SD Eibar                - Athletic Bilbao
   SD Huesca               - Espanyol Barcelona
   Rayo Vallecano          - Getafe CF
+[Lun. 22.10.]  
   Real Sociedad San Sebastian - Girona FC
-  Valencia CF             - CD Leganés
-  Real Madrid             - Levante UD
-
+ 
 
 Jornada 10
-[Dom. 28.10.]
-  FC Barcelona            - Real Madrid
-  CD Alavés               - Villarreal CF
+[Vie. 26.10.]
+  Real Valladolid         - Espanyol Barcelona
+[Sab. 27.10.]
   Athletic Bilbao         - Valencia CF
   Atlético Madrid         - Real Sociedad San Sebastian
   Celta Vigo              - SD Eibar
   Girona FC               - Rayo Vallecano
-  Getafe CF               - Betis Sevilla
-  Real Valladolid         - Espanyol Barcelona
-  Sevilla FC              - SD Huesca
   Levante UD              - CD Leganés
+[Dom. 28.10.]
+  FC Barcelona            - Real Madrid
+  CD Alavés               - Villarreal CF
+  Getafe CF               - Betis Sevilla
+  Sevilla FC              - SD Huesca
+  
 
 
 Jornada 11
