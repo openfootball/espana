@@ -96,9 +96,9 @@ Jornada 6
   Valencia CF                  1-1 Celta Vigo
   Sevilla FC                   3-0 Real Madrid
 [Jue. 27.9.]
-  CD Alavés               - Getafe CF
-  Real Valladolid         - Levante UD
-  Girona FC               - Betis Sevilla
+  CD Alavés                    1-1 Getafe CF
+  Real Valladolid              2-1 Levante UD
+  Girona FC                    0-1 Betis Sevilla
 
 
 Jornada 7
@@ -122,7 +122,7 @@ Jornada 8
 [Vie. 5.10.]
   Athletic Bilbao         - Real Sociedad San Sebastian
 [Sab. 6.10]
- Getafe CF               - Levante UD
+ Getafe CF                - Levante UD
   CD Leganés              - Rayo Vallecano
   CD Alavés               - Real Madrid
   Girona FC               - SD Eibar
