@@ -4,19 +4,19 @@
 
 Jornada 1
 [Vie. 17.8.]
-  Girona FC                   0-0 Real Valladolid
-  Betis Sevilla               0-3 Levante UD
+  Girona FC                    0-0 Real Valladolid
+  Betis Sevilla                0-3 Levante UD
 [Sáb. 18.8.]
-  Celta Vigo                  1-1 Espanyol Barcelona
-  Villarreal CF               1-2 Real Sociedad San Sebastian
-  FC Barcelona                3-0 CD Alavés
+  Celta Vigo                   1-1 Espanyol Barcelona
+  Villarreal CF                1-2 Real Sociedad San Sebastian
+  FC Barcelona                 3-0 CD Alavés
 [Dom. 19.8.]
-  SD Eibar                    1-2 SD Huesca
-  Rayo Vallecano              1-4 Sevilla FC
-  Real Madrid                 2-0 Getafe CF
+  SD Eibar                     1-2 SD Huesca
+  Rayo Vallecano               1-4 Sevilla FC
+  Real Madrid                  2-0 Getafe CF
 [Lun. 20.8.]
-  Valencia CF                 1-1 Atlético Madrid
-  Athletic Bilbao             2-1 CD Leganés
+  Valencia CF                  1-1 Atlético Madrid
+  Athletic Bilbao              2-1 CD Leganés
 
 
 Jornada 2
@@ -43,7 +43,7 @@ Jornada 3
   Villarreal CF                0-1 Girona FC
 [Sáb. 1.9.]
   Celta Vigo                   2-0 Atlético Madrid
-  Rayo Vallecano               -  Athletic Bilbao   aplazar
+  Rayo Vallecano               -  Athletic Bilbao   aplazar 24.10.18
   Real Madrid                  4-1 CD Leganés
 [Dom. 2.9.]
   Levante UD                   2-2 Valencia CF
@@ -150,7 +150,10 @@ Jornada 9
   Rayo Vallecano               1-2 Getafe CF
 [Lun. 22.10.]  
   Real Sociedad San Sebastian - Girona FC
- 
+  
+##suplemento Jornado 3
+[Mie. 24.10.]
+Rayo Vallecano  Athletic Bilbao
 
 Jornada 10
 [Vie. 26.10.]
@@ -170,6 +173,8 @@ Jornada 10
 
 
 Jornada 11
+[Vie. 2.11.]
+
 [Dom. 4.11.]
   Betis Sevilla           - Celta Vigo
   Real Madrid             - Real Valladolid
@@ -184,31 +189,36 @@ Jornada 11
 
 
 Jornada 12
+[Vie. 9.11.]
+  Levante UD              - Real Sociedad San Sebastian
+[Sab. 10.11.]
+  Getafe CF               - Valencia CF
+  Girona FC               - CD Leganés
+  Atlético Madrid         - Athletic Bilbao
+  Real Valladolid         - SD Eibar
 [Dom. 11.11.]
   CD Alavés               - SD Huesca
   FC Barcelona            - Betis Sevilla
   Celta Vigo              - Real Madrid
-  Getafe CF               - Valencia CF
-  Girona FC               - CD Leganés
-  Levante UD              - Real Sociedad San Sebastian
   Rayo Vallecano          - Villarreal CF
-  Atlético Madrid         - Athletic Bilbao
-  Real Valladolid         - SD Eibar
   Sevilla FC              - Espanyol Barcelona
 
 
 Jornada 13
-[Dom. 25.11.]
-  Atlético Madrid         - FC Barcelona
-  Athletic Bilbao         - Getafe CF
-  SD Eibar                - Real Madrid
-  Espanyol Barcelona      - Girona FC
-  SD Huesca               - Levante UD
-  Sevilla FC              - Real Valladolid
+[Vie. 23.11.]
   CD Leganés              - CD Alavés
-  Villarreal CF           - Betis Sevilla
-  Real Sociedad San Sebastian - Celta Vigo
+[Sab. 24.11.]
+  Atlético Madrid         - FC Barcelona
+  SD Eibar                - Real Madrid
+  SD Huesca               - Levante UD
   Valencia CF             - Rayo Vallecano
+[Dom. 25.11.]
+  Athletic Bilbao         - Getafe CF
+  Espanyol Barcelona      - Girona FC
+  Sevilla FC              - Real Valladolid
+  Villarreal CF           - Betis Sevilla
+[Lun. 26.11]
+  Real Sociedad San Sebastian - Celta Vigo
 
 
 Jornada 14
