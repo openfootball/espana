@@ -151,9 +151,9 @@ Jornada 9
 [Lun. 22.10.]  
   Real Sociedad San Sebastian - Girona FC
   
-##suplemento Jornado 3
+## suplemento Jornada 3
 [Mie. 24.10.]
-Rayo Vallecano  Athletic Bilbao
+  Rayo Vallecano  Athletic Bilbao
 
 Jornada 10
 [Vie. 26.10.]
@@ -173,19 +173,19 @@ Jornada 10
 
 
 Jornada 11
-[Vie. 2.11.]
-
-[Dom. 4.11.]
-  Betis Sevilla           - Celta Vigo
-  Real Madrid             - Real Valladolid
-  Real Sociedad San Sebastian - Sevilla FC
-  SD Eibar                - CD Alavés
-  Espanyol Barcelona      - Athletic Bilbao
+[Sab. 3.11.]
   CD Leganés              - Atlético Madrid
   Rayo Vallecano          - FC Barcelona
-  SD Huesca               - Getafe CF
+  Real Madrid             - Real Valladolid
   Valencia CF             - Girona FC
+[Dom. 4.11.]
+  Betis Sevilla           - Celta Vigo
+  Real Sociedad San Sebastian - Sevilla FC
+  SD Eibar                - CD Alavés
+  SD Huesca               - Getafe CF
   Villarreal CF           - Levante UD
+[Lun. 5.11.]
+  Espanyol Barcelona      - Athletic Bilbao
 
 
 Jornada 12
