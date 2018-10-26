@@ -43,7 +43,7 @@ Jornada 3
   Villarreal CF                0-1 Girona FC
 [Sáb. 1.9.]
   Celta Vigo                   2-0 Atlético Madrid
-  Rayo Vallecano               -  Athletic Bilbao   aplazar 24.10.18
+  Rayo Vallecano               1-1 Athletic Bilbao   
   Real Madrid                  4-1 CD Leganés
 [Dom. 2.9.]
   Levante UD                   2-2 Valencia CF
@@ -153,7 +153,7 @@ Jornada 9
   
 ## suplemento Jornada 3
 [Mie. 24.10.]
-  Rayo Vallecano  Athletic Bilbao
+  Rayo Vallecano               1-1 Athletic Bilbao
 
 Jornada 10
 [Vie. 26.10.]
