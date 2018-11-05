@@ -179,11 +179,11 @@ Jornada 11
   Real Madrid                  2-0 Real Valladolid
   Valencia CF                  0-1 Girona FC
 [Dom. 4.11.]
-  Betis Sevilla           - Celta Vigo
-  Real Sociedad San Sebastian - Sevilla FC
-  SD Eibar                - CD Alavés
-  SD Huesca               - Getafe CF
-  Villarreal CF           - Levante UD
+  Betis Sevilla                2-3 Celta Vigo
+  Real Sociedad San Sebastian  0-0 Sevilla FC
+  SD Eibar                     2-1 CD Alavés
+  SD Huesca                    1-1 Getafe CF
+  Villarreal CF                1-1 Levante UD
 [Lun. 5.11.]
   Espanyol Barcelona      - Athletic Bilbao
 
