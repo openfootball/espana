@@ -259,30 +259,33 @@ Jornada 16
 [Vie. 14.12.]
   Celta Vigo              - CD Leganés
 [Sab. 15.12.]
-
-[Dom. 16.12.]
-  CD Alavés               - Athletic Bilbao
   SD Eibar                - Valencia CF
   Getafe CF               - Real Sociedad San Sebastian
-  SD Huesca               - Villarreal CF
   Real Valladolid         - Atlético Madrid
+  Real Madrid             - Rayo Vallecano
+[Dom. 16.12.]
+  SD Huesca               - Villarreal CF
   Levante UD              - FC Barcelona
   Espanyol Barcelona      - Betis Sevilla
   Sevilla FC              - Girona FC
-  Real Madrid             - Rayo Vallecano
+[Lun. 17.12.]
+  CD Alavés               - Athletic Bilbao
 
 
 Jornada 17
+[Vie. 21.12.]
+  Girona FC               - Getafe CF
+  Real Sociedad San Sebastian - CD Alavés
 [Sáb. 22.12.]
   Athletic Bilbao         - Real Valladolid
   Atlético Madrid         - Espanyol Barcelona
   FC Barcelona            - Celta Vigo
   Betis Sevilla           - SD Eibar
+[Dom. 23.12.]
   CD Leganés              - Sevilla FC
-  Real Sociedad San Sebastian - CD Alavés
-  Girona FC               - Getafe CF
   Valencia CF             - SD Huesca
   Rayo Vallecano          - Levante UD
+[Jue. 3.1.]
   Villarreal CF           - Real Madrid
 
 
