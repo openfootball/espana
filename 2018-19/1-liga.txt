@@ -222,37 +222,46 @@ Jornada 13
 
 
 Jornada 14
+[Vie. 30.11.]
+  Rayo Vallecano          - SD Eibar
+[Sab. 1.12.]
+  Celta Vigo              - SD Huesca
+  Real Madrid             - Valencia CF
+  Getafe CF               - Espanyol Barcelona
+  Real Valladolid         - CD Leganés
 [Dom. 2.12.]
   CD Alavés               - Sevilla FC
   FC Barcelona            - Villarreal CF
   Betis Sevilla           - Real Sociedad San Sebastian
-  Celta Vigo              - SD Huesca
-  Real Madrid             - Valencia CF
-  Levante UD              - Athletic Bilbao
   Girona FC               - Atlético Madrid
-  Rayo Vallecano          - SD Eibar
-  Getafe CF               - Espanyol Barcelona
-  Real Valladolid         - CD Leganés
-
+[Lun. 3.12.]
+  Levante UD              - Athletic Bilbao
+  
 
 Jornada 15
+[Vie. 7.12.]
+  CD Leganés              - Getafe CF
+[Sab. 8.12.]
+  Atlético Madrid         - CD Alavés
+  Espanyol Barcelona      - FC Barcelona
+  Villarreal CF           - Celta Vigo
+  Valencia CF             - Sevilla FC
 [Dom. 9.12.]
-  Athletic Bilbao         - Girona FC
   Betis Sevilla           - Rayo Vallecano
   SD Eibar                - Levante UD
   SD Huesca               - Real Madrid
   Real Sociedad San Sebastian - Real Valladolid
-  Atlético Madrid         - CD Alavés
-  Espanyol Barcelona      - FC Barcelona
-  Villarreal CF           - Celta Vigo
-  CD Leganés              - Getafe CF
-  Valencia CF             - Sevilla FC
+[Lun. 10.12.]
+  Athletic Bilbao         - Girona FC
 
 
 Jornada 16
+[Vie. 14.12.]
+  Celta Vigo              - CD Leganés
+[Sab. 15.12.]
+
 [Dom. 16.12.]
   CD Alavés               - Athletic Bilbao
-  Celta Vigo              - CD Leganés
   SD Eibar                - Valencia CF
   Getafe CF               - Real Sociedad San Sebastian
   SD Huesca               - Villarreal CF
