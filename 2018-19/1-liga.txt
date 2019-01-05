@@ -295,31 +295,32 @@ Jornada 18
   Levante UD                   2-2 Girona FC
   Espanyol Barcelona           1-0 CD Leganés
 [Sab. 5.1.]
-[Dom. 6.1.]
-  CD Alavés               - Valencia CF
-  SD Eibar                - Villarreal CF
-  Real Madrid             - Real Sociedad San Sebastian
-  Celta Vigo              - Athletic Bilbao
-  Sevilla FC              - Atlético Madrid
-  Getafe CF               - FC Barcelona
   SD Huesca               - Betis Sevilla
   Real Valladolid         - Rayo Vallecano
+  CD Alavés               - Valencia CF
+[Dom. 6.1.]
+  SD Eibar                - Villarreal CF
+  Real Madrid             - Real Sociedad San Sebastian
+  Sevilla FC              - Atlético Madrid
+  Getafe CF               - FC Barcelona
 [Lue. 7.1.]
-
+  Celta Vigo              - Athletic Bilbao
 
 Jornada 19
+[Vie. 11.1.]
+  Rayo Vallecano          - Celta Vigo
+[Sab.12.1.]
+  Valencia CF             - Real Valladolid
+  Girona FC               - CD Alavés
+  Villarreal CF           - Getafe CF
+  CD Leganés              - SD Huesca
 [Dom. 13.1.]
   Athletic Bilbao         - Sevilla FC
   Atlético Madrid         - Levante UD
   FC Barcelona            - SD Eibar
   Betis Sevilla           - Real Madrid
-  Valencia CF             - Real Valladolid
-  Girona FC               - CD Alavés
-  Rayo Vallecano          - Celta Vigo
-  Real Sociedad San Sebastian - Espanyol Barcelona
-  Villarreal CF           - Getafe CF
-  CD Leganés              - SD Huesca
-
+[Lue. 14.1.]  
+Real Sociedad San Sebastian - Espanyol Barcelona
 
 Jornada 20
 [Dom. 20.1.]
