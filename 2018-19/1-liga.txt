@@ -291,17 +291,20 @@ Jornada 17
 # Winterpause bis Jue.3.1.2013
 
 Jornada 18
+[Vie. 4.4.]
+  Levante UD                   2-2 Girona FC
+  Espanyol Barcelona           1-0 CD Leganés
+[Sab. 5.1.]
 [Dom. 6.1.]
   CD Alavés               - Valencia CF
   SD Eibar                - Villarreal CF
-  Espanyol Barcelona      - CD Leganés
   Real Madrid             - Real Sociedad San Sebastian
   Celta Vigo              - Athletic Bilbao
   Sevilla FC              - Atlético Madrid
   Getafe CF               - FC Barcelona
   SD Huesca               - Betis Sevilla
-  Levante UD              - Girona FC
   Real Valladolid         - Rayo Vallecano
+[Lue. 7.1.]
 
 
 Jornada 19
