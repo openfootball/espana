@@ -320,21 +320,23 @@ Jornada 19
   FC Barcelona            - SD Eibar
   Betis Sevilla           - Real Madrid
 [Lue. 14.1.]  
-Real Sociedad San Sebastian - Espanyol Barcelona
+  Real Sociedad San Sebastian - Espanyol Barcelona
 
 Jornada 20
+[Vie. 18.1.]
+  Getafe CF               - CD Alavés
+[Sab. 19.1.]
+  Real Madrid             - Sevilla FC
+  Celta Vigo              - Valencia CF
+  SD Huesca               - Atlético Madrid
 [Dom. 20.1.]
   FC Barcelona            - CD Leganés
   Betis Sevilla           - Girona FC
-  Celta Vigo              - Valencia CF
-  SD Eibar                - Espanyol Barcelona
   Levante UD              - Real Valladolid
   Rayo Vallecano          - Real Sociedad San Sebastian
-  Real Madrid             - Sevilla FC
-  Getafe CF               - CD Alavés
   Villarreal CF           - Athletic Bilbao
-  SD Huesca               - Atlético Madrid
-
+[Lue. 21.1.] 
+  SD Eibar                - Espanyol Barcelona
 
 Jornada 21
 [Dom. 27.1.]
