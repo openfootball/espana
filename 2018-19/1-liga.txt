@@ -295,14 +295,14 @@ Jornada 18
   Levante UD                   2-2 Girona FC
   Espanyol Barcelona           1-0 CD Leganés
 [Sab. 5.1.]
-  SD Huesca               - Betis Sevilla
-  Real Valladolid         - Rayo Vallecano
-  CD Alavés               - Valencia CF
+  SD Huesca                    2-1 Betis Sevilla
+  Real Valladolid              0-1 Rayo Vallecano
+  CD Alavés                    2-1 Valencia CF
 [Dom. 6.1.]
-  SD Eibar                - Villarreal CF
-  Real Madrid             - Real Sociedad San Sebastian
-  Sevilla FC              - Atlético Madrid
-  Getafe CF               - FC Barcelona
+  SD Eibar                     0-0 Villarreal CF
+  Real Madrid                  0-2 Real Sociedad San Sebastian
+  Sevilla FC                   1-1 Atlético Madrid
+  Getafe CF                    1-2 FC Barcelona
 [Lue. 7.1.]
   Celta Vigo              - Athletic Bilbao
 
