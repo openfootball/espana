@@ -338,18 +338,21 @@ Jornada 20
 [Lue. 21.1.] 
   SD Eibar                - Espanyol Barcelona
 
+
 Jornada 21
-[Dom. 27.1.]
-  CD Alavés               - Rayo Vallecano
+[Sab. 26.1.]
   Athletic Bilbao         - Betis Sevilla
   Atlético Madrid         - Getafe CF
+  CD Leganés              - SD Eibar
+  Sevilla FC              - Levante UD
+[Dom. 27.1.]
   Espanyol Barcelona      - Real Madrid
   Valencia CF             - Villarreal CF
   Girona FC               - FC Barcelona
   Real Valladolid         - Celta Vigo
-  CD Leganés              - SD Eibar
   Real Sociedad San Sebastian - SD Huesca
-  Sevilla FC              - Levante UD
+[Lun. 28.1.]
+  CD Alavés               - Rayo Vallecano
 
 
 Jornada 22
