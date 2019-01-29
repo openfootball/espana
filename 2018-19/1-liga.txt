@@ -373,33 +373,39 @@ Jornada 22
 
 
 Jornada 23
-[Dom. 10.2.]
-  Atlético Madrid         - Real Madrid
-  CD Alavés               - Levante UD
-  Athletic Bilbao         - FC Barcelona
-  Espanyol Barcelona      - Rayo Vallecano
-  Girona FC               - SD Huesca
+[Vie. 8.2.]
   Real Valladolid         - Villarreal CF
+[Sab. 9.2.]
   CD Leganés              - Betis Sevilla
   Getafe CF               - Celta Vigo
+  Atlético Madrid         - Real Madrid
+  Espanyol Barcelona      - Rayo Vallecano
+[Dom. 10.2.]
+  Athletic Bilbao         - FC Barcelona
+  Girona FC               - SD Huesca
   Sevilla FC              - SD Eibar
   Valencia CF             - Real Sociedad San Sebastian
-
-
+[Lun. 11.2.]
+  CD Alavés               - Levante UD
+  
+  
 Jornada 24
-[Dom. 17.2.]
+[Vie. 15.2.]
+  SD Eibar                - Getafe CF
+[Sab. 16.2.]
   FC Barcelona            - Real Valladolid
   Celta Vigo              - Levante UD
-  SD Eibar                - Getafe CF
-  Betis Sevilla           - CD Alavés
-  SD Huesca               - Athletic Bilbao
+  Real Sociedad San Sebastian - CD Leganés
   Rayo Vallecano          - Atlético Madrid
+[Dom. 17.2.]
+  Betis Sevilla           - CD Alavés
   Valencia CF             - Espanyol Barcelona
   Real Madrid             - Girona FC
-  Real Sociedad San Sebastian - CD Leganés
   Villarreal CF           - Sevilla FC
-
-
+[Lun. 18.2.]
+  SD Huesca               - Athletic Bilbao
+  
+  
 Jornada 25
 [Dom. 24.2.]
   CD Alavés               - Celta Vigo
