@@ -356,16 +356,19 @@ Jornada 21
 
 
 Jornada 22
-[Dom. 3.2.]
+[Vie. 1.2.]
+  SD Huesca               - Real Valladolid
+[Sab. 2.2.]
   FC Barcelona            - Valencia CF
   Celta Vigo              - Sevilla FC
-  SD Eibar                - Girona FC
-  SD Huesca               - Real Valladolid
-  Real Madrid             - CD Alavés
+  Levante UD              - Getafe CF
   Real Sociedad San Sebastian - Athletic Bilbao
+[Dom. 3.2.]
+  SD Eibar                - Girona FC
+  Real Madrid             - CD Alavés
   Betis Sevilla           - Atlético Madrid
   Villarreal CF           - Espanyol Barcelona
-  Levante UD              - Getafe CF
+[Lue. 4.2.]  
   Rayo Vallecano          - CD Leganés
 
 
