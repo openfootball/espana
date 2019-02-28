@@ -441,12 +441,14 @@ Jornada 26
 
 
 Jornada 27
-[Dom. 10.3.]
-  CD Alavés               - SD Eibar
+[Vie. 8.3.]
   Athletic Bilbao         - Espanyol Barcelona
+[Sab. 9.3.]
+  CD Alavés               - SD Eibar
   Atlético Madrid         - CD Leganés
   FC Barcelona            - Rayo Vallecano
   Getafe CF               - SD Huesca
+[Dom. 10.3.]
   Girona FC               - Valencia CF
   Levante UD              - Villarreal CF
   Celta Vigo              - Betis Sevilla
@@ -455,16 +457,18 @@ Jornada 27
 
 
 Jornada 28
-[Dom. 17.3.]
+[Vie. 15.3.]
+  Real Sociedad San Sebastian - Levante UD
+[Sab. 16.3.]
   Athletic Bilbao         - Atlético Madrid
+  SD Huesca               - CD Alavés
+  Real Madrid             - Celta Vigo
+  CD Leganés              - Girona FC
+[Dom. 17.3.]
   SD Eibar                - Real Valladolid
   Espanyol Barcelona      - Sevilla FC
-  SD Huesca               - CD Alavés
   Betis Sevilla           - FC Barcelona
-  Real Madrid             - Celta Vigo
   Valencia CF             - Getafe CF
-  CD Leganés              - Girona FC
-  Real Sociedad San Sebastian - Levante UD
   Villarreal CF           - Rayo Vallecano
 
 
