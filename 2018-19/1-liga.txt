@@ -432,10 +432,10 @@ Jornada 26
   Real Madrid                  0-1 FC Barcelona
   Villarreal CF                1-2 CD Alavés
 [Dom. 3.3.]
-  Betis Sevilla           - Getafe CF
-  Valencia CF             - Athletic Bilbao
-  Real Sociedad San Sebastian - Atlético Madrid
-  SD Eibar                - Celta Vigo
+  Betis Sevilla                1-2 Getafe CF
+  Valencia CF                  2-0 Athletic Bilbao
+  Real Sociedad San Sebastian  0-2 Atlético Madrid
+  SD Eibar                     1-0 Celta Vigo
 [Lun. 4.3.]
   CD Leganés              - Levante UD
 
