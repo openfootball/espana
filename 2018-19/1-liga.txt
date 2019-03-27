@@ -505,31 +505,34 @@ Jornada 30
 
 
 Jornada 31
+[Sab. 6.4.]
+  FC Barcelona            - Atlético Madrid
+  Real Madrid             - SD Eibar
+  Girona FC               - Espanyol Barcelona
+  Rayo Vallecano          - Valencia CF
 [Dom. 7.4.]
   CD Alavés               - CD Leganés
   Betis Sevilla           - Villarreal CF
   Celta Vigo              - Real Sociedad San Sebastian
-  Rayo Vallecano          - Valencia CF
   Getafe CF               - Athletic Bilbao
-  FC Barcelona            - Atlético Madrid
-  Real Madrid             - SD Eibar
-  Girona FC               - Espanyol Barcelona
   Levante UD              - SD Huesca
   Real Valladolid         - Sevilla FC
 
 
 Jornada 32
-[Dom. 14.4.]
-  Athletic Bilbao         - Rayo Vallecano
-  Atlético Madrid         - Celta Vigo
-  Girona FC               - Villarreal CF
-  CD Leganés              - Real Madrid
+[Sab. 13.4.]
   Espanyol Barcelona      - CD Alavés
   SD Huesca               - FC Barcelona
   Sevilla FC              - Betis Sevilla
+  Atlético Madrid         - Celta Vigo
+[Dom. 14.4.]
+  Athletic Bilbao         - Rayo Vallecano
+  Girona FC               - Villarreal CF
   Real Sociedad San Sebastian - SD Eibar
   Real Valladolid         - Getafe CF
   Valencia CF             - Levante UD
+[Lun. 15.4.]
+  CD Leganés              - Real Madrid
 
 
 Jornada 33
