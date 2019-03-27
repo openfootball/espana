@@ -536,33 +536,37 @@ Jornada 32
 
 
 Jornada 33
-[Dom. 21.4.]
+[Vie. 19.4.]
   CD Alavés               - Real Valladolid
+[Sab. 20.4.]
   FC Barcelona            - Real Sociedad San Sebastian
-  Betis Sevilla           - Valencia CF
   Celta Vigo              - Girona FC
+  SD Eibar                - Atlético Madrid
+  Rayo Vallecano          - SD Huesca
+[Dom. 21.4.]
+  Betis Sevilla           - Valencia CF
   Getafe CF               - Sevilla FC
   Real Madrid             - Athletic Bilbao
-  SD Eibar                - Atlético Madrid
   Levante UD              - Espanyol Barcelona
-  Rayo Vallecano          - SD Huesca
   Villarreal CF           - CD Leganés
 
 
 Jornada 34
-[Mié. 24.4.]
+[Mar. 23.4.]
+  SD Huesca               - SD Eibar
+  Real Valladolid         - Girona FC
   CD Alavés               - FC Barcelona
+[Mié. 24.4.]
   Atlético Madrid         - Valencia CF
-  Getafe CF               - Real Madrid
-  Real Sociedad San Sebastian - Villarreal CF
   CD Leganés              - Athletic Bilbao
   Levante UD              - Betis Sevilla
   Espanyol Barcelona      - Celta Vigo
-  SD Huesca               - SD Eibar
-  Real Valladolid         - Girona FC
+[Jue. 25.4.]
+  Getafe CF               - Real Madrid
+  Real Sociedad San Sebastian - Villarreal CF
   Sevilla FC              - Rayo Vallecano
-
-
+  
+  
 Jornada 35
 [Dom. 28.4.]
   Atlético Madrid         - Real Valladolid
