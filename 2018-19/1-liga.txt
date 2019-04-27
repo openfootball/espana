@@ -570,7 +570,7 @@ Jornada 34
 Jornada 35
 [Dom. 28.4.]
   Atlético Madrid              1-0 Real Valladolid
-  FC Barcelona            - Levante UD
+  FC Barcelona                 1-0 Levante UD
   Betis Sevilla           - Espanyol Barcelona
   Girona FC               - Sevilla FC
   Rayo Vallecano          - Real Madrid
@@ -579,6 +579,9 @@ Jornada 35
   Valencia CF             - SD Eibar
   Real Sociedad San Sebastian - Getafe CF
   Villarreal CF           - SD Huesca
+  
+  
+# FC Barcelona Meister Primera Division 2018/19
 
 
 Jornada 36
