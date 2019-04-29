@@ -568,17 +568,20 @@ Jornada 34
   
   
 Jornada 35
-[Dom. 28.4.]
+[Vie. 26.4.]
+  CD Leganés                   0-0 Celta Vigo
+[Sab. 27.4.]
   Atlético Madrid              1-0 Real Valladolid
   FC Barcelona                 1-0 Levante UD
-  Betis Sevilla           - Espanyol Barcelona
-  Girona FC               - Sevilla FC
-  Rayo Vallecano          - Real Madrid
   Athletic Bilbao              1-1 CD Alavés
-  CD Leganés                   0-0 Celta Vigo
-  Valencia CF             - SD Eibar
-  Real Sociedad San Sebastian - Getafe CF
-  Villarreal CF           - SD Huesca
+[Dom. 28.4.] 
+  Valencia CF                  0-1 SD Eibar
+  Real Sociedad San Sebastian  2-1 Getafe CF
+  Villarreal CF                1-1 SD Huesca
+  Girona FC                   1-0 Sevilla FC
+  Rayo Vallecano               1-0 Real Madrid
+[Lun, 29.4.]
+  Betis Sevilla           - Espanyol Barcelona
   
   
 # FC Barcelona Meister Primera Division 2018/19
