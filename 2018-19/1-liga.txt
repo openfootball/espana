@@ -568,9 +568,8 @@ Jornada 34
   
   
 Jornada 35
-[Vie. 26.4.]
-  CD Leganés                   0-0 Celta Vigo
 [Sab. 27.4.]
+  CD Leganés                   0-0 Celta Vigo
   Atlético Madrid              1-0 Real Valladolid
   FC Barcelona                 1-0 Levante UD
   Athletic Bilbao              1-1 CD Alavés
@@ -588,17 +587,20 @@ Jornada 35
 
 
 Jornada 36
-[Dom. 5.5.]
+[Vie. 3.5.]
+  Sevilla FC              - CD Leganés
+[Sab. 4.5.]
+Levante UD              - Rayo Vallecano
   CD Alavés               - Real Sociedad San Sebastian
-  Getafe CF               - Girona FC
-  SD Huesca               - Valencia CF
-  Levante UD              - Rayo Vallecano
-  Real Madrid             - Villarreal CF
-  Real Valladolid         - Athletic Bilbao
   Espanyol Barcelona      - Atlético Madrid
   Celta Vigo              - FC Barcelona
+[Dom. 5.5.]
+  Getafe CF               - Girona FC
+  SD Huesca               - Valencia CF
+  Real Madrid             - Villarreal CF
+  Real Valladolid         - Athletic Bilbao
   SD Eibar                - Betis Sevilla
-  Sevilla FC              - CD Leganés
+ 
 
 
 Jornada 37
@@ -627,3 +629,6 @@ Jornada 38
   SD Eibar                - FC Barcelona
   Real Madrid             - Betis Sevilla
   Real Valladolid         - Valencia CF
+
+
+# Ende Primera Division 2018/19
