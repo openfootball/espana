@@ -601,6 +601,10 @@ Levante UD                     4-1 Rayo Vallecano
   Real Valladolid              1-0 Athletic Bilbao
   SD Eibar                     1-0 Betis Sevilla
  
+ 
+# Absteiger Primera Division 2018/19:
+  SD Huesca
+  Rayo Vallecano
 
 
 Jornada 37
