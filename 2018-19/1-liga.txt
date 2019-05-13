@@ -583,8 +583,8 @@ Jornada 35
   Betis Sevilla                1-1 Espanyol Barcelona
   
   
-# FC Barcelona Meister Primera Division 2018/19
-
+# Meister Primera Division 2018/19:
+  FC Barcelona
 
 Jornada 36
 [Vie. 3.5.]
@@ -609,16 +609,16 @@ Levante UD                     4-1 Rayo Vallecano
 
 Jornada 37
 [Dom. 12.5.]
-  Athletic Bilbao         - Celta Vigo
-  Atlético Madrid         - Sevilla FC
-  FC Barcelona            - Getafe CF
-  Betis Sevilla           - SD Huesca
-  Girona FC               - Levante UD
-  Rayo Vallecano          - Real Valladolid
-  Valencia CF             - CD Alavés
-  Villarreal CF           - SD Eibar
-  CD Leganés              - Espanyol Barcelona
-  Real Sociedad San Sebastian - Real Madrid
+  Athletic Bilbao              3-1 Celta Vigo
+  Atlético Madrid              1-1 Sevilla FC
+  FC Barcelona                 2-0 Getafe CF
+  Betis Sevilla                2-1 SD Huesca
+  Girona FC                    1-2 Levante UD
+  Rayo Vallecano               1-2 Real Valladolid
+  Valencia CF                  3-1 CD Alavés
+  Villarreal CF                1-0 SD Eibar
+  CD Leganés                   0-2 Espanyol Barcelona
+  Real Sociedad San Sebastian  3-1 Real Madrid
 
 
 Jornada 38
