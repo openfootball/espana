@@ -621,6 +621,9 @@ Jornada 37
   Real Sociedad San Sebastian  3-1 Real Madrid
 
 
+# 3. Absteiger Primera Division 2018/19:
+  Girona FC (3:2, 1:2 Auswärtstorregel)
+
 Jornada 38
 [Dom. 19.5.]
   CD Alavés               - Girona FC
@@ -634,5 +637,9 @@ Jornada 38
   Real Madrid             - Betis Sevilla
   Real Valladolid         - Valencia CF
 
+
+# Aufsteiger Primera Division 2019/20:
+
+# Play-off um Aufstiegsplatz Primera Division 2019/20:
 
 # Ende Primera Division 2018/19
