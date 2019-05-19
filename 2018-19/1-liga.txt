@@ -625,17 +625,18 @@ Jornada 37
   Girona FC (3:2, 1:2 Auswärtstorregel)
 
 Jornada 38
-[Dom. 19.5.]
-  CD Alavés               - Girona FC
-  Celta Vigo              - Rayo Vallecano
-  Espanyol Barcelona      - Real Sociedad San Sebastian
-  Getafe CF               - Villarreal CF
-  SD Huesca               - CD Leganés
-  Sevilla FC              - Athletic Bilbao
-  Levante UD              - Atlético Madrid
+[Sab. 18.5.]
+  CD Alavés                    2-1 Girona FC
+  Celta Vigo                   2-2 Rayo Vallecano
+  Espanyol Barcelona           2-0 Real Sociedad San Sebastian
+  Getafe CF                    2-2 Villarreal CF
+  SD Huesca                    2-1 CD Leganés
+  Sevilla FC                   2-0 Athletic Bilbao
+  Levante UD                   2-2 Atlético Madrid
+  Real Valladolid              0-2 Valencia CF
+[Dom. 19.5.]  
   SD Eibar                - FC Barcelona
   Real Madrid             - Betis Sevilla
-  Real Valladolid         - Valencia CF
 
 
 # Aufsteiger Primera Division 2019/20:
