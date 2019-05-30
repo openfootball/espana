@@ -645,3 +645,5 @@ Jornada 38
 # Play-off um Aufstiegsplatz Primera Division 2019/20:
 
 # Ende Primera Division 2018/19
+
+# 16.8. Start Primera Division 2019/20
