@@ -644,9 +644,25 @@ Jornada 38
   Granada CF
   
 # Play-off um Aufstiegsplatz Primera Division 2019/20:
-  Albacete, Malaga CF, RCD Mallorca
-  entweder Deportiva La Coruna or Cadiz CF or Real Oviedo
+  Albacete, Malaga CF, RCD Mallorca und Deportiva La Coruna.
   
+# Halbfinale:
+[Mie. 12.6.]
+  Deportiva La Coruna - Malaga CF
+[Jue. 13.6.]
+  RCD Mallorca - Albacete
+[Sab. 15.6.]
+  Malaga CF - Deportiva La Coruna
+[Dom. 16.6.]
+  Albacete - RCD Mallorca
+
+# Finale:
+[Jue. 20.6.]
+ Albacete/RCD Mallorca - Malaga CF/Deportiva La Coruna
+[Dom. 23.6.]
+Malaga CF/Deportiva La Coruna -  Albacete/RCD Mallorca
+
+
 # Ende Primera Division 2018/19
 
 # 16.8. Start Primera Division 2019/20
