@@ -650,17 +650,17 @@ Jornada 38
 [Mie. 12.6.]
   Deportiva La Coruna           4-2 Malaga CF
 [Jue. 13.6.]
-  RCD Mallorca - Albacete
+  RCD Mallorca                  2-0 Albacete
 [Sab. 15.6.]
-  Malaga CF - Deportiva La Coruna
+  Malaga CF                     0-2 Deportiva La Coruna
 [Dom. 16.6.]
-  Albacete - RCD Mallorca
+  Albacete                      1-0 RCD Mallorca
 
 # Finale:
 [Jue. 20.6.]
- Albacete/RCD Mallorca - Malaga CF/Deportiva La Coruna
+RCD Mallorca - Deportiva La Coruna
 [Dom. 23.6.]
-Malaga CF/Deportiva La Coruna -  Albacete/RCD Mallorca
+Deportiva La Coruna -  RCD Mallorca
 
 
 # Ende Primera Division 2018/19
