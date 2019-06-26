@@ -26,3 +26,27 @@ Official Site - [`www.lfp.es` (es)](http://www.lfp.es)
 ##  Segunda División / Liga Adelante
 
 - 22 teams
+
+
+## Up / Down
+
+2015/16:
+
+(--)  13.º Elche C. F. (*D. administrativo), 19.º U. D. Almería, 20.º Córdoba C. F.
+
+(++)  1.º Real Betis Balompié, 2.º Real Sporting de Gijón, 4.º U. D. Las Palmas
+
+2014/15:
+
+(--)  18.º C. A. Osasuna, 19.º Real Valladolid C. F., 20º Real Betis Balompié
+
+(++)  1.º S. D. Eibar, 2.º R. C. Deportivo de La Coruña, 7.º Córdoba C. F. (*Promoción)
+
+
+
+
+## Todos
+
+- [ ] improve team name matcher
+  - sort by length first to enable greediest match of team name
+    - for example, Espanyol Barcelona instead of Barcelona
