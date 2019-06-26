@@ -1,4 +1,4 @@
-# España (Spain)
+# España • Spain
 
 ## What's `football.db`?
 
@@ -20,15 +20,17 @@ Events include:
 
 Example:
 
-~~~
+<!--
+```
 ### La Liga - Primera División de España Teams
 
-barcelona, Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR
-madrid,    Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD
+Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR
+Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD
 ...
-~~~
+```
+-->
 
-~~~
+```
 ### La Liga - Primera División de España
 
 Jornada 1
@@ -48,7 +50,7 @@ Jornada 1
   Rayo Vallecano  0-0  Atlético Madrid
 
 ...
-~~~
+```
 
 
 ## Build Your Own `football.db` Copy
