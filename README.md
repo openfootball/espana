@@ -20,15 +20,6 @@ Events include:
 
 Example:
 
-<!--
-```
-### La Liga - Primera División de España Teams
-
-Barcelona|FC Barcelona|Fútbol Club Barcelona,           BAR
-Real Madrid|Real Madrid CF|Real Madrid Club de Fútbol,  RMD
-...
-```
--->
 
 ```
 ### La Liga - Primera División de España
