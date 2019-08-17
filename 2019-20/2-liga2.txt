@@ -4,64 +4,72 @@
 
 Jornada 1
 [Sab. 17.8.]
-
-[Dom. 18.8.]
   Real Saragossa          - CD Teneriffa
   Racing Santander        - FC Malaga
-  Deportivo La Coruna     - Real Oviedo
-  Rayo Vallecano          - CD Mirandes
-  UD Las Palmas           - SD Huesca
-  CD Numancia             - AD Alcorcon
   FC Elche                - CF Fuenlabrada
   UD Almeria              - Albacete Balompie
+  Rayo Vallecano          - CD Mirandes
+  CD Lugo                 - Extremadura UD
+[Dom. 18.8.]
+  Deportivo La Coruna     - Real Oviedo
+  UD Las Palmas           - SD Huesca
+  CD Numancia             - AD Alcorcon
   FC Cadiz                - SD Ponferradina
   FC Girona               - Sporting Gijon
-  CD Lugo                 - Extremadura UD
+ 
 
 
 Jornada 2
-[Dom. 25.8.]
+[Vie. 23.8.]
+  Albacete Balompie       - FC Girona
+[Sab. 24.8.]
   Real Oviedo             - CD Lugo
   Racing Santander        - UD Almeria
-  CD Teneriffa            - CD Numancia
-  Sporting Gijon          - Rayo Vallecano
-  FC Malaga               - UD Las Palmas
-  Albacete Balompie       - FC Girona
-  SD Ponferradina         - Real Saragossa
   CD Mirandes             - FC Cadiz
   AD Alcorcon             - FC Elche
+  FC Malaga               - UD Las Palmas
+[Dom. 25.8.]
+  CD Teneriffa            - CD Numancia
+  Sporting Gijon          - Rayo Vallecano
+  SD Ponferradina         - Real Saragossa
   SD Huesca               - Deportivo La Coruna
   Extremadura UD          - CF Fuenlabrada
 
 
 Jornada 3
-[Dom. 1.9.]
+[Vie. 30.8.]
   Real Saragossa          - FC Elche
-  Sporting Gijon          - Albacete Balompie
-  Rayo Vallecano          - Deportivo La Coruna
+[Sab. 31.8.]
   UD Las Palmas           - Racing Santander
   CD Numancia             - CD Mirandes
-  SD Ponferradina         - CD Teneriffa
   UD Almeria              - SD Huesca
+  CF Fuenlabrada          - Real Oviedo
+[Dom. 1.9.]
+  Sporting Gijon          - Albacete Balompie
+  Rayo Vallecano          - Deportivo La Coruna
+  SD Ponferradina         - CD Teneriffa
   FC Cadiz                - Extremadura UD
   FC Girona               - FC Malaga
   CD Lugo                 - AD Alcorcon
-  CF Fuenlabrada          - Real Oviedo
+ 
 
 
 Jornada 4
-[Dom. 8.9.]
+[Vie. 6.9.]
   Racing Santander        - FC Cadiz
-  CD Teneriffa            - UD Las Palmas
+[Sab. 7.9.]
+ CD Teneriffa            - UD Las Palmas
   Deportivo La Coruna     - Albacete Balompie
   FC Malaga               - UD Almeria
+  CF Fuenlabrada          - SD Ponferradina
+  Extremadura UD          - CD Numancia 
+[Dom. 8.9.]
   FC Elche                - CD Lugo
   CD Mirandes             - Real Oviedo
   FC Girona               - Rayo Vallecano
-  CF Fuenlabrada          - SD Ponferradina
   AD Alcorcon             - Real Saragossa
   SD Huesca               - Sporting Gijon
-  Extremadura UD          - CD Numancia
+ 
 
 
 Jornada 5
