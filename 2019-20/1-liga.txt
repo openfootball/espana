@@ -10,13 +10,12 @@ Jornada 1
   FC Valencia             1-1 Real Sociedad San Sebastian
   FC Villarreal           4-4 FC Granada
   CD Leganes              0-1 CA Osasuna
+  RCD Mallorca            1-0 SD Eibar
 [Dom. 18.8.]
-  Deportivo Alaves        - UD Levante
-  Espanyol Barcelona      - FC Sevilla
-  Atletico Madrid         - FC Getafe
-[Lun. 19.8.]
-  RCD Mallorca            - SD Eibar
-  Real Betis Sevilla      - Real Valladolid
+  Deportivo Alaves        1-0 UD Levante
+  Espanyol Barcelona      0-2 FC Sevilla
+  Atletico Madrid         1-0 FC Getafe
+  Betis Sevilla           1-2 Real Valladolid
 
 
 Jornada 2
@@ -30,21 +29,20 @@ Jornada 2
   FC Getafe               - Athletic Bilbao
 [Dom. 25.8.]
   Deportivo Alaves        - Espanyol Barcelona
-  RCD Mallorca            - Real Sociedad San Sebastian
-  FC Barcelona            - Real Betis Sevilla
-[Lun. 26.8.]
+  RCD Mallorca            - R.S.San Sebastian
+  FC Barcelona            - Betis Sevilla
   CD Leganes              - Atletico Madrid
 
 
 Jornada 3
 [Vie. 30.8.]
   FC Sevilla              - Celta Vigo
-  Athletic Bilbao         - Real Sociedad San Sebastian
+  Athletic Bilbao         - R.S.San Sebastian
 [Sáb. 31.8.]
   CA Osasuna              - FC Barcelona
   FC Getafe               - Deportivo Alaves
   UD Levante              - Real Valladolid
-  Real Betis Sevilla      - CD Leganes
+  Betis Sevilla           - CD Leganes
 [Dom. 1.9.]
   FC Valencia             - RCD Mallorca
   Espanyol Barcelona      - FC Granada
@@ -56,10 +54,10 @@ Jornada 4
 [Dom. 15.9.]
   Celta Vigo              - FC Granada
   Real Valladolid         - CA Osasuna
-  Real Betis Sevilla      - FC Getafe
+  Betis Sevilla           - FC Getafe
   Real Madrid             - UD Levante
   FC Barcelona            - FC Valencia
-  Real Sociedad San Sebastian - Atletico Madrid
+  R.S.San Sebastian       - Atletico Madrid
   RCD Mallorca            - Athletic Bilbao
   Deportivo Alaves        - FC Sevilla
   CD Leganes              - FC Villarreal
