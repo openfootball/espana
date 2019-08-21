@@ -4,19 +4,18 @@
 
 Jornada 1
 [Sab. 17.8.]
-  Real Saragossa          2-0 CD Teneriffa
-  Racing Santander        0-1 FC Malaga
-  FC Elche                0-2 CF Fuenlabrada
-  UD Almeria              3-0 Albacete Balompie
-  Rayo Vallecano          2-2 CD Mirandes
-  CD Lugo                 0-0 Extremadura UD
+ 18:00 Racing Santander        0-1 FC Malaga
+ 18:00 CD Lugo                 0-0 Extremadura UD
+ 19:00 UD Almeria              3-0 Albacete Balompie
+ 20:00 FC Elche                0-2 CF Fuenlabrada
+ 21:00 Rayo Vallecano          2-2 CD Mirandes
+ 21:00 Real Saragossa          2-0 CD Teneriffa
 [Dom. 18.8.]
-  Deportivo La Coruna     3-2 Real Oviedo
-  UD Las Palmas           0-1 SD Huesca
-  CD Numancia             0-1 AD Alcorcon
-  FC Cadiz                3-1 SD Ponferradina
-  FC Girona               1-1 Sporting Gijon
- 
+ 18:00 CD Numancia             0-1 AD Alcorcon
+ 18:00 Deportivo La Coruna     3-2 Real Oviedo
+ 18:30 FC Girona               1-1 Sporting Gijon
+ 20:00 FC Cadiz                3-1 SD Ponferradina
+ 20:00 UD Las Palmas           0-1 SD Huesca
 
 
 Jornada 2
