@@ -14,7 +14,7 @@ Jornada 1
 [Dom. 18.8.]
  17:00 Deportivo Alaves        1-0 UD Levante
  19:00 Espanyol Barcelona      0-2 FC Sevilla
- 21:00 Betis Sevilla           1-2 Real Valladolid
+ 21:00 Real Betis Sevilla      1-2 Real Valladolid
  22:00 Atletico Madrid         1-0 FC Getafe
 
 
@@ -30,7 +30,7 @@ Jornada 2
 [Dom. 25.8.]
   Deportivo Alaves        - Espanyol Barcelona
   RCD Mallorca            - Real Sociedad San Sebastian
-  FC Barcelona            - Betis Sevilla
+  FC Barcelona            - Real Betis Sevilla
   CD Leganes              - Atletico Madrid
 
 
@@ -42,7 +42,7 @@ Jornada 3
   CA Osasuna              - FC Barcelona
   FC Getafe               - Deportivo Alaves
   UD Levante              - Real Valladolid
-  Betis Sevilla           - CD Leganes
+  Real Betis Sevilla      - CD Leganes
 [Dom. 1.9.]
   FC Valencia             - RCD Mallorca
   Espanyol Barcelona      - FC Granada
