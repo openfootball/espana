@@ -28,16 +28,16 @@ Jornada 2
  21:00 Celta Vigo              1-0 FC Valencia
  21:00 FC Getafe               1-1 Athletic Bilbao
 [Dom. 25.8.]
- 17:00 Deportivo Alaves        - Espanyol Barcelona
- 17:00 RCD Mallorca            - Real Sociedad San Sebastian
- 19:00 CD Leganes              - Atletico Madrid
- 21:00 FC Barcelona            - Real Betis Sevilla
+ 17:00 Deportivo Alaves        0-0 Espanyol Barcelona
+ 17:00 RCD Mallorca            0-1 RSociedad San Sebastian
+ 19:00 CD Leganes              0-1 Atletico Madrid
+ 21:00 FC Barcelona            5-2 Real Betis Sevilla
 
 
 Jornada 3
 [Vie. 30.8.]
  20:00 FC Sevilla              - Celta Vigo
- 22:00 Athletic Bilbao         - Real Sociedad San Sebastian
+ 22:00 Athletic Bilbao         - RSociedad San Sebastian
 [Sáb. 31.8.]
  17:00 CA Osasuna              - FC Barcelona
  19:00 FC Getafe               - Deportivo Alaves
@@ -56,7 +56,7 @@ Jornada 4
 [Sáb. 14.9.]
  13:00 Real Madrid             - UD Levante
  16:00 CD Leganes              - FC Villarreal
- 18:30 Real Sociedad San Sebastian - Atletico Madrid
+ 18:30 RSociedad San Sebastian - Atletico Madrid
  21:00 FC Barcelona            - FC Valencia
 [Dom. 15.9.]
  12:00 SD Eibar                - Espanyol Barcelona
@@ -76,7 +76,7 @@ Jornada 5
  21:00 FC Granada              - FC Barcelona
 [Dom. 22.9.]
  12:00 FC Getafe               - RCD Mallorca
- 14:00 Espanyol Barcelona      - Real Sociedad San Sebastian
+ 14:00 Espanyol Barcelona      - RSociedad San Sebastian
  16:00 FC Valencia             - CD Leganes
  18:30 Athletic Bilbao         - Deportivo Alaves
  21:00 FC Sevilla              - Real Madrid
@@ -95,7 +95,7 @@ Jornada 6
 [Jue. 26.9.]
  19:00 SD Eibar                - FC Sevilla
  20:00 Celta Vigo              - Espanyol Barcelona
- 21:00 Real Sociedad San Sebastian - Deportivo Alaves
+ 21:00 RSociedad San Sebastian - Deportivo Alaves
 
 
 Jornada 7
@@ -111,7 +111,7 @@ Jornada 7
  14:00 SD Eibar                - Celta Vigo
  16:00 Deportivo Alaves        - RCD Mallorca
  18:30 UD Levante              - CA Osasuna
- 21:00 FC Sevilla              - Real Sociedad San Sebastian
+ 21:00 FC Sevilla              - RSociedad San Sebastian
 
 
 Jornada 8
@@ -121,7 +121,7 @@ Jornada 8
  18:30 Real Betis Sevilla      - SD Eibar
  18:30 Real Madrid             - FC Granada
  18:30 FC Barcelona            - FC Sevilla
- 18:30 Real Sociedad San Sebastian - FC Getafe
+ 18:30 RSociedad San Sebastian - FC Getafe
  18:30 RCD Mallorca            - Espanyol Barcelona
  18:30 FC Valencia             - Deportivo Alaves
  18:30 CD Leganes              - UD Levante
@@ -133,7 +133,7 @@ Jornada 9
  18:30 Athletic Bilbao         - Real Valladolid
  18:30 Espanyol Barcelona      - FC Villarreal
  18:30 Atletico Madrid         - FC Valencia
- 18:30 Real Sociedad San Sebastian - Real Betis Sevilla
+ 18:30 RSociedad San Sebastian - Real Betis Sevilla
  18:30 RCD Mallorca            - Real Madrid
  18:30 Deportivo Alaves        - Celta Vigo
  18:30 FC Sevilla              - UD Levante
@@ -144,7 +144,7 @@ Jornada 9
 
 Jornada 10
 [Dom. 27.10.]
- 18:30 Celta Vigo              - Real Sociedad San Sebastian
+ 18:30 Celta Vigo              - RSociedad San Sebastian
  18:30 Real Valladolid         - SD Eibar
  18:30 Atletico Madrid         - Athletic Bilbao
  18:30 FC Barcelona            - Real Madrid
@@ -162,7 +162,7 @@ Jornada 11
  21:00 Real Betis Sevilla      - Celta Vigo
  21:00 Real Madrid             - CD Leganes
  21:00 FC Barcelona            - Real Valladolid
- 21:00 Real Sociedad San Sebastian - UD Levante
+ 21:00 RSociedad San Sebastian - UD Levante
  21:00 RCD Mallorca            - CA Osasuna
  21:00 FC Valencia             - FC Sevilla
  21:00 Deportivo Alaves        - Atletico Madrid
@@ -181,7 +181,7 @@ Jornada 12
  18:30 CD Leganes              - SD Eibar
  18:30 CA Osasuna              - Deportivo Alaves
  18:30 UD Levante              - FC Barcelona
- 18:30 FC Granada              - Real Sociedad San Sebastian
+ 18:30 FC Granada              - RSociedad San Sebastian
 
 
 Jornada 13
@@ -190,7 +190,7 @@ Jornada 13
  18:30 Real Betis Sevilla      - FC Sevilla
  18:30 Atletico Madrid         - Espanyol Barcelona
  18:30 FC Barcelona            - Celta Vigo
- 18:30 Real Sociedad San Sebastian - CD Leganes
+ 18:30 RSociedad San Sebastian - CD Leganes
  18:30 RCD Mallorca            - FC Villarreal
  18:30 FC Valencia             - FC Granada
  18:30 Deportivo Alaves        - Real Valladolid
@@ -203,7 +203,7 @@ Jornada 14
  18:30 Espanyol Barcelona      - FC Getafe
  18:30 Real Valladolid         - FC Sevilla
  18:30 Real Betis Sevilla      - FC Valencia
- 18:30 Real Madrid             - Real Sociedad San Sebastian
+ 18:30 Real Madrid             - RSociedad San Sebastian
  18:30 FC Villarreal           - Celta Vigo
  18:30 CD Leganes              - FC Barcelona
  18:30 CA Osasuna              - Athletic Bilbao
@@ -218,7 +218,7 @@ Jornada 15
  18:30 Athletic Bilbao         - FC Granada
  18:30 Espanyol Barcelona      - CA Osasuna
  18:30 Atletico Madrid         - FC Barcelona
- 18:30 Real Sociedad San Sebastian - SD Eibar
+ 18:30 RSociedad San Sebastian - SD Eibar
  18:30 RCD Mallorca            - Real Betis Sevilla
  18:30 FC Valencia             - FC Villarreal
  18:30 Deportivo Alaves        - Real Madrid
@@ -228,7 +228,7 @@ Jornada 15
 
 Jornada 16
 [Dom. 8.12.]
- 18:30 Real Valladolid         - Real Sociedad San Sebastian
+ 18:30 Real Valladolid         - RSociedad San Sebastian
  18:30 Real Betis Sevilla      - Athletic Bilbao
  18:30 Real Madrid             - Espanyol Barcelona
  18:30 FC Barcelona            - RCD Mallorca
@@ -246,7 +246,7 @@ Jornada 17
  18:30 Athletic Bilbao         - SD Eibar
  18:30 Espanyol Barcelona      - Real Betis Sevilla
  18:30 Atletico Madrid         - CA Osasuna
- 18:30 Real Sociedad San Sebastian - FC Barcelona
+ 18:30 RSociedad San Sebastian - FC Barcelona
  18:30 FC Valencia             - Real Madrid
  18:30 Deportivo Alaves        - CD Leganes
  18:30 FC Sevilla              - FC Villarreal
@@ -263,7 +263,7 @@ Jornada 18
  18:30 RCD Mallorca            - FC Sevilla
  18:30 FC Villarreal           - FC Getafe
  18:30 CD Leganes              - Espanyol Barcelona
- 18:30 CA Osasuna              - Real Sociedad San Sebastian
+ 18:30 CA Osasuna              - RSociedad San Sebastian
  18:30 SD Eibar                - FC Granada
  18:30 UD Levante              - Celta Vigo
 
@@ -274,7 +274,7 @@ Jornada 19
  18:30 Espanyol Barcelona      - FC Barcelona
  18:30 Real Valladolid         - CD Leganes
  18:30 Atletico Madrid         - UD Levante
- 18:30 Real Sociedad San Sebastian - FC Villarreal
+ 18:30 RSociedad San Sebastian - FC Villarreal
  18:30 FC Valencia             - SD Eibar
  18:30 Deportivo Alaves        - Real Betis Sevilla
  18:30 FC Sevilla              - Athletic Bilbao
@@ -285,7 +285,7 @@ Jornada 19
 Jornada 20
 [Dom. 19.1.]
  18:30 Athletic Bilbao         - Celta Vigo
- 18:30 Real Betis Sevilla      - Real Sociedad San Sebastian
+ 18:30 Real Betis Sevilla      - RSociedad San Sebastian
  18:30 Real Madrid             - FC Sevilla
  18:30 FC Barcelona            - FC Granada
  18:30 RCD Mallorca            - FC Valencia
@@ -302,7 +302,7 @@ Jornada 21
  18:30 Espanyol Barcelona      - Athletic Bilbao
  18:30 Real Valladolid         - Real Madrid
  18:30 Atletico Madrid         - CD Leganes
- 18:30 Real Sociedad San Sebastian - RCD Mallorca
+ 18:30 RSociedad San Sebastian - RCD Mallorca
  18:30 FC Valencia             - FC Barcelona
  18:30 Deportivo Alaves        - FC Villarreal
  18:30 FC Sevilla              - FC Granada
@@ -319,7 +319,7 @@ Jornada 22
  18:30 FC Valencia             - Celta Vigo
  18:30 FC Villarreal           - CA Osasuna
  18:30 FC Sevilla              - Deportivo Alaves
- 18:30 CD Leganes              - Real Sociedad San Sebastian
+ 18:30 CD Leganes              - RSociedad San Sebastian
  18:30 SD Eibar                - Real Betis Sevilla
  18:30 FC Granada              - Espanyol Barcelona
 
@@ -331,7 +331,7 @@ Jornada 23
  18:30 Real Valladolid         - FC Villarreal
  18:30 Real Betis Sevilla      - FC Barcelona
  18:30 Atletico Madrid         - FC Granada
- 18:30 Real Sociedad San Sebastian - Athletic Bilbao
+ 18:30 RSociedad San Sebastian - Athletic Bilbao
  18:30 Deportivo Alaves        - SD Eibar
  18:30 FC Getafe               - FC Valencia
  18:30 CA Osasuna              - Real Madrid
@@ -348,7 +348,7 @@ Jornada 24
  18:30 FC Villarreal           - UD Levante
  18:30 FC Sevilla              - Espanyol Barcelona
  18:30 CD Leganes              - Real Betis Sevilla
- 18:30 SD Eibar                - Real Sociedad San Sebastian
+ 18:30 SD Eibar                - RSociedad San Sebastian
  18:30 FC Granada              - Real Valladolid
 
 
@@ -359,7 +359,7 @@ Jornada 25
  18:30 Real Betis Sevilla      - RCD Mallorca
  18:30 Atletico Madrid         - FC Villarreal
  18:30 FC Barcelona            - SD Eibar
- 18:30 Real Sociedad San Sebastian - FC Valencia
+ 18:30 RSociedad San Sebastian - FC Valencia
  18:30 Deportivo Alaves        - Athletic Bilbao
  18:30 FC Getafe               - FC Sevilla
  18:30 CA Osasuna              - FC Granada
@@ -371,7 +371,7 @@ Jornada 26
  18:30 Athletic Bilbao         - FC Villarreal
  18:30 Espanyol Barcelona      - Atletico Madrid
  18:30 Real Madrid             - FC Barcelona
- 18:30 Real Sociedad San Sebastian - Real Valladolid
+ 18:30 RSociedad San Sebastian - Real Valladolid
  18:30 RCD Mallorca            - FC Getafe
  18:30 FC Valencia             - Real Betis Sevilla
  18:30 FC Sevilla              - CA Osasuna
@@ -385,7 +385,7 @@ Jornada 27
  18:30 Real Valladolid         - Athletic Bilbao
  18:30 Real Betis Sevilla      - Real Madrid
  18:30 Atletico Madrid         - FC Sevilla
- 18:30 FC Barcelona            - Real Sociedad San Sebastian
+ 18:30 FC Barcelona            - RSociedad San Sebastian
  18:30 Deportivo Alaves        - FC Valencia
  18:30 FC Villarreal           - CD Leganes
  18:30 FC Getafe               - Celta Vigo
@@ -400,7 +400,7 @@ Jornada 28
  18:30 Athletic Bilbao         - Atletico Madrid
  18:30 Espanyol Barcelona      - Deportivo Alaves
  18:30 Real Madrid             - SD Eibar
- 18:30 Real Sociedad San Sebastian - CA Osasuna
+ 18:30 RSociedad San Sebastian - CA Osasuna
  18:30 RCD Mallorca            - FC Barcelona
  18:30 FC Valencia             - UD Levante
  18:30 FC Sevilla              - Real Betis Sevilla
@@ -414,7 +414,7 @@ Jornada 29
  18:30 Real Betis Sevilla      - FC Granada
  18:30 Real Madrid             - FC Valencia
  18:30 FC Barcelona            - CD Leganes
- 18:30 Deportivo Alaves        - Real Sociedad San Sebastian
+ 18:30 Deportivo Alaves        - RSociedad San Sebastian
  18:30 FC Villarreal           - RCD Mallorca
  18:30 FC Getafe               - Espanyol Barcelona
  18:30 CA Osasuna              - Atletico Madrid
@@ -428,7 +428,7 @@ Jornada 30
  18:30 Athletic Bilbao         - Real Betis Sevilla
  18:30 Espanyol Barcelona      - UD Levante
  18:30 Atletico Madrid         - Real Valladolid
- 18:30 Real Sociedad San Sebastian - Real Madrid
+ 18:30 RSociedad San Sebastian - Real Madrid
  18:30 RCD Mallorca            - CD Leganes
  18:30 FC Valencia             - CA Osasuna
  18:30 FC Sevilla              - FC Barcelona
@@ -442,7 +442,7 @@ Jornada 31
  18:30 Real Betis Sevilla      - Espanyol Barcelona
  18:30 Real Madrid             - RCD Mallorca
  18:30 FC Barcelona            - Athletic Bilbao
- 18:30 Real Sociedad San Sebastian - Celta Vigo
+ 18:30 RSociedad San Sebastian - Celta Vigo
  18:30 Deportivo Alaves        - CA Osasuna
  18:30 FC Villarreal           - FC Sevilla
  18:30 CD Leganes              - FC Granada
@@ -458,7 +458,7 @@ Jornada 32
  21:00 Atletico Madrid         - Deportivo Alaves
  21:00 FC Villarreal           - FC Valencia
  21:00 FC Sevilla              - Real Valladolid
- 21:00 FC Getafe               - Real Sociedad San Sebastian
+ 21:00 FC Getafe               - RSociedad San Sebastian
  21:00 CA Osasuna              - CD Leganes
  21:00 UD Levante              - Real Betis Sevilla
  21:00 FC Granada              - SD Eibar
@@ -470,7 +470,7 @@ Jornada 33
  18:30 Real Betis Sevilla      - FC Villarreal
  18:30 Real Madrid             - FC Getafe
  18:30 FC Barcelona            - Atletico Madrid
- 18:30 Real Sociedad San Sebastian - Espanyol Barcelona
+ 18:30 RSociedad San Sebastian - Espanyol Barcelona
  18:30 RCD Mallorca            - Celta Vigo
  18:30 FC Valencia             - Athletic Bilbao
  18:30 Deportivo Alaves        - FC Granada
@@ -488,7 +488,7 @@ Jornada 34
  18:30 FC Villarreal           - FC Barcelona
  18:30 FC Sevilla              - SD Eibar
  18:30 CA Osasuna              - FC Getafe
- 18:30 UD Levante              - Real Sociedad San Sebastian
+ 18:30 UD Levante              - RSociedad San Sebastian
  18:30 FC Granada              - FC Valencia
 
 
@@ -499,7 +499,7 @@ Jornada 35
  18:30 Real Betis Sevilla      - CA Osasuna
  18:30 Real Madrid             - Deportivo Alaves
  18:30 FC Barcelona            - Espanyol Barcelona
- 18:30 Real Sociedad San Sebastian - FC Granada
+ 18:30 RSociedad San Sebastian - FC Granada
  18:30 RCD Mallorca            - UD Levante
  18:30 FC Valencia             - Real Valladolid
  18:30 FC Getafe               - FC Villarreal
@@ -512,7 +512,7 @@ Jornada 36
  21:00 Real Valladolid         - FC Barcelona
  21:00 Atletico Madrid         - Real Betis Sevilla
  21:00 Deportivo Alaves        - FC Getafe
- 21:00 FC Villarreal           - Real Sociedad San Sebastian
+ 21:00 FC Villarreal           - RSociedad San Sebastian
  21:00 FC Sevilla              - RCD Mallorca
  21:00 CD Leganes              - FC Valencia
  21:00 CA Osasuna              - Celta Vigo
@@ -527,7 +527,7 @@ Jornada 37
  18:30 Real Betis Sevilla      - Deportivo Alaves
  18:30 Real Madrid             - FC Villarreal
  18:30 FC Barcelona            - CA Osasuna
- 18:30 Real Sociedad San Sebastian - FC Sevilla
+ 18:30 RSociedad San Sebastian - FC Sevilla
  18:30 RCD Mallorca            - FC Granada
  18:30 FC Valencia             - Espanyol Barcelona
  18:30 FC Getafe               - Atletico Madrid
@@ -538,7 +538,7 @@ Jornada 38
 [Dom. 24.5.]
  18:30 Espanyol Barcelona      - Celta Vigo
  18:30 Real Valladolid         - Real Betis Sevilla
- 18:30 Atletico Madrid         - Real Sociedad San Sebastian
+ 18:30 Atletico Madrid         - RSociedad San Sebastian
  18:30 Deportivo Alaves        - FC Barcelona
  18:30 FC Villarreal           - SD Eibar
  18:30 FC Sevilla              - FC Valencia
