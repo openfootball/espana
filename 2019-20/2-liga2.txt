@@ -70,46 +70,52 @@ Jornada 4
 
 
 Jornada 5
+[Vie. 13.9.]
+ 18:00 Rayo Vallecano          - Racing Santander
+[Sab. 14.9.]
+ 18:00 SD Ponferradina         - AD Alcorcon
+ 18:00 FC Cadiz                - FC Girona
+ 18:00 CD Mirandes             - FC Malaga
+ 18:00 UD Las Palmas           - UD Almeria
+ 18:00 CD Numancia             - SD Huesca
 [Dom. 15.9.]
  18:00 Real Oviedo             - FC Elche
  18:00 Real Saragossa          - Extremadura UD
  18:00 Sporting Gijon          - Deportivo La Coruna
- 18:00 Rayo Vallecano          - Racing Santander
- 18:00 UD Las Palmas           - UD Almeria
- 18:00 CD Numancia             - SD Huesca
  18:00 Albacete Balompie       - CD Teneriffa
- 18:00 SD Ponferradina         - AD Alcorcon
- 18:00 FC Cadiz                - FC Girona
- 18:00 CD Mirandes             - FC Malaga
  18:00 CD Lugo                 - CF Fuenlabrada
 
 
 Jornada 6
-[Mié. 18.9.]
- 20:00 Real Oviedo             - Extremadura UD
+[Mar. 17.9.]
  20:00 Racing Santander        - CD Mirandes
- 20:00 Deportivo La Coruna     - CD Numancia
- 20:00 UD Las Palmas           - Sporting Gijon
  20:00 FC Malaga               - Rayo Vallecano
- 20:00 FC Elche                - CD Teneriffa
  20:00 UD Almeria              - FC Girona
+ 20:00 AD Alcorcon             - FC Cadiz
+[Mié. 18.9.]
+ 20:00 Deportivo La Coruna     - CD Numancia
  20:00 CD Lugo                 - SD Ponferradina
  20:00 CF Fuenlabrada          - Real Saragossa
- 20:00 AD Alcorcon             - FC Cadiz
  20:00 SD Huesca               - Albacete Balompie
-
-
+[Jue. 19.9]
+ 20:00 UD Las Palmas           - Sporting Gijon
+ 20:00 Real Oviedo             - Extremadura UD
+ 20:00 FC Elche                - CD Teneriffa
+ 
+ 
 Jornada 7
-[Dom. 22.9.]
+[Vie. 20.9.}
+ 18:00 CD Mirandes             - AD Alcorcon
+[Sab. 21.9.]
  18:00 Real Saragossa          - CD Lugo
+ 18:00 Rayo Vallecano          - UD Almeria
+ 18:00 Albacete Balompie       - FC Malaga
+ 18:00 FC Cadiz                - Deportivo La Coruna
+[Dom. 22.9.]
  18:00 CD Teneriffa            - CF Fuenlabrada
  18:00 Sporting Gijon          - Racing Santander
- 18:00 Rayo Vallecano          - UD Almeria
  18:00 CD Numancia             - FC Elche
- 18:00 Albacete Balompie       - FC Malaga
  18:00 SD Ponferradina         - Real Oviedo
- 18:00 FC Cadiz                - Deportivo La Coruna
- 18:00 CD Mirandes             - AD Alcorcon
  18:00 FC Girona               - UD Las Palmas
  18:00 Extremadura UD          - SD Huesca
 
