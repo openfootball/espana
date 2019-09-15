@@ -73,11 +73,11 @@ Jornada 5
 [Vie. 13.9.]
  18:00 Rayo Vallecano          2-0 Racing Santander
 [Sab. 14.9.]
- 18:00 SD Ponferradina         - AD Alcorcon
- 18:00 FC Cadiz                - FC Girona
- 18:00 CD Mirandes             - FC Malaga
- 18:00 UD Las Palmas           - UD Almeria
- 18:00 CD Numancia             - SD Huesca
+ 18:00 SD Ponferradina         1-1 AD Alcorcon
+ 18:00 FC Cadiz                2-0 FC Girona
+ 18:00 CD Mirandes             1-1 FC Malaga
+ 18:00 UD Las Palmas           0-3 UD Almeria
+ 18:00 CD Numancia             1-0 SD Huesca
 [Dom. 15.9.]
  18:00 Real Oviedo             - FC Elche
  18:00 Real Saragossa          - Extremadura UD
