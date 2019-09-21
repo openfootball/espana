@@ -115,33 +115,37 @@ Jornada 7
 
 
 Jornada 8
-[Dom. 6.10.]
- 18:30 Celta Vigo              - Athletic Bilbao
- 18:30 Real Valladolid         - Atletico Madrid
+[Vie. 4.10.]
  18:30 Real Betis Sevilla      - SD Eibar
- 18:30 Real Madrid             - FC Granada
- 18:30 FC Barcelona            - FC Sevilla
- 18:30 RSociedad San Sebastian - FC Getafe
+[Sab. 5.10.]
  18:30 RCD Mallorca            - Espanyol Barcelona
  18:30 FC Valencia             - Deportivo Alaves
  18:30 CD Leganes              - UD Levante
  18:30 CA Osasuna              - FC Villarreal
+[Dom. 6.10.]
+ 18:30 Celta Vigo              - Athletic Bilbao
+ 18:30 Real Valladolid         - Atletico Madrid
+ 18:30 Real Madrid             - FC Granada
+ 18:30 FC Barcelona            - FC Sevilla
+ 18:30 RSociedad San Sebastian - FC Getafe
 
 
 Jornada 9
+[Vie. 18.10.]
+ 18:30 FC Granada              - CA Osasuna
+[Sab. 19.10.]
+ 18:30 FC Getafe               - CD Leganes
+ 18:30 SD Eibar                - FC Barcelona
+ 18:30 RCD Mallorca            - Real Madrid
+ 18:30 Atletico Madrid         - FC Valencia
 [Dom. 20.10.]
  18:30 Athletic Bilbao         - Real Valladolid
  18:30 Espanyol Barcelona      - FC Villarreal
- 18:30 Atletico Madrid         - FC Valencia
  18:30 RSociedad San Sebastian - Real Betis Sevilla
- 18:30 RCD Mallorca            - Real Madrid
  18:30 Deportivo Alaves        - Celta Vigo
  18:30 FC Sevilla              - UD Levante
- 18:30 FC Getafe               - CD Leganes
- 18:30 SD Eibar                - FC Barcelona
- 18:30 FC Granada              - CA Osasuna
 
-
+ 
 Jornada 10
 [Dom. 27.10.]
  18:30 Celta Vigo              - RSociedad San Sebastian
