@@ -121,35 +121,39 @@ Jornada 7
 
 
 Jornada 8
-[Dom. 29.9.]
- 18:00 Real Oviedo             - Real Saragossa
- 18:00 Racing Santander        - CD Numancia
- 18:00 Deportivo La Coruna     - CD Mirandes
+[Vie. 27.9.]
  18:00 UD Las Palmas           - Albacete Balompie
- 18:00 FC Malaga               - Sporting Gijon
- 18:00 FC Elche                - SD Ponferradina
- 18:00 UD Almeria              - FC Cadiz
- 18:00 CD Lugo                 - CD Teneriffa
+[Sab. 28.9.]
  18:00 CF Fuenlabrada          - Rayo Vallecano
  18:00 AD Alcorcon             - Extremadura UD
  18:00 SD Huesca               - FC Girona
+ 18:00 FC Elche                - SD Ponferradina
+ 18:00 Racing Santander        - CD Numancia
+[Dom. 29.9.]
+ 18:00 Real Oviedo             - Real Saragossa
+ 18:00 Deportivo La Coruna     - CD Mirandes
+ 18:00 FC Malaga               - Sporting Gijon
+ 18:00 UD Almeria              - FC Cadiz
+ 18:00 CD Lugo                 - CD Teneriffa
 
 
 Jornada 9
-[Mié. 2.10.]
- 20:00 Real Saragossa          - FC Malaga
- 20:00 CD Teneriffa            - Real Oviedo
- 20:00 Sporting Gijon          - UD Almeria
+[Mar. 1.10.]
  20:00 Rayo Vallecano          - AD Alcorcon
  20:00 CD Numancia             - CF Fuenlabrada
  20:00 Albacete Balompie       - Racing Santander
+ 20:00 Extremadura UD          - FC Elche
+[Mié. 2.10.]
+ 20:00 CD Teneriffa            - Real Oviedo
  20:00 SD Ponferradina         - UD Las Palmas
  20:00 FC Cadiz                - SD Huesca
  20:00 CD Mirandes             - CD Lugo
+[Jue. 3.10.]
  20:00 FC Girona               - Deportivo La Coruna
- 20:00 Extremadura UD          - FC Elche
-
-
+ 20:00 Sporting Gijon          - UD Almeria
+ 20:00 Real Saragossa          - FC Malaga
+ 
+ 
 Jornada 10
 [Dom. 6.10.]
  18:00 Real Oviedo             - CD Numancia
