@@ -155,17 +155,19 @@ Jornada 9
  
  
 Jornada 10
+[Vie. 4.10.]
+ 18:00 AD Alcorcon             - Albacete Balompie
+[Sab. 5.10.]
+18:00 FC Elche                - Rayo Vallecano
+ 18:00 SD Ponferradina         - CD Mirandes
+ 18:00 CD Lugo                 - UD Las Palmas
+ 18:00 CD Teneriffa            - Extremadura UD
 [Dom. 6.10.]
  18:00 Real Oviedo             - CD Numancia
  18:00 Real Saragossa          - FC Cadiz
  18:00 Racing Santander        - FC Girona
- 18:00 CD Teneriffa            - Extremadura UD
  18:00 Deportivo La Coruna     - UD Almeria
- 18:00 FC Elche                - Rayo Vallecano
- 18:00 SD Ponferradina         - CD Mirandes
- 18:00 CD Lugo                 - UD Las Palmas
  18:00 CF Fuenlabrada          - Sporting Gijon
- 18:00 AD Alcorcon             - Albacete Balompie
  18:00 SD Huesca               - FC Malaga
 
 
