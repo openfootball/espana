@@ -112,12 +112,12 @@ Jornada 7
  18:00 Albacete Balompie       1-0 FC Malaga
  18:00 FC Cadiz                0-0 Deportivo La Coruna
 [Dom. 22.9.]
- 18:00 CD Teneriffa            - CF Fuenlabrada
- 18:00 Sporting Gijon          - Racing Santander
- 18:00 CD Numancia             - FC Elche
- 18:00 SD Ponferradina         - Real Oviedo
- 18:00 FC Girona               - UD Las Palmas
- 18:00 Extremadura UD          - SD Huesca
+ 18:00 CD Teneriffa            0-1 CF Fuenlabrada
+ 18:00 Sporting Gijon          1-1 Racing Santander
+ 18:00 CD Numancia             1-1 FC Elche
+ 18:00 SD Ponferradina         2-1 Real Oviedo
+ 18:00 FC Girona               1-0 UD Las Palmas
+ 18:00 Extremadura UD          0-1 SD Huesca
 
 
 Jornada 8
