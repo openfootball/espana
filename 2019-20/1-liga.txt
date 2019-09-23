@@ -75,11 +75,11 @@ Jornada 5
  18:30 Atletico Madrid         0-0 Celta Vigo
  21:00 FC Granada              2-0 FC Barcelona
 [Dom. 22.9.]
- 12:00 FC Getafe               - RCD Mallorca
- 14:00 Espanyol Barcelona      - RSociedad San Sebastian
- 16:00 FC Valencia             - CD Leganes
- 18:30 Athletic Bilbao         - Deportivo Alaves
- 21:00 FC Sevilla              - Real Madrid
+ 12:00 FC Getafe               4-2 RCD Mallorca
+ 14:00 Espanyol Barcelona      1-3 RSociedad San Sebastian
+ 16:00 FC Valencia             1-1 CD Leganes
+ 18:30 Athletic Bilbao         2-0 Deportivo Alaves
+ 21:00 FC Sevilla              0-1 Real Madrid
 
 
 Jornada 6
