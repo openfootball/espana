@@ -173,19 +173,20 @@ Jornada 10
 
 Jornada 11
 [Vie. 11.10.]
-[Sab. 12.10.]
-[Dom. 13.10.]
- 18:00 Sporting Gijon          - AD Alcorcon
  18:00 Rayo Vallecano          - CD Teneriffa
- 18:00 UD Las Palmas           - Deportivo La Coruna
+[Sab. 12.10.]
+ 18:00 Extremadura UD          - SD Ponferradina
+ 18:00 FC Girona               - FC Elche
+ 18:00 UD Almeria              - CD Lugo
  18:00 FC Malaga               - FC Cadiz
+ 18:00 Sporting Gijon          - AD Alcorcon
+[Dom. 13.10.]
+ 18:00 UD Las Palmas           - Deportivo La Coruna
  18:00 CD Numancia             - Real Saragossa
  18:00 Albacete Balompie       - Real Oviedo
- 18:00 UD Almeria              - CD Lugo
  18:00 CD Mirandes             - CF Fuenlabrada
- 18:00 FC Girona               - FC Elche
  18:00 SD Huesca               - Racing Santander
- 18:00 Extremadura UD          - SD Ponferradina
+ 
 
 
 # Jornada 6
@@ -195,20 +196,20 @@ Jornada 11
 
 Jornada 12
 [Vie. 18.10.]
+ 18:00 FC Cadiz                - UD Las Palmas
 [Sab. 19.10.]
+ 18:00 FC Elche                - Sporting Gijon
+ 18:00 SD Ponferradina         - CD Numancia
+ 18:00 Extremadura UD          - Rayo Vallecano
+ 18:00 CD Lugo                 - SD Huesca
+ 18:00 AD Alcorcon             - UD Almeria
 [Dom. 20.10.]
  18:00 Real Oviedo             - FC Girona
  18:00 Real Saragossa          - CD Mirandes
  18:00 CD Teneriffa            - Racing Santander
  18:00 Deportivo La Coruna     - FC Malaga
- 18:00 FC Elche                - Sporting Gijon
- 18:00 SD Ponferradina         - CD Numancia
- 18:00 FC Cadiz                - UD Las Palmas
- 18:00 CD Lugo                 - SD Huesca
  18:00 CF Fuenlabrada          - Albacete Balompie
- 18:00 AD Alcorcon             - UD Almeria
- 18:00 Extremadura UD          - Rayo Vallecano
-
+ 
 
 Jornada 13
 [Dom. 27.10.]
