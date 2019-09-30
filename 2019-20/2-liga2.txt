@@ -95,7 +95,7 @@ Jornada 6
 [Mié. 18.9.]
  20:00 Deportivo La Coruna     3-3 CD Numancia
  20:00 CD Lugo                 2-2 SD Ponferradina
- 20:00 CF Fuenlabrada          - Real Saragossa      verschoben
+ 20:00 CF Fuenlabrada          - Real Saragossa        16.10.
  20:00 SD Huesca               0-1 Albacete Balompie
 [Jue. 19.9]
  20:00 UD Las Palmas           1-0 Sporting Gijon
@@ -172,6 +172,8 @@ Jornada 10
 
 
 Jornada 11
+[Vie. 11.10.]
+[Sab. 12.10.]
 [Dom. 13.10.]
  18:00 Sporting Gijon          - AD Alcorcon
  18:00 Rayo Vallecano          - CD Teneriffa
@@ -186,7 +188,14 @@ Jornada 11
  18:00 Extremadura UD          - SD Ponferradina
 
 
+# Jornada 6
+[Mie. 16.10.]
+ 18:00 CF Fuenlabrada          - Real Saragossa
+
+
 Jornada 12
+[Vie. 18.10.]
+[Sab. 19.10.]
 [Dom. 20.10.]
  18:00 Real Oviedo             - FC Girona
  18:00 Real Saragossa          - CD Mirandes
