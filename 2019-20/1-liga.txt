@@ -123,11 +123,11 @@ Jornada 8
  18:30 CD Leganes              1-2 UD Levante
  18:30 CA Osasuna              2-1 FC Villarreal
 [Dom. 6.10.]
- 18:30 Celta Vigo              - Athletic Bilbao
- 18:30 Real Valladolid         - Atletico Madrid
- 18:30 RCD Mallorca            - Espanyol Barcelona
- 18:30 FC Barcelona            - FC Sevilla
- 18:30 RSociedad San Sebastian - FC Getafe
+ 18:30 Celta Vigo              1-0 Athletic Bilbao
+ 18:30 Real Valladolid         0-0 Atletico Madrid
+ 18:30 RCD Mallorca            2-0 Espanyol Barcelona
+ 18:30 FC Barcelona            4-0 FC Sevilla
+ 18:30 RSociedad San Sebastian 1-2 FC Getafe
 
 
 Jornada 9
