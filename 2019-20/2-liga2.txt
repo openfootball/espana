@@ -163,12 +163,12 @@ Jornada 10
  18:00 CD Lugo                 0-2 UD Las Palmas
  18:00 CD Teneriffa            1-2 Extremadura UD
 [Dom. 6.10.]
- 18:00 Real Oviedo             - CD Numancia
- 18:00 Real Saragossa          - FC Cadiz
- 18:00 Racing Santander        - FC Girona
- 18:00 Deportivo La Coruna     - UD Almeria
- 18:00 CF Fuenlabrada          - Sporting Gijon
- 18:00 SD Huesca               - FC Malaga
+ 18:00 Real Oviedo             1-1 CD Numancia
+ 18:00 Real Saragossa          0-2 FC Cadiz
+ 18:00 Racing Santander        0-3 FC Girona
+ 18:00 Deportivo La Coruna     0-0 UD Almeria
+ 18:00 CF Fuenlabrada          2-0 Sporting Gijon
+ 18:00 SD Huesca               2-0 FC Malaga
 
 
 Jornada 11
