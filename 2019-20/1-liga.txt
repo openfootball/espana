@@ -147,59 +147,67 @@ Jornada 9
 
  
 Jornada 10
-[Dom. 27.10.]
- 18:30 Celta Vigo              - RSociedad San Sebastian
+[Vie. 25.10.]
+ 18:30 FC Villarreal           - Deportivo Alaves
+[Sab. 26.10.]
  18:30 Real Valladolid         - SD Eibar
  18:30 Atletico Madrid         - Athletic Bilbao
  18:30 FC Barcelona            - Real Madrid
- 18:30 FC Villarreal           - Deportivo Alaves
- 18:30 FC Sevilla              - FC Getafe
  18:30 CD Leganes              - RCD Mallorca
+[Dom. 27.10.]
+ 18:30 Celta Vigo              - RSociedad San Sebastian
+ 18:30 FC Sevilla              - FC Getafe
  18:30 CA Osasuna              - FC Valencia
  18:30 UD Levante              - Espanyol Barcelona
  18:30 FC Granada              - Real Betis Sevilla
 
 
 Jornada 11
+[Mar. 29.10.]
+ 21:00 Deportivo Alaves        - Atletico Madrid
+ 21:00 FC Barcelona            - Real Valladolid
 [Mié. 30.10.]
  21:00 Athletic Bilbao         - Espanyol Barcelona
  21:00 Real Betis Sevilla      - Celta Vigo
  21:00 Real Madrid             - CD Leganes
- 21:00 FC Barcelona            - Real Valladolid
  21:00 RSociedad San Sebastian - UD Levante
- 21:00 RCD Mallorca            - CA Osasuna
  21:00 FC Valencia             - FC Sevilla
- 21:00 Deportivo Alaves        - Atletico Madrid
+[Jue. 31.10.]
+ 21:00 RCD Mallorca            - CA Osasuna
  21:00 FC Getafe               - FC Granada
  21:00 SD Eibar                - FC Villarreal
 
 
 Jornada 12
+[Sab. 2.11.]
+ 18:30 Espanyol Barcelona      - FC Valencia
+ 18:30 Real Madrid             - Real Betis Sevilla
+ 18:30 FC Sevilla              - Atletico Madrid
+ 18:30 UD Levante              - FC Barcelona
 [Dom. 3.11.]
  18:30 Celta Vigo              - FC Getafe
- 18:30 Espanyol Barcelona      - FC Valencia
  18:30 Real Valladolid         - RCD Mallorca
- 18:30 Real Madrid             - Real Betis Sevilla
  18:30 FC Villarreal           - Athletic Bilbao
- 18:30 FC Sevilla              - Atletico Madrid
  18:30 CD Leganes              - SD Eibar
  18:30 CA Osasuna              - Deportivo Alaves
- 18:30 UD Levante              - FC Barcelona
  18:30 FC Granada              - RSociedad San Sebastian
 
 
 Jornada 13
+[Vie. 8.11.]
+ 18:30 RSociedad San Sebastian - CD Leganes
+[Sab. 9.11.]
+ 18:30 FC Valencia             - FC Granada
+ 18:30 Deportivo Alaves        - Real Valladolid
+ 18:30 SD Eibar                - Real Madrid
+ 18:30 FC Barcelona            - Celta Vigo
 [Dom. 10.11.]
  18:30 Athletic Bilbao         - UD Levante
  18:30 Real Betis Sevilla      - FC Sevilla
  18:30 Atletico Madrid         - Espanyol Barcelona
- 18:30 FC Barcelona            - Celta Vigo
- 18:30 RSociedad San Sebastian - CD Leganes
  18:30 RCD Mallorca            - FC Villarreal
- 18:30 FC Valencia             - FC Granada
- 18:30 Deportivo Alaves        - Real Valladolid
  18:30 FC Getafe               - CA Osasuna
- 18:30 SD Eibar                - Real Madrid
+ 
 
 
 Jornada 14
