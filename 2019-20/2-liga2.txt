@@ -198,11 +198,11 @@ Jornada 12
 [Vie. 18.10.]
  18:00 FC Cadiz                2-0 UD Las Palmas
 [Sab. 19.10.]
- 18:00 FC Elche                - Sporting Gijon
- 18:00 SD Ponferradina         - CD Numancia
- 18:00 Extremadura UD          - Rayo Vallecano
- 18:00 CD Lugo                 - SD Huesca
- 18:00 AD Alcorcon             - UD Almeria
+ 18:00 FC Elche                0-1 Sporting Gijon
+ 18:00 SD Ponferradina         1-1 CD Numancia
+ 18:00 Extremadura UD          0-3 Rayo Vallecano
+ 18:00 CD Lugo                 3-2 SD Huesca
+ 18:00 AD Alcorcon             2-2 UD Almeria
 [Dom. 20.10.]
  18:00 Real Oviedo             - FC Girona
  18:00 Real Saragossa          - CD Mirandes
