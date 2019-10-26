@@ -148,11 +148,11 @@ Jornada 9
  
 Jornada 10
 [Vie. 25.10.]
- 18:30 FC Villarreal           - Deportivo Alaves
+ 18:30 FC Villarreal           4-1 Deportivo Alaves
 [Sab. 26.10.]
  18:30 Real Valladolid         - SD Eibar
  18:30 Atletico Madrid         - Athletic Bilbao
- 18:30 FC Barcelona            - Real Madrid         Termin verschoben
+ 18:30 FC Barcelona            - Real Madrid         18.12.
  18:30 CD Leganes              - RCD Mallorca
 [Dom. 27.10.]
  18:30 Celta Vigo              - RSociedad San Sebastian
@@ -264,6 +264,11 @@ Jornada 17
  18:30 FC Sevilla              - FC Villarreal
  18:30 FC Getafe               - Real Valladolid
  18:30 FC Granada              - UD Levante
+ 
+ 
+# Jornada 10
+[Mie. 18.12.]
+ 18:30 FC Barcelona            - Real Madrid  
 
 
 Jornada 18
