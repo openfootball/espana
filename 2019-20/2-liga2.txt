@@ -215,11 +215,11 @@ Jornada 13
 [Vie. 25.10.]
  18:00 Albacete Balompie       1-0 FC Cadiz
 [Sab. 26.10.]
- 18:00 FC Malaga               - Real Oviedo
- 18:00 CD Numancia             - CD Lugo
- 18:00 Racing Santander        - Deportivo La Coruna
- 18:00 Rayo Vallecano          - SD Ponferradina
- 18:00 CD Mirandes             - CD Teneriffa
+ 18:00 FC Malaga               2-1 Real Oviedo
+ 18:00 CD Numancia             3-1 CD Lugo
+ 18:00 Racing Santander        1-1 Deportivo La Coruna
+ 18:00 Rayo Vallecano          1-3 SD Ponferradina
+ 18:00 CD Mirandes             0-0 CD Teneriffa
 [Dom. 27.10.]
  18:00 Sporting Gijon          - Real Saragossa
  18:00 UD Las Palmas           - CF Fuenlabrada
