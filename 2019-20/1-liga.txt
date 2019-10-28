@@ -155,11 +155,11 @@ Jornada 10
  18:30 FC Barcelona            - Real Madrid         18.12.
  18:30 CD Leganes              1-0 RCD Mallorca
 [Dom. 27.10.]
- 18:30 Celta Vigo              - RSociedad San Sebastian
- 18:30 FC Sevilla              - FC Getafe
- 18:30 CA Osasuna              - FC Valencia
- 18:30 UD Levante              - Espanyol Barcelona
- 18:30 FC Granada              - Real Betis Sevilla
+ 18:30 Celta Vigo              0-1 RSociedad San Sebastian
+ 18:30 FC Sevilla              2-0 FC Getafe
+ 18:30 CA Osasuna              3-1 FC Valencia
+ 18:30 UD Levante              0-1 Espanyol Barcelona
+ 18:30 FC Granada              1-0 Real Betis Sevilla
 
 
 Jornada 11
