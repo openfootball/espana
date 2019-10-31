@@ -167,11 +167,11 @@ Jornada 11
  21:00 Deportivo Alaves        1-1 Atletico Madrid
  21:00 FC Barcelona            5-1 Real Valladolid
 [Mié. 30.10.]
- 21:00 Athletic Bilbao         - Espanyol Barcelona
- 21:00 Real Betis Sevilla      - Celta Vigo
- 21:00 Real Madrid             - CD Leganes
- 21:00 RSociedad San Sebastian - UD Levante
- 21:00 FC Valencia             - FC Sevilla
+ 21:00 Athletic Bilbao         3-0 Espanyol Barcelona
+ 21:00 Real Betis Sevilla      2-1 Celta Vigo
+ 21:00 Real Madrid             5-0 CD Leganes
+ 21:00 RSociedad San Sebastian 1-2 UD Levante
+ 21:00 FC Valencia             1-1 FC Sevilla
 [Jue. 31.10.]
  21:00 RCD Mallorca            - CA Osasuna
  21:00 FC Getafe               - FC Granada
