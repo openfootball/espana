@@ -185,12 +185,12 @@ Jornada 12
  18:30 FC Sevilla              1-1 Atletico Madrid
  18:30 UD Levante              3-1 FC Barcelona
 [Dom. 3.11.]
- 18:30 Celta Vigo              - FC Getafe
- 18:30 Real Valladolid         - RCD Mallorca
- 18:30 FC Villarreal           - Athletic Bilbao
- 18:30 CD Leganes              - SD Eibar
- 18:30 CA Osasuna              - Deportivo Alaves
- 18:30 FC Granada              - RSociedad San Sebastian
+ 18:30 Celta Vigo              0-1 FC Getafe
+ 18:30 Real Valladolid         3-0 RCD Mallorca
+ 18:30 FC Villarreal           0-0 Athletic Bilbao
+ 18:30 CD Leganes              0-1 SD Eibar
+ 18:30 CA Osasuna              4-2 Deportivo Alaves
+ 18:30 FC Granada              1-2 RSociedad San Sebastian
 
 
 Jornada 13
