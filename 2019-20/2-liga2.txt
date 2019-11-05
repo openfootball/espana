@@ -263,49 +263,54 @@ Jornada 15
  18:00 FC Malaga               - CF Fuenlabrada
 
 
-
 Jornada 16
-[Dom. 17.11.]
- 18:00 Real Oviedo             - Sporting Gijon
- 18:00 Real Saragossa          - Albacete Balompie
- 18:00 CD Teneriffa            - FC Cadiz
+[Sab. 16.11.]
  18:00 CD Numancia             - Rayo Vallecano
  18:00 FC Elche                - UD Almeria
+ 18:00 Real Saragossa          - Albacete Balompie
+ 18:00 CF Fuenlabrada          - SD Huesca
+ 18:00 Extremadura UD          - Deportivo La Coruna
+[Dom. 17.11.]
+ 18:00 Real Oviedo             - Sporting Gijon
+ 18:00 CD Teneriffa            - FC Cadiz
  18:00 SD Ponferradina         - FC Girona
  18:00 CD Mirandes             - UD Las Palmas
  18:00 CD Lugo                 - Racing Santander
- 18:00 CF Fuenlabrada          - SD Huesca
  18:00 AD Alcorcon             - FC Malaga
- 18:00 Extremadura UD          - Deportivo La Coruna
+ 
 
 
 Jornada 17
-[Dom. 24.11.]
+[Vie. 22.11.]
+ 18:00 Sporting Gijon          - CD Teneriffa
+[Sab. 23.11.]
  18:00 Racing Santander        - Extremadura UD
  18:00 Deportivo La Coruna     - AD Alcorcon
- 18:00 Sporting Gijon          - CD Teneriffa
  18:00 Rayo Vallecano          - Real Saragossa
+ 18:00 SD Huesca               - SD Ponferradina
+[Dom. 24.11.]
  18:00 UD Las Palmas           - Real Oviedo
  18:00 FC Malaga               - FC Elche
  18:00 Albacete Balompie       - CD Mirandes
  18:00 UD Almeria              - CD Numancia
  18:00 FC Cadiz                - CD Lugo
  18:00 FC Girona               - CF Fuenlabrada
- 18:00 SD Huesca               - SD Ponferradina
-
+ 
 
 Jornada 18
-[Dom. 1.12.]
- 18:00 Real Oviedo             - Rayo Vallecano
+[Vie. 29.11.]
+ 18:00 CD Numancia             - FC Malaga
+[Sab. 30.11.]
  18:00 Real Saragossa          - FC Girona
  18:00 CD Teneriffa            - UD Almeria
- 18:00 CD Numancia             - FC Malaga
- 18:00 FC Elche                - Racing Santander
  18:00 SD Ponferradina         - Albacete Balompie
  18:00 CD Mirandes             - Sporting Gijon
+ 18:00 AD Alcorcon             - SD Huesca
+[Dom. 1.12.]
+ 18:00 Real Oviedo             - Rayo Vallecano
+ 18:00 FC Elche                - Racing Santander
  18:00 CD Lugo                 - Deportivo La Coruna
  18:00 CF Fuenlabrada          - FC Cadiz
- 18:00 AD Alcorcon             - SD Huesca
  18:00 Extremadura UD          - UD Las Palmas
 
 
