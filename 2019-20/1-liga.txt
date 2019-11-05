@@ -211,6 +211,8 @@ Jornada 13
 
 
 Jornada 14
+[Vie. 22.11.]
+[Sab. 23.11.]
 [Dom. 24.11.]
  18:30 Espanyol Barcelona      - FC Getafe
  18:30 Real Valladolid         - FC Sevilla
@@ -225,15 +227,17 @@ Jornada 14
 
 
 Jornada 15
-[Dom. 1.12.]
+[Vie. 29.11.]
  18:30 Celta Vigo              - Real Valladolid
- 18:30 Athletic Bilbao         - FC Granada
- 18:30 Espanyol Barcelona      - CA Osasuna
- 18:30 Atletico Madrid         - FC Barcelona
+[Sab. 30.11.]
  18:30 RSociedad San Sebastian - SD Eibar
  18:30 RCD Mallorca            - Real Betis Sevilla
  18:30 FC Valencia             - FC Villarreal
  18:30 Deportivo Alaves        - Real Madrid
+[Dom. 1.12.]
+ 18:30 Athletic Bilbao         - FC Granada
+ 18:30 Espanyol Barcelona      - CA Osasuna
+ 18:30 Atletico Madrid         - FC Barcelona
  18:30 FC Sevilla              - CD Leganes
  18:30 FC Getafe               - UD Levante
 
