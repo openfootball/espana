@@ -250,11 +250,11 @@ Jornada 15
 [Vie. 8.11.]
  18:00 FC Girona               1-0 CD Teneriffa
 [Sab. 9.11.]
- 18:00 Sporting Gijon          - CD Numancia
- 18:00 UD Las Palmas           - AD Alcorcon
- 18:00 Albacete Balompie       - CD Lugo
- 18:00 CD Mirandes             - Extremadura UD
- 18:00 SD Huesca               - Real Oviedo
+ 18:00 Sporting Gijon          0-1 CD Numancia
+ 18:00 UD Las Palmas           1-1 AD Alcorcon
+ 18:00 Albacete Balompie       0-1 CD Lugo
+ 18:00 CD Mirandes             2-0 Extremadura UD
+ 18:00 SD Huesca               3-1 Real Oviedo
 [Dom. 10.11.]
  18:00 Racing Santander        - SD Ponferradina
  18:00 Deportivo La Coruna     - FC Elche
