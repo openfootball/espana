@@ -202,11 +202,11 @@ Jornada 13
  18:30 SD Eibar                0-4 Real Madrid
  18:30 FC Barcelona            4-1 Celta Vigo
 [Dom. 10.11.]
- 18:30 Athletic Bilbao         - UD Levante
- 18:30 Real Betis Sevilla      - FC Sevilla
- 18:30 Atletico Madrid         - Espanyol Barcelona
- 18:30 RCD Mallorca            - FC Villarreal
- 18:30 FC Getafe               - CA Osasuna
+ 18:30 Athletic Bilbao         2-1 UD Levante
+ 18:30 Real Betis Sevilla      1-2 FC Sevilla
+ 18:30 Atletico Madrid         3-1 Espanyol Barcelona
+ 18:30 RCD Mallorca            3-1 FC Villarreal
+ 18:30 FC Getafe               0-0 CA Osasuna
  
 
 Jornada 14
