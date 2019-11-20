@@ -271,12 +271,12 @@ Jornada 16
  18:00 CF Fuenlabrada          3-2 SD Huesca
  18:00 Extremadura UD          2-0 Deportivo La Coruna
 [Dom. 17.11.]
- 18:00 Real Oviedo             - Sporting Gijon
- 18:00 CD Teneriffa            - FC Cadiz
- 18:00 SD Ponferradina         - FC Girona
- 18:00 CD Mirandes             - UD Las Palmas
- 18:00 CD Lugo                 - Racing Santander
- 18:00 AD Alcorcon             - FC Malaga
+ 18:00 Real Oviedo             0-0 Sporting Gijon
+ 18:00 CD Teneriffa            1-1 FC Cadiz
+ 18:00 SD Ponferradina         1-1 FC Girona
+ 18:00 CD Mirandes             2-1 UD Las Palmas
+ 18:00 CD Lugo                 1-1 Racing Santander
+ 18:00 AD Alcorcon             1-0 FC Malaga
  
 
 
