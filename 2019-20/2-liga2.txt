@@ -289,12 +289,12 @@ Jornada 17
  18:00 Rayo Vallecano          0-1 Real Saragossa
  18:00 SD Huesca               2-0 SD Ponferradina
 [Dom. 24.11.]
- 18:00 UD Las Palmas           - Real Oviedo
- 18:00 FC Malaga               - FC Elche
- 18:00 Albacete Balompie       - CD Mirandes
- 18:00 UD Almeria              - CD Numancia
- 18:00 FC Cadiz                - CD Lugo
- 18:00 FC Girona               - CF Fuenlabrada
+ 18:00 UD Las Palmas           3-1 Real Oviedo
+ 18:00 FC Malaga               3-3 FC Elche
+ 18:00 Albacete Balompie       1-2 CD Mirandes
+ 18:00 UD Almeria              2-0 CD Numancia
+ 18:00 FC Cadiz                2-1 CD Lugo
+ 18:00 FC Girona               2-0 CF Fuenlabrada
  
 
 Jornada 18
