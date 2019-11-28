@@ -1,4 +1,0 @@
-
-es,     Primera División      # Use Liga for title ??
-es.2,   Segunda División      # Use Liga Adelante for title ??
-es.cup, Copa del Rey
