@@ -22,7 +22,7 @@ Example:
 
 
 ```
-### La Liga - Primera División de España
+= Primera División de España    ## La Liga
 
 Jornada 1
 
@@ -55,9 +55,9 @@ Build the database for all Spanish clubs, leagues and seasons:
 
     $ sportdb new es
 
-Build the database for the 2017/18 season:
+Build the database for the 2019/20 season:
 
-    $ sportdb new es2017-18
+    $ sportdb new es2019-20
 
 
 
