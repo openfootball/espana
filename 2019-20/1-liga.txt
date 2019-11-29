@@ -1,5 +1,4 @@
-###################################
-# Primera División 2019/20
+= Primera División 2019/20
 
 
 Jornada 1
@@ -145,7 +144,7 @@ Jornada 9
  18:30 Deportivo Alaves        2-0 Celta Vigo
  18:30 FC Sevilla              1-0 UD Levante
 
- 
+
 Jornada 10
 [Vie. 25.10.]
  18:30 FC Villarreal           4-1 Deportivo Alaves
@@ -207,7 +206,7 @@ Jornada 13
  18:30 Atletico Madrid         3-1 Espanyol Barcelona
  18:30 RCD Mallorca            3-1 FC Villarreal
  18:30 FC Getafe               0-0 CA Osasuna
- 
+
 
 Jornada 14
 [Vie. 22.11.]
@@ -267,11 +266,11 @@ Jornada 17
  18:30 FC Sevilla              - FC Villarreal
  18:30 FC Getafe               - Real Valladolid
  18:30 FC Granada              - UD Levante
- 
- 
-# Jornada 10
+
+
+Jornada 10
 [Mie. 18.12.]
- 18:30 FC Barcelona            - Real Madrid  
+ 18:30 FC Barcelona            - Real Madrid
 
 
 Jornada 18

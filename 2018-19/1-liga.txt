@@ -1,5 +1,4 @@
-###################################
-# Primera División 2018/19
+= Primera División 2018/19
 
 
 Jornada 1
@@ -43,7 +42,7 @@ Jornada 3
   Villarreal CF                0-1 Girona FC
 [Sáb. 1.9.]
   Celta Vigo                   2-0 Atlético Madrid
-  Rayo Vallecano               1-1 Athletic Bilbao   
+  Rayo Vallecano               1-1 Athletic Bilbao
   Real Madrid                  4-1 CD Leganés
 [Dom. 2.9.]
   Levante UD                   2-2 Valencia CF
@@ -148,9 +147,9 @@ Jornada 9
   SD Eibar                     1-1 Athletic Bilbao
   SD Huesca                    0-2 Espanyol Barcelona
   Rayo Vallecano               1-2 Getafe CF
-[Lun. 22.10.]  
+[Lun. 22.10.]
   Real Sociedad San Sebastian  0-0 Girona FC
-  
+
 ## suplemento Jornada 3
 [Mie. 24.10.]
   Rayo Vallecano               1-1 Athletic Bilbao
@@ -169,7 +168,7 @@ Jornada 10
   CD Alavés                    2-1 Villarreal CF
   Getafe CF                    2-0 Betis Sevilla
   Sevilla FC                   2-1 SD Huesca
-  
+
 
 
 Jornada 11
@@ -236,7 +235,7 @@ Jornada 14
   Girona FC                    1-1 Atlético Madrid
 [Lun. 3.12.]
   Levante UD                   3-0 Athletic Bilbao
-  
+
 
 Jornada 15
 [Vie. 7.12.]
@@ -319,7 +318,7 @@ Jornada 19
   Atlético Madrid              1-0 Levante UD
   FC Barcelona                 3-0 SD Eibar
   Betis Sevilla                1-2 Real Madrid
-[Lue. 14.1.]  
+[Lue. 14.1.]
   Real Sociedad San Sebastian  3-2 Espanyol Barcelona
 
 Jornada 20
@@ -335,7 +334,7 @@ Jornada 20
   Levante UD                   2-0 Real Valladolid
   Rayo Vallecano               2-2 Real Sociedad San Sebastian
   Villarreal CF                1-1 Athletic Bilbao
-[Lue. 21.1.] 
+[Lue. 21.1.]
   SD Eibar                     3-0 Espanyol Barcelona
 
 
@@ -368,7 +367,7 @@ Jornada 22
   Real Madrid                  3-0 CD Alavés
   Betis Sevilla                1-0 Atlético Madrid
   Villarreal CF                2-2 Espanyol Barcelona
-[Lue. 4.2.]  
+[Lue. 4.2.]
   Rayo Vallecano               1-2 CD Leganés
 
 
@@ -387,8 +386,8 @@ Jornada 23
   Valencia CF                  0-0 Real Sociedad San Sebastian
 [Lun. 11.2.]
   CD Alavés                    2-0 Levante UD
-  
-  
+
+
 Jornada 24
 [Vie. 15.2.]
   SD Eibar                     2-2 Getafe CF
@@ -404,8 +403,8 @@ Jornada 24
   Villarreal CF                3-0 Sevilla FC
 [Lun. 18.2.]
   SD Huesca                    0-1 Athletic Bilbao
-  
-  
+
+
 Jornada 25
 [Vie. 22.2]
   Espanyol Barcelona           1-1 SD Huesca
@@ -565,15 +564,15 @@ Jornada 34
   Getafe CF                    0-0 Real Madrid
   Real Sociedad San Sebastian  0-1 Villarreal CF
   Sevilla FC                   5-0 Rayo Vallecano
-  
-  
+
+
 Jornada 35
 [Sab. 27.4.]
   CD Leganés                   0-0 Celta Vigo
   Atlético Madrid              1-0 Real Valladolid
   FC Barcelona                 1-0 Levante UD
   Athletic Bilbao              1-1 CD Alavés
-[Dom. 28.4.] 
+[Dom. 28.4.]
   Valencia CF                  0-1 SD Eibar
   Real Sociedad San Sebastian  2-1 Getafe CF
   Villarreal CF                1-1 SD Huesca
@@ -581,8 +580,8 @@ Jornada 35
   Rayo Vallecano               1-0 Real Madrid
 [Lun, 29.4.]
   Betis Sevilla                1-1 Espanyol Barcelona
-  
-  
+
+
 # Meister Primera Division 2018/19:
   FC Barcelona
 
@@ -600,11 +599,11 @@ Levante UD                     4-1 Rayo Vallecano
   Real Madrid                  3-2 Villarreal CF
   Real Valladolid              1-0 Athletic Bilbao
   SD Eibar                     1-0 Betis Sevilla
- 
- 
+
+
 # Absteiger Primera Division 2018/19:
-  SD Huesca
-  Rayo Vallecano
+#  SD Huesca
+#  Rayo Vallecano
 
 
 Jornada 37
@@ -622,7 +621,7 @@ Jornada 37
 
 
 # 3. Absteiger Primera Division 2018/19:
-  Girona FC (3:2, 1:2 Auswärtstorregel)
+#  Girona FC (3:2, 1:2 Auswärtstorregel)
 
 Jornada 38
 [Sab. 18.5.]
@@ -634,36 +633,36 @@ Jornada 38
   Sevilla FC                   2-0 Athletic Bilbao
   Levante UD                   2-2 Atlético Madrid
   Real Valladolid              0-2 Valencia CF
-[Dom. 19.5.]  
+[Dom. 19.5.]
   SD Eibar                     2-2 FC Barcelona
   Real Madrid                  0-2 Betis Sevilla
 
 
 # Aufsteiger Primera Division 2019/20:
-  CA Osasuna
-  Granada CF
-  
+#  CA Osasuna
+#  Granada CF
+
 # Play-off um Aufstiegsplatz Primera Division 2019/20:
-  Albacete, Malaga CF, RCD Mallorca und Deportiva La Coruna.
-  
+#  Albacete, Malaga CF, RCD Mallorca und Deportiva La Coruna.
+
 # Halbfinale:
-[Mie. 12.6.]
-  Deportiva La Coruna           4-2 Malaga CF
-[Jue. 13.6.]
-  RCD Mallorca                  2-0 Albacete
-[Sab. 15.6.]
-  Malaga CF                     0-2 Deportiva La Coruna
-[Dom. 16.6.]
-  Albacete                      1-0 RCD Mallorca
+# [Mie. 12.6.]
+#  Deportiva La Coruna           4-2 Malaga CF
+# [Jue. 13.6.]
+#  RCD Mallorca                  2-0 Albacete
+# [Sab. 15.6.]
+#  Malaga CF                     0-2 Deportiva La Coruna
+# [Dom. 16.6.]
+#  Albacete                      1-0 RCD Mallorca
 
 # Finale:
-[Jue. 20.6.]
-Deportiva La Coruna             2-0  RCD Mallorca
-[Dom. 23.6.]
-RCD Mallorca                    3-0 Deportiva La Coruna
-3. Aufsteiger Primera Division 2019/20:
-RCD Mallorca
+# [Jue. 20.6.]
+# Deportiva La Coruna             2-0  RCD Mallorca
+# [Dom. 23.6.]
+# RCD Mallorca                    3-0 Deportiva La Coruna
+# 3. Aufsteiger Primera Division 2019/20:
+# RCD Mallorca
 
 # Ende Primera Division 2018/19
-
+#
 # 16.8. Start Primera Division 2019/20

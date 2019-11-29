@@ -1,5 +1,4 @@
-###################################
-# Segunda División 2019/20
+= Segunda División 2019/20
 
 
 Jornada 1
@@ -95,14 +94,14 @@ Jornada 6
 [Mié. 18.9.]
  20:00 Deportivo La Coruna     3-3 CD Numancia
  20:00 CD Lugo                 2-2 SD Ponferradina
- 20:00 CF Fuenlabrada          2-1 Real Saragossa        
+ 20:00 CF Fuenlabrada          2-1 Real Saragossa
  20:00 SD Huesca               0-1 Albacete Balompie
 [Jue. 19.9]
  20:00 UD Las Palmas           1-0 Sporting Gijon
  20:00 Real Oviedo             1-1 Extremadura UD
  20:00 FC Elche                1-1 CD Teneriffa
- 
- 
+
+
 Jornada 7
 [Vie. 20.9.}
  18:00 CD Mirandes             2-2 AD Alcorcon
@@ -152,8 +151,8 @@ Jornada 9
  20:00 FC Girona               3-1 Deportivo La Coruna
  20:00 Sporting Gijon          4-2 UD Almeria
  20:00 Real Saragossa          2-2 FC Malaga
- 
- 
+
+
 Jornada 10
 [Vie. 4.10.]
  18:00 AD Alcorcon             0-1 Albacete Balompie
@@ -186,10 +185,9 @@ Jornada 11
  18:00 Albacete Balompie       1-2 Real Oviedo
  18:00 CD Mirandes             2-1 CF Fuenlabrada
  18:00 SD Huesca               1-1 Racing Santander
- 
 
 
-# Jornada 6
+Jornada 6
 [Mie. 16.10.]
  18:00 CF Fuenlabrada          2-1 Real Saragossa
 
@@ -209,7 +207,7 @@ Jornada 12
  18:00 CD Teneriffa            3-3 Racing Santander
  18:00 Deportivo La Coruna     0-2 FC Malaga
  18:00 CF Fuenlabrada          0-1 Albacete Balompie
- 
+
 
 Jornada 13
 [Vie. 25.10.]
@@ -277,7 +275,7 @@ Jornada 16
  18:00 CD Mirandes             2-1 UD Las Palmas
  18:00 CD Lugo                 1-1 Racing Santander
  18:00 AD Alcorcon             1-0 FC Malaga
- 
+
 
 
 Jornada 17
@@ -295,7 +293,7 @@ Jornada 17
  18:00 UD Almeria              2-0 CD Numancia
  18:00 FC Cadiz                2-1 CD Lugo
  18:00 FC Girona               2-0 CF Fuenlabrada
- 
+
 
 Jornada 18
 [Vie. 29.11.]
