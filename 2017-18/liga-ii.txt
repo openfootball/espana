@@ -1,3 +1,6 @@
+= Primera División de España 2017/18
+
+
 Jornada 18
 [Sáb. 6.1.]
    Atlético Madrid               2-0  Getafe CF
@@ -12,7 +15,7 @@ Jornada 18
    Villarreal CF                 1-1  Deportivo La Coruña
 [Lun. 8.1.]
    Málaga CF                     0-1  Espanyol Barcelona
-   
+
 Jornada 19
 [Vie. 12.1.]
    Getafe CF                     1-0  Málaga CF
@@ -28,7 +31,7 @@ Jornada 19
    Real Sociedad San Sebastián   2-4  FC Barcelona
 [Lun. 15.1.]
    Betis Sevilla                 3-2  CD Leganés
-   
+
 Jornada 20
 [Vie. 19.1.]
    Getafe CF                     2-2  Athletic Bilbao
@@ -37,7 +40,7 @@ Jornada 20
    Villarreal CF                 2-1  Levante UD
    UD Las Palmas                 2-1  Valencia CF
    Atlético Madrid               1-1  Girona FC
-   
+
 [Dom. 21.1.]
    CD Alavés                     2-2  CD Leganés
    Real Madrid                   7-1  Deportivo La Coruña
@@ -59,7 +62,7 @@ Jornada 21
    FC Barcelona                  2-1  CD Alavés
    CD Leganés                    3-2  Espanyol Barcelona
    Sevilla FC                    1-1  Getafe CF
-[Lun. 29.1.] 
+[Lun. 29.1.]
    Celta Vigo                    3-2  Betis Sevilla
 
 Jornada 22
@@ -77,12 +80,12 @@ Jornada 22
    Girona FC                     2-0  Athletic Bilbao
 [Lun. 5.2.]
    UD Las Palmas                 1-0  Málaga CF
-   
+
 
 Jornada 23
 [Vie. 9.2.]
    Athletic Bilbao               0-0  UD Las Palmas
-[Sáb. 10.2.]  
+[Sáb. 10.2.]
    CD Leganés                    0-1  SD Eibar
    Málaga CF                     0-1  Atlético Madrid
    Real Madrid                   5-2  Real Sociedad San Sebastián
@@ -94,7 +97,7 @@ Jornada 23
    Valencia CF                   3-1  Levante UD
 [Lun. 12.2.]
    Deportivo La Coruña           0-1  Betis Sevilla
-   
+
 
 Jornada 24
 [Vie. 16.2.]
@@ -111,11 +114,11 @@ Jornada 24
    Real Sociedad San Sebastián   3-0  Levante UD
 [Lun. 19.2.]
    Getafe CF                     3-0  Celta Vigo
-   
+
 ## suplemento Jornada 16
 [Mié. 21.2.]
    CD Leganes                    1-3  Real Madrid
-   
+
 Jornada 25
 [Vie. 23.2.]
    Deportivo La Coruña           0-0  Espanyol Barcelona
@@ -131,7 +134,7 @@ Jornada 25
    Villarreal CF                 1-0  Getafe CF
 [Lun. 26.2.]
    Levante UD                    0-2  Betis Sevilla
-   
+
 Jornada 26
 [Mar. 27.2.]
    Espanyol Barcelona            1-0  Real Madrid
@@ -146,7 +149,7 @@ Jornada 26
    CD Alavés                     1-0  Levante UD
    UD Las Palmas                 1-1  FC Barcelona
    Betis Sevilla                 0-0  Real Sociedad San Sebastián
-   
+
 Jornada 27
 [Sáb. 3.3.]
    Deportivo La Coruña           1-1  SD Eibar
@@ -161,7 +164,7 @@ Jornada 27
    Valencia CF                   2-0  Betis Sevilla
 [Lun. 5.3.]
    Celta Vigo                    2-1  UD Las Palmas
- 
+
 Jornada 28
 [Vie. 9.3.]
    Girona FC                     2-0  Deportivo La Coruña
@@ -253,10 +256,10 @@ Jornada 33
    Betis Sevilla                 1-0  UD Las Palmas
    Levante UD                    1-0  Málaga CF
    Real Sociedad San Sebastián   3-0  Atlético Madrid
-   
+
 ## 1.Absteiger Primera Division 2017/18:
 ##   Malaga CF
- 
+
 Jornada 34
 [Vie. 20.4.]
    CD Leganés                    0-0  Deportivo La Coruña
@@ -265,18 +268,18 @@ Jornada 34
    SD Eibar                      0-1  Getafe CF
 [Dom. 22.4.]
    Atlético Madrid               0-0  Betis Sevilla
-   FC Barcelona                  5-1  Villarreal CF          
+   FC Barcelona                  5-1  Villarreal CF
    Girona FC                     0-2  Espanyol Barcelona
    UD Las Palmas                 0-4  CD Alavés
    Málaga CF                     2-0  Real Sociedad San Sebastián
-   Sevilla FC                    3-2  Real Madrid              
+   Sevilla FC                    3-2  Real Madrid
 [Lun. 23.4.]
    Athletic Bilbao               1-3  Levante UD
 
 
 ## 2. Absteiger Primera Division 2017/18:
 ##   UD Las Palmas
-   
+
 Jornada 35
 [Vie. 27.4.]
    Levante UD                    2-1  Sevilla FC
@@ -295,10 +298,10 @@ Jornada 35
 
 ## Meister Primera Division 2017/18:
 ##   FC Barcelona
-   
+
 ## 3. Absteiger Primera Division 2017/18:
    Deportivo La Coruna
-   
+
 Jornada 36
 [Vie. 4.5.]
    Sevilla FC                    1-0  Real Sociedad San Sebastián
@@ -314,12 +317,12 @@ Jornada 36
    Málaga CF                     0-3  CD Alavés
 [Lun. 7.5.]
    CD Leganés                    0-3  Levante UD
-   
-   
+
+
 ## suplemento Jornada 34
 [Mié. 9.5.]
-   Sevilla FC                    3-2  Real Madrid              
-   FC Barcelona                  5-1  Villarreal CF 
+   Sevilla FC                    3-2  Real Madrid
+   FC Barcelona                  5-1  Villarreal CF
 
 Jornada 37
 [Sáb. 12.5.]
@@ -337,7 +340,7 @@ Jornada 37
 
 ## 2 von 3. Aufsteiger in Primera Division 2018/19:
 ##   Rayo Vallecano or SD Huesca or Sporting Gijon
-   
+
 Jornada 38
 [Sáb. 19.5.]
    Celta Vigo                   4-2  Levante UD
@@ -351,15 +354,15 @@ Jornada 38
    FC Barcelona                 1-0  Real Sociedad San Sebastián
    Valencia CF                  2-1  Deportivo La Coruña
    Atlético Madrid              2-2  SD Eibar
-   
+
 ## 1. Aufsteiger in Primera Division 2018/19:
 ##   SD Huesca
-##   
+##
 ## 2. Aufsteiger in Primera Division 2018/19:
-##   Rayo Vallecano 
-##   
+##   Rayo Vallecano
+##
 ## Sieger 3. Aufsteiger in Primera Division 2018/19:
- 
+
 [Mié. 6.6.]
    CD Numanica        1-1 Real Zaragoza
 [Jue. 7.6.]
@@ -368,15 +371,14 @@ Jornada 38
    Real Zaragoza      1-2 CD Numanica
 [Dom. 10.6.]
    Sporting Gijon     1-2 Real Valladoid
-   
+
 [Mié. 13.6.]
   CD Numanica         0-3 Real Valladoid
 [Sáb. 16.6.]
   Real Valladoid      1-1 CD Numanica
- 
-## 3. Aufsteiger in Primera Division 2018/19:
-##  Real Valladoid 
-   
-   
-## Sommerpause bis 18.8.2ß18
 
+## 3. Aufsteiger in Primera Division 2018/19:
+##  Real Valladoid
+
+
+## Sommerpause bis 18.8.2ß18

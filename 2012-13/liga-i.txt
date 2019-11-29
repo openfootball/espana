@@ -1,7 +1,6 @@
-#################################################
-# La Liga -  Primera División de España 2012/13
+= Primera División de España 2012/13     ## La Liga
 
-
+# start_at: 2012-08-18
 # -- Primera Vuelta
 
 ## todo: cleanup/polish match dates

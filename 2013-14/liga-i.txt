@@ -1,7 +1,6 @@
-#################################################
-# La Liga -  Primera División de España 2013/14
+= Primera División de España 2013/14   ## La Liga
 
-
+# start_at: 2013-08-17
 # -- Primera Vuelta --
 
 Jornada 1
@@ -21,7 +20,7 @@ Jornada 1
 
 
 Jornada 2
- 
+
 23.08. (Vié.) Getafe CF       2-2  UD Almería
 23.08. (Vié.) Athletic Bilbao 2-0  CA Osasuna
 
@@ -38,7 +37,7 @@ Jornada 2
 
 
 Jornada 3
- 
+
 30.08. (Vié.) UD Almería      2-2  Elche CF
 30.08. (Vié.) Rayo Vallecano  1-2  Levante UD
 
@@ -54,7 +53,7 @@ Jornada 3
 
 
 Jornada 4
- 
+
 14.09. (Sáb.) Atlético Madrid       4-2  UD Almería
 14.09. (Sáb.) Levante UD            0-0  Real Sociedad
 14.09. (Sáb.) FC Barcelona          3-2  Sevilla FC
@@ -72,7 +71,7 @@ Jornada 4
 Jornada 5
 
 20.09. (Vié.) CA Osasuna            2-1  Elche CF
- 
+
 21.09. (Sáb.) Real Sociedad         0-0  Málaga CF
 21.09. (Sáb.) UD Almería            2-2  Levante UD
 21.09. (Sáb.) Rayo Vallecano        0-4  FC Barcelona
@@ -92,7 +91,7 @@ Jornada 6
 24.09. (Mar.) FC Barcelona          4-1  Real Sociedad
 24.09. (Mar.) Atlético Madrid       2-1  CA Osasuna
 24.09. (Mar.) Málaga CF             2-0  UD Almería
- 
+
 25.09. (Mié.) Granada CF            0-1  Valencia CF
 25.09. (Mié.) Elche CF              1-2  Real Madrid
 25.09. (Mié.) Sevilla FC            4-1  Rayo Vallecano
@@ -103,7 +102,7 @@ Jornada 6
 
 
 Jornada 7
- 
+
 27.09. (Vié.) Real Valladolid       2-2  Málaga CF
 
 28.09. (Sáb.) Valencia CF           1-0  Rayo Vallecano
@@ -136,7 +135,7 @@ Jornada 8
 
 
 Jornada 9
- 
+
 19.10. (Sáb.) Real Madrid           2-0  Málaga CF
 19.10. (Sáb.) Valencia CF           1-2  Real Sociedad
 19.10. (Sáb.) CA Osasuna            0-0  FC Barcelona
@@ -152,7 +151,7 @@ Jornada 9
 
 
 Jornada 10
- 
+
 25.10. (Vié.) Rayo Vallecano        0-3  Real Valladolid
 
 26.10. (Sáb.) Málaga CF             0-5  Celta Vigo
@@ -178,7 +177,7 @@ Jornada 11
 30.10. (Mié.) Valencia CF           1-2  UD Almería
 30.10. (Mié.) Real Madrid           7-3  Sevilla FC
 30.10. (Mié.) CA Osasuna            3-1  Rayo Vallecano
- 
+
 31.10. (Jue.) Villarreal CF         0-2  Getafe CF
 31.10. (Jue.) Athletic Bilbao       2-2  Elche CF
 31.10. (Jue.) Granada CF            1-2  Atlético Madrid
@@ -219,7 +218,7 @@ Jornada 13
 
 
 Jornada 14
- 
+
 22.11. (Vié.) Real Valladolid       0-1  CA Osasuna
 
 23.11. (Sáb.) FC Barcelona          4-0  Granada CF
@@ -236,7 +235,7 @@ Jornada 14
 
 
 Jornada 15
- 
+
 29.11. (Vié.) Getafe CF             1-0  Levante UD
 29.11. (Vié.) Villarreal CF         1-1  Málaga CF
 
@@ -259,7 +258,7 @@ Jornada 16
 14.12. (Sáb.) Rayo Vallecano        0-2  Granada CF
 14.12. (Sáb.) FC Barcelona          2-1  Villarreal CF
 14.12. (Sáb.) Málaga CF             1-0  Getafe CF
- 
+
 15.12. (Dom.) Atlético Madrid       3-0  Valencia CF
 15.12. (Dom.) Sevilla FC            1-1  Athletic Bilbao
 15.12. (Dom.) Real Sociedad         5-1  Betis Sevilla
@@ -317,4 +316,3 @@ Jornada 19
 12.01. (Dom.) RCD Espanyol          0-1  Real Madrid
 
 13.01. (Lun.) Villarreal CF         5-1  Real Sociedad
-

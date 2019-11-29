@@ -1,5 +1,4 @@
-#################################################
-# La Liga -  Primera División de España 2014/15
+= Primera División de España 2014/15    ## La Liga
 
 # -- Segunda Vuelta --
 
@@ -294,9 +293,9 @@ Jornada 38
 ##  Real Valladolid  1-1 UD Las Palmas
 ## Real Zaragoza    0-3 FC Girona
 ##
-## UD Las Palmas    0-0  Real Valladolid  
-## Girona FC        1-4  Real Zaragoza     
+## UD Las Palmas    0-0  Real Valladolid
+## Girona FC        1-4  Real Zaragoza
 ##
 ##
-## Real Zaragoza    3-1  UD Las Palmas     
-## UD Las Palmas    2-0 Real Zaragoza     
+## Real Zaragoza    3-1  UD Las Palmas
+## UD Las Palmas    2-0 Real Zaragoza

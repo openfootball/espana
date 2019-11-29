@@ -1,6 +1,6 @@
-#################################################
-# La Liga -  Primera División de España 2015/16
+= Primera División de España 2015/16   ## La Liga
 
+# start_at: 2015-08-21
 # -- Primera Vuelta --
 
 

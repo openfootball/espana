@@ -41,12 +41,3 @@ Official Site - [`www.lfp.es` (es)](http://www.lfp.es)
 (--)  18.º C. A. Osasuna, 19.º Real Valladolid C. F., 20º Real Betis Balompié
 
 (++)  1.º S. D. Eibar, 2.º R. C. Deportivo de La Coruña, 7.º Córdoba C. F. (*Promoción)
-
-
-
-
-## Todos
-
-- [ ] improve team name matcher
-  - sort by length first to enable greediest match of team name
-    - for example, Espanyol Barcelona instead of Barcelona
