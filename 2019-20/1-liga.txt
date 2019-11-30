@@ -226,7 +226,7 @@ Jornada 14
 
 Jornada 15
 [Vie. 29.11.]
- 18:30 Celta Vigo              - Real Valladolid
+ 18:30 Celta Vigo              0-0 Real Valladolid
 [Sab. 30.11.]
  18:30 RSociedad San Sebastian - SD Eibar
  18:30 RCD Mallorca            - Real Betis Sevilla
@@ -241,50 +241,59 @@ Jornada 15
 
 
 Jornada 16
+[Vie. 6.12.]
+ 18:30 FC Villarreal           - Atletico Madrid
+[Sab. 7.12.]
+ 18:30 UD Levante              - FC Valencia
+ 18:30 FC Granada              - Deportivo Alaves
+ 18:30 Real Madrid             - Espanyol Barcelona
+ 18:30 FC Barcelona            - RCD Mallorca
 [Dom. 8.12.]
  18:30 Real Valladolid         - RSociedad San Sebastian
  18:30 Real Betis Sevilla      - Athletic Bilbao
- 18:30 Real Madrid             - Espanyol Barcelona
- 18:30 FC Barcelona            - RCD Mallorca
- 18:30 FC Villarreal           - Atletico Madrid
  18:30 CD Leganes              - Celta Vigo
  18:30 CA Osasuna              - FC Sevilla
  18:30 SD Eibar                - FC Getafe
- 18:30 UD Levante              - FC Valencia
- 18:30 FC Granada              - Deportivo Alaves
-
+ 
 
 Jornada 17
-[Dom. 15.12.]
- 18:30 Celta Vigo              - RCD Mallorca
- 18:30 Athletic Bilbao         - SD Eibar
- 18:30 Espanyol Barcelona      - Real Betis Sevilla
+[Vie. 13.12.]
+ 18:30 Deportivo Alaves        - CD Leganes
+[Sab. 14.12.]
  18:30 Atletico Madrid         - CA Osasuna
  18:30 RSociedad San Sebastian - FC Barcelona
+ 18:30 Athletic Bilbao         - SD Eibar
+ 18:30 FC Granada              - UD Levante
+[Dom. 15.12.]
+ 18:30 Celta Vigo              - RCD Mallorca
+ 18:30 Espanyol Barcelona      - Real Betis Sevilla
  18:30 FC Valencia             - Real Madrid
- 18:30 Deportivo Alaves        - CD Leganes
  18:30 FC Sevilla              - FC Villarreal
  18:30 FC Getafe               - Real Valladolid
- 18:30 FC Granada              - UD Levante
 
 
-Jornada 10
+# Jornada 10
 [Mie. 18.12.]
  18:30 FC Barcelona            - Real Madrid
 
 
 Jornada 18
-[Dom. 22.12.]
- 18:30 Real Valladolid         - FC Valencia
- 18:30 Real Betis Sevilla      - Atletico Madrid
- 18:30 Real Madrid             - Athletic Bilbao
+[Vie. 20.12.]
+ 18:30 SD Eibar                - FC Granada
+[Sab. 21.12.]
  18:30 FC Barcelona            - Deportivo Alaves
  18:30 RCD Mallorca            - FC Sevilla
  18:30 FC Villarreal           - FC Getafe
+ 18:30 Real Valladolid         - FC Valencia
+[Dom. 22.12.]
+ 18:30 Real Betis Sevilla      - Atletico Madrid
+ 18:30 Real Madrid             - Athletic Bilbao
  18:30 CD Leganes              - Espanyol Barcelona
  18:30 CA Osasuna              - RSociedad San Sebastian
- 18:30 SD Eibar                - FC Granada
  18:30 UD Levante              - Celta Vigo
+
+
+# Winterpause incl. 3.1.20.
 
 
 Jornada 19
