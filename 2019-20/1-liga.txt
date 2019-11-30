@@ -297,32 +297,36 @@ Jornada 18
 
 
 Jornada 19
+[Vie. 3.1.]
+ 18:30 Real Valladolid         - CD Leganes
+ 18:30 FC Sevilla              - Athletic Bilbao
+[Sab. 4.1.]
+ 18:30 Espanyol Barcelona      - FC Barcelona
+ 18:30 FC Valencia             - SD Eibar
+ 18:30 Atletico Madrid         - UD Levante
+ 18:30 FC Getafe               - Real Madrid
 [Dom. 5.1.]
  18:30 Celta Vigo              - CA Osasuna
- 18:30 Espanyol Barcelona      - FC Barcelona
- 18:30 Real Valladolid         - CD Leganes
- 18:30 Atletico Madrid         - UD Levante
  18:30 RSociedad San Sebastian - FC Villarreal
- 18:30 FC Valencia             - SD Eibar
  18:30 Deportivo Alaves        - Real Betis Sevilla
- 18:30 FC Sevilla              - Athletic Bilbao
- 18:30 FC Getafe               - Real Madrid
  18:30 FC Granada              - RCD Mallorca
 
 
 Jornada 20
-[Dom. 19.1.]
- 18:30 Athletic Bilbao         - Celta Vigo
- 18:30 Real Betis Sevilla      - RSociedad San Sebastian
- 18:30 Real Madrid             - FC Sevilla
- 18:30 FC Barcelona            - FC Granada
- 18:30 RCD Mallorca            - FC Valencia
- 18:30 FC Villarreal           - Espanyol Barcelona
+[Vie. 17.1.]
  18:30 CD Leganes              - FC Getafe
+[Sab. 18.1.]
  18:30 CA Osasuna              - Real Valladolid
  18:30 SD Eibar                - Atletico Madrid
  18:30 UD Levante              - Deportivo Alaves
-
+ 18:30 Real Madrid             - FC Sevilla
+[Dom. 19.1.]
+ 18:30 Athletic Bilbao         - Celta Vigo
+ 18:30 Real Betis Sevilla      - RSociedad San Sebastian
+ 18:30 FC Barcelona            - FC Granada
+ 18:30 RCD Mallorca            - FC Valencia
+ 18:30 FC Villarreal           - Espanyol Barcelona
+ 
 
 Jornada 21
 [Dom. 26.1.]
