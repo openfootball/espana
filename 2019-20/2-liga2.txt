@@ -297,7 +297,7 @@ Jornada 17
 
 Jornada 18
 [Vie. 29.11.]
- 18:00 CD Numancia             - FC Malaga
+ 18:00 CD Numancia             0-0 FC Malaga
 [Sab. 30.11.]
  18:00 Real Saragossa          - FC Girona
  18:00 CD Teneriffa            - UD Almeria
@@ -313,48 +313,57 @@ Jornada 18
 
 
 Jornada 19
-[Dom. 8.12.]
- 18:00 Racing Santander        - CF Fuenlabrada
- 18:00 Deportivo La Coruna     - Real Saragossa
- 18:00 Sporting Gijon          - SD Ponferradina
- 18:00 UD Las Palmas           - CD Numancia
+[Vie. 6.12.]
  18:00 FC Malaga               - CD Teneriffa
  18:00 Albacete Balompie       - Extremadura UD
+ 18:00 Racing Santander        - CF Fuenlabrada
+ 18:00 AD Alcorcon             - Real Oviedo
+[Sab. 7.12.]
  18:00 UD Almeria              - CD Mirandes
+ 18:00 Sporting Gijon          - SD Ponferradina
+ 18:00 SD Huesca               - Rayo Vallecano
+[Dom. 8.12.]
+ 18:00 Deportivo La Coruna     - Real Saragossa
+ 18:00 UD Las Palmas           - CD Numancia
  18:00 FC Cadiz                - FC Elche
  18:00 FC Girona               - CD Lugo
- 18:00 AD Alcorcon             - Real Oviedo
- 18:00 SD Huesca               - Rayo Vallecano
-
+ 
 
 Jornada 20
-[Dom. 15.12.]
- 18:00 Real Oviedo             - FC Cadiz
+[Vie. 13.12.]
+ 18:00 CD Numancia             - FC Girona
+[Sab. 14.12.]
  18:00 Real Saragossa          - Racing Santander
  18:00 CD Teneriffa            - AD Alcorcon
- 18:00 Rayo Vallecano          - Albacete Balompie
- 18:00 CD Numancia             - FC Girona
- 18:00 FC Elche                - UD Las Palmas
  18:00 SD Ponferradina         - Deportivo La Coruna
  18:00 CD Mirandes             - SD Huesca
+[Dom. 15.12.]
+ 18:00 Real Oviedo             - FC Cadiz
+ 18:00 Rayo Vallecano          - Albacete Balompie
+ 18:00 FC Elche                - UD Las Palmas
  18:00 CD Lugo                 - Sporting Gijon
  18:00 CF Fuenlabrada          - UD Almeria
  18:00 Extremadura UD          - FC Malaga
 
 
 Jornada 21
-[Dom. 22.12.]
- 18:00 Racing Santander        - Real Oviedo
+[Vie. 20.12.]
  18:00 Deportivo La Coruna     - CD Teneriffa
+[Sab. 21.12.]
+ 18:00 Racing Santander        - Real Oviedo
+ 18:00 FC Cadiz                - CD Numancia
  18:00 Sporting Gijon          - Extremadura UD
  18:00 UD Las Palmas           - Rayo Vallecano
  18:00 FC Malaga               - CD Lugo
  18:00 Albacete Balompie       - FC Elche
+[Dom. 22.12.]
  18:00 UD Almeria              - SD Ponferradina
- 18:00 FC Cadiz                - CD Numancia
  18:00 FC Girona               - CD Mirandes
  18:00 AD Alcorcon             - CF Fuenlabrada
  18:00 SD Huesca               - Real Saragossa
+
+
+# Winterpause incl. 3.1.20.
 
 
 Jornada 22
