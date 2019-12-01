@@ -2,7 +2,7 @@
 [1/15] >2012-13/liga-i.txt<
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2012/13<
-      32 clubs:
+      20 clubs:
         Athletic x19
         Atlético x19
         Barcelona x19
@@ -23,22 +23,30 @@
         Valencia x19
         Valladolid x19
         Zaragoza x19
-        // Sáb. 27 y Dom. 28 Octubre
-        // Sáb. 3 y Dom. 4 Noviembre
-        Jornada 10
-        Jornada 16 //
-        Jornada 19 //
-        Jornada 3 //
-        Jornada 8 //
-        Jornada 9
-        Sáb. 1 y Dom. 2 Septiembre
-        Sáb. 12 y Dom. 13 Enero
-        Sáb. 15 y Dom. 16 Diciembre
-        Sáb. 20 y Dom. 21 Octubre
+      19 rounds:
+        Jornada 1 // Sáb. 18 y Dom. 19 Agosto, 10 matches
+        Jornada 2 // Sáb. 25 y Dom. 26 Agosto, 10 matches
+        Jornada 3 //  Sáb. 1 y Dom. 2 Septiembre, 10 matches
+        Jornada 4  //  Sáb. 15 y Dom. 16 Septiembre, 10 matches
+        Jornada 5  //  Sáb. 22 y Dom. 23 Septiembre, 10 matches
+        Jornada 6  //  Sáb. 29 y Lun. 1 Octubre, 10 matches
+        Jornada 7  //  Sáb. 6 y Dom. 7 Octubre, 10 matches
+        Jornada 8 //  Sáb. 20 y Dom. 21 Octubre, 10 matches
+        Jornada 9  // Sáb. 27 y Dom. 28 Octubre, 10 matches
+        Jornada 10  // Sáb. 3 y Dom. 4 Noviembre, 10 matches
+        Jornada 11  //  Sáb. 10 y Dom. 11 Noviembre, 10 matches
+        Jornada 12  //  Sáb. 17 y Dom. 18 Noviembre, 10 matches
+        Jornada 13  //  Sáb. 24 y Dom. 25 Noviembre, 10 matches
+        Jornada 14  //  Sáb. 1 y Dom. 2 Diciembre, 10 matches
+        Jornada 15  //  Sáb. 8 y Dom. 9 Diciembre, 10 matches
+        Jornada 16 //  Sáb. 15 y Dom. 16 Diciembre, 10 matches
+        Jornada 17  //  Vie. 21 y Sáb. 22 Diciembre, 10 matches
+        Jornada 18  //  Sáb. 5 y Dom. 6 Enero, 10 matches
+        Jornada 19 //  Sáb. 12 y Dom. 13 Enero, 10 matches
 [2/15] >2012-13/liga-ii.txt<
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2012/13<
-      44 clubs:
+      20 clubs:
         Athletic x19
         Atlético x19
         Barcelona x19
@@ -59,30 +67,26 @@
         Valencia x19
         Valladolid x19
         Zaragoza x19
-        // Sáb. 2 y Dom. 3 Marzo
-        // Sáb. 26 y Dom. 27 Enero
-        Jornada 21
-        Jornada 24 //
-        Jornada 25 //
-        Jornada 26
-        Jornada 27 //
-        Jornada 28 //
-        Jornada 29 //
-        Jornada 30 //
-        Jornada 31 //
-        Jornada 32 //
-        Jornada 33 //
-        Jornada 35 //
-        Sáb. 11 y Dom. 12 Mayo
-        Sáb. 13 y Dom. 14 Abril
-        Sáb. 16 y Dom. 17 Febrero
-        Sáb. 16 y Dom. 17 Marzo
-        Sáb. 20 y Dom. 21 Abril
-        Sáb. 23 y Dom. 24 Febrero
-        Sáb. 27 y Dom. 28 Abril
-        Sáb. 30 y Dom. 31 Marzo
-        Sáb. 6 y Dom. 7 Abril
-        Sáb. 9 y Dom. 10 Marzo
+      19 rounds:
+        Jornada 20  //  Sáb. 19 y Dom. 20 Enero, 10 matches
+        Jornada 21  // Sáb. 26 y Dom. 27 Enero, 10 matches
+        Jornada 22  //  Sáb. 2 y Dom. 3 Febrero, 10 matches
+        Jornada 23  //  Sáb. 9 y Dom. 10 Febrero, 10 matches
+        Jornada 24 //  Sáb. 16 y Dom. 17 Febrero, 10 matches
+        Jornada 25 //  Sáb. 23 y Dom. 24 Febrero, 10 matches
+        Jornada 26  // Sáb. 2 y Dom. 3 Marzo, 10 matches
+        Jornada 27 //  Sáb. 9 y Dom. 10 Marzo, 10 matches
+        Jornada 28 //  Sáb. 16 y Dom. 17 Marzo, 10 matches
+        Jornada 29 //  Sáb. 30 y Dom. 31 Marzo, 10 matches
+        Jornada 30 //  Sáb. 6 y Dom. 7 Abril, 10 matches
+        Jornada 31 //  Sáb. 13 y Dom. 14 Abril, 10 matches
+        Jornada 32 //  Sáb. 20 y Dom. 21 Abril, 10 matches
+        Jornada 33 //  Sáb. 27 y Dom. 28 Abril, 10 matches
+        Jornada 34 // Sáb. 4 y Dom. 5 Mayo, 10 matches
+        Jornada 35 //  Sáb. 11 y Dom. 12 Mayo, 10 matches
+        Jornada 36 // Sáb. 18 y Dom. 19 Mayo, 10 matches
+        Jornada 37 // Mar. 28 y Mier. 29 Mayo, 10 matches
+        Jornada 38 // Sáb. 1 Junio, 10 matches
 [3/15] >2013-14/liga-i.txt<
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2013/14<
@@ -107,6 +111,26 @@
         UD Almería x19
         Valencia CF x19
         Villarreal CF x19
+      19 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 10 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
+        Jornada 17, 10 matches
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
 [4/15] >2013-14/liga-ii.txt<
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2013/14<
@@ -131,6 +155,26 @@
         UD Almería x19
         Valencia CF x19
         Villarreal CF x19
+      19 rounds:
+        Jornada 20, 10 matches
+        Jornada 21, 10 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 24, 10 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 10 matches
+        Jornada 37, 10 matches
+        Jornada 38, 10 matches
 [5/15] >2014-15/liga-i.txt<
   1 section(s):
     243 lines - league: >Primera División< (es.1), season: >2014/15<
@@ -155,6 +199,26 @@
         UD Almería x19
         Valencia CF x19
         Villarreal CF x19
+      19 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 10 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
+        Jornada 17, 10 matches
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
 [6/15] >2014-15/liga-ii.txt<
   1 section(s):
     228 lines - league: >Primera División< (es.1), season: >2014/15<
@@ -179,6 +243,26 @@
         UD Almería x19
         Valencia CF x19
         Villarreal CF x19
+      19 rounds:
+        Jornada 20, 10 matches
+        Jornada 21, 10 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 24, 10 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 10 matches
+        Jornada 37, 10 matches
+        Jornada 38, 10 matches
 [7/15] >2015-16/liga-i.txt<
   1 section(s):
     242 lines - league: >Primera División< (es.1), season: >2015/16<
@@ -203,6 +287,26 @@
         UD Las Palmas x19
         Valencia CF x19
         Villarreal CF x19
+      19 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 10 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
+        Jornada 17, 10 matches
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
 [8/15] >2015-16/liga-ii.txt<
   1 section(s):
     228 lines - league: >Primera División< (es.1), season: >2015/16<
@@ -228,6 +332,26 @@
         Valencia CF x19
         Villarreal CF x18
         Villarreal C
+      19 rounds:
+        Jornada 20, 10 matches
+        Jornada 21, 10 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 24, 10 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 10 matches
+        Jornada 37, 10 matches
+        Jornada 38, 10 matches
 [9/15] >2016-17/liga-i.txt<
   1 section(s):
     212 lines - league: >Primera División< (es.1), season: >2016/17<
@@ -252,6 +376,23 @@
         UD Las Palmas x16
         Valencia CF x16
         Villarreal CF x16
+      16 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 10 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
 [10/15] >2016-17/liga-ii.txt<
   1 section(s):
     273 lines - league: >Primera División< (es.1), season: >2016/17<
@@ -277,6 +418,30 @@
         UD Las Palmas x22
         Villarreal CF x22
         Deportivo La Coruna
+      23 rounds:
+        Jornada 17, 10 matches
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
+        Jornada 20, 10 matches
+        Jornada 21 x3, 12 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 16, 1 matches
+        Jornada 24, 10 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 10 matches
+        Jornada 37, 10 matches
+        Jornada 38, 10 matches
 [11/15] >2017-18/liga-i.txt<
   1 section(s):
     249 lines - league: >Primera División< (es.1), season: >2017/18<
@@ -301,6 +466,24 @@
         UD Las Palmas x17
         Valencia CF x17
         Villarreal CF x17
+      17 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 10 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
+        Jornada 17, 10 matches
 [12/15] >2017-18/liga-ii.txt<
   1 section(s):
     322 lines - league: >Primera División< (es.1), season: >2017/18<
@@ -333,6 +516,28 @@
         Eibar
         Levante
         SD CD Alavés
+      21 rounds:
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
+        Jornada 20, 10 matches
+        Jornada 21, 10 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 24, 11 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 12 matches
+        Jornada 37, 10 matches
+        Jornada 38, 16 matches
 [13/15] >2018-19/1-liga.txt<
   1 section(s):
     550 lines - league: >Primera División< (es.1), season: >2018/19<
@@ -357,6 +562,45 @@
         Sevilla FC x38
         Valencia CF x38
         Villarreal CF x38
+      38 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 11 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
+        Jornada 17, 10 matches
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
+        Jornada 20, 10 matches
+        Jornada 21, 10 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 24, 10 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 10 matches
+        Jornada 37, 10 matches
+        Jornada 38, 10 matches
 [14/15] >2019-20/1-liga.txt<
   1 section(s):
     497 lines - league: >Primera División< (es.1), season: >2019/20<
@@ -382,6 +626,45 @@
         UD Levante x38
         RSociedad San Sebastian x37
         Real Sociedad San Sebastian
+      38 rounds:
+        Jornada 1, 10 matches
+        Jornada 2, 10 matches
+        Jornada 3, 10 matches
+        Jornada 4, 10 matches
+        Jornada 5, 10 matches
+        Jornada 6, 10 matches
+        Jornada 7, 10 matches
+        Jornada 8, 10 matches
+        Jornada 9, 10 matches
+        Jornada 10, 10 matches
+        Jornada 11, 10 matches
+        Jornada 12, 10 matches
+        Jornada 13, 10 matches
+        Jornada 14, 10 matches
+        Jornada 15, 10 matches
+        Jornada 16, 10 matches
+        Jornada 17, 11 matches
+        Jornada 18, 10 matches
+        Jornada 19, 10 matches
+        Jornada 20, 10 matches
+        Jornada 21, 10 matches
+        Jornada 22, 10 matches
+        Jornada 23, 10 matches
+        Jornada 24, 10 matches
+        Jornada 25, 10 matches
+        Jornada 26, 10 matches
+        Jornada 27, 10 matches
+        Jornada 28, 10 matches
+        Jornada 29, 10 matches
+        Jornada 30, 10 matches
+        Jornada 31, 10 matches
+        Jornada 32, 10 matches
+        Jornada 33, 10 matches
+        Jornada 34, 10 matches
+        Jornada 35, 10 matches
+        Jornada 36, 10 matches
+        Jornada 37, 10 matches
+        Jornada 38, 10 matches
 [15/15] >2019-20/2-liga2.txt<
   1 section(s):
     595 lines - league: >Segunda División< (es.2), season: >2019/20<
@@ -408,3 +691,46 @@
         Sporting Gijon x42
         UD Almeria x42
         UD Las Palmas x42
+      42 rounds:
+        Jornada 1, 11 matches
+        Jornada 2, 11 matches
+        Jornada 3, 11 matches
+        Jornada 4, 11 matches
+        Jornada 5, 11 matches
+        Jornada 6 x2, 12 matches
+        Jornada 7, 11 matches
+        Jornada 8, 11 matches
+        Jornada 9, 11 matches
+        Jornada 10, 11 matches
+        Jornada 11, 11 matches
+        Jornada 12, 11 matches
+        Jornada 13, 11 matches
+        Jornada 14, 11 matches
+        Jornada 15, 11 matches
+        Jornada 16, 11 matches
+        Jornada 17, 11 matches
+        Jornada 18, 11 matches
+        Jornada 19, 11 matches
+        Jornada 20, 11 matches
+        Jornada 21, 11 matches
+        Jornada 22, 11 matches
+        Jornada 23, 11 matches
+        Jornada 24, 11 matches
+        Jornada 25, 11 matches
+        Jornada 26, 11 matches
+        Jornada 27, 11 matches
+        Jornada 28, 11 matches
+        Jornada 29, 11 matches
+        Jornada 30, 11 matches
+        Jornada 31, 11 matches
+        Jornada 32, 11 matches
+        Jornada 33, 11 matches
+        Jornada 34, 11 matches
+        Jornada 35, 11 matches
+        Jornada 36, 11 matches
+        Jornada 37, 11 matches
+        Jornada 38, 11 matches
+        Jornada 39, 11 matches
+        Jornada 40, 11 matches
+        Jornada 41, 11 matches
+        Jornada 42, 11 matches
