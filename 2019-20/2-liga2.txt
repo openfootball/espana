@@ -299,11 +299,11 @@ Jornada 18
 [Vie. 29.11.]
  18:00 CD Numancia             0-0 FC Malaga
 [Sab. 30.11.]
- 18:00 Real Saragossa          - FC Girona
- 18:00 CD Teneriffa            - UD Almeria
- 18:00 SD Ponferradina         - Albacete Balompie
- 18:00 CD Mirandes             - Sporting Gijon
- 18:00 AD Alcorcon             - SD Huesca
+ 18:00 Real Saragossa          3-3 FC Girona
+ 18:00 CD Teneriffa            1-3 UD Almeria
+ 18:00 SD Ponferradina         1-1 Albacete Balompie
+ 18:00 CD Mirandes             0-0 Sporting Gijon
+ 18:00 AD Alcorcon             0-2 SD Huesca
 [Dom. 1.12.]
  18:00 Real Oviedo             - Rayo Vallecano
  18:00 FC Elche                - Racing Santander
