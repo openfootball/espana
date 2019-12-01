@@ -1,0 +1,410 @@
+15 datafiles:
+[1/15] >2012-13/liga-i.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2012/13<
+      32 clubs:
+        Athletic x19
+        Atlético x19
+        Barcelona x19
+        Betis x19
+        Celta x19
+        Deportivo x19
+        Espanyol x19
+        Getafe x19
+        Granada x19
+        Levante x19
+        Mallorca x19
+        Málaga x19
+        Osasuna x19
+        R. Madrid x19
+        R. Sociedad x19
+        Rayo x19
+        Sevilla x19
+        Valencia x19
+        Valladolid x19
+        Zaragoza x19
+        // Sáb. 27 y Dom. 28 Octubre
+        // Sáb. 3 y Dom. 4 Noviembre
+        Jornada 10
+        Jornada 16 //
+        Jornada 19 //
+        Jornada 3 //
+        Jornada 8 //
+        Jornada 9
+        Sáb. 1 y Dom. 2 Septiembre
+        Sáb. 12 y Dom. 13 Enero
+        Sáb. 15 y Dom. 16 Diciembre
+        Sáb. 20 y Dom. 21 Octubre
+[2/15] >2012-13/liga-ii.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2012/13<
+      44 clubs:
+        Athletic x19
+        Atlético x19
+        Barcelona x19
+        Betis x19
+        Celta x19
+        Deportivo x19
+        Espanyol x19
+        Getafe x19
+        Granada x19
+        Levante x19
+        Mallorca x19
+        Málaga x19
+        Osasuna x19
+        R. Madrid x19
+        R. Sociedad x19
+        Rayo x19
+        Sevilla x19
+        Valencia x19
+        Valladolid x19
+        Zaragoza x19
+        // Sáb. 2 y Dom. 3 Marzo
+        // Sáb. 26 y Dom. 27 Enero
+        Jornada 21
+        Jornada 24 //
+        Jornada 25 //
+        Jornada 26
+        Jornada 27 //
+        Jornada 28 //
+        Jornada 29 //
+        Jornada 30 //
+        Jornada 31 //
+        Jornada 32 //
+        Jornada 33 //
+        Jornada 35 //
+        Sáb. 11 y Dom. 12 Mayo
+        Sáb. 13 y Dom. 14 Abril
+        Sáb. 16 y Dom. 17 Febrero
+        Sáb. 16 y Dom. 17 Marzo
+        Sáb. 20 y Dom. 21 Abril
+        Sáb. 23 y Dom. 24 Febrero
+        Sáb. 27 y Dom. 28 Abril
+        Sáb. 30 y Dom. 31 Marzo
+        Sáb. 6 y Dom. 7 Abril
+        Sáb. 9 y Dom. 10 Marzo
+[3/15] >2013-14/liga-i.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2013/14<
+      20 clubs:
+        Athletic Bilbao x19
+        Atlético Madrid x19
+        Betis Sevilla x19
+        CA Osasuna x19
+        Celta Vigo x19
+        Elche CF x19
+        FC Barcelona x19
+        Getafe CF x19
+        Granada CF x19
+        Levante UD x19
+        Málaga CF x19
+        RCD Espanyol x19
+        Rayo Vallecano x19
+        Real Madrid x19
+        Real Sociedad x19
+        Real Valladolid x19
+        Sevilla FC x19
+        UD Almería x19
+        Valencia CF x19
+        Villarreal CF x19
+[4/15] >2013-14/liga-ii.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2013/14<
+      20 clubs:
+        Athletic Bilbao x19
+        Atlético Madrid x19
+        Betis Sevilla x19
+        CA Osasuna x19
+        Celta Vigo x19
+        Elche CF x19
+        Espanyol x19
+        FC Barcelona x19
+        Getafe CF x19
+        Granada CF x19
+        Levante UD x19
+        Málaga CF x19
+        Rayo Vallecano x19
+        Real Madrid x19
+        Real Sociedad San Sebastian x19
+        Real Valladolid x19
+        Sevilla FC x19
+        UD Almería x19
+        Valencia CF x19
+        Villarreal CF x19
+[5/15] >2014-15/liga-i.txt<
+  1 section(s):
+    243 lines - league: >Primera División< (es.1), season: >2014/15<
+      20 clubs:
+        Athletic Bilbao x19
+        Atlético Madrid x19
+        Celta Vigo x19
+        Córdoba CF x19
+        Deportivo La Coruña x19
+        Elche CF x19
+        FC Barcelona x19
+        Getafe CF x19
+        Granada CF x19
+        Levante UD x19
+        Málaga CF x19
+        RCD Espanyol x19
+        Rayo Vallecano x19
+        Real Madrid x19
+        Real Sociedad x19
+        SD Eibar x19
+        Sevilla FC x19
+        UD Almería x19
+        Valencia CF x19
+        Villarreal CF x19
+[6/15] >2014-15/liga-ii.txt<
+  1 section(s):
+    228 lines - league: >Primera División< (es.1), season: >2014/15<
+      20 clubs:
+        Athletic Bilbao x19
+        Atlético Madrid x19
+        Celta Vigo x19
+        Córdoba CF x19
+        Deportivo La Coruña x19
+        Elche CF x19
+        FC Barcelona x19
+        Getafe CF x19
+        Granada CF x19
+        Levante UD x19
+        Málaga CF x19
+        RCD Espanyol x19
+        Rayo Vallecano x19
+        Real Madrid x19
+        Real Sociedad x19
+        SD Eibar x19
+        Sevilla FC x19
+        UD Almería x19
+        Valencia CF x19
+        Villarreal CF x19
+[7/15] >2015-16/liga-i.txt<
+  1 section(s):
+    242 lines - league: >Primera División< (es.1), season: >2015/16<
+      20 clubs:
+        Athletic Bilbao x19
+        Atlético Madrid x19
+        Betis Sevilla x19
+        Celta Vigo x19
+        Deportivo La Coruña x19
+        Espanyol Barcelona x19
+        FC Barcelona x19
+        Getafe CF x19
+        Granada CF x19
+        Levante UD x19
+        Málaga CF x19
+        Rayo Vallecano x19
+        Real Madrid x19
+        Real Sociedad San Sebastián x19
+        SD Eibar x19
+        Sevilla FC x19
+        Sporting Gijón x19
+        UD Las Palmas x19
+        Valencia CF x19
+        Villarreal CF x19
+[8/15] >2015-16/liga-ii.txt<
+  1 section(s):
+    228 lines - league: >Primera División< (es.1), season: >2015/16<
+      21 clubs:
+        Athletic Bilbao x19
+        Atlético Madrid x19
+        Betis Sevilla x19
+        Celta Vigo x19
+        Deportivo La Coruña x19
+        Espanyol Barcelona x19
+        FC Barcelona x19
+        Getafe CF x19
+        Granada CF x19
+        Levante UD x19
+        Málaga CF x19
+        Rayo Vallecano x19
+        Real Madrid x19
+        Real Sociedad San Sebastián x19
+        SD Eibar x19
+        Sevilla FC x19
+        Sporting Gijón x19
+        UD Las Palmas x19
+        Valencia CF x19
+        Villarreal CF x18
+        Villarreal C
+[9/15] >2016-17/liga-i.txt<
+  1 section(s):
+    212 lines - league: >Primera División< (es.1), season: >2016/17<
+      20 clubs:
+        Athletic Bilbao x16
+        Atlético Madrid x16
+        Betis Sevilla x16
+        CA Osasuna x16
+        CD Alavés x16
+        CD Leganés x16
+        Celta Vigo x16
+        Deportivo La Coruña x16
+        Espanyol Barcelona x16
+        FC Barcelona x16
+        Granada CF x16
+        Málaga CF x16
+        Real Madrid x16
+        Real Sociedad San Sebastián x16
+        SD Eibar x16
+        Sevilla FC x16
+        Sporting Gijón x16
+        UD Las Palmas x16
+        Valencia CF x16
+        Villarreal CF x16
+[10/15] >2016-17/liga-ii.txt<
+  1 section(s):
+    273 lines - league: >Primera División< (es.1), season: >2016/17<
+      21 clubs:
+        Real Madrid x24
+        Betis Sevilla x23
+        Celta Vigo x23
+        Valencia CF x23
+        Athletic Bilbao x22
+        Atlético Madrid x22
+        CA Osasuna x22
+        CD Alavés x22
+        CD Leganés x22
+        Deportivo La Coruña x22
+        Espanyol Barcelona x22
+        FC Barcelona x22
+        Granada CF x22
+        Málaga CF x22
+        Real Sociedad San Sebastián x22
+        SD Eibar x22
+        Sevilla FC x22
+        Sporting Gijón x22
+        UD Las Palmas x22
+        Villarreal CF x22
+        Deportivo La Coruna
+[11/15] >2017-18/liga-i.txt<
+  1 section(s):
+    249 lines - league: >Primera División< (es.1), season: >2017/18<
+      20 clubs:
+        Athletic Bilbao x17
+        Atlético Madrid x17
+        Betis Sevilla x17
+        CD Alavés x17
+        CD Leganés x17
+        Celta Vigo x17
+        Deportivo La Coruña x17
+        Espanyol Barcelona x17
+        FC Barcelona x17
+        Getafe CF x17
+        Girona FC x17
+        Levante UD x17
+        Málaga CF x17
+        Real Madrid x17
+        Real Sociedad San Sebastián x17
+        SD Eibar x17
+        Sevilla FC x17
+        UD Las Palmas x17
+        Valencia CF x17
+        Villarreal CF x17
+[12/15] >2017-18/liga-ii.txt<
+  1 section(s):
+    322 lines - league: >Primera División< (es.1), season: >2017/18<
+      28 clubs:
+        Real Madrid x23
+        FC Barcelona x22
+        Sevilla FC x22
+        Villarreal CF x22
+        Athletic Bilbao x21
+        Atlético Madrid x21
+        Betis Sevilla x21
+        CD Leganés x21
+        Celta Vigo x21
+        Deportivo La Coruña x21
+        Espanyol Barcelona x21
+        Getafe CF x21
+        Girona FC x21
+        Málaga CF x21
+        Real Sociedad San Sebastián x21
+        UD Las Palmas x21
+        Valencia CF x21
+        CD Alavés x20
+        Levante UD x20
+        SD Eibar x20
+        CD Numanica x4
+        Real Valladoid x4
+        Real Zaragoza x2
+        Sporting Gijon x2
+        CD Leganes
+        Eibar
+        Levante
+        SD CD Alavés
+[13/15] >2018-19/1-liga.txt<
+  1 section(s):
+    550 lines - league: >Primera División< (es.1), season: >2018/19<
+      20 clubs:
+        Athletic Bilbao x39
+        Rayo Vallecano x39
+        Atlético Madrid x38
+        Betis Sevilla x38
+        CD Alavés x38
+        CD Leganés x38
+        Celta Vigo x38
+        Espanyol Barcelona x38
+        FC Barcelona x38
+        Getafe CF x38
+        Girona FC x38
+        Levante UD x38
+        Real Madrid x38
+        Real Sociedad San Sebastian x38
+        Real Valladolid x38
+        SD Eibar x38
+        SD Huesca x38
+        Sevilla FC x38
+        Valencia CF x38
+        Villarreal CF x38
+[14/15] >2019-20/1-liga.txt<
+  1 section(s):
+    497 lines - league: >Primera División< (es.1), season: >2019/20<
+      21 clubs:
+        FC Barcelona x39
+        Real Madrid x39
+        Athletic Bilbao x38
+        Atletico Madrid x38
+        CA Osasuna x38
+        CD Leganes x38
+        Celta Vigo x38
+        Deportivo Alaves x38
+        Espanyol Barcelona x38
+        FC Getafe x38
+        FC Granada x38
+        FC Sevilla x38
+        FC Valencia x38
+        FC Villarreal x38
+        RCD Mallorca x38
+        Real Betis Sevilla x38
+        Real Valladolid x38
+        SD Eibar x38
+        UD Levante x38
+        RSociedad San Sebastian x37
+        Real Sociedad San Sebastian
+[15/15] >2019-20/2-liga2.txt<
+  1 section(s):
+    595 lines - league: >Segunda División< (es.2), season: >2019/20<
+      22 clubs:
+        CF Fuenlabrada x43
+        Real Saragossa x43
+        AD Alcorcon x42
+        Albacete Balompie x42
+        CD Lugo x42
+        CD Mirandes x42
+        CD Numancia x42
+        CD Teneriffa x42
+        Deportivo La Coruna x42
+        Extremadura UD x42
+        FC Cadiz x42
+        FC Elche x42
+        FC Girona x42
+        FC Malaga x42
+        Racing Santander x42
+        Rayo Vallecano x42
+        Real Oviedo x42
+        SD Huesca x42
+        SD Ponferradina x42
+        Sporting Gijon x42
+        UD Almeria x42
+        UD Las Palmas x42
