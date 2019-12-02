@@ -233,11 +233,11 @@ Jornada 15
  18:30 FC Valencia             2-1 FC Villarreal
  18:30 Deportivo Alaves        1-2 Real Madrid
 [Dom. 1.12.]
- 18:30 Athletic Bilbao         - FC Granada
- 18:30 Espanyol Barcelona      - CA Osasuna
- 18:30 Atletico Madrid         - FC Barcelona
- 18:30 FC Sevilla              - CD Leganes
- 18:30 FC Getafe               - UD Levante
+ 18:30 Athletic Bilbao         2-0 FC Granada
+ 18:30 Espanyol Barcelona      2-4 CA Osasuna
+ 18:30 Atletico Madrid         0-1 FC Barcelona
+ 18:30 FC Sevilla              1-0 CD Leganes
+ 18:30 FC Getafe               4-0 UD Levante
 
 
 Jornada 16
