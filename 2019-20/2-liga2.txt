@@ -305,11 +305,11 @@ Jornada 18
  18:00 CD Mirandes             0-0 Sporting Gijon
  18:00 AD Alcorcon             0-2 SD Huesca
 [Dom. 1.12.]
- 18:00 Real Oviedo             - Rayo Vallecano
- 18:00 FC Elche                - Racing Santander
- 18:00 CD Lugo                 - Deportivo La Coruna
- 18:00 CF Fuenlabrada          - FC Cadiz
- 18:00 Extremadura UD          - UD Las Palmas
+ 18:00 Real Oviedo             2-1 Rayo Vallecano
+ 18:00 FC Elche                2-0 Racing Santander
+ 18:00 CD Lugo                 0-0 Deportivo La Coruna
+ 18:00 CF Fuenlabrada          1-0 FC Cadiz
+ 18:00 Extremadura UD          0-1 UD Las Palmas
 
 
 Jornada 19
