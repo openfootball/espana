@@ -249,11 +249,11 @@ Jornada 16
  18:30 Real Madrid             2-0 Espanyol Barcelona
  18:30 FC Barcelona            5-2 RCD Mallorca
 [Dom. 8.12.]
- 18:30 Real Valladolid         - RSociedad San Sebastian
- 18:30 Real Betis Sevilla      - Athletic Bilbao
- 18:30 CD Leganes              - Celta Vigo
- 18:30 CA Osasuna              - FC Sevilla
- 18:30 SD Eibar                - FC Getafe
+ 18:30 Real Valladolid         0-0 RSociedad San Sebastian
+ 18:30 Real Betis Sevilla      3-2 Athletic Bilbao
+ 18:30 CD Leganes              3-2 Celta Vigo
+ 18:30 CA Osasuna              1-1 FC Sevilla
+ 18:30 SD Eibar                0-1 FC Getafe
  
 
 Jornada 17
