@@ -418,6 +418,8 @@
         UD Las Palmas x22 => UD Las Palmas
         Villarreal CF x22 => Villarreal CF
         Deportivo La Coruna => RCD La Coruña
+!! ERROR: 1 duplicate club record(s) found
+
       23 rounds:
         Jornada 17, 10 matches
         Jornada 18, 10 matches
@@ -516,6 +518,8 @@
         Eibar => SD Eibar
         Levante => Levante UD
      !! SD CD Alavés
+!! ERROR: 3 duplicate club record(s) found
+
       21 rounds:
         Jornada 18, 10 matches
         Jornada 19, 10 matches
@@ -626,6 +630,8 @@
         UD Levante x38 => Levante UD
         RSociedad San Sebastian x37 => Real Sociedad
         Real Sociedad San Sebastian => Real Sociedad
+!! ERROR: 1 duplicate club record(s) found
+
       38 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
