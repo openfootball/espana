@@ -333,10 +333,9 @@ Jornada 20
 [Vie. 13.12.]
  18:00 CD Numancia             2-0 FC Girona
 [Sab. 14.12.]
- 18:00 Real Saragossa          - Racing Santander
- 18:00 CD Teneriffa            - AD Alcorcon
- 18:00 SD Ponferradina         - Deportivo La Coruna
- 18:00 CD Mirandes             - SD Huesca
+ 18:00 Real Saragossa          2-0 Racing Santander
+ 18:00 CD Teneriffa            0-0 AD Alcorcon
+ 18:00 CD Mirandes             2-0 SD Huesca
 [Dom. 15.12.]
  18:00 Real Oviedo             - FC Cadiz
  18:00 Rayo Vallecano          - Albacete Balompie
@@ -344,6 +343,7 @@ Jornada 20
  18:00 CD Lugo                 - Sporting Gijon
  18:00 CF Fuenlabrada          - UD Almeria
  18:00 Extremadura UD          - FC Malaga
+ 18:00 SD Ponferradina         - Deportivo La Coruna
 
 
 Jornada 21
