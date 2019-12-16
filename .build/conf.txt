@@ -310,7 +310,7 @@
 [8/15] >2015-16/liga-ii.txt<
   1 section(s):
     228 lines - league: >Primera División< (es.1), season: >2015/16<
-      21 clubs:
+      20 clubs:
         Athletic Bilbao x19 => Athletic Club Bilbao
         Atlético Madrid x19 => Atlético Madrid
         Betis Sevilla x19 => Real Betis
@@ -330,8 +330,7 @@
         Sporting Gijón x19 => Sporting Gijón
         UD Las Palmas x19 => UD Las Palmas
         Valencia CF x19 => Valencia CF
-        Villarreal CF x18 => Villarreal CF
-     !! Villarreal C
+        Villarreal CF x19 => Villarreal CF
       19 rounds:
         Jornada 20, 10 matches
         Jornada 21, 10 matches
@@ -396,17 +395,17 @@
 [10/15] >2016-17/liga-ii.txt<
   1 section(s):
     273 lines - league: >Primera División< (es.1), season: >2016/17<
-      21 clubs:
+      20 clubs:
         Real Madrid x24 => Real Madrid
         Betis Sevilla x23 => Real Betis
         Celta Vigo x23 => RC Celta Vigo
+        Deportivo La Coruña x23 => RCD La Coruña
         Valencia CF x23 => Valencia CF
         Athletic Bilbao x22 => Athletic Club Bilbao
         Atlético Madrid x22 => Atlético Madrid
         CA Osasuna x22 => CA Osasuna
         CD Alavés x22 => Deportivo Alavés
         CD Leganés x22 => CD Leganés
-        Deportivo La Coruña x22 => RCD La Coruña
         Espanyol Barcelona x22 => RCD Espanyol
         FC Barcelona x22 => FC Barcelona
         Granada CF x22 => Granada CF
@@ -417,9 +416,6 @@
         Sporting Gijón x22 => Sporting Gijón
         UD Las Palmas x22 => UD Las Palmas
         Villarreal CF x22 => Villarreal CF
-        Deportivo La Coruna => RCD La Coruña
-!! ERROR: 1 duplicate club record(s) found
-
       23 rounds:
         Jornada 17, 10 matches
         Jornada 18, 10 matches
@@ -488,8 +484,8 @@
         Jornada 17, 10 matches
 [12/15] >2017-18/liga-ii.txt<
   1 section(s):
-    322 lines - league: >Primera División< (es.1), season: >2017/18<
-      28 clubs:
+    310 lines - league: >Primera División< (es.1), season: >2017/18<
+      24 clubs:
         Real Madrid x23 => Real Madrid
         FC Barcelona x22 => FC Barcelona
         Sevilla FC x22 => Sevilla FC
@@ -510,10 +506,6 @@
         CD Alavés x20 => Deportivo Alavés
         Levante UD x20 => Levante UD
         SD Eibar x20 => SD Eibar
-     !! CD Numanica x4
-     !! Real Valladoid x4
-        Real Zaragoza x2 => Real Zaragoza
-        Sporting Gijon x2 => Sporting Gijón
         CD Leganes => CD Leganés
         Eibar => SD Eibar
         Levante => Levante UD
@@ -541,7 +533,7 @@
         Jornada 35, 10 matches
         Jornada 36, 12 matches
         Jornada 37, 10 matches
-        Jornada 38, 16 matches
+        Jornada 38, 10 matches
 [13/15] >2018-19/1-liga.txt<
   1 section(s):
     550 lines - league: >Primera División< (es.1), season: >2018/19<
@@ -608,7 +600,7 @@
 [14/15] >2019-20/1-liga.txt<
   1 section(s):
     497 lines - league: >Primera División< (es.1), season: >2019/20<
-      21 clubs:
+      20 clubs:
         FC Barcelona x39 => FC Barcelona
         Real Madrid x39 => Real Madrid
         Athletic Bilbao x38 => Athletic Club Bilbao
@@ -625,13 +617,10 @@
         FC Villarreal x38 => Villarreal CF
         RCD Mallorca x38 => RCD Mallorca
         Real Betis Sevilla x38 => Real Betis
+        Real Sociedad x38 => Real Sociedad
         Real Valladolid x38 => Real Valladolid CF
         SD Eibar x38 => SD Eibar
         UD Levante x38 => Levante UD
-        RSociedad San Sebastian x37 => Real Sociedad
-        Real Sociedad San Sebastian => Real Sociedad
-!! ERROR: 1 duplicate club record(s) found
-
       38 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
