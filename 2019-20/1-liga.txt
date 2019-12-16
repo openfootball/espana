@@ -265,11 +265,11 @@ Jornada 17
  18:30 Athletic Bilbao         0-0 SD Eibar
  18:30 FC Granada              1-2 UD Levante
 [Dom. 15.12.]
- 18:30 Celta Vigo              - RCD Mallorca
- 18:30 Espanyol Barcelona      - Real Betis Sevilla
- 18:30 FC Valencia             - Real Madrid
- 18:30 FC Sevilla              - FC Villarreal
- 18:30 FC Getafe               - Real Valladolid
+ 18:30 Celta Vigo              2-2 RCD Mallorca
+ 18:30 Espanyol Barcelona      2-2 Real Betis Sevilla
+ 18:30 FC Valencia             1-1 Real Madrid
+ 18:30 FC Sevilla              1-2 FC Villarreal
+ 18:30 FC Getafe               1-1 Real Valladolid
 
 
 # Jornada 10
