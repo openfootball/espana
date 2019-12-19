@@ -151,7 +151,7 @@ Jornada 10
 [Sab. 26.10.]
  18:30 Real Valladolid         2-0 SD Eibar
  18:30 Atletico Madrid         2-0 Athletic Bilbao
- 18:30 FC Barcelona            - Real Madrid          ## postponed to 18.12.
+ 18:30 FC Barcelona            0-0 Real Madrid          
  18:30 CD Leganes              1-0 RCD Mallorca
 [Dom. 27.10.]
  18:30 Celta Vigo              0-1 Real Sociedad
@@ -274,7 +274,7 @@ Jornada 17
 
 # Jornada 10
 [Mie. 18.12.]
- 18:30 FC Barcelona            - Real Madrid
+ 18:30 FC Barcelona            0-0 Real Madrid
 
 
 Jornada 18
@@ -293,7 +293,7 @@ Jornada 18
  18:30 UD Levante              - Celta Vigo
 
 
-# Winterpause incl. 3.1.20.
+# Winterpause incl. 2.1.2020
 
 
 Jornada 19
