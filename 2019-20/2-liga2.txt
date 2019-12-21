@@ -336,6 +336,7 @@ Jornada 20
  18:00 Real Saragossa          2-0 Racing Santander
  18:00 CD Teneriffa            0-0 AD Alcorcon
  18:00 CD Mirandes             2-0 SD Huesca
+ 18:00 SD Ponferradina         2-0 Deportivo La Coruna
 [Dom. 15.12.]
  18:00 Real Oviedo             0-2 FC Cadiz
  18:00 Rayo Vallecano          - Albacete Balompie    ## Spiel abgebrochen
@@ -343,8 +344,7 @@ Jornada 20
  18:00 CD Lugo                 1-2 Sporting Gijon
  18:00 CF Fuenlabrada          2-2 UD Almeria
  18:00 Extremadura UD          0-0 FC Malaga
- 18:00 SD Ponferradina         - Deportivo La Coruna
-
+ 
 
 Jornada 21
 [Vie. 20.12.]
