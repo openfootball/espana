@@ -357,10 +357,10 @@ Jornada 21
  18:00 FC Malaga               1-1 CD Lugo
  18:00 Albacete Balompie       0-1 FC Elche
 [Dom. 22.12.]
- 18:00 UD Almeria              - SD Ponferradina
- 18:00 FC Girona               - CD Mirandes
- 18:00 AD Alcorcon             - CF Fuenlabrada
- 18:00 SD Huesca               - Real Saragossa
+ 18:00 UD Almeria              2-3 SD Ponferradina
+ 18:00 FC Girona               0-3 CD Mirandes
+ 18:00 AD Alcorcon             1-1 CF Fuenlabrada
+ 18:00 SD Huesca               2-1 Real Saragossa
 
 
 # Winterpause incl. 3.1.20.
