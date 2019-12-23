@@ -286,11 +286,11 @@ Jornada 18
  18:30 FC Villarreal           1-0 FC Getafe
  18:30 Real Valladolid         1-1 FC Valencia
 [Dom. 22.12.]
- 18:30 Real Betis Sevilla      - Atletico Madrid
- 18:30 Real Madrid             - Athletic Bilbao
- 18:30 CD Leganes              - Espanyol Barcelona
- 18:30 CA Osasuna              - Real Sociedad
- 18:30 UD Levante              - Celta Vigo
+ 18:30 Real Betis Sevilla      1-2 Atletico Madrid
+ 18:30 Real Madrid             0-0 Athletic Bilbao
+ 18:30 CD Leganes              2-0 Espanyol Barcelona
+ 18:30 CA Osasuna              3-4 Real Sociedad
+ 18:30 UD Levante              3-1 Celta Vigo
 
 
 # Winterpause incl. 2.1.2020
