@@ -1,28 +1,75 @@
 15 datafiles:
 [1/15] >2012-13/liga-i.txt<
   1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2012/13<, 20 clubs, 19 rounds
+[2/15] >2012-13/liga-ii.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2012/13<, 20 clubs, 19 rounds
+[3/15] >2013-14/liga-i.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2013/14<, 20 clubs, 19 rounds
+[4/15] >2013-14/liga-ii.txt<
+  1 section(s):
+    209 lines - league: >Primera División< (es.1), season: >2013/14<, 20 clubs, 19 rounds
+[5/15] >2014-15/liga-i.txt<
+  1 section(s):
+    243 lines - league: >Primera División< (es.1), season: >2014/15<, 20 clubs, 19 rounds
+[6/15] >2014-15/liga-ii.txt<
+  1 section(s):
+    228 lines - league: >Primera División< (es.1), season: >2014/15<, 20 clubs, 19 rounds
+[7/15] >2015-16/liga-i.txt<
+  1 section(s):
+    242 lines - league: >Primera División< (es.1), season: >2015/16<, 20 clubs, 19 rounds
+[8/15] >2015-16/liga-ii.txt<
+  1 section(s):
+    228 lines - league: >Primera División< (es.1), season: >2015/16<, 20 clubs, 19 rounds
+[9/15] >2016-17/liga-i.txt<
+  1 section(s):
+    212 lines - league: >Primera División< (es.1), season: >2016/17<, 20 clubs, 16 rounds
+[10/15] >2016-17/liga-ii.txt<
+  1 section(s):
+    273 lines - league: >Primera División< (es.1), season: >2016/17<, 20 clubs, 23 rounds
+[11/15] >2017-18/liga-i.txt<
+  1 section(s):
+    249 lines - league: >Primera División< (es.1), season: >2017/18<, 20 clubs, 17 rounds
+[12/15] >2017-18/liga-ii.txt<
+  1 section(s):
+    310 lines - league: >Primera División< (es.1), season: >2017/18<, 20 clubs, 21 rounds
+[13/15] >2018-19/1-liga.txt<
+  1 section(s):
+    550 lines - league: >Primera División< (es.1), season: >2018/19<, 20 clubs, 38 rounds
+[14/15] >2019-20/1-liga.txt<
+  1 section(s):
+    497 lines - league: >Primera División< (es.1), season: >2019/20<, 20 clubs, 38 rounds
+[15/15] >2019-20/2-liga2.txt<
+  1 section(s):
+    595 lines - league: >Segunda División< (es.2), season: >2019/20<, 22 clubs, 42 rounds
+
+
+[1/15] >2012-13/liga-i.txt<
+  1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2012/13<
       20 clubs:
-        Athletic x19 => Athletic Club Bilbao
-        Atlético x19 => Atlético Madrid
-        Barcelona x19 => FC Barcelona
-        Betis x19 => Real Betis
-        Celta x19 => RC Celta Vigo
-        Deportivo x19 => RCD La Coruña
-        Espanyol x19 => RCD Espanyol
-        Getafe x19 => Getafe CF
-        Granada x19 => Granada CF
-        Levante x19 => Levante UD
-        Mallorca x19 => RCD Mallorca
-        Málaga x19 => Málaga CF
-        Osasuna x19 => CA Osasuna
-        R. Madrid x19 => Real Madrid
-        R. Sociedad x19 => Real Sociedad
-        Rayo x19 => Rayo Vallecano
-        Sevilla x19 => Sevilla FC
-        Valencia x19 => Valencia CF
-        Valladolid x19 => Real Valladolid CF
-        Zaragoza x19 => Real Zaragoza
+        19× Athletic ⇒ Athletic Club Bilbao
+        19× Atlético ⇒ Atlético Madrid
+        19× Barcelona ⇒ FC Barcelona
+        19× Betis ⇒ Real Betis
+        19× Celta ⇒ RC Celta Vigo
+        19× Deportivo ⇒ RCD La Coruña
+        19× Espanyol ⇒ RCD Espanyol
+        19× Getafe ⇒ Getafe CF
+        19× Granada ⇒ Granada CF
+        19× Levante ⇒ Levante UD
+        19× Mallorca ⇒ RCD Mallorca
+        19× Málaga ⇒ Málaga CF
+        19× Osasuna ⇒ CA Osasuna
+        19× R. Madrid ⇒ Real Madrid
+        19× R. Sociedad ⇒ Real Sociedad
+        19× Rayo ⇒ Rayo Vallecano
+        19× Sevilla ⇒ Sevilla FC
+        19× Valencia ⇒ Valencia CF
+        19× Valladolid ⇒ Real Valladolid CF
+        19× Zaragoza ⇒ Real Zaragoza
       19 rounds:
         Jornada 1 // Sáb. 18 y Dom. 19 Agosto, 10 matches
         Jornada 2 // Sáb. 25 y Dom. 26 Agosto, 10 matches
@@ -47,26 +94,26 @@
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2012/13<
       20 clubs:
-        Athletic x19 => Athletic Club Bilbao
-        Atlético x19 => Atlético Madrid
-        Barcelona x19 => FC Barcelona
-        Betis x19 => Real Betis
-        Celta x19 => RC Celta Vigo
-        Deportivo x19 => RCD La Coruña
-        Espanyol x19 => RCD Espanyol
-        Getafe x19 => Getafe CF
-        Granada x19 => Granada CF
-        Levante x19 => Levante UD
-        Mallorca x19 => RCD Mallorca
-        Málaga x19 => Málaga CF
-        Osasuna x19 => CA Osasuna
-        R. Madrid x19 => Real Madrid
-        R. Sociedad x19 => Real Sociedad
-        Rayo x19 => Rayo Vallecano
-        Sevilla x19 => Sevilla FC
-        Valencia x19 => Valencia CF
-        Valladolid x19 => Real Valladolid CF
-        Zaragoza x19 => Real Zaragoza
+        19× Athletic ⇒ Athletic Club Bilbao
+        19× Atlético ⇒ Atlético Madrid
+        19× Barcelona ⇒ FC Barcelona
+        19× Betis ⇒ Real Betis
+        19× Celta ⇒ RC Celta Vigo
+        19× Deportivo ⇒ RCD La Coruña
+        19× Espanyol ⇒ RCD Espanyol
+        19× Getafe ⇒ Getafe CF
+        19× Granada ⇒ Granada CF
+        19× Levante ⇒ Levante UD
+        19× Mallorca ⇒ RCD Mallorca
+        19× Málaga ⇒ Málaga CF
+        19× Osasuna ⇒ CA Osasuna
+        19× R. Madrid ⇒ Real Madrid
+        19× R. Sociedad ⇒ Real Sociedad
+        19× Rayo ⇒ Rayo Vallecano
+        19× Sevilla ⇒ Sevilla FC
+        19× Valencia ⇒ Valencia CF
+        19× Valladolid ⇒ Real Valladolid CF
+        19× Zaragoza ⇒ Real Zaragoza
       19 rounds:
         Jornada 20  //  Sáb. 19 y Dom. 20 Enero, 10 matches
         Jornada 21  // Sáb. 26 y Dom. 27 Enero, 10 matches
@@ -91,26 +138,26 @@
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2013/14<
       20 clubs:
-        Athletic Bilbao x19 => Athletic Club Bilbao
-        Atlético Madrid x19 => Atlético Madrid
-        Betis Sevilla x19 => Real Betis
-        CA Osasuna x19 => CA Osasuna
-        Celta Vigo x19 => RC Celta Vigo
-        Elche CF x19 => Elche CF
-        FC Barcelona x19 => FC Barcelona
-        Getafe CF x19 => Getafe CF
-        Granada CF x19 => Granada CF
-        Levante UD x19 => Levante UD
-        Málaga CF x19 => Málaga CF
-        RCD Espanyol x19 => RCD Espanyol
-        Rayo Vallecano x19 => Rayo Vallecano
-        Real Madrid x19 => Real Madrid
-        Real Sociedad x19 => Real Sociedad
-        Real Valladolid x19 => Real Valladolid CF
-        Sevilla FC x19 => Sevilla FC
-        UD Almería x19 => UD Almería
-        Valencia CF x19 => Valencia CF
-        Villarreal CF x19 => Villarreal CF
+        19× Athletic Bilbao ⇒ Athletic Club Bilbao
+        19× Atlético Madrid
+        19× Betis Sevilla ⇒ Real Betis
+        19× CA Osasuna
+        19× Celta Vigo ⇒ RC Celta Vigo
+        19× Elche CF
+        19× FC Barcelona
+        19× Getafe CF
+        19× Granada CF
+        19× Levante UD
+        19× Málaga CF
+        19× RCD Espanyol
+        19× Rayo Vallecano
+        19× Real Madrid
+        19× Real Sociedad
+        19× Real Valladolid ⇒ Real Valladolid CF
+        19× Sevilla FC
+        19× UD Almería
+        19× Valencia CF
+        19× Villarreal CF
       19 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -135,26 +182,26 @@
   1 section(s):
     209 lines - league: >Primera División< (es.1), season: >2013/14<
       20 clubs:
-        Athletic Bilbao x19 => Athletic Club Bilbao
-        Atlético Madrid x19 => Atlético Madrid
-        Betis Sevilla x19 => Real Betis
-        CA Osasuna x19 => CA Osasuna
-        Celta Vigo x19 => RC Celta Vigo
-        Elche CF x19 => Elche CF
-        Espanyol x19 => RCD Espanyol
-        FC Barcelona x19 => FC Barcelona
-        Getafe CF x19 => Getafe CF
-        Granada CF x19 => Granada CF
-        Levante UD x19 => Levante UD
-        Málaga CF x19 => Málaga CF
-        Rayo Vallecano x19 => Rayo Vallecano
-        Real Madrid x19 => Real Madrid
-        Real Sociedad San Sebastian x19 => Real Sociedad
-        Real Valladolid x19 => Real Valladolid CF
-        Sevilla FC x19 => Sevilla FC
-        UD Almería x19 => UD Almería
-        Valencia CF x19 => Valencia CF
-        Villarreal CF x19 => Villarreal CF
+        19× Athletic Bilbao ⇒ Athletic Club Bilbao
+        19× Atlético Madrid
+        19× Betis Sevilla ⇒ Real Betis
+        19× CA Osasuna
+        19× Celta Vigo ⇒ RC Celta Vigo
+        19× Elche CF
+        19× Espanyol ⇒ RCD Espanyol
+        19× FC Barcelona
+        19× Getafe CF
+        19× Granada CF
+        19× Levante UD
+        19× Málaga CF
+        19× Rayo Vallecano
+        19× Real Madrid
+        19× Real Sociedad San Sebastian ⇒ Real Sociedad
+        19× Real Valladolid ⇒ Real Valladolid CF
+        19× Sevilla FC
+        19× UD Almería
+        19× Valencia CF
+        19× Villarreal CF
       19 rounds:
         Jornada 20, 10 matches
         Jornada 21, 10 matches
@@ -179,26 +226,26 @@
   1 section(s):
     243 lines - league: >Primera División< (es.1), season: >2014/15<
       20 clubs:
-        Athletic Bilbao x19 => Athletic Club Bilbao
-        Atlético Madrid x19 => Atlético Madrid
-        Celta Vigo x19 => RC Celta Vigo
-        Córdoba CF x19 => Córdoba CF
-        Deportivo La Coruña x19 => RCD La Coruña
-        Elche CF x19 => Elche CF
-        FC Barcelona x19 => FC Barcelona
-        Getafe CF x19 => Getafe CF
-        Granada CF x19 => Granada CF
-        Levante UD x19 => Levante UD
-        Málaga CF x19 => Málaga CF
-        RCD Espanyol x19 => RCD Espanyol
-        Rayo Vallecano x19 => Rayo Vallecano
-        Real Madrid x19 => Real Madrid
-        Real Sociedad x19 => Real Sociedad
-        SD Eibar x19 => SD Eibar
-        Sevilla FC x19 => Sevilla FC
-        UD Almería x19 => UD Almería
-        Valencia CF x19 => Valencia CF
-        Villarreal CF x19 => Villarreal CF
+        19× Athletic Bilbao ⇒ Athletic Club Bilbao
+        19× Atlético Madrid
+        19× Celta Vigo ⇒ RC Celta Vigo
+        19× Córdoba CF
+        19× Deportivo La Coruña ⇒ RCD La Coruña
+        19× Elche CF
+        19× FC Barcelona
+        19× Getafe CF
+        19× Granada CF
+        19× Levante UD
+        19× Málaga CF
+        19× RCD Espanyol
+        19× Rayo Vallecano
+        19× Real Madrid
+        19× Real Sociedad
+        19× SD Eibar
+        19× Sevilla FC
+        19× UD Almería
+        19× Valencia CF
+        19× Villarreal CF
       19 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -223,26 +270,26 @@
   1 section(s):
     228 lines - league: >Primera División< (es.1), season: >2014/15<
       20 clubs:
-        Athletic Bilbao x19 => Athletic Club Bilbao
-        Atlético Madrid x19 => Atlético Madrid
-        Celta Vigo x19 => RC Celta Vigo
-        Córdoba CF x19 => Córdoba CF
-        Deportivo La Coruña x19 => RCD La Coruña
-        Elche CF x19 => Elche CF
-        FC Barcelona x19 => FC Barcelona
-        Getafe CF x19 => Getafe CF
-        Granada CF x19 => Granada CF
-        Levante UD x19 => Levante UD
-        Málaga CF x19 => Málaga CF
-        RCD Espanyol x19 => RCD Espanyol
-        Rayo Vallecano x19 => Rayo Vallecano
-        Real Madrid x19 => Real Madrid
-        Real Sociedad x19 => Real Sociedad
-        SD Eibar x19 => SD Eibar
-        Sevilla FC x19 => Sevilla FC
-        UD Almería x19 => UD Almería
-        Valencia CF x19 => Valencia CF
-        Villarreal CF x19 => Villarreal CF
+        19× Athletic Bilbao ⇒ Athletic Club Bilbao
+        19× Atlético Madrid
+        19× Celta Vigo ⇒ RC Celta Vigo
+        19× Córdoba CF
+        19× Deportivo La Coruña ⇒ RCD La Coruña
+        19× Elche CF
+        19× FC Barcelona
+        19× Getafe CF
+        19× Granada CF
+        19× Levante UD
+        19× Málaga CF
+        19× RCD Espanyol
+        19× Rayo Vallecano
+        19× Real Madrid
+        19× Real Sociedad
+        19× SD Eibar
+        19× Sevilla FC
+        19× UD Almería
+        19× Valencia CF
+        19× Villarreal CF
       19 rounds:
         Jornada 20, 10 matches
         Jornada 21, 10 matches
@@ -267,26 +314,26 @@
   1 section(s):
     242 lines - league: >Primera División< (es.1), season: >2015/16<
       20 clubs:
-        Athletic Bilbao x19 => Athletic Club Bilbao
-        Atlético Madrid x19 => Atlético Madrid
-        Betis Sevilla x19 => Real Betis
-        Celta Vigo x19 => RC Celta Vigo
-        Deportivo La Coruña x19 => RCD La Coruña
-        Espanyol Barcelona x19 => RCD Espanyol
-        FC Barcelona x19 => FC Barcelona
-        Getafe CF x19 => Getafe CF
-        Granada CF x19 => Granada CF
-        Levante UD x19 => Levante UD
-        Málaga CF x19 => Málaga CF
-        Rayo Vallecano x19 => Rayo Vallecano
-        Real Madrid x19 => Real Madrid
-        Real Sociedad San Sebastián x19 => Real Sociedad
-        SD Eibar x19 => SD Eibar
-        Sevilla FC x19 => Sevilla FC
-        Sporting Gijón x19 => Sporting Gijón
-        UD Las Palmas x19 => UD Las Palmas
-        Valencia CF x19 => Valencia CF
-        Villarreal CF x19 => Villarreal CF
+        19× Athletic Bilbao ⇒ Athletic Club Bilbao
+        19× Atlético Madrid
+        19× Betis Sevilla ⇒ Real Betis
+        19× Celta Vigo ⇒ RC Celta Vigo
+        19× Deportivo La Coruña ⇒ RCD La Coruña
+        19× Espanyol Barcelona ⇒ RCD Espanyol
+        19× FC Barcelona
+        19× Getafe CF
+        19× Granada CF
+        19× Levante UD
+        19× Málaga CF
+        19× Rayo Vallecano
+        19× Real Madrid
+        19× Real Sociedad San Sebastián ⇒ Real Sociedad
+        19× SD Eibar
+        19× Sevilla FC
+        19× Sporting Gijón
+        19× UD Las Palmas
+        19× Valencia CF
+        19× Villarreal CF
       19 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -311,26 +358,26 @@
   1 section(s):
     228 lines - league: >Primera División< (es.1), season: >2015/16<
       20 clubs:
-        Athletic Bilbao x19 => Athletic Club Bilbao
-        Atlético Madrid x19 => Atlético Madrid
-        Betis Sevilla x19 => Real Betis
-        Celta Vigo x19 => RC Celta Vigo
-        Deportivo La Coruña x19 => RCD La Coruña
-        Espanyol Barcelona x19 => RCD Espanyol
-        FC Barcelona x19 => FC Barcelona
-        Getafe CF x19 => Getafe CF
-        Granada CF x19 => Granada CF
-        Levante UD x19 => Levante UD
-        Málaga CF x19 => Málaga CF
-        Rayo Vallecano x19 => Rayo Vallecano
-        Real Madrid x19 => Real Madrid
-        Real Sociedad San Sebastián x19 => Real Sociedad
-        SD Eibar x19 => SD Eibar
-        Sevilla FC x19 => Sevilla FC
-        Sporting Gijón x19 => Sporting Gijón
-        UD Las Palmas x19 => UD Las Palmas
-        Valencia CF x19 => Valencia CF
-        Villarreal CF x19 => Villarreal CF
+        19× Athletic Bilbao ⇒ Athletic Club Bilbao
+        19× Atlético Madrid
+        19× Betis Sevilla ⇒ Real Betis
+        19× Celta Vigo ⇒ RC Celta Vigo
+        19× Deportivo La Coruña ⇒ RCD La Coruña
+        19× Espanyol Barcelona ⇒ RCD Espanyol
+        19× FC Barcelona
+        19× Getafe CF
+        19× Granada CF
+        19× Levante UD
+        19× Málaga CF
+        19× Rayo Vallecano
+        19× Real Madrid
+        19× Real Sociedad San Sebastián ⇒ Real Sociedad
+        19× SD Eibar
+        19× Sevilla FC
+        19× Sporting Gijón
+        19× UD Las Palmas
+        19× Valencia CF
+        19× Villarreal CF
       19 rounds:
         Jornada 20, 10 matches
         Jornada 21, 10 matches
@@ -355,26 +402,26 @@
   1 section(s):
     212 lines - league: >Primera División< (es.1), season: >2016/17<
       20 clubs:
-        Athletic Bilbao x16 => Athletic Club Bilbao
-        Atlético Madrid x16 => Atlético Madrid
-        Betis Sevilla x16 => Real Betis
-        CA Osasuna x16 => CA Osasuna
-        CD Alavés x16 => Deportivo Alavés
-        CD Leganés x16 => CD Leganés
-        Celta Vigo x16 => RC Celta Vigo
-        Deportivo La Coruña x16 => RCD La Coruña
-        Espanyol Barcelona x16 => RCD Espanyol
-        FC Barcelona x16 => FC Barcelona
-        Granada CF x16 => Granada CF
-        Málaga CF x16 => Málaga CF
-        Real Madrid x16 => Real Madrid
-        Real Sociedad San Sebastián x16 => Real Sociedad
-        SD Eibar x16 => SD Eibar
-        Sevilla FC x16 => Sevilla FC
-        Sporting Gijón x16 => Sporting Gijón
-        UD Las Palmas x16 => UD Las Palmas
-        Valencia CF x16 => Valencia CF
-        Villarreal CF x16 => Villarreal CF
+        16× Athletic Bilbao ⇒ Athletic Club Bilbao
+        16× Atlético Madrid
+        16× Betis Sevilla ⇒ Real Betis
+        16× CA Osasuna
+        16× CD Alavés ⇒ Deportivo Alavés
+        16× CD Leganés
+        16× Celta Vigo ⇒ RC Celta Vigo
+        16× Deportivo La Coruña ⇒ RCD La Coruña
+        16× Espanyol Barcelona ⇒ RCD Espanyol
+        16× FC Barcelona
+        16× Granada CF
+        16× Málaga CF
+        16× Real Madrid
+        16× Real Sociedad San Sebastián ⇒ Real Sociedad
+        16× SD Eibar
+        16× Sevilla FC
+        16× Sporting Gijón
+        16× UD Las Palmas
+        16× Valencia CF
+        16× Villarreal CF
       16 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -396,32 +443,32 @@
   1 section(s):
     273 lines - league: >Primera División< (es.1), season: >2016/17<
       20 clubs:
-        Real Madrid x24 => Real Madrid
-        Betis Sevilla x23 => Real Betis
-        Celta Vigo x23 => RC Celta Vigo
-        Deportivo La Coruña x23 => RCD La Coruña
-        Valencia CF x23 => Valencia CF
-        Athletic Bilbao x22 => Athletic Club Bilbao
-        Atlético Madrid x22 => Atlético Madrid
-        CA Osasuna x22 => CA Osasuna
-        CD Alavés x22 => Deportivo Alavés
-        CD Leganés x22 => CD Leganés
-        Espanyol Barcelona x22 => RCD Espanyol
-        FC Barcelona x22 => FC Barcelona
-        Granada CF x22 => Granada CF
-        Málaga CF x22 => Málaga CF
-        Real Sociedad San Sebastián x22 => Real Sociedad
-        SD Eibar x22 => SD Eibar
-        Sevilla FC x22 => Sevilla FC
-        Sporting Gijón x22 => Sporting Gijón
-        UD Las Palmas x22 => UD Las Palmas
-        Villarreal CF x22 => Villarreal CF
+        24× Real Madrid
+        23× Betis Sevilla ⇒ Real Betis
+        23× Celta Vigo ⇒ RC Celta Vigo
+        23× Deportivo La Coruña ⇒ RCD La Coruña
+        23× Valencia CF
+        22× Athletic Bilbao ⇒ Athletic Club Bilbao
+        22× Atlético Madrid
+        22× CA Osasuna
+        22× CD Alavés ⇒ Deportivo Alavés
+        22× CD Leganés
+        22× Espanyol Barcelona ⇒ RCD Espanyol
+        22× FC Barcelona
+        22× Granada CF
+        22× Málaga CF
+        22× Real Sociedad San Sebastián ⇒ Real Sociedad
+        22× SD Eibar
+        22× Sevilla FC
+        22× Sporting Gijón
+        22× UD Las Palmas
+        22× Villarreal CF
       23 rounds:
         Jornada 17, 10 matches
         Jornada 18, 10 matches
         Jornada 19, 10 matches
         Jornada 20, 10 matches
-        Jornada 21 x3, 12 matches
+        Jornada 21 ×3, 12 matches
         Jornada 22, 10 matches
         Jornada 23, 10 matches
         Jornada 16, 1 matches
@@ -444,26 +491,26 @@
   1 section(s):
     249 lines - league: >Primera División< (es.1), season: >2017/18<
       20 clubs:
-        Athletic Bilbao x17 => Athletic Club Bilbao
-        Atlético Madrid x17 => Atlético Madrid
-        Betis Sevilla x17 => Real Betis
-        CD Alavés x17 => Deportivo Alavés
-        CD Leganés x17 => CD Leganés
-        Celta Vigo x17 => RC Celta Vigo
-        Deportivo La Coruña x17 => RCD La Coruña
-        Espanyol Barcelona x17 => RCD Espanyol
-        FC Barcelona x17 => FC Barcelona
-        Getafe CF x17 => Getafe CF
-        Girona FC x17 => Girona FC
-        Levante UD x17 => Levante UD
-        Málaga CF x17 => Málaga CF
-        Real Madrid x17 => Real Madrid
-        Real Sociedad San Sebastián x17 => Real Sociedad
-        SD Eibar x17 => SD Eibar
-        Sevilla FC x17 => Sevilla FC
-        UD Las Palmas x17 => UD Las Palmas
-        Valencia CF x17 => Valencia CF
-        Villarreal CF x17 => Villarreal CF
+        17× Athletic Bilbao ⇒ Athletic Club Bilbao
+        17× Atlético Madrid
+        17× Betis Sevilla ⇒ Real Betis
+        17× CD Alavés ⇒ Deportivo Alavés
+        17× CD Leganés
+        17× Celta Vigo ⇒ RC Celta Vigo
+        17× Deportivo La Coruña ⇒ RCD La Coruña
+        17× Espanyol Barcelona ⇒ RCD Espanyol
+        17× FC Barcelona
+        17× Getafe CF
+        17× Girona FC
+        17× Levante UD
+        17× Málaga CF
+        17× Real Madrid
+        17× Real Sociedad San Sebastián ⇒ Real Sociedad
+        17× SD Eibar
+        17× Sevilla FC
+        17× UD Las Palmas
+        17× Valencia CF
+        17× Villarreal CF
       17 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -485,33 +532,27 @@
 [12/15] >2017-18/liga-ii.txt<
   1 section(s):
     310 lines - league: >Primera División< (es.1), season: >2017/18<
-      24 clubs:
-        Real Madrid x23 => Real Madrid
-        FC Barcelona x22 => FC Barcelona
-        Sevilla FC x22 => Sevilla FC
-        Villarreal CF x22 => Villarreal CF
-        Athletic Bilbao x21 => Athletic Club Bilbao
-        Atlético Madrid x21 => Atlético Madrid
-        Betis Sevilla x21 => Real Betis
-        CD Leganés x21 => CD Leganés
-        Celta Vigo x21 => RC Celta Vigo
-        Deportivo La Coruña x21 => RCD La Coruña
-        Espanyol Barcelona x21 => RCD Espanyol
-        Getafe CF x21 => Getafe CF
-        Girona FC x21 => Girona FC
-        Málaga CF x21 => Málaga CF
-        Real Sociedad San Sebastián x21 => Real Sociedad
-        UD Las Palmas x21 => UD Las Palmas
-        Valencia CF x21 => Valencia CF
-        CD Alavés x20 => Deportivo Alavés
-        Levante UD x20 => Levante UD
-        SD Eibar x20 => SD Eibar
-        CD Leganes => CD Leganés
-        Eibar => SD Eibar
-        Levante => Levante UD
-     !! SD CD Alavés
-!! ERROR: 3 duplicate club record(s) found
-
+      20 clubs:
+        23× Real Madrid
+        22× CD Leganés
+        22× FC Barcelona
+        22× Sevilla FC
+        22× Villarreal CF
+        21× Athletic Bilbao ⇒ Athletic Club Bilbao
+        21× Atlético Madrid
+        21× Betis Sevilla ⇒ Real Betis
+        21× CD Alavés ⇒ Deportivo Alavés
+        21× Celta Vigo ⇒ RC Celta Vigo
+        21× Deportivo La Coruña ⇒ RCD La Coruña
+        21× Espanyol Barcelona ⇒ RCD Espanyol
+        21× Getafe CF
+        21× Girona FC
+        21× Levante UD
+        21× Málaga CF
+        21× Real Sociedad San Sebastián ⇒ Real Sociedad
+        21× SD Eibar
+        21× UD Las Palmas
+        21× Valencia CF
       21 rounds:
         Jornada 18, 10 matches
         Jornada 19, 10 matches
@@ -538,26 +579,26 @@
   1 section(s):
     550 lines - league: >Primera División< (es.1), season: >2018/19<
       20 clubs:
-        Athletic Bilbao x39 => Athletic Club Bilbao
-        Rayo Vallecano x39 => Rayo Vallecano
-        Atlético Madrid x38 => Atlético Madrid
-        Betis Sevilla x38 => Real Betis
-        CD Alavés x38 => Deportivo Alavés
-        CD Leganés x38 => CD Leganés
-        Celta Vigo x38 => RC Celta Vigo
-        Espanyol Barcelona x38 => RCD Espanyol
-        FC Barcelona x38 => FC Barcelona
-        Getafe CF x38 => Getafe CF
-        Girona FC x38 => Girona FC
-        Levante UD x38 => Levante UD
-        Real Madrid x38 => Real Madrid
-        Real Sociedad San Sebastian x38 => Real Sociedad
-        Real Valladolid x38 => Real Valladolid CF
-        SD Eibar x38 => SD Eibar
-        SD Huesca x38 => SD Huesca
-        Sevilla FC x38 => Sevilla FC
-        Valencia CF x38 => Valencia CF
-        Villarreal CF x38 => Villarreal CF
+        39× Athletic Bilbao ⇒ Athletic Club Bilbao
+        39× Rayo Vallecano
+        38× Atlético Madrid
+        38× Betis Sevilla ⇒ Real Betis
+        38× CD Alavés ⇒ Deportivo Alavés
+        38× CD Leganés
+        38× Celta Vigo ⇒ RC Celta Vigo
+        38× Espanyol Barcelona ⇒ RCD Espanyol
+        38× FC Barcelona
+        38× Getafe CF
+        38× Girona FC
+        38× Levante UD
+        38× Real Madrid
+        38× Real Sociedad San Sebastian ⇒ Real Sociedad
+        38× Real Valladolid ⇒ Real Valladolid CF
+        38× SD Eibar
+        38× SD Huesca
+        38× Sevilla FC
+        38× Valencia CF
+        38× Villarreal CF
       38 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -601,26 +642,26 @@
   1 section(s):
     497 lines - league: >Primera División< (es.1), season: >2019/20<
       20 clubs:
-        FC Barcelona x39 => FC Barcelona
-        Real Madrid x39 => Real Madrid
-        Athletic Bilbao x38 => Athletic Club Bilbao
-        Atletico Madrid x38 => Atlético Madrid
-        CA Osasuna x38 => CA Osasuna
-        CD Leganes x38 => CD Leganés
-        Celta Vigo x38 => RC Celta Vigo
-        Deportivo Alaves x38 => Deportivo Alavés
-        Espanyol Barcelona x38 => RCD Espanyol
-        FC Getafe x38 => Getafe CF
-        FC Granada x38 => Granada CF
-        FC Sevilla x38 => Sevilla FC
-        FC Valencia x38 => Valencia CF
-        FC Villarreal x38 => Villarreal CF
-        RCD Mallorca x38 => RCD Mallorca
-        Real Betis Sevilla x38 => Real Betis
-        Real Sociedad x38 => Real Sociedad
-        Real Valladolid x38 => Real Valladolid CF
-        SD Eibar x38 => SD Eibar
-        UD Levante x38 => Levante UD
+        39× FC Barcelona
+        39× Real Madrid
+        38× Athletic Bilbao ⇒ Athletic Club Bilbao
+        38× Atletico Madrid ⇒ Atlético Madrid
+        38× CA Osasuna
+        38× CD Leganes ⇒ CD Leganés
+        38× Celta Vigo ⇒ RC Celta Vigo
+        38× Deportivo Alaves ⇒ Deportivo Alavés
+        38× Espanyol Barcelona ⇒ RCD Espanyol
+        38× FC Getafe ⇒ Getafe CF
+        38× FC Granada ⇒ Granada CF
+        38× FC Sevilla ⇒ Sevilla FC
+        38× FC Valencia ⇒ Valencia CF
+        38× FC Villarreal ⇒ Villarreal CF
+        38× RCD Mallorca
+        38× Real Betis Sevilla ⇒ Real Betis
+        38× Real Sociedad
+        38× Real Valladolid ⇒ Real Valladolid CF
+        38× SD Eibar
+        38× UD Levante ⇒ Levante UD
       38 rounds:
         Jornada 1, 10 matches
         Jornada 2, 10 matches
@@ -664,35 +705,35 @@
   1 section(s):
     595 lines - league: >Segunda División< (es.2), season: >2019/20<
       22 clubs:
-        CF Fuenlabrada x43 => CF Fuenlabrada
-        Real Saragossa x43 => Real Zaragoza
-        AD Alcorcon x42 => AD Alcorcón
-        Albacete Balompie x42 => Albacete Balompié
-        CD Lugo x42 => CD Lugo
-        CD Mirandes x42 => CD Mirandés
-        CD Numancia x42 => CD Numancia
-        CD Teneriffa x42 => CD Tenerife
-        Deportivo La Coruna x42 => RCD La Coruña
-        Extremadura UD x42 => Extremadura UD
-        FC Cadiz x42 => Cádiz CF
-        FC Elche x42 => Elche CF
-        FC Girona x42 => Girona FC
-        FC Malaga x42 => Málaga CF
-        Racing Santander x42 => Real Racing Santander
-        Rayo Vallecano x42 => Rayo Vallecano
-        Real Oviedo x42 => Real Oviedo
-        SD Huesca x42 => SD Huesca
-        SD Ponferradina x42 => SD Ponferradina
-        Sporting Gijon x42 => Sporting Gijón
-        UD Almeria x42 => UD Almería
-        UD Las Palmas x42 => UD Las Palmas
+        43× CF Fuenlabrada
+        43× Real Saragossa ⇒ Real Zaragoza
+        42× AD Alcorcon ⇒ AD Alcorcón
+        42× Albacete Balompie ⇒ Albacete Balompié
+        42× CD Lugo
+        42× CD Mirandes ⇒ CD Mirandés
+        42× CD Numancia
+        42× CD Teneriffa ⇒ CD Tenerife
+        42× Deportivo La Coruna ⇒ RCD La Coruña
+        42× Extremadura UD
+        42× FC Cadiz ⇒ Cádiz CF
+        42× FC Elche ⇒ Elche CF
+        42× FC Girona ⇒ Girona FC
+        42× FC Malaga ⇒ Málaga CF
+        42× Racing Santander ⇒ Real Racing Santander
+        42× Rayo Vallecano
+        42× Real Oviedo
+        42× SD Huesca
+        42× SD Ponferradina
+        42× Sporting Gijon ⇒ Sporting Gijón
+        42× UD Almeria ⇒ UD Almería
+        42× UD Las Palmas
       42 rounds:
         Jornada 1, 11 matches
         Jornada 2, 11 matches
         Jornada 3, 11 matches
         Jornada 4, 11 matches
         Jornada 5, 11 matches
-        Jornada 6 x2, 12 matches
+        Jornada 6 ×2, 12 matches
         Jornada 7, 11 matches
         Jornada 8, 11 matches
         Jornada 9, 11 matches

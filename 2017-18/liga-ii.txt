@@ -53,7 +53,7 @@ Jornada 21
 [Vie. 26.1.]
    Athletic Bilbao               1-1  SD Eibar
 [Sáb. 27.1.]
-   Deportivo La Coruña           2-2  Levante
+   Deportivo La Coruña           2-2  Levante UD
    Málaga CF                     0-0  Girona FC
    Valencia CF                   1-4  Real Madrid
    Villarreal CF                 4-2  Real Sociedad San Sebastián
@@ -70,8 +70,8 @@ Jornada 22
    Real Sociedad San Sebastián   5-0  Deportivo La Coruña
 [Sáb. 3.2.]
    Betis Sevilla                 2-1  Villarreal CF
-   SD CD Alavés                  2-1  Celta Vigo
-   Eibar                         5-1  Sevilla FC
+   CD Alavés                     2-1  Celta Vigo
+   SD Eibar                      5-1  Sevilla FC
    Levante UD                    2-2  Real Madrid
 [Dom. 4.2.]
    Atlético Madrid               1-0  Valencia CF
@@ -117,7 +117,7 @@ Jornada 24
 
 ## suplemento Jornada 16
 [Mié. 21.2.]
-   CD Leganes                    1-3  Real Madrid
+   CD Leganés                    1-3  Real Madrid
 
 Jornada 25
 [Vie. 23.2.]
