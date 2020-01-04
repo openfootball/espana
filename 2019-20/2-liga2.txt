@@ -339,7 +339,7 @@ Jornada 20
  18:00 SD Ponferradina         2-0 Deportivo La Coruna
 [Dom. 15.12.]
  18:00 Real Oviedo             0-2 FC Cadiz
- 18:00 Rayo Vallecano          - Albacete Balompie    ## Spiel abgebrochen
+ 18:00 Rayo Vallecano          - Albacete Balompie    ## Termin verschoben
  18:00 FC Elche                2-3 UD Las Palmas
  18:00 CD Lugo                 1-2 Sporting Gijon
  18:00 CF Fuenlabrada          2-2 UD Almeria
@@ -368,15 +368,15 @@ Jornada 21
 
 Jornada 22
 [Vie. 3.1.]
- 18:00 Real Saragossa          - Sporting Gijon
- 18:00 FC Elche                - SD Huesca
+ 18:00 Real Saragossa          - Sporting Gijon       ## Termin verschoben
+ 18:00 Extremadura UD          0-0 AD Alcorcon
 [Sab. 4.1.]
  18:00 CD Teneriffa            - Albacete Balompie
  18:00 SD Ponferradina         - FC Cadiz
  18:00 CD Mirandes             - Racing Santander
  18:00 CD Lugo                 - UD Almeria
  18:00 CF Fuenlabrada          - UD Las Palmas
- 18:00 Extremadura UD          - AD Alcorcon
+ 18:00 FC Elche                - SD Huesca
 [Dom. 5.1.]
  18:00 Real Oviedo             - FC Malaga
  18:00 Rayo Vallecano          - FC Girona
