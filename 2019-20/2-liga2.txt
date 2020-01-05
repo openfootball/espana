@@ -371,12 +371,12 @@ Jornada 22
  18:00 Real Saragossa          - Sporting Gijon       ## Termin verschoben
  18:00 Extremadura UD          0-0 AD Alcorcon
 [Sab. 4.1.]
- 18:00 CD Teneriffa            - Albacete Balompie
- 18:00 SD Ponferradina         - FC Cadiz
- 18:00 CD Mirandes             - Racing Santander
- 18:00 CD Lugo                 - UD Almeria
- 18:00 CF Fuenlabrada          - UD Las Palmas
- 18:00 FC Elche                - SD Huesca
+ 18:00 CD Teneriffa            4-2 Albacete Balompie
+ 18:00 SD Ponferradina         0-0 FC Cadiz
+ 18:00 CD Mirandes             0-0 Racing Santander
+ 18:00 CD Lugo                 0-4 UD Almeria
+ 18:00 CF Fuenlabrada          0-0 UD Las Palmas
+ 18:00 FC Elche                1-1 SD Huesca
 [Dom. 5.1.]
  18:00 Real Oviedo             - FC Malaga
  18:00 Rayo Vallecano          - FC Girona
