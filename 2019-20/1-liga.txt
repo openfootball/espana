@@ -306,10 +306,10 @@ Jornada 19
  18:30 Atletico Madrid         2-1 UD Levante
  18:30 FC Getafe               0-3 Real Madrid
 [Dom. 5.1.]
- 18:30 Celta Vigo              - CA Osasuna
- 18:30 Real Sociedad           - FC Villarreal
- 18:30 Deportivo Alaves        - Real Betis Sevilla
- 18:30 FC Granada              - RCD Mallorca
+ 18:30 Celta Vigo              1-1 CA Osasuna
+ 18:30 Real Sociedad           1-2 FC Villarreal
+ 18:30 Deportivo Alaves        1-1 Real Betis Sevilla
+ 18:30 FC Granada              1-0 RCD Mallorca
 
 
 Jornada 20
