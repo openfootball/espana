@@ -368,7 +368,6 @@ Jornada 21
 
 Jornada 22
 [Vie. 3.1.]
- 18:00 Real Saragossa          - Sporting Gijon       ## Termin verschoben
  18:00 Extremadura UD          0-0 AD Alcorcon
 [Sab. 4.1.]
  18:00 CD Teneriffa            4-2 Albacete Balompie
@@ -378,9 +377,11 @@ Jornada 22
  18:00 CF Fuenlabrada          0-0 UD Las Palmas
  18:00 FC Elche                1-1 SD Huesca
 [Dom. 5.1.]
- 18:00 Real Oviedo             - FC Malaga
- 18:00 Rayo Vallecano          - FC Girona
- 18:00 CD Numancia             - Deportivo La Coruna
+ 18:00 Real Oviedo             1-1 FC Malaga
+ 18:00 Rayo Vallecano          1-0 FC Girona
+ 18:00 CD Numancia             0-1 Deportivo La Coruna
+[Mar. 7.1.]
+ 18:00 Real Saragossa          - Sporting Gijon
  
  
 Jornada 23
