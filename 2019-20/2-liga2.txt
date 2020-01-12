@@ -419,34 +419,38 @@ Jornada 24
 
 
 Jornada 25
-[Dom. 26.1.]
+[Vie. 24.1.]
  18:00 Real Saragossa          - CD Numancia
+[Sab. 25.1.]
  18:00 Sporting Gijon          - CF Fuenlabrada
- 18:00 Rayo Vallecano          - Extremadura UD
  18:00 UD Las Palmas           - CD Teneriffa
+ 18:00 FC Cadiz                - Racing Santander
+ 18:00 SD Huesca               - CD Lugo
+[Dom. 26.1.]
+ 18:00 Rayo Vallecano          - Extremadura UD
  18:00 FC Malaga               - CD Mirandes
  18:00 Albacete Balompie       - Deportivo La Coruna
  18:00 UD Almeria              - FC Elche
- 18:00 FC Cadiz                - Racing Santander
  18:00 FC Girona               - Real Oviedo
  18:00 AD Alcorcon             - SD Ponferradina
- 18:00 SD Huesca               - CD Lugo
-
+ 
 
 Jornada 26
+[Vie. 31.1.]
+ 18:00 CD Teneriffa            - Sporting Gijon
+[Sab. 1.2.]
+ 18:00 FC Elche                - FC Malaga
+ 18:00 SD Ponferradina         - SD Huesca
+ 18:00 Extremadura UD          - CD Lugo
+ 18:00 Deportivo La Coruna     - UD Las Palmas
 [Dom. 2.2.]
  18:00 Real Oviedo             - Albacete Balompie
  18:00 Racing Santander        - AD Alcorcon
- 18:00 CD Teneriffa            - Sporting Gijon
- 18:00 Deportivo La Coruna     - UD Las Palmas
  18:00 CD Numancia             - UD Almeria
- 18:00 FC Elche                - FC Malaga
- 18:00 SD Ponferradina         - SD Huesca
  18:00 FC Cadiz                - Real Saragossa
  18:00 CD Mirandes             - Rayo Vallecano
  18:00 CF Fuenlabrada          - FC Girona
- 18:00 Extremadura UD          - CD Lugo
-
+ 
 
 Jornada 27
 [Dom. 9.2.]
