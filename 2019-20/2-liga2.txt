@@ -391,10 +391,10 @@ Jornada 23
  20:00 Albacete Balompie       1-1 CF Fuenlabrada
  20:00 Sporting Gijon          1-0 FC Elche
 [Mié. 15.1.]
- 20:00 Rayo Vallecano          - CD Lugo
- 20:00 FC Cadiz                - CD Mirandes
- 20:00 AD Alcorcon             - CD Numancia
- 20:00 SD Huesca               - CD Teneriffa
+ 20:00 Rayo Vallecano          1-0 CD Lugo
+ 20:00 FC Cadiz                3-3 CD Mirandes
+ 20:00 AD Alcorcon             2-2 CD Numancia
+ 20:00 SD Huesca               2-1 CD Teneriffa
 [Jue. 16.1.]
  20:00 Deportivo La Coruna     - Racing Santander
  20:00 FC Girona               - Extremadura UD
