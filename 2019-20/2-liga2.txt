@@ -405,10 +405,10 @@ Jornada 24
 [Vie. 17.1.]
  18:00 CF Fuenlabrada          0-0 FC Malaga
 [Sab. 18.1.]
- 18:00 SD Ponferradina         - Rayo Vallecano
- 18:00 CD Mirandes             - Real Saragossa
- 18:00 CD Lugo                 - Albacete Balompie
- 18:00 CD Numancia             - Sporting Gijon
+ 18:00 SD Ponferradina         1-1 Rayo Vallecano
+ 18:00 CD Mirandes             - Real Saragossa        ## Termin verschoben
+ 18:00 CD Lugo                 1-0 Albacete Balompie
+ 18:00 CD Numancia             2-0 Sporting Gijon
 [Dom. 19.1.]
  18:00 Real Oviedo             - SD Huesca
  18:00 Racing Santander        - UD Las Palmas
