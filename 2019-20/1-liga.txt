@@ -321,11 +321,11 @@ Jornada 20
  18:30 UD Levante              0-1 Deportivo Alaves
  18:30 Real Madrid             2-1 FC Sevilla
 [Dom. 19.1.]
- 18:30 Athletic Bilbao         - Celta Vigo
- 18:30 Real Betis Sevilla      - Real Sociedad
- 18:30 FC Barcelona            - FC Granada
- 18:30 RCD Mallorca            - FC Valencia
- 18:30 FC Villarreal           - Espanyol Barcelona
+ 18:30 Athletic Bilbao         1-1 Celta Vigo
+ 18:30 Real Betis Sevilla      3-0 Real Sociedad
+ 18:30 FC Barcelona            1-0 FC Granada
+ 18:30 RCD Mallorca            4-1 FC Valencia
+ 18:30 FC Villarreal           1-2 Espanyol Barcelona
  
 
 Jornada 21
