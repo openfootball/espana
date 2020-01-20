@@ -410,12 +410,12 @@ Jornada 24
  18:00 CD Lugo                 1-0 Albacete Balompie
  18:00 CD Numancia             2-0 Sporting Gijon
 [Dom. 19.1.]
- 18:00 Real Oviedo             - SD Huesca
- 18:00 Racing Santander        - UD Las Palmas
- 18:00 CD Teneriffa            - FC Girona
- 18:00 Deportivo La Coruna     - FC Cadiz
- 18:00 FC Elche                - AD Alcorcon
- 18:00 Extremadura UD          - UD Almeria
+ 18:00 Real Oviedo             1-1 SD Huesca
+ 18:00 Racing Santander        1-1 UD Las Palmas
+ 18:00 CD Teneriffa            1-0 FC Girona
+ 18:00 Deportivo La Coruna     1-0 FC Cadiz
+ 18:00 FC Elche                1-1 AD Alcorcon
+ 18:00 Extremadura UD          1-2 UD Almeria
 
 
 Jornada 25
