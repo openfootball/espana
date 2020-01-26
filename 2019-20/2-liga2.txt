@@ -453,34 +453,38 @@ Jornada 26
  
 
 Jornada 27
-[Dom. 9.2.]
- 18:00 Real Saragossa          - CF Fuenlabrada
- 18:00 Sporting Gijon          - CD Mirandes
- 18:00 Rayo Vallecano          - Real Oviedo
- 18:00 UD Las Palmas           - FC Cadiz
- 18:00 FC Malaga               - CD Numancia
- 18:00 Albacete Balompie       - SD Ponferradina
+[Vie. 7.2.]
  18:00 UD Almeria              - Racing Santander
  18:00 FC Girona               - SD Huesca
+[Sab. 8.2.]
+ 18:00 Real Saragossa          - CF Fuenlabrada
+ 18:00 UD Las Palmas           - FC Cadiz
+ 18:00 Extremadura UD          - CD Teneriffa
+[Dom. 9.2.]
+ 18:00 Sporting Gijon          - CD Mirandes
+ 18:00 Rayo Vallecano          - Real Oviedo
+ 18:00 FC Malaga               - CD Numancia
+ 18:00 Albacete Balompie       - SD Ponferradina
  18:00 CD Lugo                 - FC Elche
  18:00 AD Alcorcon             - Deportivo La Coruna
- 18:00 Extremadura UD          - CD Teneriffa
-
+ 
 
 Jornada 28
-[Dom. 16.2.]
- 18:00 Real Oviedo             - AD Alcorcon
- 18:00 Racing Santander        - Sporting Gijon
- 18:00 CD Teneriffa            - Rayo Vallecano
+[Vie. 14.2.]
  18:00 Deportivo La Coruna     - FC Girona
+[Sab. 15.2.]
  18:00 CD Numancia             - UD Las Palmas
  18:00 FC Elche                - Real Saragossa
+ 18:00 Real Oviedo             - AD Alcorcon
+ 18:00 CD Mirandes             - Albacete Balompie
+ 18:00 SD Huesca               - UD Almeria
+[Dom. 16.2.]
+ 18:00 Racing Santander        - Sporting Gijon
+ 18:00 CD Teneriffa            - Rayo Vallecano
  18:00 SD Ponferradina         - Extremadura UD
  18:00 FC Cadiz                - FC Malaga
- 18:00 CD Mirandes             - Albacete Balompie
  18:00 CF Fuenlabrada          - CD Lugo
- 18:00 SD Huesca               - UD Almeria
-
+ 
 
 Jornada 29
 [Dom. 23.2.]
