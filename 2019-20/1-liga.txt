@@ -361,32 +361,36 @@ Jornada 22
  
 
 Jornada 23
+[Vie. 7.2.]
+ 18:30 Real Valladolid         - FC Villarreal
+[Sab. 8.2.]
+ 18:30 Deportivo Alaves        - SD Eibar
+ 18:30 FC Getafe               - FC Valencia
+ 18:30 Atletico Madrid         - FC Granada
+ 18:30 UD Levante              - CD Leganes
 [Dom. 9.2.]
  18:30 Celta Vigo              - FC Sevilla
  18:30 Espanyol Barcelona      - RCD Mallorca
- 18:30 Real Valladolid         - FC Villarreal
  18:30 Real Betis Sevilla      - FC Barcelona
- 18:30 Atletico Madrid         - FC Granada
  18:30 Real Sociedad           - Athletic Bilbao
- 18:30 Deportivo Alaves        - SD Eibar
- 18:30 FC Getafe               - FC Valencia
  18:30 CA Osasuna              - Real Madrid
- 18:30 UD Levante              - CD Leganes
-
+ 
 
 Jornada 24
-[Dom. 16.2.]
- 18:30 Athletic Bilbao         - CA Osasuna
+[Vie. 14.2.]
+ 18:30 FC Granada              - Real Valladolid
+[Sab. 15.2.]
  18:30 Real Madrid             - Celta Vigo
  18:30 FC Barcelona            - FC Getafe
- 18:30 RCD Mallorca            - Deportivo Alaves
  18:30 FC Valencia             - Atletico Madrid
  18:30 FC Villarreal           - UD Levante
+[Dom. 16.2.]
+ 18:30 Athletic Bilbao         - CA Osasuna
+ 18:30 RCD Mallorca            - Deportivo Alaves
  18:30 FC Sevilla              - Espanyol Barcelona
  18:30 CD Leganes              - Real Betis Sevilla
  18:30 SD Eibar                - Real Sociedad
- 18:30 FC Granada              - Real Valladolid
-
+ 
 
 Jornada 25
 [Dom. 23.2.]
