@@ -427,12 +427,12 @@ Jornada 25
  18:00 Real Saragossa          1-0 CD Numancia
  18:00 SD Huesca               2-1 CD Lugo
 [Dom. 26.1.]
- 18:00 Rayo Vallecano          - Extremadura UD
- 18:00 FC Malaga               - CD Mirandes
- 18:00 Albacete Balompie       - Deportivo La Coruna
- 18:00 UD Almeria              - FC Elche
- 18:00 FC Girona               - Real Oviedo
- 18:00 AD Alcorcon             - SD Ponferradina
+ 18:00 Rayo Vallecano          1-1 Extremadura UD
+ 18:00 FC Malaga               2-2 CD Mirandes
+ 18:00 Albacete Balompie       0-1 Deportivo La Coruna
+ 18:00 UD Almeria              0-2 FC Elche
+ 18:00 FC Girona               1-1 Real Oviedo
+ 18:00 AD Alcorcon             3-1 SD Ponferradina
  
 
 Jornada 26
