@@ -337,11 +337,11 @@ Jornada 21
  18:30 FC Sevilla              2-0 FC Granada
  18:30 Espanyol Barcelona      1-1 Athletic Bilbao
 [Dom. 26.1.]
- 18:30 Celta Vigo              - SD Eibar
- 18:30 Real Valladolid         - Real Madrid
- 18:30 Atletico Madrid         - CD Leganes
- 18:30 Real Sociedad           - RCD Mallorca
- 18:30 FC Getafe               - Real Betis Sevilla
+ 18:30 Celta Vigo              0-0 SD Eibar
+ 18:30 Real Valladolid         0-1 Real Madrid
+ 18:30 Atletico Madrid         0-0 CD Leganes
+ 18:30 Real Sociedad           3-0 RCD Mallorca
+ 18:30 FC Getafe               1-0 Real Betis Sevilla
 
 
 Jornada 22
