@@ -346,7 +346,6 @@ Jornada 21
 
 Jornada 22
 [Sab. 1.2.]
- 18:30 FC Villarreal           - CA Osasuna
  18:30 RCD Mallorca            - Real Valladolid
  18:30 FC Valencia             - Celta Vigo
  18:30 Real Madrid             - Atletico Madrid
@@ -357,7 +356,8 @@ Jornada 22
  18:30 FC Sevilla              - Deportivo Alaves
  18:30 CD Leganes              - Real Sociedad
  18:30 SD Eibar                - Real Betis Sevilla
- 
+ 18:30 FC Villarreal           - CA Osasuna
+
 
 Jornada 23
 [Vie. 7.2.]
