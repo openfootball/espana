@@ -346,10 +346,10 @@ Jornada 21
 
 Jornada 22
 [Sab. 1.2.]
- 18:30 RCD Mallorca            - Real Valladolid
- 18:30 FC Valencia             - Celta Vigo
- 18:30 Real Madrid             - Atletico Madrid
- 18:30 FC Granada              - Espanyol Barcelona
+ 18:30 RCD Mallorca            0-1 Real Valladolid
+ 18:30 FC Valencia             1-0 Celta Vigo
+ 18:30 Real Madrid             1-0 Atletico Madrid
+ 18:30 FC Granada              2-1 Espanyol Barcelona
 [Dom. 2.2.]
  18:30 Athletic Bilbao         - FC Getafe
  18:30 FC Barcelona            - UD Levante
