@@ -444,12 +444,12 @@ Jornada 26
  18:00 Extremadura UD          1-0 CD Lugo
  18:00 Deportivo La Coruna     2-1 UD Las Palmas
 [Dom. 2.2.]
- 18:00 Real Oviedo             - Albacete Balompie
- 18:00 Racing Santander        - AD Alcorcon
- 18:00 CD Numancia             - UD Almeria
- 18:00 FC Cadiz                - Real Saragossa
- 18:00 CD Mirandes             - Rayo Vallecano
- 18:00 CF Fuenlabrada          - FC Girona
+ 18:00 Real Oviedo             3-1 Albacete Balompie
+ 18:00 Racing Santander        1-1 AD Alcorcon
+ 18:00 CD Numancia             0-0 UD Almeria
+ 18:00 FC Cadiz                1-1 Real Saragossa
+ 18:00 CD Mirandes             0-0 Rayo Vallecano
+ 18:00 CF Fuenlabrada          0-1 FC Girona
  
 
 Jornada 27
