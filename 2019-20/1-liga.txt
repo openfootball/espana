@@ -351,12 +351,12 @@ Jornada 22
  18:30 Real Madrid             1-0 Atletico Madrid
  18:30 FC Granada              2-1 Espanyol Barcelona
 [Dom. 2.2.]
- 18:30 Athletic Bilbao         - FC Getafe
- 18:30 FC Barcelona            - UD Levante
- 18:30 FC Sevilla              - Deportivo Alaves
- 18:30 CD Leganes              - Real Sociedad
- 18:30 SD Eibar                - Real Betis Sevilla
- 18:30 FC Villarreal           - CA Osasuna
+ 18:30 Athletic Bilbao         0-2 FC Getafe
+ 18:30 FC Barcelona            2-1 UD Levante
+ 18:30 FC Sevilla              1-1 Deportivo Alaves
+ 18:30 CD Leganes              2-1 Real Sociedad
+ 18:30 SD Eibar                1-1 Real Betis Sevilla
+ 18:30 FC Villarreal           3-1 CA Osasuna
 
 
 Jornada 23
