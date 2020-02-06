@@ -393,21 +393,19 @@ Jornada 24
 
 Jornada 25
 [Vie. 21.2.]
- 18:30 Real Sociedad           - FC Valencia
-[Sab. 22.2.]
-
-[Dom. 23.2.]
- 18:30 Celta Vigo              - CD Leganes
- 18:30 Real Valladolid         - Espanyol Barcelona
  18:30 Real Betis Sevilla      - RCD Mallorca
- 18:30 Atletico Madrid         - FC Villarreal
+[Sab. 22.2.]
+ 18:30 Real Sociedad           - FC Valencia
+ 18:30 Celta Vigo              - CD Leganes
  18:30 FC Barcelona            - SD Eibar
- 
+ 18:30 UD Levante              - Real Madrid
+[Dom. 23.2.]
+ 18:30 Real Valladolid         - Espanyol Barcelona
+ 18:30 Atletico Madrid         - FC Villarreal
  18:30 Deportivo Alaves        - Athletic Bilbao
  18:30 FC Getafe               - FC Sevilla
  18:30 CA Osasuna              - FC Granada
- 18:30 UD Levante              - Real Madrid
-
+ 
 
 Jornada 26
 [Vie. 28.2.]
