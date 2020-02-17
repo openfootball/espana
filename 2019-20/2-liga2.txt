@@ -478,12 +478,12 @@ Jornada 28
  18:00 Real Oviedo             1-2 AD Alcorcon
  18:00 SD Huesca               3-2 UD Almeria
 [Dom. 16.2.]
- 18:00 CD Mirandes             - Albacete Balompie
- 18:00 Racing Santander        - Sporting Gijon
- 18:00 CD Teneriffa            - Rayo Vallecano
- 18:00 SD Ponferradina         - Extremadura UD
- 18:00 FC Cadiz                - FC Malaga
- 18:00 CF Fuenlabrada          - CD Lugo
+ 18:00 CD Mirandes             1-1 Albacete Balompie
+ 18:00 Racing Santander        0-2 Sporting Gijon
+ 18:00 CD Teneriffa            0-0 Rayo Vallecano
+ 18:00 SD Ponferradina         0-0 Extremadura UD
+ 18:00 FC Cadiz                0-1 FC Malaga
+ 18:00 CF Fuenlabrada          0-1 CD Lugo
  
  
 # Jornada 24
