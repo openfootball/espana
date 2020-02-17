@@ -384,11 +384,11 @@ Jornada 24
  18:30 FC Granada              2-1 Real Valladolid
  18:30 FC Villarreal           2-1 UD Levante
 [Dom. 16.2.]
- 18:30 Real Madrid             - Celta Vigo
- 18:30 Athletic Bilbao         - CA Osasuna
- 18:30 FC Sevilla              - Espanyol Barcelona
- 18:30 CD Leganes              - Real Betis Sevilla
- 18:30 SD Eibar                - Real Sociedad
+ 18:30 Real Madrid             2-2 Celta Vigo
+ 18:30 Athletic Bilbao         0-1 CA Osasuna
+ 18:30 FC Sevilla              2-2 Espanyol Barcelona
+ 18:30 CD Leganes              0-0 Real Betis Sevilla
+ 18:30 SD Eibar                - Real Sociedad          # Termin verschoben
  
 
 Jornada 25
