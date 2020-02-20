@@ -406,7 +406,7 @@ Jornada 24
  18:00 CF Fuenlabrada          0-0 FC Malaga
 [Sab. 18.1.]
  18:00 SD Ponferradina         1-1 Rayo Vallecano
- 18:00 CD Mirandes             - Real Saragossa        # 19.2.20
+ 18:00 CD Mirandes             1-1 Real Saragossa        
  18:00 CD Lugo                 1-0 Albacete Balompie
  18:00 CD Numancia             2-0 Sporting Gijon
 [Dom. 19.1.]
@@ -488,7 +488,7 @@ Jornada 28
  
 # Jornada 24
 [Mie. 19.2.]
- 18:00 CD Mirandes             - Real Saragossa 
+ 18:00 CD Mirandes             1-1 Real Saragossa 
 
 
 Jornada 29
