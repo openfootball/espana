@@ -395,10 +395,10 @@ Jornada 25
 [Vie. 21.2.]
  18:30 Real Betis Sevilla      3-3 RCD Mallorca
 [Sab. 22.2.]
- 18:30 Real Sociedad           - FC Valencia
- 18:30 Celta Vigo              - CD Leganes
- 18:30 FC Barcelona            - SD Eibar
- 18:30 UD Levante              - Real Madrid
+ 18:30 Real Sociedad           3-0 FC Valencia
+ 18:30 Celta Vigo              1-0 CD Leganes
+ 18:30 FC Barcelona            5-0 SD Eibar
+ 18:30 UD Levante              1-0 Real Madrid
 [Dom. 23.2.]
  18:30 Real Valladolid         - Espanyol Barcelona
  18:30 Atletico Madrid         - FC Villarreal
@@ -424,16 +424,18 @@ Jornada 26
  
 
 Jornada 27
+[Vie. 6.3.]
+ 18:30 Deportivo Alaves        - FC Valencia
+[Sab. 7.3.]
+ 18:30 Atletico Madrid         - FC Sevilla
+ 18:30 FC Barcelona            - Real Sociedad
+ 18:30 FC Getafe               - Celta Vigo
+ 18:30 SD Eibar                - RCD Mallorca
 [Dom. 8.3.]
  18:30 Real Valladolid         - Athletic Bilbao
  18:30 Real Betis Sevilla      - Real Madrid
- 18:30 Atletico Madrid         - FC Sevilla
- 18:30 FC Barcelona            - Real Sociedad
- 18:30 Deportivo Alaves        - FC Valencia
  18:30 FC Villarreal           - CD Leganes
- 18:30 FC Getafe               - Celta Vigo
  18:30 CA Osasuna              - Espanyol Barcelona
- 18:30 SD Eibar                - RCD Mallorca
  18:30 UD Levante              - FC Granada
 
 
