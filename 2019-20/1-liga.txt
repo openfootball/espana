@@ -400,11 +400,11 @@ Jornada 25
  18:30 FC Barcelona            5-0 SD Eibar
  18:30 UD Levante              1-0 Real Madrid
 [Dom. 23.2.]
- 18:30 Real Valladolid         - Espanyol Barcelona
- 18:30 Atletico Madrid         - FC Villarreal
- 18:30 Deportivo Alaves        - Athletic Bilbao
- 18:30 FC Getafe               - FC Sevilla
- 18:30 CA Osasuna              - FC Granada
+ 18:30 Real Valladolid         2-1 Espanyol Barcelona
+ 18:30 Atletico Madrid         3-1 FC Villarreal
+ 18:30 Deportivo Alaves        2-1 Athletic Bilbao
+ 18:30 FC Getafe               0-3 FC Sevilla
+ 18:30 CA Osasuna              0-3 FC Granada
  
 
 Jornada 26
