@@ -512,11 +512,11 @@ Jornada 30
 [Vie. 28.2.]
  18:00 UD Las Palmas           1-1 FC Malaga
 [Sab. 29.2.]
- 18:00 Albacete Balompie       - Rayo Vallecano
- 18:00 SD Ponferradina         - Sporting Gijon
- 18:00 FC Cadiz                - UD Almeria
- 18:00 SD Huesca               - Extremadura UD
- 18:00 Racing Santander        - Real Saragossa
+ 18:00 Albacete Balompie       1-1 Rayo Vallecano
+ 18:00 SD Ponferradina         1-0 Sporting Gijon
+ 18:00 FC Cadiz                2-1 UD Almeria
+ 18:00 SD Huesca               2-2 Extremadura UD
+ 18:00 Racing Santander        2-2 Real Saragossa
 [Dom. 1.3.]
  18:00 Real Oviedo             - CD Teneriffa
  18:00 Deportivo La Coruna     - CD Lugo
