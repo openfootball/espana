@@ -518,11 +518,11 @@ Jornada 30
  18:00 SD Huesca               2-2 Extremadura UD
  18:00 Racing Santander        2-2 Real Saragossa
 [Dom. 1.3.]
- 18:00 Real Oviedo             - CD Teneriffa
- 18:00 Deportivo La Coruna     - CD Lugo
- 18:00 FC Elche                - CD Numancia
- 18:00 CD Mirandes             - FC Girona
- 18:00 CF Fuenlabrada          - AD Alcorcon
+ 18:00 Real Oviedo             1-0 CD Teneriffa
+ 18:00 Deportivo La Coruna     0-0 CD Lugo
+ 18:00 FC Elche                2-0 CD Numancia
+ 18:00 CD Mirandes             1-1 FC Girona
+ 18:00 CF Fuenlabrada          3-4 AD Alcorcon
  
 
 Jornada 31
