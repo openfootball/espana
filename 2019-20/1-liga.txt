@@ -416,11 +416,11 @@ Jornada 26
  18:30 FC Granada              0-0 Celta Vigo
  18:30 FC Valencia             2-1 Real Betis Sevilla
 [Dom. 1.3.]
- 18:30 Athletic Bilbao         - FC Villarreal
- 18:30 Espanyol Barcelona      - Atletico Madrid
- 18:30 Real Madrid             - FC Barcelona
- 18:30 RCD Mallorca            - FC Getafe
- 18:30 FC Sevilla              - CA Osasuna
+ 18:30 Athletic Bilbao         1-0 FC Villarreal
+ 18:30 Espanyol Barcelona      1-1 Atletico Madrid
+ 18:30 Real Madrid             2-0 FC Barcelona
+ 18:30 RCD Mallorca            0-1 FC Getafe
+ 18:30 FC Sevilla              3-2 CA Osasuna
  
 
 Jornada 27
