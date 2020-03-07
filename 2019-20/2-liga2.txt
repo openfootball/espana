@@ -543,18 +543,21 @@ Jornada 31
 
 
 Jornada 32
-[Dom. 15.3.]
- 18:00 Real Oviedo             - SD Ponferradina
- 18:00 Real Saragossa          - AD Alcorcon
+[Vie. 13.3.]
  18:00 Racing Santander        - CD Lugo
- 18:00 Deportivo La Coruna     - Sporting Gijon
- 18:00 UD Las Palmas           - FC Girona
+[Sab. 14.3.]
+ 18:00 CD Mirandes             - CD Numancia
+ 18:00 CF Fuenlabrada          - CD Teneriffa
  18:00 FC Malaga               - SD Huesca
+ 18:00 Deportivo La Coruna     - Sporting Gijon
+ 18:00 Real Oviedo             - SD Ponferradina
+[Dom. 15.3.]
+ 18:00 Real Saragossa          - AD Alcorcon
+ 18:00 UD Las Palmas           - FC Girona
  18:00 FC Elche                - Extremadura UD
  18:00 Albacete Balompie       - UD Almeria
  18:00 FC Cadiz                - Rayo Vallecano
- 18:00 CD Mirandes             - CD Numancia
- 18:00 CF Fuenlabrada          - CD Teneriffa
+ 
 
 
 Jornada 33
