@@ -388,7 +388,7 @@ Jornada 24
  18:30 Athletic Bilbao         0-1 CA Osasuna
  18:30 FC Sevilla              2-2 Espanyol Barcelona
  18:30 CD Leganes              0-0 Real Betis Sevilla
- 18:30 SD Eibar                - Real Sociedad          # 10.3.
+ 18:30 SD Eibar                1-2 Real Sociedad          
  
 
 Jornada 25
@@ -441,7 +441,7 @@ Jornada 27
 
 # Jornada 24
 [Mar. 10.3.]
- 18:30 SD Eibar                - Real Sociedad 
+ 18:30 SD Eibar                1-2 Real Sociedad 
  
  
 Jornada 28
