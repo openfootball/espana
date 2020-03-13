@@ -544,50 +544,50 @@ Jornada 31
 
 Jornada 32
 [Vie. 13.3.]
- 18:00 Racing Santander        - CD Lugo
+ 18:00 Racing Santander        - CD Lugo                 # Termin verschoben
 [Sab. 14.3.]
- 18:00 CD Mirandes             - CD Numancia
- 18:00 CF Fuenlabrada          - CD Teneriffa
- 18:00 FC Malaga               - SD Huesca
- 18:00 Deportivo La Coruna     - Sporting Gijon
- 18:00 Real Oviedo             - SD Ponferradina
+ 18:00 CD Mirandes             - CD Numancia             # Termin verschoben
+ 18:00 CF Fuenlabrada          - CD Teneriffa            # Termin verschoben
+ 18:00 FC Malaga               - SD Huesca               # Termin verschoben
+ 18:00 Deportivo La Coruna     - Sporting Gijon          # Termin verschoben
+ 18:00 Real Oviedo             - SD Ponferradina         # Termin verschoben
 [Dom. 15.3.]
- 18:00 Real Saragossa          - AD Alcorcon
- 18:00 UD Las Palmas           - FC Girona
- 18:00 FC Elche                - Extremadura UD
- 18:00 Albacete Balompie       - UD Almeria
- 18:00 FC Cadiz                - Rayo Vallecano
+ 18:00 Real Saragossa          - AD Alcorcon             # Termin verschoben
+ 18:00 UD Las Palmas           - FC Girona               # Termin verschoben
+ 18:00 FC Elche                - Extremadura UD          # Termin verschoben
+ 18:00 Albacete Balompie       - UD Almeria              # Termin verschoben
+ 18:00 FC Cadiz                - Rayo Vallecano          # Termin verschoben
  
 
 
 Jornada 33
 [Dom. 22.3.]
- 18:00 Real Oviedo             - Deportivo La Coruna
- 18:00 CD Teneriffa            - FC Malaga
- 18:00 Rayo Vallecano          - CF Fuenlabrada
- 18:00 CD Numancia             - FC Cadiz
- 18:00 SD Ponferradina         - FC Elche
- 18:00 UD Almeria              - UD Las Palmas
- 18:00 FC Girona               - Racing Santander
- 18:00 CD Lugo                 - Real Saragossa
- 18:00 AD Alcorcon             - Sporting Gijon
- 18:00 SD Huesca               - CD Mirandes
- 18:00 Extremadura UD          - Albacete Balompie
+ 18:00 Real Oviedo             - Deportivo La Coruna     # Termin verschoben
+ 18:00 CD Teneriffa            - FC Malaga               # Termin verschoben
+ 18:00 Rayo Vallecano          - CF Fuenlabrada          # Termin verschoben
+ 18:00 CD Numancia             - FC Cadiz                # Termin verschoben
+ 18:00 SD Ponferradina         - FC Elche                # Termin verschoben
+ 18:00 UD Almeria              - UD Las Palmas           # Termin verschoben
+ 18:00 FC Girona               - Racing Santander        # Termin verschoben
+ 18:00 CD Lugo                 - Real Saragossa          # Termin verschoben
+ 18:00 AD Alcorcon             - Sporting Gijon          # Termin verschoben
+ 18:00 SD Huesca               - CD Mirandes             # Termin verschoben
+ 18:00 Extremadura UD          - Albacete Balompie       # Termin verschoben
 
 
 Jornada 34
 [Dom. 29.3.]
- 18:00 Real Saragossa          - UD Almeria
- 18:00 Racing Santander        - CD Teneriffa
- 18:00 Deportivo La Coruna     - Rayo Vallecano
- 18:00 Sporting Gijon          - Real Oviedo
- 18:00 UD Las Palmas           - CD Lugo
- 18:00 FC Malaga               - Extremadura UD
- 18:00 FC Elche                - FC Girona
- 18:00 Albacete Balompie       - SD Huesca
- 18:00 FC Cadiz                - AD Alcorcon
- 18:00 CD Mirandes             - SD Ponferradina
- 18:00 CF Fuenlabrada          - CD Numancia
+ 18:00 Real Saragossa          - UD Almeria              # Termin verschoben
+ 18:00 Racing Santander        - CD Teneriffa            # Termin verschoben
+ 18:00 Deportivo La Coruna     - Rayo Vallecano          # Termin verschoben
+ 18:00 Sporting Gijon          - Real Oviedo             # Termin verschoben
+ 18:00 UD Las Palmas           - CD Lugo                 # Termin verschoben
+ 18:00 FC Malaga               - Extremadura UD          # Termin verschoben
+ 18:00 FC Elche                - FC Girona               # Termin verschoben
+ 18:00 Albacete Balompie       - SD Huesca               # Termin verschoben
+ 18:00 FC Cadiz                - AD Alcorcon             # Termin verschoben
+ 18:00 CD Mirandes             - SD Ponferradina         # Termin verschoben
+ 18:00 CF Fuenlabrada          - CD Numancia             # Termin verschoben
 
 
 Jornada 35
