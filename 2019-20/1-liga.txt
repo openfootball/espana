@@ -446,34 +446,34 @@ Jornada 27
  
 Jornada 28
 [Vie. 13.3.]
- 18:30 Real Madrid             - SD Eibar
+ 18:30 Real Madrid             - SD Eibar                  # Termin verschoben
 [Sab. 14.3.]
- 18:30 Celta Vigo              - FC Villarreal
- 18:30 RCD Mallorca            - FC Barcelona
- 18:30 FC Valencia             - UD Levante
- 18:30 CD Leganes              - Real Valladolid
+ 18:30 Celta Vigo              - FC Villarreal             # Termin verschoben
+ 18:30 RCD Mallorca            - FC Barcelona              # Termin verschoben
+ 18:30 FC Valencia             - UD Levante                # Termin verschoben
+ 18:30 CD Leganes              - Real Valladolid           # Termin verschoben
 [Dom. 15.3.]
- 18:30 Athletic Bilbao         - Atletico Madrid
- 18:30 Espanyol Barcelona      - Deportivo Alaves
- 18:30 FC Sevilla              - Real Betis Sevilla
- 18:30 Real Sociedad           - CA Osasuna
- 18:30 FC Granada              - FC Getafe
+ 18:30 Athletic Bilbao         - Atletico Madrid           # Termin verschoben
+ 18:30 Espanyol Barcelona      - Deportivo Alaves          # Termin verschoben
+ 18:30 FC Sevilla              - Real Betis Sevilla        # Termin verschoben
+ 18:30 Real Sociedad           - CA Osasuna                # Termin verschoben
+ 18:30 FC Granada              - FC Getafe                 # Termin verschoben
 
 
 Jornada 29
 [Vie. 20.3.]
- 18:30 CA Osasuna              - Atletico Madrid
+ 18:30 CA Osasuna              - Atletico Madrid           # Termin verschoben
 [Sab. 21.3.]
- 18:30 SD Eibar                - Athletic Bilbao
- 18:30 Deportivo Alaves        - Real Sociedad
- 18:30 Real Madrid             - FC Valencia
- 18:30 Real Valladolid         - Celta Vigo
+ 18:30 SD Eibar                - Athletic Bilbao           # Termin verschoben
+ 18:30 Deportivo Alaves        - Real Sociedad             # Termin verschoben
+ 18:30 Real Madrid             - FC Valencia               # Termin verschoben
+ 18:30 Real Valladolid         - Celta Vigo                # Termin verschoben
 [Dom. 22.3.]
- 18:30 Real Betis Sevilla      - FC Granada
- 18:30 FC Barcelona            - CD Leganes
- 18:30 FC Villarreal           - RCD Mallorca
- 18:30 FC Getafe               - Espanyol Barcelona
- 18:30 UD Levante              - FC Sevilla
+ 18:30 Real Betis Sevilla      - FC Granada                # Termin verschoben
+ 18:30 FC Barcelona            - CD Leganes                # Termin verschoben
+ 18:30 FC Villarreal           - RCD Mallorca              # Termin verschoben
+ 18:30 FC Getafe               - Espanyol Barcelona        # Termin verschoben
+ 18:30 UD Levante              - FC Sevilla                # Termin verschoben
 
 
 Jornada 30
