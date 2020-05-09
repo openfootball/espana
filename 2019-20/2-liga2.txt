@@ -103,7 +103,7 @@ Jornada 6
 
 
 Jornada 7
-[Vie. 20.9.}
+[Vie. 20.9.]
  18:00 CD Mirandes             2-2 AD Alcorcon
 [Sab. 21.9.]
  18:00 Real Saragossa          0-0 CD Lugo
@@ -327,7 +327,7 @@ Jornada 19
  18:00 UD Las Palmas           3-1 CD Numancia
  18:00 FC Cadiz                0-0 FC Elche
  18:00 FC Girona               3-1 CD Lugo
- 
+
 
 Jornada 20
 [Vie. 13.12.]
@@ -344,7 +344,7 @@ Jornada 20
  18:00 CD Lugo                 1-2 Sporting Gijon
  18:00 CF Fuenlabrada          2-2 UD Almeria
  18:00 Extremadura UD          0-0 FC Malaga
- 
+
 
 Jornada 21
 [Vie. 20.12.]
@@ -382,8 +382,8 @@ Jornada 22
  18:00 CD Numancia             0-1 Deportivo La Coruna
 [Mar. 7.1.]
  18:00 Real Saragossa          2-0 Sporting Gijon
- 
- 
+
+
 Jornada 23
 [Mar. 14.1.]
  20:00 UD Las Palmas           0-1 Real Saragossa
@@ -399,14 +399,14 @@ Jornada 23
  20:00 Deportivo La Coruna     2-1 Racing Santander
  20:00 FC Girona               3-1 Extremadura UD
  20:00 UD Almeria              2-0 Real Oviedo
- 
- 
+
+
 Jornada 24
 [Vie. 17.1.]
  18:00 CF Fuenlabrada          0-0 FC Malaga
 [Sab. 18.1.]
  18:00 SD Ponferradina         1-1 Rayo Vallecano
- 18:00 CD Mirandes             1-1 Real Saragossa        
+ 18:00 CD Mirandes             1-1 Real Saragossa
  18:00 CD Lugo                 1-0 Albacete Balompie
  18:00 CD Numancia             2-0 Sporting Gijon
 [Dom. 19.1.]
@@ -433,7 +433,7 @@ Jornada 25
  18:00 UD Almeria              0-2 FC Elche
  18:00 FC Girona               1-1 Real Oviedo
  18:00 AD Alcorcon             3-1 SD Ponferradina
- 
+
 
 Jornada 26
 [Vie. 31.1.]
@@ -450,7 +450,7 @@ Jornada 26
  18:00 FC Cadiz                1-1 Real Saragossa
  18:00 CD Mirandes             0-0 Rayo Vallecano
  18:00 CF Fuenlabrada          0-1 FC Girona
- 
+
 
 Jornada 27
 [Vie. 7.2.]
@@ -467,7 +467,7 @@ Jornada 27
  18:00 Albacete Balompie       1-1 SD Ponferradina
  18:00 CD Lugo                 2-2 FC Elche
  18:00 AD Alcorcon             0-1 Deportivo La Coruna
- 
+
 
 Jornada 28
 [Vie. 14.2.]
@@ -484,11 +484,11 @@ Jornada 28
  18:00 SD Ponferradina         0-0 Extremadura UD
  18:00 FC Cadiz                0-1 FC Malaga
  18:00 CF Fuenlabrada          0-1 CD Lugo
- 
- 
+
+
 # Jornada 24
 [Mie. 19.2.]
- 18:00 CD Mirandes             1-1 Real Saragossa 
+ 18:00 CD Mirandes             1-1 Real Saragossa
 
 
 Jornada 29
@@ -523,7 +523,7 @@ Jornada 30
  18:00 FC Elche                2-0 CD Numancia
  18:00 CD Mirandes             1-1 FC Girona
  18:00 CF Fuenlabrada          3-4 AD Alcorcon
- 
+
 
 Jornada 31
 [Vie. 6.3.]
@@ -557,7 +557,7 @@ Jornada 32
  18:00 FC Elche                - Extremadura UD          # Termin verschoben
  18:00 Albacete Balompie       - UD Almeria              # Termin verschoben
  18:00 FC Cadiz                - Rayo Vallecano          # Termin verschoben
- 
+
 
 
 Jornada 33

@@ -582,9 +582,6 @@ Jornada 35
   Betis Sevilla                1-1 Espanyol Barcelona
 
 
-# Meister Primera Division 2018/19:
-  FC Barcelona
-
 Jornada 36
 [Vie. 3.5.]
   Sevilla FC                   0-3 CD Leganés
@@ -601,10 +598,6 @@ Levante UD                     4-1 Rayo Vallecano
   SD Eibar                     1-0 Betis Sevilla
 
 
-# Absteiger Primera Division 2018/19:
-#  SD Huesca
-#  Rayo Vallecano
-
 
 Jornada 37
 [Dom. 12.5.]
@@ -620,8 +613,6 @@ Jornada 37
   Real Sociedad San Sebastian  3-1 Real Madrid
 
 
-# 3. Absteiger Primera Division 2018/19:
-#  Girona FC (3:2, 1:2 Auswärtstorregel)
 
 Jornada 38
 [Sab. 18.5.]
@@ -663,6 +654,4 @@ Jornada 38
 # 3. Aufsteiger Primera Division 2019/20:
 # RCD Mallorca
 
-# Ende Primera Division 2018/19
-#
 # 16.8. Start Primera Division 2019/20
