@@ -1,0 +1,76 @@
+# Leagues
+
+  Primera División - 8 records
+    Primera División 2012/13  - teams: 20, matches: 380, rounds: 38
+    Primera División 2013/14  - teams: 20, matches: 380, rounds: 38
+    Primera División 2014/15  - teams: 20, matches: 380, rounds: 38
+    Primera División 2015/16  - teams: 20, matches: 380, rounds: 38
+    Primera División 2016/17  - teams: 20, matches: 380, rounds: 38
+    Primera División 2017/18  - teams: 20, matches: 383, rounds: 38
+    Primera División 2018/19  - teams: 20, matches: 381, rounds: 38
+    Primera División 2019/20  - teams: 20, matches: 382, rounds: 38
+
+Primera División  - 8 seasons
+
+  1. Athletic Club Bilbao       8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  2. Atlético Madrid            8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  3. FC Barcelona               8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  4. RC Celta Vigo              8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  5. RCD Espanyol               8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  6. Real Madrid                8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  7. Real Sociedad              8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  8. Sevilla FC                 8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+  9. Valencia CF                8  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+ 10. Getafe CF                  7  (2019/20, 2018/19, 2017/18, 2015/16, 2014/15, 2013/14, 2012/13)
+ 11. Levante UD                 7  (2019/20, 2018/19, 2017/18, 2015/16, 2014/15, 2013/14, 2012/13)
+ 12. Real Betis                 7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2013/14, 2012/13)
+ 13. Villarreal CF              7  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15, 2013/14)
+ 14. Granada CF                 6  (2019/20, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+ 15. Málaga CF                  6  (2017/18, 2016/17, 2015/16, 2014/15, 2013/14, 2012/13)
+ 16. SD Eibar                   6  (2019/20, 2018/19, 2017/18, 2016/17, 2015/16, 2014/15)
+ 17. RCD La Coruña              5  (2017/18, 2016/17, 2015/16, 2014/15, 2012/13)
+ 18. Rayo Vallecano             5  (2018/19, 2015/16, 2014/15, 2013/14, 2012/13)
+ 19. CA Osasuna                 4  (2019/20, 2016/17, 2013/14, 2012/13)
+ 20. CD Leganés                 4  (2019/20, 2018/19, 2017/18, 2016/17)
+ 21. Deportivo Alavés           4  (2019/20, 2018/19, 2017/18, 2016/17)
+ 22. Real Valladolid CF         4  (2019/20, 2018/19, 2013/14, 2012/13)
+ 23. UD Las Palmas              3  (2017/18, 2016/17, 2015/16)
+ 24. Elche CF                   2  (2014/15, 2013/14)
+ 25. Girona FC                  2  (2018/19, 2017/18)
+ 26. RCD Mallorca               2  (2019/20, 2012/13)
+ 27. Sporting Gijón             2  (2016/17, 2015/16)
+ 28. UD Almería                 2  (2014/15, 2013/14)
+ 29. Córdoba CF                 1  (2014/15)
+ 30. Real Zaragoza              1  (2012/13)
+ 31. SD Huesca                  1  (2018/19)
+
+
+  Segunda División - 1 records
+    Segunda División 2019/20  - teams: 22, matches: 463, rounds: 42
+
+Segunda División  - 1 seasons
+
+  1. AD Alcorcón                1  (2019/20)
+  2. Albacete Balompié          1  (2019/20)
+  3. CD Lugo                    1  (2019/20)
+  4. CD Mirandés                1  (2019/20)
+  5. CD Numancia                1  (2019/20)
+  6. CD Tenerife                1  (2019/20)
+  7. CF Fuenlabrada             1  (2019/20)
+  8. Cádiz CF                   1  (2019/20)
+  9. Elche CF                   1  (2019/20)
+ 10. Extremadura UD             1  (2019/20)
+ 11. Girona FC                  1  (2019/20)
+ 12. Málaga CF                  1  (2019/20)
+ 13. RCD La Coruña              1  (2019/20)
+ 14. Rayo Vallecano             1  (2019/20)
+ 15. Real Oviedo                1  (2019/20)
+ 16. Real Racing Santander      1  (2019/20)
+ 17. Real Zaragoza              1  (2019/20)
+ 18. SD Huesca                  1  (2019/20)
+ 19. SD Ponferradina            1  (2019/20)
+ 20. Sporting Gijón             1  (2019/20)
+ 21. UD Almería                 1  (2019/20)
+ 22. UD Las Palmas              1  (2019/20)
+
+

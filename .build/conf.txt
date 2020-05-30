@@ -1,55 +1,39 @@
 15 datafiles:
-[1/15] >2012-13/liga-i.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2012/13<, 20 clubs, 19 rounds
-[2/15] >2012-13/liga-ii.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2012/13<, 20 clubs, 19 rounds
-[3/15] >2013-14/liga-i.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2013/14<, 20 clubs, 19 rounds
-[4/15] >2013-14/liga-ii.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2013/14<, 20 clubs, 19 rounds
-[5/15] >2014-15/liga-i.txt<
-  1 section(s):
-    243 lines - league: >Primera División< (es.1), season: >2014/15<, 20 clubs, 19 rounds
-[6/15] >2014-15/liga-ii.txt<
-  1 section(s):
-    228 lines - league: >Primera División< (es.1), season: >2014/15<, 20 clubs, 19 rounds
-[7/15] >2015-16/liga-i.txt<
-  1 section(s):
-    242 lines - league: >Primera División< (es.1), season: >2015/16<, 20 clubs, 19 rounds
-[8/15] >2015-16/liga-ii.txt<
-  1 section(s):
-    228 lines - league: >Primera División< (es.1), season: >2015/16<, 20 clubs, 19 rounds
-[9/15] >2016-17/liga-i.txt<
-  1 section(s):
-    212 lines - league: >Primera División< (es.1), season: >2016/17<, 20 clubs, 16 rounds
-[10/15] >2016-17/liga-ii.txt<
-  1 section(s):
-    273 lines - league: >Primera División< (es.1), season: >2016/17<, 20 clubs, 23 rounds
-[11/15] >2017-18/liga-i.txt<
-  1 section(s):
-    249 lines - league: >Primera División< (es.1), season: >2017/18<, 20 clubs, 17 rounds
-[12/15] >2017-18/liga-ii.txt<
-  1 section(s):
-    310 lines - league: >Primera División< (es.1), season: >2017/18<, 20 clubs, 21 rounds
-[13/15] >2018-19/1-liga.txt<
-  1 section(s):
-    550 lines - league: >Primera División< (es.1), season: >2018/19<, 20 clubs, 38 rounds
-[14/15] >2019-20/1-liga.txt<
-  1 section(s):
-    497 lines - league: >Primera División< (es.1), season: >2019/20<, 20 clubs, 38 rounds
-[15/15] >2019-20/2-liga2.txt<
-  1 section(s):
-    595 lines - league: >Segunda División< (es.2), season: >2019/20<, 22 clubs, 42 rounds
+[1/15] >2012-13/liga-i.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2012/13, 20 team refs, 19 round defs
+[2/15] >2012-13/liga-ii.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2012/13, 20 team refs, 19 round defs
+[3/15] >2013-14/liga-i.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2013/14, 20 team refs, 19 round defs
+[4/15] >2013-14/liga-ii.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2013/14, 20 team refs, 19 round defs
+[5/15] >2014-15/liga-i.txt< - 1 section(s):
+    243 lines, 190 matches - Primera División (es.1) 2014/15, 20 team refs, 19 round defs
+[6/15] >2014-15/liga-ii.txt< - 1 section(s):
+    228 lines, 190 matches - Primera División (es.1) 2014/15, 20 team refs, 19 round defs
+[7/15] >2015-16/liga-i.txt< - 1 section(s):
+    242 lines, 190 matches - Primera División (es.1) 2015/16, 20 team refs, 19 round defs
+[8/15] >2015-16/liga-ii.txt< - 1 section(s):
+    228 lines, 190 matches - Primera División (es.1) 2015/16, 20 team refs, 19 round defs
+[9/15] >2016-17/liga-i.txt< - 1 section(s):
+    212 lines, 160 matches - Primera División (es.1) 2016/17, 20 team refs, 16 round defs
+[10/15] >2016-17/liga-ii.txt< - 1 section(s):
+    273 lines, 223 matches - Primera División (es.1) 2016/17, 20 team refs, 23 round defs
+[11/15] >2017-18/liga-i.txt< - 1 section(s):
+    249 lines, 170 matches - Primera División (es.1) 2017/18, 20 team refs, 17 round defs
+[12/15] >2017-18/liga-ii.txt< - 1 section(s):
+    309 lines, 213 matches - Primera División (es.1) 2017/18, 20 team refs, 21 round defs
+[13/15] >2018-19/1-liga.txt< - 1 section(s):
+    549 lines, 381 matches - Primera División (es.1) 2018/19, 20 team refs, 38 round defs
+[14/15] >2019-20/1-liga.txt< - 1 section(s):
+    516 lines, 382 matches - Primera División (es.1) 2019/20, 20 team refs, 38 round defs
+[15/15] >2019-20/2-liga2.txt< - 1 section(s):
+    614 lines, 464 matches - Segunda División (es.2) 2019/20, 22 team refs, 42 round defs
 
 
-[1/15] >2012-13/liga-i.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2012/13<
-      20 clubs:
+[1/15] >2012-13/liga-i.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2012/13
+      20 teams (referenced):
         19× Athletic ⇒ Athletic Club Bilbao
         19× Atlético ⇒ Atlético Madrid
         19× Barcelona ⇒ FC Barcelona
@@ -70,7 +54,7 @@
         19× Valencia ⇒ Valencia CF
         19× Valladolid ⇒ Real Valladolid CF
         19× Zaragoza ⇒ Real Zaragoza
-      19 rounds:
+      19 rounds (referenced):
         Jornada 1 // Sáb. 18 y Dom. 19 Agosto, 10 matches
         Jornada 2 // Sáb. 25 y Dom. 26 Agosto, 10 matches
         Jornada 3 //  Sáb. 1 y Dom. 2 Septiembre, 10 matches
@@ -90,10 +74,9 @@
         Jornada 17  //  Vie. 21 y Sáb. 22 Diciembre, 10 matches
         Jornada 18  //  Sáb. 5 y Dom. 6 Enero, 10 matches
         Jornada 19 //  Sáb. 12 y Dom. 13 Enero, 10 matches
-[2/15] >2012-13/liga-ii.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2012/13<
-      20 clubs:
+[2/15] >2012-13/liga-ii.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2012/13
+      20 teams (referenced):
         19× Athletic ⇒ Athletic Club Bilbao
         19× Atlético ⇒ Atlético Madrid
         19× Barcelona ⇒ FC Barcelona
@@ -114,7 +97,7 @@
         19× Valencia ⇒ Valencia CF
         19× Valladolid ⇒ Real Valladolid CF
         19× Zaragoza ⇒ Real Zaragoza
-      19 rounds:
+      19 rounds (referenced):
         Jornada 20  //  Sáb. 19 y Dom. 20 Enero, 10 matches
         Jornada 21  // Sáb. 26 y Dom. 27 Enero, 10 matches
         Jornada 22  //  Sáb. 2 y Dom. 3 Febrero, 10 matches
@@ -134,10 +117,9 @@
         Jornada 36 // Sáb. 18 y Dom. 19 Mayo, 10 matches
         Jornada 37 // Mar. 28 y Mier. 29 Mayo, 10 matches
         Jornada 38 // Sáb. 1 Junio, 10 matches
-[3/15] >2013-14/liga-i.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2013/14<
-      20 clubs:
+[3/15] >2013-14/liga-i.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2013/14
+      20 teams (referenced):
         19× Athletic Bilbao ⇒ Athletic Club Bilbao
         19× Atlético Madrid
         19× Betis Sevilla ⇒ Real Betis
@@ -158,7 +140,7 @@
         19× UD Almería
         19× Valencia CF
         19× Villarreal CF
-      19 rounds:
+      19 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -178,10 +160,9 @@
         Jornada 17, 10 matches
         Jornada 18, 10 matches
         Jornada 19, 10 matches
-[4/15] >2013-14/liga-ii.txt<
-  1 section(s):
-    209 lines - league: >Primera División< (es.1), season: >2013/14<
-      20 clubs:
+[4/15] >2013-14/liga-ii.txt< - 1 section(s):
+    209 lines, 190 matches - Primera División (es.1) 2013/14
+      20 teams (referenced):
         19× Athletic Bilbao ⇒ Athletic Club Bilbao
         19× Atlético Madrid
         19× Betis Sevilla ⇒ Real Betis
@@ -202,7 +183,7 @@
         19× UD Almería
         19× Valencia CF
         19× Villarreal CF
-      19 rounds:
+      19 rounds (referenced):
         Jornada 20, 10 matches
         Jornada 21, 10 matches
         Jornada 22, 10 matches
@@ -222,10 +203,9 @@
         Jornada 36, 10 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[5/15] >2014-15/liga-i.txt<
-  1 section(s):
-    243 lines - league: >Primera División< (es.1), season: >2014/15<
-      20 clubs:
+[5/15] >2014-15/liga-i.txt< - 1 section(s):
+    243 lines, 190 matches - Primera División (es.1) 2014/15
+      20 teams (referenced):
         19× Athletic Bilbao ⇒ Athletic Club Bilbao
         19× Atlético Madrid
         19× Celta Vigo ⇒ RC Celta Vigo
@@ -246,7 +226,7 @@
         19× UD Almería
         19× Valencia CF
         19× Villarreal CF
-      19 rounds:
+      19 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -266,10 +246,9 @@
         Jornada 17, 10 matches
         Jornada 18, 10 matches
         Jornada 19, 10 matches
-[6/15] >2014-15/liga-ii.txt<
-  1 section(s):
-    228 lines - league: >Primera División< (es.1), season: >2014/15<
-      20 clubs:
+[6/15] >2014-15/liga-ii.txt< - 1 section(s):
+    228 lines, 190 matches - Primera División (es.1) 2014/15
+      20 teams (referenced):
         19× Athletic Bilbao ⇒ Athletic Club Bilbao
         19× Atlético Madrid
         19× Celta Vigo ⇒ RC Celta Vigo
@@ -290,7 +269,7 @@
         19× UD Almería
         19× Valencia CF
         19× Villarreal CF
-      19 rounds:
+      19 rounds (referenced):
         Jornada 20, 10 matches
         Jornada 21, 10 matches
         Jornada 22, 10 matches
@@ -310,10 +289,9 @@
         Jornada 36, 10 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[7/15] >2015-16/liga-i.txt<
-  1 section(s):
-    242 lines - league: >Primera División< (es.1), season: >2015/16<
-      20 clubs:
+[7/15] >2015-16/liga-i.txt< - 1 section(s):
+    242 lines, 190 matches - Primera División (es.1) 2015/16
+      20 teams (referenced):
         19× Athletic Bilbao ⇒ Athletic Club Bilbao
         19× Atlético Madrid
         19× Betis Sevilla ⇒ Real Betis
@@ -334,7 +312,7 @@
         19× UD Las Palmas
         19× Valencia CF
         19× Villarreal CF
-      19 rounds:
+      19 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -354,10 +332,9 @@
         Jornada 17, 10 matches
         Jornada 18, 10 matches
         Jornada 19, 10 matches
-[8/15] >2015-16/liga-ii.txt<
-  1 section(s):
-    228 lines - league: >Primera División< (es.1), season: >2015/16<
-      20 clubs:
+[8/15] >2015-16/liga-ii.txt< - 1 section(s):
+    228 lines, 190 matches - Primera División (es.1) 2015/16
+      20 teams (referenced):
         19× Athletic Bilbao ⇒ Athletic Club Bilbao
         19× Atlético Madrid
         19× Betis Sevilla ⇒ Real Betis
@@ -378,7 +355,7 @@
         19× UD Las Palmas
         19× Valencia CF
         19× Villarreal CF
-      19 rounds:
+      19 rounds (referenced):
         Jornada 20, 10 matches
         Jornada 21, 10 matches
         Jornada 22, 10 matches
@@ -398,10 +375,9 @@
         Jornada 36, 10 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[9/15] >2016-17/liga-i.txt<
-  1 section(s):
-    212 lines - league: >Primera División< (es.1), season: >2016/17<
-      20 clubs:
+[9/15] >2016-17/liga-i.txt< - 1 section(s):
+    212 lines, 160 matches - Primera División (es.1) 2016/17
+      20 teams (referenced):
         16× Athletic Bilbao ⇒ Athletic Club Bilbao
         16× Atlético Madrid
         16× Betis Sevilla ⇒ Real Betis
@@ -422,7 +398,7 @@
         16× UD Las Palmas
         16× Valencia CF
         16× Villarreal CF
-      16 rounds:
+      16 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -439,10 +415,9 @@
         Jornada 14, 10 matches
         Jornada 15, 10 matches
         Jornada 16, 10 matches
-[10/15] >2016-17/liga-ii.txt<
-  1 section(s):
-    273 lines - league: >Primera División< (es.1), season: >2016/17<
-      20 clubs:
+[10/15] >2016-17/liga-ii.txt< - 1 section(s):
+    273 lines, 223 matches - Primera División (es.1) 2016/17
+      20 teams (referenced):
         24× Real Madrid
         23× Betis Sevilla ⇒ Real Betis
         23× Celta Vigo ⇒ RC Celta Vigo
@@ -463,7 +438,7 @@
         22× Sporting Gijón
         22× UD Las Palmas
         22× Villarreal CF
-      23 rounds:
+      23 rounds (referenced):
         Jornada 17, 10 matches
         Jornada 18, 10 matches
         Jornada 19, 10 matches
@@ -487,10 +462,9 @@
         Jornada 36, 10 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[11/15] >2017-18/liga-i.txt<
-  1 section(s):
-    249 lines - league: >Primera División< (es.1), season: >2017/18<
-      20 clubs:
+[11/15] >2017-18/liga-i.txt< - 1 section(s):
+    249 lines, 170 matches - Primera División (es.1) 2017/18
+      20 teams (referenced):
         17× Athletic Bilbao ⇒ Athletic Club Bilbao
         17× Atlético Madrid
         17× Betis Sevilla ⇒ Real Betis
@@ -511,7 +485,7 @@
         17× UD Las Palmas
         17× Valencia CF
         17× Villarreal CF
-      17 rounds:
+      17 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -529,10 +503,9 @@
         Jornada 15, 10 matches
         Jornada 16, 10 matches
         Jornada 17, 10 matches
-[12/15] >2017-18/liga-ii.txt<
-  1 section(s):
-    310 lines - league: >Primera División< (es.1), season: >2017/18<
-      20 clubs:
+[12/15] >2017-18/liga-ii.txt< - 1 section(s):
+    309 lines, 213 matches - Primera División (es.1) 2017/18
+      20 teams (referenced):
         23× Real Madrid
         22× CD Leganés
         22× FC Barcelona
@@ -553,7 +526,7 @@
         21× SD Eibar
         21× UD Las Palmas
         21× Valencia CF
-      21 rounds:
+      21 rounds (referenced):
         Jornada 18, 10 matches
         Jornada 19, 10 matches
         Jornada 20, 10 matches
@@ -575,10 +548,9 @@
         Jornada 36, 12 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[13/15] >2018-19/1-liga.txt<
-  1 section(s):
-    550 lines - league: >Primera División< (es.1), season: >2018/19<
-      20 clubs:
+[13/15] >2018-19/1-liga.txt< - 1 section(s):
+    549 lines, 381 matches - Primera División (es.1) 2018/19
+      20 teams (referenced):
         39× Athletic Bilbao ⇒ Athletic Club Bilbao
         39× Rayo Vallecano
         38× Atlético Madrid
@@ -599,7 +571,7 @@
         38× Sevilla FC
         38× Valencia CF
         38× Villarreal CF
-      38 rounds:
+      38 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -638,12 +610,13 @@
         Jornada 36, 10 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[14/15] >2019-20/1-liga.txt<
-  1 section(s):
-    497 lines - league: >Primera División< (es.1), season: >2019/20<
-      20 clubs:
+[14/15] >2019-20/1-liga.txt< - 1 section(s):
+    516 lines, 382 matches - Primera División (es.1) 2019/20
+      20 teams (referenced):
         39× FC Barcelona
         39× Real Madrid
+        39× Real Sociedad
+        39× SD Eibar
         38× Athletic Bilbao ⇒ Athletic Club Bilbao
         38× Atletico Madrid ⇒ Atlético Madrid
         38× CA Osasuna
@@ -658,11 +631,9 @@
         38× FC Villarreal ⇒ Villarreal CF
         38× RCD Mallorca
         38× Real Betis Sevilla ⇒ Real Betis
-        38× Real Sociedad
         38× Real Valladolid ⇒ Real Valladolid CF
-        38× SD Eibar
         38× UD Levante ⇒ Levante UD
-      38 rounds:
+      38 rounds (referenced):
         Jornada 1, 10 matches
         Jornada 2, 10 matches
         Jornada 3, 10 matches
@@ -689,7 +660,7 @@
         Jornada 24, 10 matches
         Jornada 25, 10 matches
         Jornada 26, 10 matches
-        Jornada 27, 10 matches
+        Jornada 27, 11 matches
         Jornada 28, 10 matches
         Jornada 29, 10 matches
         Jornada 30, 10 matches
@@ -701,16 +672,15 @@
         Jornada 36, 10 matches
         Jornada 37, 10 matches
         Jornada 38, 10 matches
-[15/15] >2019-20/2-liga2.txt<
-  1 section(s):
-    595 lines - league: >Segunda División< (es.2), season: >2019/20<
-      22 clubs:
+[15/15] >2019-20/2-liga2.txt< - 1 section(s):
+    614 lines, 464 matches - Segunda División (es.2) 2019/20
+      22 teams (referenced):
+        44× Real Saragossa ⇒ Real Zaragoza
+        43× CD Mirandes ⇒ CD Mirandés
         43× CF Fuenlabrada
-        43× Real Saragossa ⇒ Real Zaragoza
         42× AD Alcorcon ⇒ AD Alcorcón
         42× Albacete Balompie ⇒ Albacete Balompié
         42× CD Lugo
-        42× CD Mirandes ⇒ CD Mirandés
         42× CD Numancia
         42× CD Teneriffa ⇒ CD Tenerife
         42× Deportivo La Coruna ⇒ RCD La Coruña
@@ -727,7 +697,7 @@
         42× Sporting Gijon ⇒ Sporting Gijón
         42× UD Almeria ⇒ UD Almería
         42× UD Las Palmas
-      42 rounds:
+      42 rounds (referenced):
         Jornada 1, 11 matches
         Jornada 2, 11 matches
         Jornada 3, 11 matches
@@ -755,7 +725,7 @@
         Jornada 25, 11 matches
         Jornada 26, 11 matches
         Jornada 27, 11 matches
-        Jornada 28, 11 matches
+        Jornada 28, 12 matches
         Jornada 29, 11 matches
         Jornada 30, 11 matches
         Jornada 31, 11 matches
