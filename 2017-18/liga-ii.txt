@@ -40,7 +40,6 @@ Jornada 20
    Villarreal CF                 2-1  Levante UD
    UD Las Palmas                 2-1  Valencia CF
    Atlético Madrid               1-1  Girona FC
-
 [Dom. 21.1.]
    CD Alavés                     2-2  CD Leganés
    Real Madrid                   7-1  Deportivo La Coruña
@@ -115,7 +114,7 @@ Jornada 24
 [Lun. 19.2.]
    Getafe CF                     3-0  Celta Vigo
 
-## suplemento Jornada 16
+Jornada 16      ## suplemento
 [Mié. 21.2.]
    CD Leganés                    1-3  Real Madrid
 
@@ -266,11 +265,11 @@ Jornada 34
    SD Eibar                      0-1  Getafe CF
 [Dom. 22.4.]
    Atlético Madrid               0-0  Betis Sevilla
-   FC Barcelona                  5-1  Villarreal CF
+   ## FC Barcelona                -  Villarreal CF  ## see postponed
    Girona FC                     0-2  Espanyol Barcelona
    UD Las Palmas                 0-4  CD Alavés
    Málaga CF                     2-0  Real Sociedad San Sebastián
-   Sevilla FC                    3-2  Real Madrid
+   ## Sevilla FC                  -  Real Madrid    ## see postponed
 [Lun. 23.4.]
    Athletic Bilbao               1-3  Levante UD
 
@@ -310,7 +309,7 @@ Jornada 36
    CD Leganés                    0-3  Levante UD
 
 
-## suplemento Jornada 34
+Jornada 34     ## suplemento
 [Mié. 9.5.]
    Sevilla FC                    3-2  Real Madrid
    FC Barcelona                  5-1  Villarreal CF
@@ -345,30 +344,3 @@ Jornada 38
    Atlético Madrid              2-2  SD Eibar
 
 
-# 1. Aufsteiger in Primera Division 2018/19:
-#   SD Huesca
-#
-# 2. Aufsteiger in Primera Division 2018/19:
-#   Rayo Vallecano
-#
-# Sieger 3. Aufsteiger in Primera Division 2018/19:
-#
-# [Mié. 6.6.]
-#   CD Numanica        1-1 Real Zaragoza
-# [Jue. 7.6.]
-#   Real Valladoid     3-1 Sporting Gijon
-# [Sáb. 9.6.]
-#   Real Zaragoza      1-2 CD Numanica
-# [Dom. 10.6.]
-#   Sporting Gijon     1-2 Real Valladoid
-#
-# [Mié. 13.6.]
-#  CD Numanica         0-3 Real Valladoid
-# [Sáb. 16.6.]
-#  Real Valladoid      1-1 CD Numanica
-#
-# 3. Aufsteiger in Primera Division 2018/19:
-#   Real Valladoid
-
-
-# Sommerpause bis 18.8.2ß18

@@ -246,7 +246,7 @@ Jornada 16
    Celta Vigo                    0-1  Villarreal CF
    Girona FC                     1-0  Getafe CF
    UD Las Palmas                 2-2  Espanyol Barcelona
-   CD Leganés                    1-3  Real Madrid
+   ## CD Leganés                  -  Real Madrid    ## see postponed
 [Lun.18.12.]
    Málaga CF                     0-2  Betis Sevilla
 

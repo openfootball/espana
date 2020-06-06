@@ -42,7 +42,7 @@ Jornada 3
   Villarreal CF                0-1 Girona FC
 [Sáb. 1.9.]
   Celta Vigo                   2-0 Atlético Madrid
-  Rayo Vallecano               1-1 Athletic Bilbao
+  ## Rayo Vallecano             - Athletic Bilbao    ## see postponed
   Real Madrid                  4-1 CD Leganés
 [Dom. 2.9.]
   Levante UD                   2-2 Valencia CF
@@ -150,7 +150,7 @@ Jornada 9
 [Lun. 22.10.]
   Real Sociedad San Sebastian  0-0 Girona FC
 
-## suplemento Jornada 3
+Jornada 3    ## suplemento
 [Mie. 24.10.]
   Rayo Vallecano               1-1 Athletic Bilbao
 
@@ -628,30 +628,3 @@ Jornada 38
   SD Eibar                     2-2 FC Barcelona
   Real Madrid                  0-2 Betis Sevilla
 
-
-# Aufsteiger Primera Division 2019/20:
-#  CA Osasuna
-#  Granada CF
-
-# Play-off um Aufstiegsplatz Primera Division 2019/20:
-#  Albacete, Malaga CF, RCD Mallorca und Deportiva La Coruna.
-
-# Halbfinale:
-# [Mie. 12.6.]
-#  Deportiva La Coruna           4-2 Malaga CF
-# [Jue. 13.6.]
-#  RCD Mallorca                  2-0 Albacete
-# [Sab. 15.6.]
-#  Malaga CF                     0-2 Deportiva La Coruna
-# [Dom. 16.6.]
-#  Albacete                      1-0 RCD Mallorca
-
-# Finale:
-# [Jue. 20.6.]
-# Deportiva La Coruna             2-0  RCD Mallorca
-# [Dom. 23.6.]
-# RCD Mallorca                    3-0 Deportiva La Coruna
-# 3. Aufsteiger Primera Division 2019/20:
-# RCD Mallorca
-
-# 16.8. Start Primera Division 2019/20

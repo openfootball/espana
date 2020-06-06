@@ -151,7 +151,7 @@ Jornada 10
 [Sab. 26.10.]
  18:30 Real Valladolid         2-0 SD Eibar
  18:30 Atletico Madrid         2-0 Athletic Bilbao
- 18:30 FC Barcelona            0-0 Real Madrid          
+##  18:30 FC Barcelona          - Real Madrid   ## see postponed
  18:30 CD Leganes              1-0 RCD Mallorca
 [Dom. 27.10.]
  18:30 Celta Vigo              0-1 Real Sociedad
@@ -254,7 +254,7 @@ Jornada 16
  18:30 CD Leganes              3-2 Celta Vigo
  18:30 CA Osasuna              1-1 FC Sevilla
  18:30 SD Eibar                0-1 FC Getafe
- 
+
 
 Jornada 17
 [Vie. 13.12.]
@@ -272,7 +272,7 @@ Jornada 17
  18:30 FC Getafe               1-1 Real Valladolid
 
 
-# Jornada 10
+Jornada 10
 [Mie. 18.12.]
  18:30 FC Barcelona            0-0 Real Madrid
 
@@ -326,7 +326,7 @@ Jornada 20
  18:30 FC Barcelona            1-0 FC Granada
  18:30 RCD Mallorca            4-1 FC Valencia
  18:30 FC Villarreal           1-2 Espanyol Barcelona
- 
+
 
 Jornada 21
 [Vie. 24.1.]
@@ -373,7 +373,7 @@ Jornada 23
  18:30 Real Betis Sevilla      2-3 FC Barcelona
  18:30 Real Sociedad           2-1 Athletic Bilbao
  18:30 CA Osasuna              1-4 Real Madrid
- 
+
 
 Jornada 24
 [Vie. 14.2.]
@@ -388,8 +388,8 @@ Jornada 24
  18:30 Athletic Bilbao         0-1 CA Osasuna
  18:30 FC Sevilla              2-2 Espanyol Barcelona
  18:30 CD Leganes              0-0 Real Betis Sevilla
- 18:30 SD Eibar                1-2 Real Sociedad          
- 
+ ## 18:30 SD Eibar              - Real Sociedad   ## see postponed
+
 
 Jornada 25
 [Vie. 21.2.]
@@ -405,7 +405,7 @@ Jornada 25
  18:30 Deportivo Alaves        2-1 Athletic Bilbao
  18:30 FC Getafe               0-3 FC Sevilla
  18:30 CA Osasuna              0-3 FC Granada
- 
+
 
 Jornada 26
 [Vie. 28.2.]
@@ -421,7 +421,7 @@ Jornada 26
  18:30 Real Madrid             2-0 FC Barcelona
  18:30 RCD Mallorca            0-1 FC Getafe
  18:30 FC Sevilla              3-2 CA Osasuna
- 
+
 
 Jornada 27
 [Vie. 6.3.]
@@ -439,11 +439,11 @@ Jornada 27
  18:30 UD Levante              1-1 FC Granada
 
 
-# Jornada 24
+Jornada 24
 [Mar. 10.3.]
- 18:30 SD Eibar                1-2 Real Sociedad 
- 
- 
+ 18:30 SD Eibar                1-2 Real Sociedad
+
+
 Jornada 28
 [Vie. 13.3.]
  18:30 Real Madrid             - SD Eibar                  # Termin verschoben

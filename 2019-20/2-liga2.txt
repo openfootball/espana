@@ -94,7 +94,7 @@ Jornada 6
 [Mié. 18.9.]
  20:00 Deportivo La Coruna     3-3 CD Numancia
  20:00 CD Lugo                 2-2 SD Ponferradina
- 20:00 CF Fuenlabrada          2-1 Real Saragossa
+ ## 20:00 CF Fuenlabrada       - Real Saragossa    ## see postponed
  20:00 SD Huesca               0-1 Albacete Balompie
 [Jue. 19.9]
  20:00 UD Las Palmas           1-0 Sporting Gijon
@@ -339,7 +339,7 @@ Jornada 20
  18:00 SD Ponferradina         2-0 Deportivo La Coruna
 [Dom. 15.12.]
  18:00 Real Oviedo             0-2 FC Cadiz
- 18:00 Rayo Vallecano          - Albacete Balompie    # Termin verschoben
+ ## 18:00 Rayo Vallecano          - Albacete Balompie    ## see postponed
  18:00 FC Elche                2-3 UD Las Palmas
  18:00 CD Lugo                 1-2 Sporting Gijon
  18:00 CF Fuenlabrada          2-2 UD Almeria
@@ -406,7 +406,7 @@ Jornada 24
  18:00 CF Fuenlabrada          0-0 FC Malaga
 [Sab. 18.1.]
  18:00 SD Ponferradina         1-1 Rayo Vallecano
- 18:00 CD Mirandes             1-1 Real Saragossa
+ ## 18:00 CD Mirandes           - Real Saragossa     ## see postponed
  18:00 CD Lugo                 1-0 Albacete Balompie
  18:00 CD Numancia             2-0 Sporting Gijon
 [Dom. 19.1.]
@@ -486,7 +486,7 @@ Jornada 28
  18:00 CF Fuenlabrada          0-1 CD Lugo
 
 
-# Jornada 24
+Jornada 24
 [Mie. 19.2.]
  18:00 CD Mirandes             1-1 Real Saragossa
 
