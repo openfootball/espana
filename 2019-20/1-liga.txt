@@ -455,7 +455,7 @@ Jornada 28
 [Dom. 15.3.]
  18:30 Athletic Bilbao         - Atletico Madrid           # Termin verschoben
  18:30 Espanyol Barcelona      - Deportivo Alaves          # Termin verschoben
- 18:30 FC Sevilla              - Real Betis Sevilla        # Termin verschoben
+ 18:30 FC Sevilla              2-0  Real Betis Sevilla        # Termin verschoben
  18:30 Real Sociedad           - CA Osasuna                # Termin verschoben
  18:30 FC Granada              - FC Getafe                 # Termin verschoben
 
