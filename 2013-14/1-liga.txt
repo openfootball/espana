@@ -2,622 +2,632 @@
 
 
 Jornada 1
-
-17.08. (Sáb.) Real Sociedad   2-0  Getafe CF
-17.08. (Sáb.) Real Valladolid 1-2  Athletic Bilbao
-17.08. (Sáb.) Valencia CF     1-0  Málaga CF
-
-18.08. (Dom.) FC Barcelona    7-0  Levante UD
-18.08. (Dom.) Real Madrid     2-1  Betis Sevilla
-18.08. (Dom.) CA Osasuna      1-2  Granada CF
-18.08. (Dom.) Sevilla FC      1-3  Atlético Madrid
-
-19.08. (Lun.) Rayo Vallecano  3-0  Elche CF
-19.08. (Lun.) Celta Vigo      2-2  RCD Espanyol
-19.08. (Lun.) UD Almería      2-3  Villarreal CF
+[Sáb. 17.8.]
+  Real Sociedad            2-0  Getafe CF
+  Real Valladolid CF       1-2  Athletic Club Bilbao
+  Valencia CF              1-0  Málaga CF
+[Dom. 18.8.]
+  Sevilla FC               1-3  Atlético Madrid
+  CA Osasuna               1-2  Granada CF
+  FC Barcelona             7-0  Levante UD
+  Real Madrid              2-1  Real Betis
+[Lun. 19.8.]
+  UD Almería               2-3  Villarreal CF
+  Rayo Vallecano           3-0  Elche CF
+  RC Celta Vigo            2-2  RCD Espanyol
 
 
 Jornada 2
-
-23.08. (Vié.) Getafe CF       2-2  UD Almería
-23.08. (Vié.) Athletic Bilbao 2-0  CA Osasuna
-
-24.08. (Sáb.) Elche CF        1-1  Real Sociedad
-24.08. (Sáb.) RCD Espanyol    3-1  Valencia CF
-24.08. (Sáb.) Villarreal CF   2-1  Real Valladolid
-
-25.08. (Dom.) Atlético Madrid 5-0  Rayo Vallecano
-25.08. (Dom.) Levante UD      0-0  Sevilla FC
-25.08. (Dom.) Málaga CF       0-1  FC Barcelona
-25.08. (Dom.) Betis Sevilla   1-2  Celta Vigo
-
-26.08. (Lun.) Granada CF      0-1  Real Madrid
+[Vie. 23.8.]
+  Getafe CF                2-2  UD Almería
+  Athletic Club Bilbao     2-0  CA Osasuna
+[Sáb. 24.8.]
+  Villarreal CF            2-1  Real Valladolid CF
+  Elche CF                 1-1  Real Sociedad
+  RCD Espanyol             3-1  Valencia CF
+[Dom. 25.8.]
+  Levante UD               0-0  Sevilla FC
+  Real Betis               1-2  RC Celta Vigo
+  Málaga CF                0-1  FC Barcelona
+  Atlético Madrid          5-0  Rayo Vallecano
+[Lun. 26.8.]
+  Granada CF               0-1  Real Madrid
 
 
 Jornada 3
-
-30.08. (Vié.) UD Almería      2-2  Elche CF
-30.08. (Vié.) Rayo Vallecano  1-2  Levante UD
-
-31.08. (Sáb.) Celta Vigo      1-1  Granada CF
-31.08. (Sáb.) Real Valladolid 1-0  Getafe CF
-31.08. (Sáb.) CA Osasuna      0-3  Villarreal CF
-
-01.09. (Dom.) Real Madrid     3-1  Athletic Bilbao
-01.09. (Dom.) RCD Espanyol    0-0  Betis Sevilla
-01.09. (Dom.) Real Sociedad   1-2  Atlético Madrid
-01.09. (Dom.) Sevilla FC      2-2  Málaga CF
-01.09. (Dom.) Valencia CF     2-3  FC Barcelona
+[Vie. 30.8.]
+  Rayo Vallecano           1-2  Levante UD
+  UD Almería               2-2  Elche CF
+[Sáb. 31.8.]
+  RC Celta Vigo            1-1  Granada CF
+  Real Valladolid CF       1-0  Getafe CF
+  CA Osasuna               0-3  Villarreal CF
+[Dom. 1.9.]
+  RCD Espanyol             0-0  Real Betis
+  Real Madrid              3-1  Athletic Club Bilbao
+  Sevilla FC               2-2  Málaga CF
+  Valencia CF              2-3  FC Barcelona
+  Real Sociedad            1-2  Atlético Madrid
 
 
 Jornada 4
-
-14.09. (Sáb.) Atlético Madrid       4-2  UD Almería
-14.09. (Sáb.) Levante UD            0-0  Real Sociedad
-14.09. (Sáb.) FC Barcelona          3-2  Sevilla FC
-14.09. (Sáb.) Villarreal CF         2-2  Real Madrid
-
-15.09. (Dom.) Betis Sevilla         3-1  Valencia CF
-15.09. (Dom.) Granada CF            0-1  RCD Espanyol
-15.09. (Dom.) Getafe CF             2-1  CA Osasuna
-15.09. (Dom.) Málaga CF             5-0  Rayo Vallecano
-
-16.09. (Lun.) Elche CF              0-0  Real Valladolid
-16.09. (Lun.) Athletic Bilbao       3-2  Celta Vigo
+[Sáb. 14.9.]
+  Villarreal CF            2-2  Real Madrid
+  Atlético Madrid          4-2  UD Almería
+  Levante UD               0-0  Real Sociedad
+  FC Barcelona             3-2  Sevilla FC
+[Dom. 15.9.]
+  Real Betis               3-1  Valencia CF
+  Granada CF               0-1  RCD Espanyol
+  Málaga CF                5-0  Rayo Vallecano
+  Getafe CF                2-1  CA Osasuna
+[Lun. 16.9.]
+  Athletic Club Bilbao     3-2  RC Celta Vigo
+  Elche CF                 0-0  Real Valladolid CF
 
 
 Jornada 5
-
-20.09. (Vié.) CA Osasuna            2-1  Elche CF
-
-21.09. (Sáb.) Real Sociedad         0-0  Málaga CF
-21.09. (Sáb.) UD Almería            2-2  Levante UD
-21.09. (Sáb.) Rayo Vallecano        0-4  FC Barcelona
-21.09. (Sáb.) Real Valladolid       0-2  Atlético Madrid
-
-22.09. (Dom.) Betis Sevilla         0-0  Granada CF
-22.09. (Dom.) Celta Vigo            0-0  Villarreal CF
-22.09. (Dom.) Real Madrid           4-1  Getafe CF
-22.09. (Dom.) Valencia CF           3-1  Sevilla FC
-
-23.09. (Lun.) RCD Espanyol          3-2  Athletic Bilbao
+[Vie. 20.9.]
+  CA Osasuna               2-1  Elche CF
+[Sáb. 21.9.]
+  Rayo Vallecano           0-4  FC Barcelona
+  Real Sociedad            0-0  Málaga CF
+  UD Almería               2-2  Levante UD
+  Real Valladolid CF       0-2  Atlético Madrid
+[Dom. 22.9.]
+  Real Madrid              4-1  Getafe CF
+  Valencia CF              3-1  Sevilla FC
+  RC Celta Vigo            0-0  Villarreal CF
+  Real Betis               0-0  Granada CF
+[Lun. 23.9.]
+  RCD Espanyol             3-2  Athletic Club Bilbao
 
 
 Jornada 6
-
-24.09. (Mar.) Levante UD            1-1  Real Valladolid
-24.09. (Mar.) FC Barcelona          4-1  Real Sociedad
-24.09. (Mar.) Atlético Madrid       2-1  CA Osasuna
-24.09. (Mar.) Málaga CF             2-0  UD Almería
-
-25.09. (Mié.) Granada CF            0-1  Valencia CF
-25.09. (Mié.) Elche CF              1-2  Real Madrid
-25.09. (Mié.) Sevilla FC            4-1  Rayo Vallecano
-
-26.09. (Jue.) Athletic Bilbao       2-1  Betis Sevilla
-26.09. (Jue.) Villarreal CF         2-1  RCD Espanyol
-26.09. (Jue.) Getafe CF             2-0  Celta Vigo
+[Mar. 24.9.]
+  Atlético Madrid          2-1  CA Osasuna
+  Málaga CF                2-0  UD Almería
+  Levante UD               1-1  Real Valladolid CF
+  FC Barcelona             4-1  Real Sociedad
+[Mié. 25.9.]
+  Sevilla FC               4-1  Rayo Vallecano
+  Granada CF               0-1  Valencia CF
+  Elche CF                 1-2  Real Madrid
+[Jue. 26.9.]
+  Getafe CF                2-0  RC Celta Vigo
+  Athletic Club Bilbao     2-1  Real Betis
+  Villarreal CF            2-1  RCD Espanyol
 
 
 Jornada 7
-
-27.09. (Vié.) Real Valladolid       2-2  Málaga CF
-
-28.09. (Sáb.) Valencia CF           1-0  Rayo Vallecano
-28.09. (Sáb.) UD Almería            0-2  FC Barcelona
-28.09. (Sáb.) Real Sociedad         1-1  Sevilla FC
-28.09. (Sáb.) Real Madrid           0-1  Atlético Madrid
-
-29.09. (Dom.) CA Osasuna            0-1  Levante UD
-29.09. (Dom.) Betis Sevilla         1-0  Villarreal CF
-29.09. (Dom.) RCD Espanyol          0-2  Getafe CF
-29.09. (Dom.) Celta Vigo            0-1  Elche CF
-
-30.09. (Lun.) Granada CF            2-0  Athletic Bilbao
+[Vie. 27.9.]
+  Real Valladolid CF       2-2  Málaga CF
+[Sáb. 28.9.]
+  Real Sociedad            1-1  Sevilla FC
+  Valencia CF              1-0  Rayo Vallecano
+  UD Almería               0-2  FC Barcelona
+  Real Madrid              0-1  Atlético Madrid
+[Dom. 29.9.]
+  CA Osasuna               0-1  Levante UD
+  RCD Espanyol             0-2  Getafe CF
+  RC Celta Vigo            0-1  Elche CF
+  Real Betis               1-0  Villarreal CF
+[Lun. 30.9.]
+  Granada CF               2-0  Athletic Club Bilbao
 
 
 Jornada 8
-
-04.10. (Vié.) Villarreal CF         3-0  Granada CF
-04.10. (Vié.) Málaga CF             0-1  CA Osasuna
-
-05.10. (Sáb.) Elche CF              2-1  RCD Espanyol
-05.10. (Sáb.) Rayo Vallecano        1-0  Real Sociedad
-05.10. (Sáb.) Levante UD            2-3  Real Madrid
-05.10. (Sáb.) FC Barcelona          4-1  Real Valladolid
-
-06.10. (Dom.) Athletic Bilbao       1-1  Valencia CF
-06.10. (Dom.) Getafe CF             3-1  Betis Sevilla
-06.10. (Dom.) Atlético Madrid       2-1  Celta Vigo
-06.10. (Dom.) Sevilla FC            2-1  UD Almería
+[Vie. 4.10.]
+  Villarreal CF            3-0  Granada CF
+  Málaga CF                0-1  CA Osasuna
+[Sáb. 5.10.]
+  Levante UD               2-3  Real Madrid
+  FC Barcelona             4-1  Real Valladolid CF
+  Elche CF                 2-1  RCD Espanyol
+  Rayo Vallecano           1-0  Real Sociedad
+[Dom. 6.10.]
+  Getafe CF                3-1  Real Betis
+  Atlético Madrid          2-1  RC Celta Vigo
+  Sevilla FC               2-1  UD Almería
+  Athletic Club Bilbao     1-1  Valencia CF
 
 
 Jornada 9
-
-19.10. (Sáb.) Real Madrid           2-0  Málaga CF
-19.10. (Sáb.) Valencia CF           1-2  Real Sociedad
-19.10. (Sáb.) CA Osasuna            0-0  FC Barcelona
-19.10. (Sáb.) RCD Espanyol          1-0  Atlético Madrid
-
-20.10. (Dom.) Granada CF            0-2  Getafe CF
-20.10. (Dom.) Betis Sevilla         1-2  Elche CF
-20.10. (Dom.) Real Valladolid       2-2  Sevilla FC
-20.10. (Dom.) UD Almería            0-1  Rayo Vallecano
-
-21.10. (Lun.) Celta Vigo            0-1  Levante UD
-21.10. (Lun.) Athletic Bilbao       2-0  Villarreal CF
+[Sáb. 19.10.]
+  CA Osasuna               0-0  FC Barcelona
+  Valencia CF              1-2  Real Sociedad
+  Real Madrid              2-0  Málaga CF
+  RCD Espanyol             1-0  Atlético Madrid
+[Dom. 20.10.]
+  UD Almería               0-1  Rayo Vallecano
+  Real Betis               1-2  Elche CF
+  Granada CF               0-2  Getafe CF
+  Real Valladolid CF       2-2  Sevilla FC
+[Lun. 21.10.]
+  Athletic Club Bilbao     2-0  Villarreal CF
+  RC Celta Vigo            0-1  Levante UD
 
 
 Jornada 10
-
-25.10. (Vié.) Rayo Vallecano        0-3  Real Valladolid
-
-26.10. (Sáb.) Málaga CF             0-5  Celta Vigo
-26.10. (Sáb.) FC Barcelona          2-1  Real Madrid
-26.10. (Sáb.) Elche CF              0-1  Granada CF
-26.10. (Sáb.) Levante UD            3-0  RCD Espanyol
-
-27.10. (Dom.) Villarreal CF         4-1  Valencia CF
-27.10. (Dom.) Atlético Madrid       5-0  Betis Sevilla
-27.10. (Dom.) Sevilla FC            2-1  CA Osasuna
-27.10. (Dom.) Real Sociedad         3-0  UD Almería
-
-28.10. (Lun.) Getafe CF             0-1  Athletic Bilbao
-
+[Vie. 25.10.]
+  Rayo Vallecano           0-3  Real Valladolid CF
+[Sáb. 26.10.]
+  Elche CF                 0-1  Granada CF
+  Levante UD               3-0  RCD Espanyol
+  FC Barcelona             2-1  Real Madrid
+  Málaga CF                0-5  RC Celta Vigo
+[Dom. 27.10.]
+  Real Sociedad            3-0  UD Almería
+  Villarreal CF            4-1  Valencia CF
+  Sevilla FC               2-1  CA Osasuna
+  Atlético Madrid          5-0  Real Betis
+[Lun. 28.10.]
+  Getafe CF                0-1  Athletic Club Bilbao
 
 
 Jornada 11
-
-29.10. (Mar.) RCD Espanyol          0-0  Málaga CF
-29.10. (Mar.) Celta Vigo            0-3  FC Barcelona
-
-30.10. (Mié.) Real Valladolid       2-2  Real Sociedad
-30.10. (Mié.) Valencia CF           1-2  UD Almería
-30.10. (Mié.) Real Madrid           7-3  Sevilla FC
-30.10. (Mié.) CA Osasuna            3-1  Rayo Vallecano
-
-31.10. (Jue.) Villarreal CF         0-2  Getafe CF
-31.10. (Jue.) Athletic Bilbao       2-2  Elche CF
-31.10. (Jue.) Granada CF            1-2  Atlético Madrid
-31.10. (Jue.) Betis Sevilla         0-0  Levante UD
+[Mar. 29.10.]
+  RCD Espanyol             0-0  Málaga CF
+  RC Celta Vigo            0-3  FC Barcelona
+[Mié. 30.10.]
+  CA Osasuna               3-1  Rayo Vallecano
+  Valencia CF              1-2  UD Almería
+  Real Madrid              7-3  Sevilla FC
+  Real Valladolid CF       2-2  Real Sociedad
+[Jue. 31.10.]
+  Granada CF               1-2  Atlético Madrid
+  Villarreal CF            0-2  Getafe CF
+  Athletic Club Bilbao     2-2  Elche CF
+  Real Betis               0-0  Levante UD
 
 
 Jornada 12
-
-01.11. (Vié.) FC Barcelona          1-0  RCD Espanyol
-
-02.11. (Sáb.) Real Sociedad         5-0  CA Osasuna
-02.11. (Sáb.) UD Almería            1-0  Real Valladolid
-02.11. (Sáb.) Rayo Vallecano        2-3  Real Madrid
-02.11. (Sáb.) Sevilla FC            0-1  Celta Vigo
-
-03.11. (Dom.) Getafe CF             0-1  Valencia CF
-03.11. (Dom.) Atlético Madrid       2-0  Athletic Bilbao
-03.11. (Dom.) Levante UD            0-1  Granada CF
-03.11. (Dom.) Málaga CF             3-2  Betis Sevilla
-
-04.11. (Lun.) Elche CF              0-1  Villarreal CF
+[Vie. 1.11.]
+  FC Barcelona             1-0  RCD Espanyol
+[Sáb. 2.11.]
+  Real Sociedad            5-0  CA Osasuna
+  UD Almería               1-0  Real Valladolid CF
+  Sevilla FC               0-1  RC Celta Vigo
+  Rayo Vallecano           2-3  Real Madrid
+[Dom. 3.11.]
+  Levante UD               0-1  Granada CF
+  Málaga CF                3-2  Real Betis
+  Getafe CF                0-1  Valencia CF
+  Atlético Madrid          2-0  Athletic Club Bilbao
+[Lun. 4.11.]
+  Elche CF                 0-1  Villarreal CF
 
 
 Jornada 13
-
-08.11. (Vié.) CA Osasuna            0-1  UD Almería
-08.11. (Vié.) Granada CF            3-1  Málaga CF
-
-09.11. (Sáb.) Real Madrid           5-1  Real Sociedad
-09.11. (Sáb.) Getafe CF             1-1  Elche CF
-09.11. (Sáb.) Athletic Bilbao       2-1  Levante UD
-09.11. (Sáb.) Celta Vigo            0-2  Rayo Vallecano
-
-10.11. (Dom.) Villarreal CF         1-1  Atlético Madrid
-10.11. (Dom.) Betis Sevilla         1-4  FC Barcelona
-10.11. (Dom.) RCD Espanyol          1-3  Sevilla FC
-10.11. (Dom.) Valencia CF           2-2  Real Valladolid
+[Vie. 8.11.]
+  Granada CF               3-1  Málaga CF
+  CA Osasuna               0-1  UD Almería
+[Sáb. 9.11.]
+  Athletic Club Bilbao     2-1  Levante UD
+  Real Madrid              5-1  Real Sociedad
+  RC Celta Vigo            0-2  Rayo Vallecano
+  Getafe CF                1-1  Elche CF
+[Dom. 10.11.]
+  Real Betis               1-4  FC Barcelona
+  Valencia CF              2-2  Real Valladolid CF
+  Villarreal CF            1-1  Atlético Madrid
+  RCD Espanyol             1-3  Sevilla FC
 
 
 Jornada 14
-
-22.11. (Vié.) Real Valladolid       0-1  CA Osasuna
-
-23.11. (Sáb.) FC Barcelona          4-0  Granada CF
-23.11. (Sáb.) Real Sociedad         4-3  Celta Vigo
-23.11. (Sáb.) UD Almería            0-5  Real Madrid
-23.11. (Sáb.) Atlético Madrid       7-0  Getafe CF
-
-24.11. (Dom.) Elche CF              2-1  Valencia CF
-24.11. (Dom.) Levante UD            0-3  Villarreal CF
-24.11. (Dom.) Sevilla FC            4-0  Betis Sevilla
-24.11. (Dom.) Rayo Vallecano        1-4  RCD Espanyol
-
-25.11. (Lun.) Málaga CF             1-2  Athletic Bilbao
+[Vie. 22.11.]
+  Real Valladolid CF       0-1  CA Osasuna
+[Sáb. 23.11.]
+  Atlético Madrid          7-0  Getafe CF
+  UD Almería               0-5  Real Madrid
+  FC Barcelona             4-0  Granada CF
+  Real Sociedad            4-3  RC Celta Vigo
+[Dom. 24.11.]
+  Rayo Vallecano           1-4  RCD Espanyol
+  Levante UD               0-3  Villarreal CF
+  Sevilla FC               4-0  Real Betis
+  Elche CF                 2-1  Valencia CF
+[Lun. 25.11.]
+  Málaga CF                1-2  Athletic Club Bilbao
 
 
 Jornada 15
-
-29.11. (Vié.) Getafe CF             1-0  Levante UD
-29.11. (Vié.) Villarreal CF         1-1  Málaga CF
-
-30.11. (Sáb.) Elche CF              0-2  Atlético Madrid
-30.11. (Sáb.) Celta Vigo            3-1  UD Almería
-30.11. (Sáb.) Real Madrid           4-0  Real Valladolid
-30.11. (Sáb.) RCD Espanyol          1-2  Real Sociedad
-
-01.12. (Dom.) Athletic Bilbao       1-0  FC Barcelona
-01.12. (Dom.) Granada CF            1-2  Sevilla FC
-01.12. (Dom.) Betis Sevilla         2-2  Rayo Vallecano
-01.12. (Dom.) Valencia CF           3-0  CA Osasuna
+[Vie. 29.11.]
+  Getafe CF                1-0  Levante UD
+  Villarreal CF            1-1  Málaga CF
+[Sáb. 30.11.]
+  Real Madrid              4-0  Real Valladolid CF
+  Elche CF                 0-2  Atlético Madrid
+  RC Celta Vigo            3-1  UD Almería
+  RCD Espanyol             1-2  Real Sociedad
+[Dom. 1.12.]
+  Real Betis               2-2  Rayo Vallecano
+  Athletic Club Bilbao     1-0  FC Barcelona
+  Valencia CF              3-0  CA Osasuna
+  Granada CF               1-2  Sevilla FC
 
 
 Jornada 16
-
-13.12. (Vié.) Levante UD            2-1  Elche CF
-
-14.12. (Sáb.) CA Osasuna            2-2  Real Madrid
-14.12. (Sáb.) Rayo Vallecano        0-2  Granada CF
-14.12. (Sáb.) FC Barcelona          2-1  Villarreal CF
-14.12. (Sáb.) Málaga CF             1-0  Getafe CF
-
-15.12. (Dom.) Atlético Madrid       3-0  Valencia CF
-15.12. (Dom.) Sevilla FC            1-1  Athletic Bilbao
-15.12. (Dom.) Real Sociedad         5-1  Betis Sevilla
-15.12. (Dom.) UD Almería            0-0  RCD Espanyol
-
-16.12. (Lun.) Real Valladolid       2-0  Celta Vigo
+[Vie. 13.12.]
+  Levante UD               2-1  Elche CF
+[Sáb. 14.12.]
+  Rayo Vallecano           0-2  Granada CF
+  FC Barcelona             2-1  Villarreal CF
+  CA Osasuna               2-2  Real Madrid
+  Málaga CF                1-0  Getafe CF
+[Dom. 15.12.]
+  Sevilla FC               1-1  Athletic Club Bilbao
+  UD Almería               0-0  RCD Espanyol
+  Real Sociedad            5-1  Real Betis
+  Atlético Madrid          3-0  Valencia CF
+[Lun. 16.12.]
+  Real Valladolid CF       3-0  RC Celta Vigo
 
 
 Jornada 17
+[Vie. 20.12.]
+  Elche CF                 0-1  Málaga CF
+[Sáb. 21.12.]
+  Granada CF               1-3  Real Sociedad
+  Real Betis               0-1  UD Almería
+  Villarreal CF            1-2  Sevilla FC
+  Atlético Madrid          3-2  Levante UD
+[Dom. 22.12.]
+  Getafe CF                2-5  FC Barcelona
+  Valencia CF              2-3  Real Madrid
+  Athletic Club Bilbao     2-1  Rayo Vallecano
+  RCD Espanyol             4-2  Real Valladolid CF
+  RC Celta Vigo            1-1  CA Osasuna
 
-20.12. (Vié.) Elche CF              0-1  Málaga CF
-
-21.12. (Sáb.) Villarreal CF         1-2  Sevilla FC
-21.12. (Sáb.) Betis Sevilla         0-1  UD Almería
-21.12. (Sáb.) Atlético Madrid       3-2  Levante UD
-21.12. (Sáb.) Granada CF            1-3  Real Sociedad
-
-22.12. (Dom.) Getafe CF             2-5  FC Barcelona
-22.12. (Dom.) Athletic Bilbao       2-1  Rayo Vallecano
-22.12. (Dom.) RCD Espanyol          4-2  Real Valladolid
-22.12. (Dom.) Celta Vigo            1-1  CA Osasuna
-22.12. (Dom.) Valencia CF           2-3  Real Madrid
-
-
-# -- 2014 --
 
 Jornada 18
-
-04.01. (Sáb.) Málaga CF             0-1  Atlético Madrid
-04.01. (Sáb.) Real Valladolid       0-0  Betis Sevilla
-04.01. (Sáb.) Valencia CF           2-0  Levante UD
-04.01. (Sáb.) UD Almería            3-0  Granada CF
-
-05.01. (Dom.) FC Barcelona          4-0  Elche CF
-05.01. (Dom.) Sevilla FC            3-0  Getafe CF
-05.01. (Dom.) Real Sociedad         2-0  Athletic Bilbao
-05.01. (Dom.) CA Osasuna            1-0  RCD Espanyol
-
-06.01. (Lun.) Real Madrid           3-0  Celta Vigo
-06.01. (Lun.) Rayo Vallecano        2-5  Villarreal CF
+[Sáb. 4.1.]
+  Málaga CF                0-1  Atlético Madrid
+  Real Valladolid CF       0-0  Real Betis
+  Valencia CF              2-0  Levante UD
+  UD Almería               3-0  Granada CF
+[Dom. 5.1.]
+  FC Barcelona             4-0  Elche CF
+  Sevilla FC               3-0  Getafe CF
+  CA Osasuna               1-0  RCD Espanyol
+  Real Sociedad            2-0  Athletic Club Bilbao
+[Lun. 6.1.]
+  Real Madrid              3-0  RC Celta Vigo
+  Rayo Vallecano           2-5  Villarreal CF
 
 
 Jornada 19
-
-10.01. (Vié.) Granada CF            4-0  Real Valladolid
-
-11.01. (Sáb.) Athletic Bilbao       6-1  UD Almería
-11.01. (Sáb.) Celta Vigo            2-1  Valencia CF
-11.01. (Sáb.) Atlético Madrid       0-0  FC Barcelona
-11.01. (Sáb.) Elche CF              1-1  Sevilla FC
-
-12.01. (Dom.) Levante UD            1-0  Málaga CF
-12.01. (Dom.) Getafe CF             0-1  Rayo Vallecano
-12.01. (Dom.) Betis Sevilla         1-2  CA Osasuna
-12.01. (Dom.) RCD Espanyol          0-1  Real Madrid
-
-13.01. (Lun.) Villarreal CF         5-1  Real Sociedad
-
+[Vie. 10.1.]
+  Granada CF               4-0  Real Valladolid CF
+[Sáb. 11.1.]
+  Elche CF                 1-1  Sevilla FC
+  Atlético Madrid          0-0  FC Barcelona
+  RC Celta Vigo            2-1  Valencia CF
+  Athletic Club Bilbao     6-1  UD Almería
+[Dom. 12.1.]
+  RCD Espanyol             0-1  Real Madrid
+  Real Betis               1-2  CA Osasuna
+  Getafe CF                0-1  Rayo Vallecano
+  Levante UD               1-0  Málaga CF
+[Lun. 13.1.]
+  Villarreal CF            5-1  Real Sociedad
 
 
 Jornada 20
-
-17.01. (Vié.)  Málaga CF                    0-0  Valencia CF
-
-18.01. (Sáb.)  Betis Sevilla                0-5  Real Madrid
-18.01. (Sáb.)  Elche CF                     2-0  Rayo Vallecano
-18.01. (Sáb.)  Granada CF                   0-0  CA Osasuna
-18.01. (Sáb.)  Espanyol                     1-0  Celta Vigo
-
-19.01. (Dom.)  Getafe CF                    2-2  Real Sociedad San Sebastian
-19.01. (Dom.)  Villarreal CF                2-0  UD Almería
-19.01. (Dom.)  Levante UD                   1-1  FC Barcelona
-19.01. (Dom.)  Atlético Madrid              1-1  Sevilla FC
-
-20.01. (Lun.)  Athletic Bilbao              4-2  Real Valladolid
+[Vie. 17.1.]
+  Málaga CF                0-0  Valencia CF
+[Sáb. 18.1.]
+  Granada CF               0-0  CA Osasuna
+  Elche CF                 2-0  Rayo Vallecano
+  Real Betis               0-5  Real Madrid
+  RCD Espanyol             1-0  RC Celta Vigo
+[Dom. 19.1.]
+  Levante UD               1-1  FC Barcelona
+  Atlético Madrid          1-1  Sevilla FC
+  Villarreal CF            2-0  UD Almería
+  Getafe CF                2-2  Real Sociedad
+[Lun. 20.1.]
+  Athletic Club Bilbao     4-2  Real Valladolid CF
 
 
 Jornada 21
-
-24.01. (Vié.)  Celta Vigo                   4-2  Betis Sevilla
-
-25.01. (Sáb.)  Real Madrid                  2-0  Granada CF
-25.01. (Sáb.)  Real Valladolid              1-0  Villarreal CF
-25.01. (Sáb.)  Valencia CF                  2-2  Espanyol
-25.01. (Sáb.)  Sevilla FC                   2-3  Levante UD
-
-26.01. (Dom.)  UD Almería                   1-0  Getafe CF
-26.01. (Dom.)  CA Osasuna                   1-5  Athletic Bilbao
-26.01. (Dom.)  Rayo Vallecano               2-4  Atlético Madrid
-26.01. (Dom.)  FC Barcelona                 3-0  Málaga CF
-
-27.01. (Lun.)  Real Sociedad San Sebastian  4-0  Elche CF
+[Vie. 24.1.]
+  RC Celta Vigo            4-2  Real Betis
+[Sáb. 25.1.]
+  Sevilla FC               2-3  Levante UD
+  Real Valladolid CF       1-0  Villarreal CF
+  Valencia CF              2-2  RCD Espanyol
+  Real Madrid              2-0  Granada CF
+[Dom. 26.1.]
+  CA Osasuna               1-5  Athletic Club Bilbao
+  FC Barcelona             3-0  Málaga CF
+  Rayo Vallecano           2-4  Atlético Madrid
+  UD Almería               1-0  Getafe CF
+[Lun. 27.1.]
+  Real Sociedad            4-0  Elche CF
 
 
 Jornada 22
-
-31.01. (Vié.)  Granada CF                   1-2  Celta Vigo
-
-01.02. (Sáb.)  FC Barcelona                 2-3  Valencia CF
-01.02. (Sáb.)  Levante UD                   0-0  Rayo Vallecano
-01.02. (Sáb.)  Getafe CF                    0-0  Real Valladolid
-01.02. (Sáb.)  Málaga CF                    3-2  Sevilla FC
-
-02.02. (Dom.)  Elche CF                     1-0  UD Almería
-02.02. (Dom.)  Betis Sevilla                2-0  Espanyol
-02.02. (Dom.)  Atlético Madrid              4-0  Real Sociedad San Sebastian
-02.02. (Dom.)  Athletic Bilbao              1-1  Real Madrid
-
-03.02. (Lun.)  Villarreal CF                3-1  CA Osasuna
+[Vie. 31.1.]
+  Granada CF               1-2  RC Celta Vigo
+[Sáb. 1.2.]
+  Levante UD               0-0  Rayo Vallecano
+  FC Barcelona             2-3  Valencia CF
+  Getafe CF                0-0  Real Valladolid CF
+  Málaga CF                3-2  Sevilla FC
+[Dom. 2.2.]
+  Elche CF                 1-0  UD Almería
+  Athletic Club Bilbao     1-1  Real Madrid
+  Atlético Madrid          4-0  Real Sociedad
+  Real Betis               2-0  RCD Espanyol
+[Lun. 3.2.]
+  Villarreal CF            3-1  CA Osasuna
 
 
 Jornada 23
-
-07.02. (Vié.)  Espanyol                     1-0  Granada CF
-
-08.02. (Sáb.)  Valencia CF                  5-0  Betis Sevilla
-08.02. (Sáb.)  Rayo Vallecano               4-1  Málaga CF
-08.02. (Sáb.)  Real Madrid                  4-2  Villarreal CF
-08.02. (Sáb.)  UD Almería                   2-0  Atlético Madrid
-
-09.02. (Dom.)  CA Osasuna                   2-0  Getafe CF
-09.02. (Dom.)  Real Valladolid              2-2  Elche CF
-09.02. (Dom.)  Real Sociedad San Sebastian  0-0  Levante UD
-09.02. (Dom.)  Sevilla FC                   1-4  FC Barcelona
-
-10.02. (Lun.)  Celta Vigo                   0-0  Athletic Bilbao
+[Vie. 7.2.]
+  RCD Espanyol             1-0  Granada CF
+[Sáb. 8.2.]
+  UD Almería               2-0  Atlético Madrid
+  Valencia CF              5-0  Real Betis
+  Rayo Vallecano           4-1  Málaga CF
+  Real Madrid              4-2  Villarreal CF
+[Dom. 9.2.]
+  CA Osasuna               2-0  Getafe CF
+  Sevilla FC               1-4  FC Barcelona
+  Real Sociedad            0-0  Levante UD
+  Real Valladolid CF       2-2  Elche CF
+[Lun. 10.2.]
+  RC Celta Vigo            0-0  Athletic Club Bilbao
 
 
 Jornada 24
-
-14.02. (Vié.)  Elche CF                     0-0  CA Osasuna
-
-15.02. (Sáb.)  Atlético Madrid              3-0  Real Valladolid
-15.02. (Sáb.)  Levante UD                   1-0  UD Almería
-15.02. (Sáb.)  FC Barcelona                 6-0  Rayo Vallecano
-15.02. (Sáb.)  Villarreal CF                0-2  Celta Vigo
-
-16.02. (Dom.)  Granada CF                   1-0  Betis Sevilla
-16.02. (Dom.)  Getafe CF                    0-3  Real Madrid
-16.02. (Dom.)  Athletic Bilbao              1-2  Espanyol
-16.02. (Dom.)  Sevilla FC                   0-0  Valencia CF
-
-17.02. (Lun.)  Málaga CF                    0-1  Real Sociedad San Sebastian
+[Vie. 14.2.]
+  Elche CF                 0-0  CA Osasuna
+[Sáb. 15.2.]
+  Levante UD               1-0  UD Almería
+  Atlético Madrid          3-0  Real Valladolid CF
+  FC Barcelona             6-0  Rayo Vallecano
+  Villarreal CF            0-2  RC Celta Vigo
+[Dom. 16.2.]
+  Athletic Club Bilbao     1-2  RCD Espanyol
+  Getafe CF                0-3  Real Madrid
+  Sevilla FC               0-0  Valencia CF
+  Granada CF               1-0  Real Betis
+[Lun. 17.2.]
+  Málaga CF                0-1  Real Sociedad
 
 
 Jornada 25
-
-21.02. (Vié.)  Real Valladolid              1-1  Levante UD
-
-22.02. (Sáb.)  Real Madrid                  3-0  Elche CF
-22.02. (Sáb.)  Celta Vigo                   1-1  Getafe CF
-22.02. (Sáb.)  Real Sociedad San Sebastian  3-1  FC Barcelona
-22.02. (Sáb.)  UD Almería                   0-0  Málaga CF
-
-23.02. (Dom.)  Rayo Vallecano               0-1  Sevilla FC
-23.02. (Dom.)  Betis Sevilla                0-2  Athletic Bilbao
-23.02. (Dom.)  Valencia CF                  2-1  Granada CF
-23.02. (Dom.)  CA Osasuna                   3-0  Atlético Madrid
-
-24.02. (Lun.)  Espanyol                     1-2  Villarreal CF
+[Vie. 21.2.]
+  Real Valladolid CF       1-1  Levante UD
+[Sáb. 22.2.]
+  RC Celta Vigo            1-1  Getafe CF
+  Real Sociedad            3-1  FC Barcelona
+  Real Madrid              3-0  Elche CF
+  UD Almería               0-0  Málaga CF
+[Dom. 23.2.]
+  CA Osasuna               3-0  Atlético Madrid
+  Real Betis               0-2  Athletic Club Bilbao
+  Valencia CF              2-1  Granada CF
+  Rayo Vallecano           0-1  Sevilla FC
+[Lun. 24.2.]
+  RCD Espanyol             1-2  Villarreal CF
 
 
 Jornada 26
-
-28.02. (Vié.)  Athletic Bilbao              4-0  Granada CF
-
-01.03. (Sáb.)  Málaga CF                    1-1  Real Valladolid
-01.03. (Sáb.)  Levante UD                   2-0  CA Osasuna
-01.03. (Sáb.)  Getafe CF                    0-0  Espanyol
-01.03. (Sáb.)  Elche CF                     1-0  Celta Vigo
-
-02.03. (Dom.)  Villarreal CF                1-1  Betis Sevilla
-02.03. (Dom.)  Atlético Madrid              2-2  Real Madrid
-02.03. (Dom.)  Sevilla FC                   1-0  Real Sociedad San Sebastian
-02.03. (Dom.)  FC Barcelona                 4-1  UD Almería
-02.03. (Dom.)  Rayo Vallecano               1-0  Valencia CF
+[Vie. 28.2.]
+  Athletic Club Bilbao     4-0  Granada CF
+[Sáb. 1.3.]
+  Elche CF                 1-0  RC Celta Vigo
+  Levante UD               2-0  CA Osasuna
+  Málaga CF                1-1  Real Valladolid CF
+  Getafe CF                0-0  RCD Espanyol
+[Dom. 2.3.]
+  Rayo Vallecano           1-0  Valencia CF
+  Sevilla FC               1-0  Real Sociedad
+  Atlético Madrid          2-2  Real Madrid
+  Villarreal CF            1-1  Real Betis
+  FC Barcelona             4-1  UD Almería
 
 
 Jornada 27
-
-08.03. (Sáb.)  Real Valladolid              1-0  FC Barcelona
-08.03. (Sáb.)  Betis Sevilla                2-0  Getafe CF
-08.03. (Sáb.)  Celta Vigo                   0-2  Atlético Madrid
-08.03. (Sáb.)  Granada CF                   2-0  Villarreal CF
-
-09.03. (Dom.)  Espanyol                     3-1  Elche CF
-09.03. (Dom.)  UD Almería                   1-3  Sevilla FC
-09.03. (Dom.)  Real Madrid                  3-0  Levante UD
-09.03. (Dom.)  Valencia CF                  1-1  Athletic Bilbao
-
-10.03. (Lun.)  CA Osasuna                   0-2  Málaga CF
-10.03. (Lun.)  Real Sociedad San Sebastian  2-3  Rayo Vallecano
+[Sáb. 8.3.]
+  RC Celta Vigo            0-2  Atlético Madrid
+  Granada CF               2-0  Villarreal CF
+  Real Valladolid CF       1-0  FC Barcelona
+  Real Betis               2-0  Getafe CF
+[Dom. 9.3.]
+  Real Madrid              3-0  Levante UD
+  Valencia CF              1-1  Athletic Club Bilbao
+  UD Almería               1-3  Sevilla FC
+  RCD Espanyol             3-1  Elche CF
+[Lun. 10.3.]
+  Real Sociedad            2-3  Rayo Vallecano
+  CA Osasuna               0-2  Málaga CF
 
 
 Jornada 28
-
-14.03. (Vié.)  Getafe CF                    3-3  Granada CF
-
-15.03. (Sáb.)  Levante UD                   0-1  Celta Vigo
-15.03. (Sáb.)  Rayo Vallecano               3-1  UD Almería
-15.03. (Sáb.)  Málaga CF                    0-1  Real Madrid
-15.03. (Sáb.)  Atlético Madrid              1-0  Espanyol
-
-16.03. (Dom.)  Elche CF                     0-0  Betis Sevilla
-16.03. (Dom.)  FC Barcelona                 7-0  CA Osasuna
-16.03. (Dom.)  Sevilla FC                   4-1  Real Valladolid
-16.03. (Dom.)  Real Sociedad San Sebastian  1-0  Valencia CF
-
-17.03. (Lun.)  Villarreal CF                1-1  Athletic Bilbao
+[Vie. 14.3.]
+  Getafe CF                3-3  Granada CF
+[Sáb. 15.3.]
+  Atlético Madrid          1-0  RCD Espanyol
+  Málaga CF                0-1  Real Madrid
+  Rayo Vallecano           3-1  UD Almería
+  Levante UD               0-1  RC Celta Vigo
+[Dom. 16.3.]
+  Elche CF                 0-0  Real Betis
+  FC Barcelona             7-0  CA Osasuna
+  Real Sociedad            1-0  Valencia CF
+  Sevilla FC               4-1  Real Valladolid CF
+[Lun. 17.3.]
+  Villarreal CF            1-1  Athletic Club Bilbao
 
 
 Jornada 29
-
-21.03. (Vié.)  Celta Vigo                   0-2  Málaga CF
-
-22.03. (Sáb.)  Granada CF                   1-0  Elche CF
-22.03. (Sáb.)  Espanyol                     0-0  Levante UD
-22.03. (Sáb.)  Real Valladolid              1-1  Rayo Vallecano
-22.03. (Sáb.)  Athletic Bilbao              1-0  Getafe CF
-
-23.03. (Dom.)  CA Osasuna                   1-2  Sevilla FC
-23.03. (Dom.)  Betis Sevilla                0-2  Atlético Madrid
-23.03. (Dom.)  Valencia CF                  2-1  Villarreal CF
-23.03. (Dom.)  Real Madrid                  3-4  FC Barcelona
-
-24.03. (Lun.)  UD Almería                   4-3  Real Sociedad San Sebastian
+[Vie. 21.3.]
+  RC Celta Vigo            0-2  Málaga CF
+[Sáb. 22.3.]
+  Granada CF               1-0  Elche CF
+  Athletic Club Bilbao     1-0  Getafe CF
+  Real Valladolid CF       1-1  Rayo Vallecano
+  RCD Espanyol             0-0  Levante UD
+[Dom. 23.3.]
+  Real Madrid              3-4  FC Barcelona
+  Valencia CF              2-1  Villarreal CF
+  CA Osasuna               1-2  Sevilla FC
+  Real Betis               0-2  Atlético Madrid
+[Lun. 24.3.]
+  UD Almería               4-3  Real Sociedad
 
 
 Jornada 30
-
-25.03. (Mar.)  Málaga CF                    1-2  Espanyol
-25.03. (Mar.)  Elche CF                     0-0  Athletic Bilbao
-
-26.03. (Mié.)  FC Barcelona                 3-0  Celta Vigo
-26.03. (Mié.)  Rayo Vallecano               1-0  CA Osasuna
-26.03. (Mié.)  Atlético Madrid              1-0  Granada CF
-26.03. (Mié.)  Sevilla FC                   2-1  Real Madrid
-
-27.03. (Jue.)  Getafe CF                    0-1  Villarreal CF
-27.03. (Jue.)  Real Sociedad San Sebastian  1-0  Real Valladolid
-27.03. (Jue.)  Levante UD                   1-3  Betis Sevilla
-27.03. (Jue.)  UD Almería                   2-2  Valencia CF
+[Mar. 25.3.]
+  Málaga CF                1-2  RCD Espanyol
+  Elche CF                 0-0  Athletic Club Bilbao
+[Mié. 26.3.]
+  Rayo Vallecano           1-0  CA Osasuna
+  FC Barcelona             3-0  RC Celta Vigo
+  Sevilla FC               2-1  Real Madrid
+  Atlético Madrid          1-0  Granada CF
+[Jue. 27.3.]
+  UD Almería               2-2  Valencia CF
+  Getafe CF                0-1  Villarreal CF
+  Real Sociedad            1-0  Real Valladolid CF
+  Levante UD               1-3  Real Betis
 
 
 Jornada 31
-
-29.03. (Sáb.)  Espanyol                     0-1  FC Barcelona
-29.03. (Sáb.)  Celta Vigo                   1-0  Sevilla FC
-29.03. (Sáb.)  Athletic Bilbao              1-2  Atlético Madrid
-29.03. (Sáb.)  Real Madrid                  5-0  Rayo Vallecano
-
-30.03. (Dom.)  Real Valladolid              1-0  UD Almería
-30.03. (Dom.)  CA Osasuna                   1-1  Real Sociedad San Sebastian
-30.03. (Dom.)  Villarreal CF                1-1  Elche CF
-30.03. (Dom.)  Valencia CF                  1-3  Getafe CF
-
-31.03. (Lun.)  Granada CF                   0-2  Levante UD
-31.03. (Lun.)  Betis Sevilla                1-2  Málaga CF
-
+[Sáb. 29.3.]
+  RCD Espanyol             0-1  FC Barcelona
+  RC Celta Vigo            1-0  Sevilla FC
+  Real Madrid              5-0  Rayo Vallecano
+  Athletic Club Bilbao     1-2  Atlético Madrid
+[Dom. 30.3.]
+  Real Valladolid CF       1-0  UD Almería
+  Valencia CF              1-3  Getafe CF
+  CA Osasuna               1-1  Real Sociedad
+  Villarreal CF            1-1  Elche CF
+[Lun. 31.3.]
+  Real Betis               1-2  Málaga CF
+  Granada CF               0-2  Levante UD
 
 
 Jornada 32
-
-04.04. (Vié.)  UD Almería                   1-2  CA Osasuna
-
-05.04. (Sáb.)  Atlético Madrid              1-0  Villarreal CF
-05.04. (Sáb.)  FC Barcelona                 3-1  Betis Sevilla
-05.04. (Sáb.)  Real Sociedad San Sebastian  0-4  Real Madrid
-05.04. (Sáb.)  Rayo Vallecano               3-0  Celta Vigo
-
-06.04. (Dom.)  Málaga CF                    4-1  Granada CF
-06.04. (Dom.)  Elche CF                     1-0  Getafe CF
-06.04. (Dom.)  Sevilla FC                   4-1  Espanyol
-06.04. (Dom.)  Real Valladolid              0-0  Valencia CF
-
-07.04. (Lun.)  Levante UD                   1-2  Athletic Bilbao
+[Vie. 4.4.]
+  UD Almería               1-2  CA Osasuna
+[Sáb. 5.4.]
+  Real Sociedad            0-4  Real Madrid
+  FC Barcelona             3-1  Real Betis
+  Atlético Madrid          1-0  Villarreal CF
+  Rayo Vallecano           3-0  RC Celta Vigo
+[Dom. 6.4.]
+  Elche CF                 1-0  Getafe CF
+  Real Valladolid CF       0-0  Valencia CF
+  Málaga CF                4-1  Granada CF
+  Sevilla FC               4-1  RCD Espanyol
+[Lun. 7.4.]
+  Levante UD               1-2  Athletic Club Bilbao
 
 
 Jornada 33
-
-11.04. (Vié.)  CA Osasuna                   0-0  Real Valladolid
-
-12.04. (Sáb.)  Celta Vigo                   2-2  Real Sociedad San Sebastian
-12.04. (Sáb.)  Villarreal CF                1-0  Levante UD
-12.04. (Sáb.)  Granada CF                   1-0  FC Barcelona
-12.04. (Sáb.)  Real Madrid                  4-0  UD Almería
-
-13.04. (Dom.)  Betis Sevilla                0-2  Sevilla FC
-13.04. (Dom.)  Valencia CF                  2-1  Elche CF
-13.04. (Dom.)  Getafe CF                    0-2  Atlético Madrid
-13.04. (Dom.)  Espanyol                     2-2  Rayo Vallecano
-
-14.04. (Lun.)  Athletic Bilbao              3-0  Málaga CF
+[Vie. 11.4.]
+  CA Osasuna               0-0  Real Valladolid CF
+[Sáb. 12.4.]
+  Real Madrid              4-0  UD Almería
+  Granada CF               1-0  FC Barcelona
+  RC Celta Vigo            2-2  Real Sociedad
+  Villarreal CF            1-0  Levante UD
+[Dom. 13.4.]
+  Real Betis               0-2  Sevilla FC
+  RCD Espanyol             2-2  Rayo Vallecano
+  Valencia CF              2-1  Elche CF
+  Getafe CF                0-2  Atlético Madrid
+[Lun. 14.4.]
+  Athletic Club Bilbao     3-0  Málaga CF
 
 
 Jornada 34
-
-19.04. (Sáb.)  CA Osasuna                   1-2  Valencia CF
-19.04. (Sáb.)  Levante UD                   0-0  Getafe CF
-19.04. (Sáb.)  Atlético Madrid              2-0  Elche CF
-
-20.04. (Dom.)  UD Almería                   2-4  Celta Vigo
-20.04. (Dom.)  Rayo Vallecano               3-1  Betis Sevilla
-20.04. (Dom.)  Sevilla FC                   4-0  Granada CF
-20.04. (Dom.)  Real Sociedad San Sebastian  2-1  Espanyol
-
-21.04. (Lun.)  Málaga CF                    2-0  Villarreal CF
-
-07.05. (Mié.)  FC Barcelona                 2-1  Athletic Bilbao
-07.05. (Mié.)  Real Valladolid              1-1  Real Madrid
+[Vie. 18.4.]
+  Atlético Madrid          2-0  Elche CF
+[Sáb. 19.4.]
+  CA Osasuna               1-1  Valencia CF
+  Real Sociedad            2-1  RCD Espanyol
+  Levante UD               0-0  Getafe CF
+[Dom. 20.4.]
+  UD Almería               2-4  RC Celta Vigo
+  FC Barcelona             2-1  Athletic Club Bilbao
+  Rayo Vallecano           3-1  Real Betis
+  Sevilla FC               4-0  Granada CF
+[Lun. 21.4.]
+  Málaga CF                2-0  Villarreal CF
 
 
 Jornada 35
+[Vie. 25.4.]
+  Elche CF                 1-1  Levante UD
+[Sáb. 26.4.]
+  Real Madrid              4-0  CA Osasuna
+  Granada CF               0-3  Rayo Vallecano
+  Real Betis               0-1  Real Sociedad
+  Getafe CF                1-0  Málaga CF
+[Dom. 27.4.]
+  Villarreal CF            2-3  FC Barcelona
+  RCD Espanyol             1-2  UD Almería
+  Athletic Club Bilbao     3-1  Sevilla FC
+  Valencia CF              0-1  Atlético Madrid
+[Lun. 28.4.]
+  RC Celta Vigo            4-1  Real Valladolid CF
 
-27.04. (Dom.)  Valencia CF                  0-1  Atlético Madrid
-27.04. (Dom.)  Elche CF                     1-1  Levante UD
-27.04. (Dom.)  Getafe CF                    1-0  Málaga CF
-27.04. (Dom.)  Villarreal CF                2-3  FC Barcelona
-27.04. (Dom.)  Athletic Bilbao              3-1  Sevilla FC
-27.04. (Dom.)  Granada CF                   0-3  Rayo Vallecano
-27.04. (Dom.)  Betis Sevilla                0-1  Real Sociedad San Sebastian
-27.04. (Dom.)  Espanyol                     1-2  UD Almería
-27.04. (Dom.)  Celta Vigo                   4-1  Real Valladolid
-27.04. (Dom.)  Real Madrid                  4-0  CA Osasuna
 
 Jornada 36
+[Vie. 2.5.]
+  Rayo Vallecano           0-3  Athletic Club Bilbao
+[Sáb. 3.5.]
+  FC Barcelona             2-2  Getafe CF
+  Real Valladolid CF       1-0  RCD Espanyol
+  Málaga CF                0-1  Elche CF
+  CA Osasuna               0-2  RC Celta Vigo
+[Dom. 4.5.]
+  UD Almería               3-2  Real Betis
+  Real Madrid              2-2  Valencia CF
+  Levante UD               2-0  Atlético Madrid
+  Sevilla FC               0-0  Villarreal CF
+[Lun. 5.5.]
+  Real Sociedad            1-1  Granada CF
 
-04.05. (Dom.)  Levante UD                   2-0  Atlético Madrid
-04.05. (Dom.)  Málaga CF                    0-1  Elche CF
-04.05. (Dom.)  FC Barcelona                 2-2  Getafe CF
-04.05. (Dom.)  Sevilla FC                   0-0  Villarreal CF
-04.05. (Dom.)  Rayo Vallecano               0-3  Athletic Bilbao
-04.05. (Dom.)  Real Sociedad San Sebastian  1-1  Granada CF
-04.05. (Dom.)  UD Almería                   3-2  Betis Sevilla
-04.05. (Dom.)  Real Valladolid              1-0  Espanyol
-04.05. (Dom.)  CA Osasuna                   0-2  Celta Vigo
-04.05. (Dom.)  Real Madrid                  2-2  Valencia CF
+
+Jornada 34
+[Mié. 7.5.]
+  Real Valladolid CF       1-1  Real Madrid
+
 
 Jornada 37
-
-11.05. (Dom.)  Levante UD                   2-0  Valencia CF
-11.05. (Dom.)  Atlético Madrid              1-1  Málaga CF
-11.05. (Dom.)  Elche CF                     0-0  FC Barcelona
-11.05. (Dom.)  Getafe CF                    1-0  Sevilla FC
-11.05. (Dom.)  Villarreal CF                4-0  Rayo Vallecano
-11.05. (Dom.)  Athletic Bilbao              1-1  Real Sociedad San Sebastian
-11.05. (Dom.)  Granada CF                   0-2  UD Almería
-11.05. (Dom.)  Betis Sevilla                4-3  Real Valladolid
-11.05. (Dom.)  Espanyol                     1-1  CA Osasuna
-11.05. (Dom.)  Celta Vigo                   2-0  Real Madrid
+[Sáb. 10.5.]
+  Villarreal CF            4-0  Rayo Vallecano
+  Levante UD               2-0  Valencia CF
+[Dom. 11.5.]
+  Getafe CF                1-0  Sevilla FC
+  Granada CF               0-2  UD Almería
+  Atlético Madrid          1-1  Málaga CF
+  Elche CF                 0-0  FC Barcelona
+  Athletic Club Bilbao     1-1  Real Sociedad
+  Real Betis               4-3  Real Valladolid CF
+  RCD Espanyol             1-1  CA Osasuna
+  RC Celta Vigo            2-0  Real Madrid
 
 
 Jornada 38
-
-18.05. (Dom.)  Málaga CF                    1-0  Levante UD
-18.05. (Dom.)  FC Barcelona                 1-1  Atlético Madrid
-18.05. (Dom.)  Sevilla FC                   3-1  Elche CF
-18.05. (Dom.)  Rayo Vallecano               1-2  Getafe CF
-18.05. (Dom.)  Real Sociedad San Sebastian  1-2  Villarreal CF
-18.05. (Dom.)  UD Almería                   0-0  Athletic Bilbao
-18.05. (Dom.)  Real Valladolid              0-1  Granada CF
-18.05. (Dom.)  CA Osasuna                   2-1  Betis Sevilla
-18.05. (Dom.)  Real Madrid                  3-1  Espanyol
-18.05. (Dom.)  Valencia CF                  2-1  Celta Vigo
+[Vie. 16.5.]
+  Málaga CF                1-0  Levante UD
+[Sáb. 17.5.]
+  FC Barcelona             1-1  Atlético Madrid
+  Real Madrid              3-1  RCD Espanyol
+  Valencia CF              2-1  RC Celta Vigo
+[Dom. 18.5.]
+  Real Sociedad            1-2  Villarreal CF
+  UD Almería               0-0  Athletic Club Bilbao
+  Real Valladolid CF       0-1  Granada CF
+  Rayo Vallecano           1-2  Getafe CF
+  Sevilla FC               3-1  Elche CF
+  CA Osasuna               2-1  Real Betis
