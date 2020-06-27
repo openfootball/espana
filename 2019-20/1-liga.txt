@@ -3,600 +3,610 @@
 
 Jornada 1
 [Vie. 16.8.]
- 21:00 Athletic Bilbao         1-0 FC Barcelona
+  Athletic Club Bilbao     1-0  FC Barcelona
 [Sáb. 17.8.]
- 17:00 Celta Vigo              1-3 Real Madrid
- 19:00 FC Valencia             1-1 Real Sociedad
- 20:00 RCD Mallorca            2-1 SD Eibar
- 21:00 CD Leganes              0-1 CA Osasuna
- 21:00 FC Villarreal           4-4 FC Granada
+  RC Celta Vigo            1-3  Real Madrid
+  Valencia CF              1-1  Real Sociedad
+  RCD Mallorca             2-1  SD Eibar
+  Villarreal CF            4-4  Granada CF
+  CD Leganés               0-1  CA Osasuna
 [Dom. 18.8.]
- 17:00 Deportivo Alaves        1-0 UD Levante
- 19:00 Espanyol Barcelona      0-2 FC Sevilla
- 21:00 Real Betis Sevilla      1-2 Real Valladolid
- 22:00 Atletico Madrid         1-0 FC Getafe
+  Deportivo Alavés         1-0  Levante UD
+  RCD Espanyol             0-2  Sevilla FC
+  Real Betis               1-2  Real Valladolid CF
+  Atlético Madrid          1-0  Getafe CF
 
 
 Jornada 2
 [Vie. 23.8.]
- 20:00 FC Granada              0-1 FC Sevilla
- 22:00 UD Levante              2-1 FC Villarreal
+  Granada CF               0-1  Sevilla FC
+  Levante UD               2-1  Villarreal CF
 [Sáb. 24.8.]
- 17:00 CA Osasuna              0-0 SD Eibar
- 19:00 Real Madrid             1-1 Real Valladolid
- 21:00 Celta Vigo              1-0 FC Valencia
- 21:00 FC Getafe               1-1 Athletic Bilbao
+  CA Osasuna               0-0  SD Eibar
+  Real Madrid              1-1  Real Valladolid CF
+  Getafe CF                1-1  Athletic Club Bilbao
+  RC Celta Vigo            1-0  Valencia CF
 [Dom. 25.8.]
- 17:00 Deportivo Alaves        0-0 Espanyol Barcelona
- 17:00 RCD Mallorca            0-1 Real Sociedad
- 19:00 CD Leganes              0-1 Atletico Madrid
- 21:00 FC Barcelona            5-2 Real Betis Sevilla
+  RCD Mallorca             0-1  Real Sociedad
+  Deportivo Alavés         0-0  RCD Espanyol
+  CD Leganés               0-1  Atlético Madrid
+  FC Barcelona             5-2  Real Betis
 
 
 Jornada 3
 [Vie. 30.8.]
- 20:00 FC Sevilla              1-1 Celta Vigo
- 22:00 Athletic Bilbao         2-0 Real Sociedad
+  Sevilla FC               1-1  RC Celta Vigo
+  Athletic Club Bilbao     2-0  Real Sociedad
 [Sáb. 31.8.]
- 17:00 CA Osasuna              2-2 FC Barcelona
- 19:00 FC Getafe               1-1 Deportivo Alaves
- 19:00 UD Levante              2-0 Real Valladolid
- 21:00 Real Betis Sevilla      2-1 CD Leganes
+  CA Osasuna               2-2  FC Barcelona
+  Levante UD               2-0  Real Valladolid CF
+  Getafe CF                1-1  Deportivo Alavés
+  Real Betis               2-1  CD Leganés
 [Dom. 1.9.]
- 17:00 FC Valencia             2-0 RCD Mallorca
- 19:00 Espanyol Barcelona      0-3 FC Granada
- 19:00 Atletico Madrid         3-2 SD Eibar
- 21:00 FC Villarreal           2-2 Real Madrid
+  Valencia CF              2-0  RCD Mallorca
+  Atlético Madrid          3-2  SD Eibar
+  RCD Espanyol             0-3  Granada CF
+  Villarreal CF            2-2  Real Madrid
 
 
 Jornada 4
 [Vie. 13.9.]
- 21:00 RCD Mallorca            0-0 Athletic Bilbao
+  RCD Mallorca             0-0  Athletic Club Bilbao
 [Sáb. 14.9.]
- 13:00 Real Madrid             3-2 UD Levante
- 16:00 CD Leganes              0-3 FC Villarreal
- 18:30 Real Sociedad           2-0 Atletico Madrid
- 21:00 FC Barcelona            5-2 FC Valencia
+  Real Madrid              3-2  Levante UD
+  CD Leganés               0-3  Villarreal CF
+  Real Sociedad            2-0  Atlético Madrid
+  FC Barcelona             5-2  Valencia CF
 [Dom. 15.9.]
- 12:00 SD Eibar                1-2 Espanyol Barcelona
- 14:00 Deportivo Alaves        0-1 FC Sevilla
- 16:00 Celta Vigo              0-2 FC Granada
- 18:30 Real Valladolid         1-1 CA Osasuna
- 21:00 Real Betis Sevilla      1-1 FC Getafe
+  SD Eibar                 1-2  RCD Espanyol
+  Deportivo Alavés         0-1  Sevilla FC
+  RC Celta Vigo            0-2  Granada CF
+  Real Valladolid CF       1-1  CA Osasuna
+  Real Betis               1-1  Getafe CF
 
 
 Jornada 5
 [Vie. 20.9.]
- 21:00 CA Osasuna              0-0 Real Betis Sevilla
+  CA Osasuna               0-0  Real Betis
 [Sáb. 21.9.]
- 13:00 FC Villarreal           2-0 Real Valladolid
- 16:00 UD Levante              0-0 SD Eibar
- 18:30 Atletico Madrid         0-0 Celta Vigo
- 21:00 FC Granada              2-0 FC Barcelona
+  Villarreal CF            2-0  Real Valladolid CF
+  Levante UD               0-0  SD Eibar
+  Atlético Madrid          0-0  RC Celta Vigo
+  Granada CF               2-0  FC Barcelona
 [Dom. 22.9.]
- 12:00 FC Getafe               4-2 RCD Mallorca
- 14:00 Espanyol Barcelona      1-3 Real Sociedad
- 16:00 FC Valencia             1-1 CD Leganes
- 18:30 Athletic Bilbao         2-0 Deportivo Alaves
- 21:00 FC Sevilla              0-1 Real Madrid
+  Getafe CF                4-2  RCD Mallorca
+  RCD Espanyol             1-3  Real Sociedad
+  Valencia CF              1-1  CD Leganés
+  Athletic Club Bilbao     2-0  Deportivo Alavés
+  Sevilla FC               0-1  Real Madrid
 
 
 Jornada 6
 [Mar. 24.9.]
- 19:00 Real Valladolid         1-1 FC Granada
- 20:00 Real Betis Sevilla      3-1 UD Levante
- 21:00 FC Barcelona            2-1 FC Villarreal
+  Real Valladolid CF       1-1  Granada CF
+  Real Betis               3-1  Levante UD
+  FC Barcelona             2-1  Villarreal CF
 [Mié. 25.9.]
- 19:00 RCD Mallorca            0-2 Atletico Madrid
- 19:00 CD Leganes              1-1 Athletic Bilbao
- 20:00 FC Valencia             3-3 FC Getafe
- 21:00 Real Madrid             2-0 CA Osasuna
+  RCD Mallorca             0-2  Atlético Madrid
+  CD Leganés               1-1  Athletic Club Bilbao
+  Valencia CF              3-3  Getafe CF
+  Real Madrid              2-0  CA Osasuna
 [Jue. 26.9.]
- 19:00 SD Eibar                3-2 FC Sevilla
- 20:00 Celta Vigo              1-1 Espanyol Barcelona
- 21:00 Real Sociedad           3-0 Deportivo Alaves
+  SD Eibar                 3-2  Sevilla FC
+  RC Celta Vigo            1-1  RCD Espanyol
+  Real Sociedad            3-0  Deportivo Alavés
 
 
 Jornada 7
 [Vie. 27.9.]
- 21:00 FC Villarreal           5-1 Real Betis Sevilla
+  Villarreal CF            5-1  Real Betis
 [Sáb. 28.9.]
- 13:00 Athletic Bilbao         0-1 FC Valencia
- 16:00 FC Getafe               0-2 FC Barcelona
- 18:30 FC Granada              1-0 CD Leganes
- 21:00 Atletico Madrid         0-0 Real Madrid
+  Athletic Club Bilbao     0-1  Valencia CF
+  Getafe CF                0-2  FC Barcelona
+  Granada CF               1-0  CD Leganés
+  Atlético Madrid          0-0  Real Madrid
 [Dom. 29.9.]
- 12:00 Espanyol Barcelona      0-2 Real Valladolid
- 14:00 SD Eibar                2-0 Celta Vigo
- 16:00 Deportivo Alaves        2-0 RCD Mallorca
- 18:30 UD Levante              1-1 CA Osasuna
- 21:00 FC Sevilla              3-2 Real Sociedad
+  RCD Espanyol             0-2  Real Valladolid CF
+  SD Eibar                 2-0  RC Celta Vigo
+  Deportivo Alavés         2-0  RCD Mallorca
+  Levante UD               1-1  CA Osasuna
+  Sevilla FC               3-2  Real Sociedad
 
 
 Jornada 8
 [Vie. 4.10.]
- 18:30 Real Betis Sevilla      1-1 SD Eibar
-[Sab. 5.10.]
- 18:30 Real Madrid             4-2 FC Granada
- 18:30 FC Valencia             2-1 Deportivo Alaves
- 18:30 CD Leganes              1-2 UD Levante
- 18:30 CA Osasuna              2-1 FC Villarreal
+  Real Betis               1-1  SD Eibar
+[Sáb. 5.10.]
+  CD Leganés               1-2  Levante UD
+  Real Madrid              4-2  Granada CF
+  Valencia CF              2-1  Deportivo Alavés
+  CA Osasuna               2-1  Villarreal CF
 [Dom. 6.10.]
- 18:30 Celta Vigo              1-0 Athletic Bilbao
- 18:30 Real Valladolid         0-0 Atletico Madrid
- 18:30 RCD Mallorca            2-0 Espanyol Barcelona
- 18:30 FC Barcelona            4-0 FC Sevilla
- 18:30 Real Sociedad           1-2 FC Getafe
+  RCD Mallorca             2-0  RCD Espanyol
+  RC Celta Vigo            1-0  Athletic Club Bilbao
+  Real Valladolid CF       0-0  Atlético Madrid
+  Real Sociedad            1-2  Getafe CF
+  FC Barcelona             4-0  Sevilla FC
 
 
 Jornada 9
 [Vie. 18.10.]
- 18:30 FC Granada              1-0 CA Osasuna
-[Sab. 19.10.]
- 18:30 FC Getafe               2-0 CD Leganes
- 18:30 SD Eibar                0-3 FC Barcelona
- 18:30 RCD Mallorca            1-0 Real Madrid
- 18:30 Atletico Madrid         1-1 FC Valencia
+  Granada CF               1-0  CA Osasuna
+[Sáb. 19.10.]
+  SD Eibar                 0-3  FC Barcelona
+  Atlético Madrid          1-1  Valencia CF
+  Getafe CF                2-0  CD Leganés
+  RCD Mallorca             1-0  Real Madrid
 [Dom. 20.10.]
- 18:30 Athletic Bilbao         1-1 Real Valladolid
- 18:30 Espanyol Barcelona      0-1 FC Villarreal
- 18:30 Real Sociedad           3-1 Real Betis Sevilla
- 18:30 Deportivo Alaves        2-0 Celta Vigo
- 18:30 FC Sevilla              1-0 UD Levante
+  Deportivo Alavés         2-0  RC Celta Vigo
+  Real Sociedad            3-1  Real Betis
+  RCD Espanyol             0-1  Villarreal CF
+  Athletic Club Bilbao     1-1  Real Valladolid CF
+  Sevilla FC               1-0  Levante UD
 
 
 Jornada 10
 [Vie. 25.10.]
- 18:30 FC Villarreal           4-1 Deportivo Alaves
-[Sab. 26.10.]
- 18:30 Real Valladolid         2-0 SD Eibar
- 18:30 Atletico Madrid         2-0 Athletic Bilbao
-##  18:30 FC Barcelona          - Real Madrid   ## see postponed
- 18:30 CD Leganes              1-0 RCD Mallorca
+  Villarreal CF            4-1  Deportivo Alavés
+[Sáb. 26.10.]
+  CD Leganés               1-0  RCD Mallorca
+  Real Valladolid CF       2-0  SD Eibar
+  Atlético Madrid          2-0  Athletic Club Bilbao
 [Dom. 27.10.]
- 18:30 Celta Vigo              0-1 Real Sociedad
- 18:30 FC Sevilla              2-0 FC Getafe
- 18:30 CA Osasuna              3-1 FC Valencia
- 18:30 UD Levante              0-1 Espanyol Barcelona
- 18:30 FC Granada              1-0 Real Betis Sevilla
+  RC Celta Vigo            0-1  Real Sociedad
+  Granada CF               1-0  Real Betis
+  Levante UD               0-1  RCD Espanyol
+  Sevilla FC               2-0  Getafe CF
+  CA Osasuna               3-1  Valencia CF
 
 
 Jornada 11
 [Mar. 29.10.]
- 21:00 Deportivo Alaves        1-1 Atletico Madrid
- 21:00 FC Barcelona            5-1 Real Valladolid
+  Deportivo Alavés         1-1  Atlético Madrid
+  FC Barcelona             5-1  Real Valladolid CF
 [Mié. 30.10.]
- 21:00 Athletic Bilbao         3-0 Espanyol Barcelona
- 21:00 Real Betis Sevilla      2-1 Celta Vigo
- 21:00 Real Madrid             5-0 CD Leganes
- 21:00 Real Sociedad           1-2 UD Levante
- 21:00 FC Valencia             1-1 FC Sevilla
+  Valencia CF              1-1  Sevilla FC
+  Real Sociedad            1-2  Levante UD
+  Athletic Club Bilbao     3-0  RCD Espanyol
+  Real Betis               2-1  RC Celta Vigo
+  Real Madrid              5-0  CD Leganés
 [Jue. 31.10.]
- 21:00 RCD Mallorca            2-2 CA Osasuna
- 21:00 FC Getafe               3-1 FC Granada
- 21:00 SD Eibar                2-1 FC Villarreal
+  RCD Mallorca             2-2  CA Osasuna
+  SD Eibar                 2-1  Villarreal CF
+  Getafe CF                3-1  Granada CF
 
 
 Jornada 12
-[Sab. 2.11.]
- 18:30 Espanyol Barcelona      1-2 FC Valencia
- 18:30 Real Madrid             0-0 Real Betis Sevilla
- 18:30 FC Sevilla              1-1 Atletico Madrid
- 18:30 UD Levante              3-1 FC Barcelona
+[Sáb. 2.11.]
+  RCD Espanyol             1-2  Valencia CF
+  Levante UD               3-1  FC Barcelona
+  Sevilla FC               1-1  Atlético Madrid
+  Real Madrid              0-0  Real Betis
 [Dom. 3.11.]
- 18:30 Celta Vigo              0-1 FC Getafe
- 18:30 Real Valladolid         3-0 RCD Mallorca
- 18:30 FC Villarreal           0-0 Athletic Bilbao
- 18:30 CD Leganes              0-1 SD Eibar
- 18:30 CA Osasuna              4-2 Deportivo Alaves
- 18:30 FC Granada              1-2 Real Sociedad
+  Real Valladolid CF       3-0  RCD Mallorca
+  Villarreal CF            0-0  Athletic Club Bilbao
+  CA Osasuna               4-2  Deportivo Alavés
+  RC Celta Vigo            0-1  Getafe CF
+  CD Leganés               1-2  SD Eibar
+  Granada CF               1-2  Real Sociedad
 
 
 Jornada 13
 [Vie. 8.11.]
- 18:30 Real Sociedad           1-1 CD Leganes
-[Sab. 9.11.]
- 18:30 FC Valencia             2-0 FC Granada
- 18:30 Deportivo Alaves        3-0 Real Valladolid
- 18:30 SD Eibar                0-4 Real Madrid
- 18:30 FC Barcelona            4-1 Celta Vigo
+  Real Sociedad            1-1  CD Leganés
+[Sáb. 9.11.]
+  Deportivo Alavés         3-0  Real Valladolid CF
+  Valencia CF              2-0  Granada CF
+  SD Eibar                 0-4  Real Madrid
+  FC Barcelona             4-1  RC Celta Vigo
 [Dom. 10.11.]
- 18:30 Athletic Bilbao         2-1 UD Levante
- 18:30 Real Betis Sevilla      1-2 FC Sevilla
- 18:30 Atletico Madrid         3-1 Espanyol Barcelona
- 18:30 RCD Mallorca            3-1 FC Villarreal
- 18:30 FC Getafe               0-0 CA Osasuna
+  RCD Mallorca             3-1  Villarreal CF
+  Athletic Club Bilbao     2-1  Levante UD
+  Atlético Madrid          3-1  RCD Espanyol
+  Getafe CF                0-0  CA Osasuna
+  Real Betis               1-2  Sevilla FC
 
 
 Jornada 14
 [Vie. 22.11.]
- 18:30 UD Levante              2-1 RCD Mallorca
-[Sab. 23.11.]
- 18:30 Real Betis Sevilla      2-1 FC Valencia
- 18:30 Real Madrid             3-1 Real Sociedad
- 18:30 CD Leganes              1-2 FC Barcelona
- 18:30 FC Granada              1-1 Atletico Madrid
+  Levante UD               2-1  RCD Mallorca
+[Sáb. 23.11.]
+  CD Leganés               1-2  FC Barcelona
+  Real Betis               2-1  Valencia CF
+  Granada CF               1-1  Atlético Madrid
+  Real Madrid              3-1  Real Sociedad
 [Dom. 24.11.]
- 18:30 Espanyol Barcelona      1-1 FC Getafe
- 18:30 Real Valladolid         0-1 FC Sevilla
- 18:30 FC Villarreal           1-3 Celta Vigo
- 18:30 CA Osasuna              1-2 Athletic Bilbao
- 18:30 SD Eibar                0-2 Deportivo Alaves
+  RCD Espanyol             1-1  Getafe CF
+  CA Osasuna               1-2  Athletic Club Bilbao
+  SD Eibar                 0-2  Deportivo Alavés
+  Villarreal CF            1-3  RC Celta Vigo
+  Real Valladolid CF       0-1  Sevilla FC
 
 
 Jornada 15
 [Vie. 29.11.]
- 18:30 Celta Vigo              0-0 Real Valladolid
-[Sab. 30.11.]
- 18:30 Real Sociedad           4-1 SD Eibar
- 18:30 RCD Mallorca            1-2 Real Betis Sevilla
- 18:30 FC Valencia             2-1 FC Villarreal
- 18:30 Deportivo Alaves        1-2 Real Madrid
+  RC Celta Vigo            0-0  Real Valladolid CF
+[Sáb. 30.11.]
+  Deportivo Alavés         1-2  Real Madrid
+  Real Sociedad            4-1  SD Eibar
+  RCD Mallorca             1-2  Real Betis
+  Valencia CF              2-1  Villarreal CF
 [Dom. 1.12.]
- 18:30 Athletic Bilbao         2-0 FC Granada
- 18:30 Espanyol Barcelona      2-4 CA Osasuna
- 18:30 Atletico Madrid         0-1 FC Barcelona
- 18:30 FC Sevilla              1-0 CD Leganes
- 18:30 FC Getafe               4-0 UD Levante
+  Sevilla FC               1-0  CD Leganés
+  Athletic Club Bilbao     2-0  Granada CF
+  RCD Espanyol             2-4  CA Osasuna
+  Getafe CF                4-0  Levante UD
+  Atlético Madrid          0-1  FC Barcelona
 
 
 Jornada 16
 [Vie. 6.12.]
- 18:30 FC Villarreal           0-0 Atletico Madrid
-[Sab. 7.12.]
- 18:30 UD Levante              2-4 FC Valencia
- 18:30 FC Granada              3-0 Deportivo Alaves
- 18:30 Real Madrid             2-0 Espanyol Barcelona
- 18:30 FC Barcelona            5-2 RCD Mallorca
+  Villarreal CF            0-0  Atlético Madrid
+[Sáb. 7.12.]
+  Real Madrid              2-0  RCD Espanyol
+  Granada CF               3-0  Deportivo Alavés
+  Levante UD               2-4  Valencia CF
+  FC Barcelona             5-2  RCD Mallorca
 [Dom. 8.12.]
- 18:30 Real Valladolid         0-0 Real Sociedad
- 18:30 Real Betis Sevilla      3-2 Athletic Bilbao
- 18:30 CD Leganes              3-2 Celta Vigo
- 18:30 CA Osasuna              1-1 FC Sevilla
- 18:30 SD Eibar                0-1 FC Getafe
+  SD Eibar                 0-1  Getafe CF
+  Real Betis               3-2  Athletic Club Bilbao
+  Real Valladolid CF       0-0  Real Sociedad
+  CD Leganés               3-2  RC Celta Vigo
+  CA Osasuna               1-1  Sevilla FC
 
 
 Jornada 17
 [Vie. 13.12.]
- 18:30 Deportivo Alaves        1-1 CD Leganes
-[Sab. 14.12.]
- 18:30 Atletico Madrid         2-0 CA Osasuna
- 18:30 Real Sociedad           2-2 FC Barcelona
- 18:30 Athletic Bilbao         0-0 SD Eibar
- 18:30 FC Granada              1-2 UD Levante
+  Deportivo Alavés         1-1  CD Leganés
+[Sáb. 14.12.]
+  Granada CF               1-2  Levante UD
+  Real Sociedad            2-2  FC Barcelona
+  Athletic Club Bilbao     0-0  SD Eibar
+  Atlético Madrid          2-0  CA Osasuna
 [Dom. 15.12.]
- 18:30 Celta Vigo              2-2 RCD Mallorca
- 18:30 Espanyol Barcelona      2-2 Real Betis Sevilla
- 18:30 FC Valencia             1-1 Real Madrid
- 18:30 FC Sevilla              1-2 FC Villarreal
- 18:30 FC Getafe               1-1 Real Valladolid
+  Getafe CF                2-0  Real Valladolid CF
+  RC Celta Vigo            2-2  RCD Mallorca
+  RCD Espanyol             2-2  Real Betis
+  Sevilla FC               1-2  Villarreal CF
+  Valencia CF              1-1  Real Madrid
 
 
 Jornada 10
-[Mie. 18.12.]
- 18:30 FC Barcelona            0-0 Real Madrid
+[Mié. 18.12.]
+  FC Barcelona             0-0  Real Madrid
 
 
 Jornada 18
 [Vie. 20.12.]
- 18:30 SD Eibar                3-0 FC Granada
-[Sab. 21.12.]
- 18:30 FC Barcelona            4-1 Deportivo Alaves
- 18:30 RCD Mallorca            0-2 FC Sevilla
- 18:30 FC Villarreal           1-0 FC Getafe
- 18:30 Real Valladolid         1-1 FC Valencia
+  SD Eibar                 3-0  Granada CF
+[Sáb. 21.12.]
+  RCD Mallorca             0-2  Sevilla FC
+  FC Barcelona             4-1  Deportivo Alavés
+  Villarreal CF            1-0  Getafe CF
+  Real Valladolid CF       1-1  Valencia CF
 [Dom. 22.12.]
- 18:30 Real Betis Sevilla      1-2 Atletico Madrid
- 18:30 Real Madrid             0-0 Athletic Bilbao
- 18:30 CD Leganes              2-0 Espanyol Barcelona
- 18:30 CA Osasuna              3-4 Real Sociedad
- 18:30 UD Levante              3-1 Celta Vigo
-
-
-# Winterpause incl. 2.1.2020
+  CD Leganés               2-0  RCD Espanyol
+  CA Osasuna               3-4  Real Sociedad
+  Real Betis               1-2  Atlético Madrid
+  Levante UD               3-1  RC Celta Vigo
+  Real Madrid              0-0  Athletic Club Bilbao
 
 
 Jornada 19
 [Vie. 3.1.]
- 18:30 Real Valladolid         2-2 CD Leganes
- 18:30 FC Sevilla              1-1 Athletic Bilbao
-[Sab. 4.1.]
- 18:30 Espanyol Barcelona      2-2 FC Barcelona
- 18:30 FC Valencia             1-0 SD Eibar
- 18:30 Atletico Madrid         2-1 UD Levante
- 18:30 FC Getafe               0-3 Real Madrid
+  Real Valladolid CF       2-2  CD Leganés
+  Sevilla FC               1-1  Athletic Club Bilbao
+[Sáb. 4.1.]
+  Valencia CF              1-0  SD Eibar
+  Getafe CF                0-3  Real Madrid
+  Atlético Madrid          2-1  Levante UD
+  RCD Espanyol             2-2  FC Barcelona
 [Dom. 5.1.]
- 18:30 Celta Vigo              1-1 CA Osasuna
- 18:30 Real Sociedad           1-2 FC Villarreal
- 18:30 Deportivo Alaves        1-1 Real Betis Sevilla
- 18:30 FC Granada              1-0 RCD Mallorca
+  Granada CF               1-0  RCD Mallorca
+  Real Sociedad            1-2  Villarreal CF
+  Deportivo Alavés         1-1  Real Betis
+  RC Celta Vigo            1-1  CA Osasuna
 
 
 Jornada 20
 [Vie. 17.1.]
- 18:30 CD Leganes              0-3 FC Getafe
-[Sab. 18.1.]
- 18:30 CA Osasuna              0-0 Real Valladolid
- 18:30 SD Eibar                2-0 Atletico Madrid
- 18:30 UD Levante              0-1 Deportivo Alaves
- 18:30 Real Madrid             2-1 FC Sevilla
+  CD Leganés               0-3  Getafe CF
+[Sáb. 18.1.]
+  Levante UD               0-1  Deportivo Alavés
+  Real Madrid              2-1  Sevilla FC
+  CA Osasuna               0-0  Real Valladolid CF
+  SD Eibar                 2-0  Atlético Madrid
 [Dom. 19.1.]
- 18:30 Athletic Bilbao         1-1 Celta Vigo
- 18:30 Real Betis Sevilla      3-0 Real Sociedad
- 18:30 FC Barcelona            1-0 FC Granada
- 18:30 RCD Mallorca            4-1 FC Valencia
- 18:30 FC Villarreal           1-2 Espanyol Barcelona
+  RCD Mallorca             4-1  Valencia CF
+  Real Betis               3-0  Real Sociedad
+  Villarreal CF            1-2  RCD Espanyol
+  Athletic Club Bilbao     1-1  RC Celta Vigo
+  FC Barcelona             1-0  Granada CF
 
 
 Jornada 21
 [Vie. 24.1.]
- 18:30 CA Osasuna              2-0 UD Levante
-[Sab. 25.1.]
- 18:30 FC Valencia             2-0 FC Barcelona
- 18:30 Deportivo Alaves        1-2 FC Villarreal
- 18:30 FC Sevilla              2-0 FC Granada
- 18:30 Espanyol Barcelona      1-1 Athletic Bilbao
+  CA Osasuna               2-0  Levante UD
+[Sáb. 25.1.]
+  RCD Espanyol             1-1  Athletic Club Bilbao
+  Valencia CF              2-0  FC Barcelona
+  Deportivo Alavés         1-2  Villarreal CF
+  Sevilla FC               2-0  Granada CF
 [Dom. 26.1.]
- 18:30 Celta Vigo              0-0 SD Eibar
- 18:30 Real Valladolid         0-1 Real Madrid
- 18:30 Atletico Madrid         0-0 CD Leganes
- 18:30 Real Sociedad           3-0 RCD Mallorca
- 18:30 FC Getafe               1-0 Real Betis Sevilla
+  Atlético Madrid          0-0  CD Leganés
+  RC Celta Vigo            0-0  SD Eibar
+  Getafe CF                1-0  Real Betis
+  Real Sociedad            3-0  RCD Mallorca
+  Real Valladolid CF       0-1  Real Madrid
 
 
 Jornada 22
-[Sab. 1.2.]
- 18:30 RCD Mallorca            0-1 Real Valladolid
- 18:30 FC Valencia             1-0 Celta Vigo
- 18:30 Real Madrid             1-0 Atletico Madrid
- 18:30 FC Granada              2-1 Espanyol Barcelona
+[Sáb. 1.2.]
+  Granada CF               2-1  RCD Espanyol
+  Real Madrid              1-0  Atlético Madrid
+  RCD Mallorca             0-1  Real Valladolid CF
+  Valencia CF              1-0  RC Celta Vigo
 [Dom. 2.2.]
- 18:30 Athletic Bilbao         0-2 FC Getafe
- 18:30 FC Barcelona            2-1 UD Levante
- 18:30 FC Sevilla              1-1 Deportivo Alaves
- 18:30 CD Leganes              2-1 Real Sociedad
- 18:30 SD Eibar                1-1 Real Betis Sevilla
- 18:30 FC Villarreal           3-1 CA Osasuna
+  CD Leganés               2-1  Real Sociedad
+  SD Eibar                 1-1  Real Betis
+  Athletic Club Bilbao     0-2  Getafe CF
+  Sevilla FC               1-1  Deportivo Alavés
+  Villarreal CF            3-1  CA Osasuna
+  FC Barcelona             2-1  Levante UD
 
 
 Jornada 23
 [Vie. 7.2.]
- 18:30 Deportivo Alaves        2-1 SD Eibar
-[Sab. 8.2.]
- 18:30 Real Valladolid         1-1 FC Villarreal
- 18:30 FC Getafe               3-0 FC Valencia
- 18:30 Atletico Madrid         1-0 FC Granada
- 18:30 UD Levante              2-0 CD Leganes
+  Deportivo Alavés         2-1  SD Eibar
+[Sáb. 8.2.]
+  Levante UD               2-0  CD Leganés
+  Getafe CF                3-0  Valencia CF
+  Real Valladolid CF       1-1  Villarreal CF
+  Atlético Madrid          1-0  Granada CF
 [Dom. 9.2.]
- 18:30 Celta Vigo              2-1 FC Sevilla
- 18:30 Espanyol Barcelona      1-0 RCD Mallorca
- 18:30 Real Betis Sevilla      2-3 FC Barcelona
- 18:30 Real Sociedad           2-1 Athletic Bilbao
- 18:30 CA Osasuna              1-4 Real Madrid
+  RCD Espanyol             1-0  RCD Mallorca
+  Real Sociedad            2-1  Athletic Club Bilbao
+  CA Osasuna               1-4  Real Madrid
+  RC Celta Vigo            2-1  Sevilla FC
+  Real Betis               2-3  FC Barcelona
 
 
 Jornada 24
 [Vie. 14.2.]
- 18:30 FC Valencia             2-2 Atletico Madrid
-[Sab. 15.2.]
- 18:30 RCD Mallorca            1-0 Deportivo Alaves
- 18:30 FC Barcelona            2-1 FC Getafe
- 18:30 FC Granada              2-1 Real Valladolid
- 18:30 FC Villarreal           2-1 UD Levante
+  Valencia CF              2-2  Atlético Madrid
+[Sáb. 15.2.]
+  RCD Mallorca             1-0  Deportivo Alavés
+  FC Barcelona             2-1  Getafe CF
+  Villarreal CF            2-1  Levante UD
+  Granada CF               2-1  Real Valladolid CF
 [Dom. 16.2.]
- 18:30 Real Madrid             2-2 Celta Vigo
- 18:30 Athletic Bilbao         0-1 CA Osasuna
- 18:30 FC Sevilla              2-2 Espanyol Barcelona
- 18:30 CD Leganes              0-0 Real Betis Sevilla
- ## 18:30 SD Eibar              - Real Sociedad   ## see postponed
+  Sevilla FC               2-2  RCD Espanyol
+  CD Leganés               0-0  Real Betis
+  Athletic Club Bilbao     0-1  CA Osasuna
+  Real Madrid              2-2  RC Celta Vigo
 
 
 Jornada 25
 [Vie. 21.2.]
- 18:30 Real Betis Sevilla      3-3 RCD Mallorca
-[Sab. 22.2.]
- 18:30 Real Sociedad           3-0 FC Valencia
- 18:30 Celta Vigo              1-0 CD Leganes
- 18:30 FC Barcelona            5-0 SD Eibar
- 18:30 UD Levante              1-0 Real Madrid
+  Real Betis               3-3  RCD Mallorca
+[Sáb. 22.2.]
+  RC Celta Vigo            1-0  CD Leganés
+  FC Barcelona             5-0  SD Eibar
+  Real Sociedad            3-0  Valencia CF
+  Levante UD               1-0  Real Madrid
 [Dom. 23.2.]
- 18:30 Real Valladolid         2-1 Espanyol Barcelona
- 18:30 Atletico Madrid         3-1 FC Villarreal
- 18:30 Deportivo Alaves        2-1 Athletic Bilbao
- 18:30 FC Getafe               0-3 FC Sevilla
- 18:30 CA Osasuna              0-3 FC Granada
+  CA Osasuna               0-3  Granada CF
+  Deportivo Alavés         2-1  Athletic Club Bilbao
+  Real Valladolid CF       2-1  RCD Espanyol
+  Getafe CF                0-3  Sevilla FC
+  Atlético Madrid          3-1  Villarreal CF
 
 
 Jornada 26
 [Vie. 28.2.]
- 18:30 Real Sociedad           1-0 Real Valladolid
-[Sab. 29.2.]
- 18:30 CD Leganes              1-1 Deportivo Alaves
- 18:30 SD Eibar                3-0 UD Levante
- 18:30 FC Granada              0-0 Celta Vigo
- 18:30 FC Valencia             2-1 Real Betis Sevilla
+  Real Sociedad            1-0  Real Valladolid CF
+[Sáb. 29.2.]
+  SD Eibar                 3-0  Levante UD
+  Valencia CF              2-1  Real Betis
+  CD Leganés               1-1  Deportivo Alavés
+  Granada CF               0-0  RC Celta Vigo
 [Dom. 1.3.]
- 18:30 Athletic Bilbao         1-0 FC Villarreal
- 18:30 Espanyol Barcelona      1-1 Atletico Madrid
- 18:30 Real Madrid             2-0 FC Barcelona
- 18:30 RCD Mallorca            0-1 FC Getafe
- 18:30 FC Sevilla              3-2 CA Osasuna
+  Sevilla FC               3-2  CA Osasuna
+  Athletic Club Bilbao     1-0  Villarreal CF
+  RCD Espanyol             1-1  Atlético Madrid
+  RCD Mallorca             0-1  Getafe CF
+  Real Madrid              2-0  FC Barcelona
 
 
 Jornada 27
 [Vie. 6.3.]
- 18:30 Deportivo Alaves        1-1 FC Valencia
-[Sab. 7.3.]
- 18:30 Atletico Madrid         2-2 FC Sevilla
- 18:30 FC Barcelona            1-0 Real Sociedad
- 18:30 FC Getafe               0-0 Celta Vigo
- 18:30 SD Eibar                1-2 RCD Mallorca
+  Deportivo Alavés         1-1  Valencia CF
+[Sáb. 7.3.]
+  SD Eibar                 1-2  RCD Mallorca
+  Atlético Madrid          2-2  Sevilla FC
+  FC Barcelona             1-0  Real Sociedad
+  Getafe CF                0-0  RC Celta Vigo
 [Dom. 8.3.]
- 18:30 Real Valladolid         1-4 Athletic Bilbao
- 18:30 Real Betis Sevilla      2-1 Real Madrid
- 18:30 FC Villarreal           1-2 CD Leganes
- 18:30 CA Osasuna              1-0 Espanyol Barcelona
- 18:30 UD Levante              1-1 FC Granada
+  CA Osasuna               1-0  RCD Espanyol
+  Real Valladolid CF       1-4  Athletic Club Bilbao
+  Levante UD               1-1  Granada CF
+  Villarreal CF            1-2  CD Leganés
+  Real Betis               2-1  Real Madrid
 
 
 Jornada 24
 [Mar. 10.3.]
- 18:30 SD Eibar                1-2 Real Sociedad
+  SD Eibar                 1-2  Real Sociedad
 
 
 Jornada 28
-[Vie. 13.3.]
- 18:30 Real Madrid             - SD Eibar                  # Termin verschoben
-[Sab. 14.3.]
- 18:30 Celta Vigo              - FC Villarreal             # Termin verschoben
- 18:30 RCD Mallorca            - FC Barcelona              # Termin verschoben
- 18:30 FC Valencia             - UD Levante                # Termin verschoben
- 18:30 CD Leganes              - Real Valladolid           # Termin verschoben
-[Dom. 15.3.]
- 18:30 Athletic Bilbao         - Atletico Madrid           # Termin verschoben
- 18:30 Espanyol Barcelona      - Deportivo Alaves          # Termin verschoben
- 18:30 FC Sevilla              2-0  Real Betis Sevilla        # Termin verschoben
- 18:30 Real Sociedad           - CA Osasuna                # Termin verschoben
- 18:30 FC Granada              - FC Getafe                 # Termin verschoben
+[Jue. 11.6.]
+  Sevilla FC               2-0  Real Betis
+[Vie. 12.6.]
+  Granada CF               2-1  Getafe CF
+  Valencia CF              1-1  Levante UD
+[Sáb. 13.6.]
+  RCD Espanyol             2-0  Deportivo Alavés
+  RC Celta Vigo            0-1  Villarreal CF
+  CD Leganés               1-2  Real Valladolid CF
+  RCD Mallorca             0-4  FC Barcelona
+[Dom. 14.6.]
+  Athletic Club Bilbao     1-1  Atlético Madrid
+  Real Madrid              3-1  SD Eibar
+  Real Sociedad            1-1  CA Osasuna
 
 
 Jornada 29
-[Vie. 20.3.]
- 18:30 CA Osasuna              - Atletico Madrid           # Termin verschoben
-[Sab. 21.3.]
- 18:30 SD Eibar                - Athletic Bilbao           # Termin verschoben
- 18:30 Deportivo Alaves        - Real Sociedad             # Termin verschoben
- 18:30 Real Madrid             - FC Valencia               # Termin verschoben
- 18:30 Real Valladolid         - Celta Vigo                # Termin verschoben
-[Dom. 22.3.]
- 18:30 Real Betis Sevilla      - FC Granada                # Termin verschoben
- 18:30 FC Barcelona            - CD Leganes                # Termin verschoben
- 18:30 FC Villarreal           - RCD Mallorca              # Termin verschoben
- 18:30 FC Getafe               - Espanyol Barcelona        # Termin verschoben
- 18:30 UD Levante              - FC Sevilla                # Termin verschoben
+[Lun. 15.6.]
+  Levante UD               1-1  Sevilla FC
+  Real Betis               2-2  Granada CF
+[Mar. 16.6.]
+  Getafe CF                0-0  RCD Espanyol
+  Villarreal CF            1-0  RCD Mallorca
+  FC Barcelona             2-0  CD Leganés
+[Mié. 17.6.]
+  Real Valladolid CF       0-0  RC Celta Vigo
+  SD Eibar                 2-2  Athletic Club Bilbao
+  CA Osasuna               0-5  Atlético Madrid
+[Jue. 18.6.]
+  Deportivo Alavés         2-0  Real Sociedad
+  Real Madrid              3-0  Valencia CF
 
 
 Jornada 30
-[Dom. 5.4.]
- 18:30 Celta Vigo              - Deportivo Alaves
- 18:30 Athletic Bilbao         - Real Betis Sevilla
- 18:30 Espanyol Barcelona      - UD Levante
- 18:30 Atletico Madrid         - Real Valladolid
- 18:30 Real Sociedad           - Real Madrid
- 18:30 RCD Mallorca            - CD Leganes
- 18:30 FC Valencia             - CA Osasuna
- 18:30 FC Sevilla              - FC Barcelona
- 18:30 FC Getafe               - SD Eibar
- 18:30 FC Granada              - FC Villarreal
+[Vie. 19.6.]
+  RCD Mallorca             1-1  CD Leganés
+  Granada CF               0-1  Villarreal CF
+  Sevilla FC               0-0  FC Barcelona
+[Sáb. 20.6.]
+  RCD Espanyol             1-3  Levante UD
+  Athletic Club Bilbao     1-0  Real Betis
+  Getafe CF                1-1  SD Eibar
+  Atlético Madrid          1-0  Real Valladolid CF
+[Dom. 21.6.]
+  RC Celta Vigo            6-0  Deportivo Alavés
+  Valencia CF              2-0  CA Osasuna
+  Real Sociedad            1-2  Real Madrid
 
 
 Jornada 31
-[Dom. 12.4.]
- 18:30 Real Valladolid         - FC Getafe
- 18:30 Real Betis Sevilla      - Espanyol Barcelona
- 18:30 Real Madrid             - RCD Mallorca
- 18:30 FC Barcelona            - Athletic Bilbao
- 18:30 Real Sociedad            - Celta Vigo
- 18:30 Deportivo Alaves        - CA Osasuna
- 18:30 FC Villarreal           - FC Sevilla
- 18:30 CD Leganes              - FC Granada
- 18:30 SD Eibar                - FC Valencia
- 18:30 UD Levante              - Atletico Madrid
+[Lun. 22.6.]
+  Villarreal CF            2-2  Sevilla FC
+  CD Leganés               0-0  Granada CF
+[Mar. 23.6.]
+  Levante UD               0-1  Atlético Madrid
+  Real Valladolid CF       1-1  Getafe CF
+  FC Barcelona             1-0  Athletic Club Bilbao
+[Mié. 24.6.]
+  Real Sociedad            0-1  RC Celta Vigo
+  Deportivo Alavés         0-1  CA Osasuna
+  Real Madrid              2-0  RCD Mallorca
+[Jue. 25.6.]
+  SD Eibar                 -  Valencia CF
+  Real Betis               -  RCD Espanyol
 
 
 Jornada 32
-[Mié. 22.4.]
- 21:00 Celta Vigo              - FC Barcelona
- 21:00 Athletic Bilbao         - RCD Mallorca
- 21:00 Espanyol Barcelona      - Real Madrid
- 21:00 Atletico Madrid         - Deportivo Alaves
- 21:00 FC Villarreal           - FC Valencia
- 21:00 FC Sevilla              - Real Valladolid
- 21:00 FC Getafe               - Real Sociedad
- 21:00 CA Osasuna              - CD Leganes
- 21:00 UD Levante              - Real Betis Sevilla
- 21:00 FC Granada              - SD Eibar
+[Vie. 26.6.]
+  Sevilla FC               -  Real Valladolid CF
+[Sáb. 27.6.]
+  Athletic Club Bilbao     -  RCD Mallorca
+  RC Celta Vigo            -  FC Barcelona
+  CA Osasuna               -  CD Leganés
+  Atlético Madrid          -  Deportivo Alavés
+[Dom. 28.6.]
+  Levante UD               -  Real Betis
+  Villarreal CF            -  Valencia CF
+  Granada CF               -  SD Eibar
+  RCD Espanyol             -  Real Madrid
+[Lun. 29.6.]
+  Getafe CF                -  Real Sociedad
 
 
 Jornada 33
-[Dom. 26.4.]
- 18:30 Real Valladolid         - UD Levante
- 18:30 Real Betis Sevilla      - FC Villarreal
- 18:30 Real Madrid             - FC Getafe
- 18:30 FC Barcelona            - Atletico Madrid
- 18:30 Real Sociedad           - Espanyol Barcelona
- 18:30 RCD Mallorca            - Celta Vigo
- 18:30 FC Valencia             - Athletic Bilbao
- 18:30 Deportivo Alaves        - FC Granada
- 18:30 CD Leganes              - FC Sevilla
- 18:30 SD Eibar                - CA Osasuna
+[Mar. 30.6.]
+  RCD Mallorca             -  RC Celta Vigo
+  CD Leganés               -  Sevilla FC
+  FC Barcelona             -  Atlético Madrid
+[Mié. 1.7.]
+  Valencia CF              -  Athletic Club Bilbao
+  Deportivo Alavés         -  Granada CF
+  Real Betis               -  Villarreal CF
+  Real Valladolid CF       -  Levante UD
+[Jue. 2.7.]
+  Real Sociedad            -  RCD Espanyol
+  SD Eibar                 -  CA Osasuna
+  Real Madrid              -  Getafe CF
 
 
 Jornada 34
-[Dom. 3.5.]
- 18:30 Celta Vigo              - Real Betis Sevilla
- 18:30 Athletic Bilbao         - Real Madrid
- 18:30 Espanyol Barcelona      - CD Leganes
- 18:30 Real Valladolid         - Deportivo Alaves
- 18:30 Atletico Madrid         - RCD Mallorca
- 18:30 FC Villarreal           - FC Barcelona
- 18:30 FC Sevilla              - SD Eibar
- 18:30 CA Osasuna              - FC Getafe
- 18:30 UD Levante              - Real Sociedad
- 18:30 FC Granada              - FC Valencia
+[Vie. 3.7.]
+  Atlético Madrid          -  RCD Mallorca
+[Sáb. 4.7.]
+  RC Celta Vigo            -  Real Betis
+  Real Valladolid CF       -  Deportivo Alavés
+  Granada CF               -  Valencia CF
+[Dom. 5.7.]
+  Athletic Club Bilbao     -  Real Madrid
+  RCD Espanyol             -  CD Leganés
+  CA Osasuna               -  Getafe CF
+  Villarreal CF            -  FC Barcelona
+[Lun. 6.7.]
+  Levante UD               -  Real Sociedad
+  Sevilla FC               -  SD Eibar
 
 
 Jornada 35
-[Dom. 10.5.]
- 18:30 Celta Vigo              - Atletico Madrid
- 18:30 Athletic Bilbao         - FC Sevilla
- 18:30 Real Betis Sevilla      - CA Osasuna
- 18:30 Real Madrid             - Deportivo Alaves
- 18:30 FC Barcelona            - Espanyol Barcelona
- 18:30 Real Sociedad           - FC Granada
- 18:30 RCD Mallorca            - UD Levante
- 18:30 FC Valencia             - Real Valladolid
- 18:30 FC Getafe               - FC Villarreal
- 18:30 SD Eibar                - CD Leganes
+[Mié. 8.7.]
+  Real Madrid              -  Deportivo Alavés
+  FC Barcelona             -  RCD Espanyol
+  Valencia CF              -  Real Valladolid CF
+  RCD Mallorca             -  Levante UD
+  Athletic Club Bilbao     -  Sevilla FC
+  Getafe CF                -  Villarreal CF
+  Real Sociedad            -  Granada CF
+  Real Betis               -  CA Osasuna
+  RC Celta Vigo            -  Atlético Madrid
+  SD Eibar                 -  CD Leganés
 
 
 Jornada 36
-[Mié. 13.5.]
- 21:00 Espanyol Barcelona      - SD Eibar
- 21:00 Real Valladolid         - FC Barcelona
- 21:00 Atletico Madrid         - Real Betis Sevilla
- 21:00 Deportivo Alaves        - FC Getafe
- 21:00 FC Villarreal           - Real Sociedad
- 21:00 FC Sevilla              - RCD Mallorca
- 21:00 CD Leganes              - FC Valencia
- 21:00 CA Osasuna              - Celta Vigo
- 21:00 UD Levante              - Athletic Bilbao
- 21:00 FC Granada              - Real Madrid
+[Dom. 12.7.]
+  Real Valladolid CF       -  FC Barcelona
+  Villarreal CF            -  Real Sociedad
+  Deportivo Alavés         -  Getafe CF
+  CD Leganés               -  Valencia CF
+  Atlético Madrid          -  Real Betis
+  Levante UD               -  Athletic Club Bilbao
+  CA Osasuna               -  RC Celta Vigo
+  Sevilla FC               -  RCD Mallorca
+  RCD Espanyol             -  SD Eibar
+  Granada CF               -  Real Madrid
 
 
 Jornada 37
-[Dom. 17.5.]
- 18:30 Celta Vigo              - UD Levante
- 18:30 Athletic Bilbao         - CD Leganes
- 18:30 Real Betis Sevilla      - Deportivo Alaves
- 18:30 Real Madrid             - FC Villarreal
- 18:30 FC Barcelona            - CA Osasuna
- 18:30 Real Sociedad           - FC Sevilla
- 18:30 RCD Mallorca            - FC Granada
- 18:30 FC Valencia             - Espanyol Barcelona
- 18:30 FC Getafe               - Atletico Madrid
- 18:30 SD Eibar                - Real Valladolid
+[Mié. 15.7.]
+  Real Madrid              -  Villarreal CF
+  FC Barcelona             -  CA Osasuna
+  Valencia CF              -  RCD Espanyol
+  RCD Mallorca             -  Granada CF
+  Athletic Club Bilbao     -  CD Leganés
+  Getafe CF                -  Atlético Madrid
+  Real Sociedad            -  Sevilla FC
+  Real Betis               -  Deportivo Alavés
+  RC Celta Vigo            -  Levante UD
+  SD Eibar                 -  Real Valladolid CF
 
 
 Jornada 38
-[Dom. 24.5.]
- 18:30 Espanyol Barcelona      - Celta Vigo
- 18:30 Real Valladolid         - Real Betis Sevilla
- 18:30 Atletico Madrid         - Real Sociedad
- 18:30 Deportivo Alaves        - FC Barcelona
- 18:30 FC Villarreal           - SD Eibar
- 18:30 FC Sevilla              - FC Valencia
- 18:30 CD Leganes              - Real Madrid
- 18:30 CA Osasuna              - RCD Mallorca
- 18:30 UD Levante              - FC Getafe
- 18:30 FC Granada              - Athletic Bilbao
+[Dom. 19.7.]
+  Atlético Madrid          -  Real Sociedad
+  Levante UD               -  Getafe CF
+  CA Osasuna               -  RCD Mallorca
+  Sevilla FC               -  Valencia CF
+  RCD Espanyol             -  RC Celta Vigo
+  Granada CF               -  Athletic Club Bilbao
+  Real Valladolid CF       -  Real Betis
+  Villarreal CF            -  SD Eibar
+  Deportivo Alavés         -  FC Barcelona
+  CD Leganés               -  Real Madrid
