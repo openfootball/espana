@@ -1,7 +1,5 @@
 = Primera División de España 2015/16   ## La Liga
 
-# start_at: 2015-08-21
-# -- Primera Vuelta --
 
 
 Jornada 1
@@ -267,3 +265,253 @@ Jornada 19
   UD Las Palmas                1-1  Málaga CF
   Celta Vigo                   0-2  Atlético Madrid
   Levante UD                   2-1  Rayo Vallecano
+
+
+Jornada 20
+[Dom. 17.1.]
+  FC Barcelona                 6-0  Athletic Bilbao
+  Sevilla FC                   2-1  Málaga CF
+  Valencia CF                  2-2  Rayo Vallecano
+  Celta Vigo                   4-3  Levante UD
+  Getafe CF                    3-1  Espanyol Barcelona
+  Real Sociedad San Sebastián  1-1  Deportivo La Coruña
+  SD Eibar                     5-1  Granada CF
+  Villarreal CF                0-0  Betis Sevilla
+  Real Madrid                  5-1  Sporting Gijón
+  UD Las Palmas                0-3  Atlético Madrid
+
+Jornada 21
+[Dom. 24.1.]
+  Rayo Vallecano               3-0  Celta Vigo
+  Levante UD                   3-2  UD Las Palmas
+  Atlético Madrid              0-0  Sevilla FC
+  Málaga CF                    1-2  FC Barcelona
+  Athletic Bilbao              5-2  SD Eibar
+  Granada CF                   3-2  Getafe CF
+  Espanyol Barcelona           2-2  Villarreal CF
+  Betis Sevilla                1-1  Real Madrid
+  Sporting Gijón               5-1  Real Sociedad San Sebastián
+  Deportivo La Coruña          1-1  Valencia CF
+
+Jornada 22
+[Dom. 31.1.]
+  UD Las Palmas                2-1  Celta Vigo
+  Sevilla FC                   3-1  Levante UD
+  FC Barcelona                 2-1  Atlético Madrid
+  SD Eibar                     1-2  Málaga CF
+  Getafe CF                    0-1  Athletic Bilbao
+  Villarreal CF                1-0  Granada CF
+  Real Madrid                  6-0  Espanyol Barcelona
+  Real Sociedad San Sebastián  2-1  Betis Sevilla
+  Valencia CF                  0-1  Sporting Gijón
+  Deportivo La Coruña          2-2  Rayo Vallecano
+
+Jornada 23
+[Dom. 7.2.]
+  Rayo Vallecano               2-0  UD Las Palmas
+  Celta Vigo                   1-1  Sevilla FC
+  Levante UD                   0-2  FC Barcelona
+  Atlético Madrid              3-1  SD Eibar
+  Málaga CF                    3-0  Getafe CF
+  Athletic Bilbao              0-0  Villarreal CF
+  Granada CF                   1-2  Real Madrid
+  Espanyol Barcelona           0-5  Real Sociedad San Sebastián
+  Betis Sevilla                1-0  Valencia CF
+  Sporting Gijón               1-1  Deportivo La Coruña
+
+Jornada 24
+[Dom. 14.2.]
+  Sevilla FC                   2-0  UD Las Palmas
+  FC Barcelona                 6-1  Celta Vigo
+  SD Eibar                     2-0  Levante UD
+  Getafe CF                    0-1  Atlético Madrid
+  Villarreal CF                1-0  Málaga CF
+  Real Madrid                  4-2  Athletic Bilbao
+  Real Sociedad San Sebastián  3-0  Granada CF
+  Valencia CF                  2-1  Espanyol Barcelona
+  Deportivo La Coruña          2-2  Betis Sevilla
+  Sporting Gijón               2-2  Rayo Vallecano
+
+Jornada 25
+[Dom. 21.2.]
+  Rayo Vallecano               2-2  Sevilla FC
+  UD Las Palmas                1-2  FC Barcelona
+  Celta Vigo                   3-2  SD Eibar
+  Levante UD                   2-0  Getafe CF
+  Atlético Madrid              0-0  Villarreal CF
+  Málaga CF                    1-1  Real Madrid
+  Athletic Bilbao              0-1  Real Sociedad San Sebastián
+  Granada CF                   1-2  Valencia CF
+  Espanyol Barcelona           1-0  Deportivo La Coruña
+  Betis Sevilla                1-1  Sporting Gijón
+
+Jornada 26
+[Dom. 28.2.]
+  FC Barcelona                 2-1  Sevilla FC
+  SD Eibar                     0-1  UD Las Palmas
+  Getafe CF                    0-1  Celta Vigo
+  Villarreal CF                3-0  Levante UD
+  Real Madrid                  0-1  Atlético Madrid
+  Real Sociedad San Sebastián  1-1  Málaga CF
+  Valencia CF                  0-3  Athletic Bilbao
+  Deportivo La Coruña          0-1  Granada CF
+  Sporting Gijón               2-4  Espanyol Barcelona
+  Betis Sevilla                2-2  Rayo Vallecano
+
+Jornada 27
+[Mié. 2.3.]
+  Rayo Vallecano               1-5  FC Barcelona
+  Sevilla FC                   1-0  SD Eibar
+  UD Las Palmas                4-0  Getafe CF
+  Celta Vigo                   0-0  Villarreal CF
+  Levante UD                   1-3  Real Madrid
+  Atlético Madrid              3-0  Real Sociedad San Sebastián
+  Málaga CF                    1-2  Valencia CF
+  Athletic Bilbao              4-1  Deportivo La Coruña
+  Granada CF                   2-0  Sporting Gijón
+  Espanyol Barcelona           0-3  Betis Sevilla
+
+Jornada 28
+[Dom. 6.3.]
+  SD Eibar                     0-4  FC Barcelona
+  Getafe CF                    1-1  Sevilla FC
+  Villarreal CF                0-1  UD Las Palmas
+  Real Madrid                  7-1  Celta Vigo
+  Real Sociedad San Sebastián  1-1  Levante UD
+  Valencia CF                  1-3  Atlético Madrid
+  Deportivo La Coruña          3-3  Málaga CF
+  Sporting Gijón               0-2  Athletic Bilbao
+  Betis Sevilla                2-0  Granada CF
+  Espanyol Barcelona           2-1  Rayo Vallecano
+
+Jornada 29
+[Dom. 13.3.]
+  Rayo Vallecano               1-1  SD Eibar
+  FC Barcelona                 6-0  Getafe CF
+  Sevilla FC                   4-2  Villarreal CF
+  UD Las Palmas                1-2  Real Madrid
+  Celta Vigo                   1-0  Real Sociedad San Sebastián
+  Levante UD                   1-0  Valencia CF
+  Atlético Madrid              3-0  Deportivo La Coruña
+  Málaga CF                    1-0  Sporting Gijón
+  Athletic Bilbao              3-1  Betis Sevilla
+  Granada CF                   1-1  Espanyol Barcelona
+
+Jornada 30
+[Dom. 20.3.]
+  Getafe CF                    1-1  SD Eibar
+  Villarreal CF                2-2  FC Barcelona
+  Real Madrid                  4-0  Sevilla FC
+  Real Sociedad San Sebastián  0-1  UD Las Palmas
+  Valencia CF                  0-2  Celta Vigo
+  Deportivo La Coruña          2-1  Levante UD
+  Sporting Gijón               2-1  Atlético Madrid
+  Betis Sevilla                0-1  Málaga CF
+  Espanyol Barcelona           2-1  Athletic Bilbao
+  Granada CF                   2-2  Rayo Vallecano
+
+Jornada 31
+[Dom. 3.4.]
+  Rayo Vallecano               2-0  Getafe CF
+  SD Eibar                     1-2  Villarreal CF
+  FC Barcelona                 1-2  Real Madrid
+  Sevilla FC                   1-2  Real Sociedad San Sebastián
+  UD Las Palmas                2-1  Valencia CF
+  Celta Vigo                   1-1  Deportivo La Coruña
+  Levante UD                   0-0  Sporting Gijón
+  Atlético Madrid              5-1  Betis Sevilla
+  Málaga CF                    1-1  Espanyol Barcelona
+  Athletic Bilbao              1-1  Granada CF
+
+Jornada 32
+[Dom. 10.4.]
+  Deportivo La Coruña          1-3  UD Las Palmas
+  Sporting Gijón               0-1  Celta Vigo
+  Betis Sevilla                1-0  Levante UD
+  Espanyol Barcelona           1-3  Atlético Madrid
+  Granada CF                   0-0  Málaga CF
+  Athletic Bilbao              1-0  Rayo Vallecano
+  Villarreal CF                2-0  Getafe CF
+  Real Madrid                  4-0  SD Eibar
+  Real Sociedad San Sebastián  1-0  FC Barcelona
+  Valencia CF                  2-1  Sevilla FC
+
+Jornada 33
+[Dom. 17.4.]
+  Rayo Vallecano               2-1  Villarreal CF
+  Getafe CF                    1-5  Real Madrid
+  SD Eibar                     2-1  Real Sociedad San Sebastián
+  FC Barcelona                 1-2  Valencia CF
+  Sevilla FC                   1-1  Deportivo La Coruña
+  UD Las Palmas                1-1  Sporting Gijón
+  Celta Vigo                   1-1  Betis Sevilla
+  Levante UD                   2-1  Espanyol Barcelona
+  Atlético Madrid              3-0  Granada CF
+  Málaga CF                    0-1  Athletic Bilbao
+
+Jornada 34
+[Mie. 20.4.]
+  Real Madrid                  3-0  Villarreal CF
+  Real Sociedad San Sebastián  1-2  Getafe CF
+  Valencia CF                  4-0  SD Eibar
+  Deportivo La Coruña          0-8  FC Barcelona
+  Sporting Gijón               2-1  Sevilla FC
+  Betis Sevilla                1-0  UD Las Palmas
+  Espanyol Barcelona           1-1  Celta Vigo
+  Granada CF                   5-1  Levante UD
+  Athletic Bilbao              0-1  Atlético Madrid
+  Málaga CF                    1-1  Rayo Vallecano
+
+Jornada 35
+[Dom. 24.4.]
+  Rayo Vallecano               2-3  Real Madrid
+  Villarreal CF                0-0  Real Sociedad San Sebastián
+  Getafe CF                    2-2  Valencia CF
+  SD Eibar                     1-1  Deportivo La Coruña
+  FC Barcelona                 6-0  Sporting Gijón
+  Sevilla FC                   2-0  Betis Sevilla
+  UD Las Palmas                4-0  Espanyol Barcelona
+  Celta Vigo                   2-1  Granada CF
+  Levante UD                   2-2  Athletic Bilbao
+  Atlético Madrid              1-0  Málaga CF
+
+Jornada 36
+[Dom. 1.5.]
+  Real Sociedad San Sebastián  0-1  Real Madrid
+  Valencia CF                  0-2  Villarreal CF
+  Deportivo La Coruña          0-2  Getafe CF
+  Sporting Gijón               2-0  SD Eibar
+  Betis Sevilla                0-2  FC Barcelona
+  Espanyol Barcelona           1-0  Sevilla FC
+  Granada CF                   3-2  UD Las Palmas
+  Athletic Bilbao              2-1  Celta Vigo
+  Málaga CF                    3-1  Levante UD
+  Atlético Madrid              1-0  Rayo Vallecano
+
+
+Jornada 37
+[Dom. 8.5.]
+  Real Sociedad San Sebastián  2-1  Rayo Vallecano
+  Real Madrid                  3-2  Valencia CF
+  Villarreal CF                0-2  Deportivo La Coruña
+  Getafe CF                    1-1  Sporting Gijón
+  SD Eibar                     1-1  Betis Sevilla
+  FC Barcelona                 5-0  Espanyol Barcelona
+  Sevilla FC                   1-4  Granada CF
+  UD Las Palmas                0-0  Athletic Bilbao
+  Celta Vigo                   1-0  Málaga CF
+  Levante UD                   2-1  Atlético Madrid
+
+Jornada 38
+[Dom. 15.5.]
+  Valencia CF                  0-1  Real Sociedad San Sebastián
+  Deportivo La Coruña          0-2  Real Madrid
+  Sporting Gijón               2-0  Villarreal CF
+  Betis Sevilla                2-1  Getafe CF
+  Espanyol Barcelona           4-2  SD Eibar
+  Granada CF                   0-3  FC Barcelona
+  Athletic Bilbao              3-1  Sevilla FC
+  Málaga CF                    4-1  UD Las Palmas
+  Atlético Madrid              2-0  Celta Vigo
+  Rayo Vallecano               3-1  Levante UD
+
