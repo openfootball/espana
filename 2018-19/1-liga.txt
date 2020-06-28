@@ -3,628 +3,625 @@
 
 Jornada 1
 [Vie. 17.8.]
-  Girona FC                    0-0 Real Valladolid
-  Betis Sevilla                0-3 Levante UD
+  Girona FC                0-0  Real Valladolid CF
+  Real Betis               0-3  Levante UD
 [Sáb. 18.8.]
-  Celta Vigo                   1-1 Espanyol Barcelona
-  Villarreal CF                1-2 Real Sociedad San Sebastian
-  FC Barcelona                 3-0 CD Alavés
+  RC Celta Vigo            1-1  RCD Espanyol
+  Villarreal CF            1-2  Real Sociedad
+  FC Barcelona             3-0  Deportivo Alavés
 [Dom. 19.8.]
-  SD Eibar                     1-2 SD Huesca
-  Rayo Vallecano               1-4 Sevilla FC
-  Real Madrid                  2-0 Getafe CF
+  SD Eibar                 1-2  SD Huesca
+  Rayo Vallecano           1-4  Sevilla FC
+  Real Madrid              2-0  Getafe CF
 [Lun. 20.8.]
-  Valencia CF                  1-1 Atlético Madrid
-  Athletic Bilbao              2-1 CD Leganés
+  Valencia CF              1-1  Atlético Madrid
+  Athletic Club Bilbao     2-1  CD Leganés
 
 
 Jornada 2
 [Vie. 24.8.]
-  Getafe CF                    2-0 SD Eibar
-  CD Leganés                   2-2 Real Sociedad San Sebastian
+  Getafe CF                2-0  SD Eibar
+  CD Leganés               2-2  Real Sociedad
 [Sáb. 25.8.]
-  CD Alavés                    0-0 Betis Sevilla
-  Atlético Madrid              1-0 Rayo Vallecano
-  Real Valladolid              0-1 FC Barcelona
+  Deportivo Alavés         0-0  Real Betis
+  Atlético Madrid          1-0  Rayo Vallecano
+  Real Valladolid CF       0-1  FC Barcelona
 [Dom. 26.8.]
-  Espanyol Barcelona           2-0 Valencia CF
-  Sevilla FC                   0-0 Villarreal CF
-  Girona FC                    1-4 Real Madrid
+  RCD Espanyol             2-0  Valencia CF
+  Girona FC                1-4  Real Madrid
+  Sevilla FC               0-0  Villarreal CF
 [Lun. 27.8.]
-  Levante UD                   1-2 Celta Vigo
-  Athletic Bilbao              2-2 SD Huesca
+  Levante UD               1-2  RC Celta Vigo
+  Athletic Club Bilbao     2-2  SD Huesca
 
 
 Jornada 3
 [Vie. 31.8.]
-  Getafe CF                    0-0 Real Valladolid
-  SD Eibar                     2-1 Real Sociedad San Sebastian
-  Villarreal CF                0-1 Girona FC
+  Getafe CF                0-0  Real Valladolid CF
+  Villarreal CF            0-1  Girona FC
+  SD Eibar                 2-1  Real Sociedad
 [Sáb. 1.9.]
-  Celta Vigo                   2-0 Atlético Madrid
-  ## Rayo Vallecano             - Athletic Bilbao    ## see postponed
-  Real Madrid                  4-1 CD Leganés
+  RC Celta Vigo            2-0  Atlético Madrid
+  Real Madrid              4-1  CD Leganés
 [Dom. 2.9.]
-  Levante UD                   2-2 Valencia CF
-  CD Alavés                    2-1 Espanyol Barcelona
-  FC Barcelona                 8-2 SD Huesca
-  Betis Sevilla                1-0 Sevilla FC
+  Levante UD               2-2  Valencia CF
+  Deportivo Alavés         2-1  RCD Espanyol
+  FC Barcelona             8-2  SD Huesca
+  Real Betis               1-0  Sevilla FC
 
 
 Jornada 4
 [Vie. 14.9.]
-  SD Huesca                    0-1 Rayo Vallecano
+  SD Huesca                0-1  Rayo Vallecano
 [Sáb. 15.9.]
-  Atlético Madrid              1-1 SD Eibar
-  Real Sociedad San Sebastian  1-2 FC Barcelona
-  Valencia CF                  0-0 Betis Sevilla
-  Athletic Bilbao              1-1 Real Madrid
+  Atlético Madrid          1-1  SD Eibar
+  Real Sociedad            1-2  FC Barcelona
+  Valencia CF              0-0  Real Betis
+  Athletic Club Bilbao     1-1  Real Madrid
 [Dom. 16.9.]
-  CD Leganés                   0-1 Villarreal CF
-  Espanyol Barcelona           1-0 Levante UD
-  Real Valladolid              0-1 CD Alavés
-  Sevilla FC                   0-2 Getafe CF
+  CD Leganés               0-1  Villarreal CF
+  RCD Espanyol             1-0  Levante UD
+  Real Valladolid CF       0-1  Deportivo Alavés
+  Sevilla FC               0-2  Getafe CF
 [Lun. 17.9.]
-  Girona FC                    3-2 Celta Vigo
+  Girona FC                3-2  RC Celta Vigo
 
 
 Jornada 5
 [Vie. 21.9.]
-  SD Huesca                    0-1 Real Sociedad San Sebastian
+  SD Huesca                0-1  Real Sociedad
 [Sáb. 22.9.]
-  Rayo Vallecano               1-5 CD Alavés
-  Celta Vigo                   3-3 Real Valladolid
-  SD Eibar                     1-0 CD Leganés
-  Getafe CF                    0-2 Atlético Madrid
-  Real Madrid                  1-0 Espanyol Barcelona
+  Rayo Vallecano           1-5  Deportivo Alavés
+  RC Celta Vigo            3-3  Real Valladolid CF
+  SD Eibar                 1-0  CD Leganés
+  Getafe CF                0-2  Atlético Madrid
+  Real Madrid              1-0  RCD Espanyol
 [Dom. 23.9.]
-  Levante UD                   2-6 Sevilla FC
-  Villarreal CF                0-0 Valencia CF
-  Betis Sevilla                2-2 Athletic Bilbao
-  FC Barcelona                 2-2 Girona FC
+  Levante UD               2-6  Sevilla FC
+  Villarreal CF            0-0  Valencia CF
+  Real Betis               2-2  Athletic Club Bilbao
+  FC Barcelona             2-2  Girona FC
 
 
 Jornada 6
 [Mar. 25.9.]
-  Espanyol Barcelona           1-0 SD Eibar
-  Real Sociedad San Sebastian  2-2 Rayo Vallecano
-  Atlético Madrid              3-0 SD Huesca
+  RCD Espanyol             1-0  SD Eibar
+  Real Sociedad            2-2  Rayo Vallecano
+  Atlético Madrid          3-0  SD Huesca
 [Mié. 26.9.]
-  Athletic Bilbao              0-3 Villarreal CF
-  CD Leganés                   2-1 FC Barcelona
-  Valencia CF                  1-1 Celta Vigo
-  Sevilla FC                   3-0 Real Madrid
-    [André Silva 17', 21' Wissam Ben Yedder 39']
+  CD Leganés               2-1  FC Barcelona
+  Athletic Club Bilbao     0-3  Villarreal CF
+  Sevilla FC               3-0  Real Madrid
+  Valencia CF              1-1  RC Celta Vigo
 [Jue. 27.9.]
-  CD Alavés                    1-1 Getafe CF
-  Real Valladolid              2-1 Levante UD
-  Girona FC                    0-1 Betis Sevilla
+  Real Valladolid CF       2-1  Levante UD
+  Deportivo Alavés         1-1  Getafe CF
+  Girona FC                0-1  Real Betis
 
 
 Jornada 7
 [Vie. 28.9.]
-  Rayo Vallecano               2-2 Espanyol Barcelona
+  Rayo Vallecano           2-2  RCD Espanyol
 [Sáb. 29.9.]
-  Real Sociedad San Sebastian  0-1 Valencia CF
-  FC Barcelona                 1-1 Athletic Bilbao
-  SD Eibar                     1-3 Sevilla FC
-  Real Madrid                  0-0 Atlético Madrid
+  Real Sociedad            0-1  Valencia CF
+  FC Barcelona             1-1  Athletic Club Bilbao
+  SD Eibar                 1-3  Sevilla FC
+  Real Madrid              0-0  Atlético Madrid
 [Dom. 30.9.]
-  SD Huesca                    1-1 Girona FC
-  Villarreal CF                0-1 Real Valladolid
-  Levante UD                   2-1 CD Alavés
-  Betis Sevilla                1-0 CD Leganés
+  SD Huesca                1-1  Girona FC
+  Villarreal CF            0-1  Real Valladolid CF
+  Levante UD               2-1  Deportivo Alavés
+  Real Betis               1-0  CD Leganés
 [Lun. 1.10.]
-  Celta Vigo                   1-1 Getafe CF
+  RC Celta Vigo            1-1  Getafe CF
 
 
 Jornada 8
 [Vie. 5.10.]
-  Athletic Bilbao              1-3 Real Sociedad San Sebastian
-[Sab. 6.10]
-  Getafe CF                    0-1 Levante UD
-  CD Leganés                   1-0 Rayo Vallecano
-  CD Alavés                    1-0 Real Madrid
-  Girona FC                    2-3 SD Eibar
+  Athletic Club Bilbao     1-3  Real Sociedad
+[Sáb. 6.10.]
+  Girona FC                2-3  SD Eibar
+  Getafe CF                0-1  Levante UD
+  Deportivo Alavés         1-0  Real Madrid
+  CD Leganés               1-0  Rayo Vallecano
 [Dom. 7.10.]
-  Atlético Madrid              1-0 Betis Sevilla
-  Espanyol Barcelona           3-1 Villarreal CF
-  Valencia CF                  1-1 FC Barcelona
-  Sevilla FC                   2-1 Celta Vigo
-  Real Valladolid              1-0 SD Huesca
+  Real Valladolid CF       1-0  SD Huesca
+  Atlético Madrid          1-0  Real Betis
+  RCD Espanyol             3-1  Villarreal CF
+  Sevilla FC               2-1  RC Celta Vigo
+  Valencia CF              1-1  FC Barcelona
 
 
 Jornada 9
 [Vie. 19.10.]
-  Celta Vigo                   0-1 CD Alavés
-[Sab. 20.10.]
-  Valencia CF                  1-1 CD Leganés
-  Real Madrid                  1-2 Levante UD
-  FC Barcelona                 4-2 Sevilla FC
-  Villarreal CF                1-1 Atlético Madrid
+  RC Celta Vigo            0-1  Deportivo Alavés
+[Sáb. 20.10.]
+  Real Madrid              1-2  Levante UD
+  Valencia CF              1-1  CD Leganés
+  Villarreal CF            1-1  Atlético Madrid
+  FC Barcelona             4-2  Sevilla FC
 [Dom. 21.10.]
-  Betis Sevilla                0-1 Real Valladolid
-  SD Eibar                     1-1 Athletic Bilbao
-  SD Huesca                    0-2 Espanyol Barcelona
-  Rayo Vallecano               1-2 Getafe CF
+  Rayo Vallecano           1-2  Getafe CF
+  SD Eibar                 1-1  Athletic Club Bilbao
+  SD Huesca                0-2  RCD Espanyol
+  Real Betis               0-1  Real Valladolid CF
 [Lun. 22.10.]
-  Real Sociedad San Sebastian  0-0 Girona FC
+  Real Sociedad            0-0  Girona FC
 
-Jornada 3    ## suplemento
-[Mie. 24.10.]
-  Rayo Vallecano               1-1 Athletic Bilbao
+
+Jornada 3
+[Mié. 24.10.]
+  Rayo Vallecano           1-1  Athletic Club Bilbao
+
 
 Jornada 10
 [Vie. 26.10.]
-  Real Valladolid              1-1 Espanyol Barcelona
-[Sab. 27.10.]
-  Athletic Bilbao              0-0 Valencia CF
-  Atlético Madrid              2-0 Real Sociedad San Sebastian
-  Celta Vigo                   4-0 SD Eibar
-  Girona FC                    2-1 Rayo Vallecano
-  Levante UD                   2-0 CD Leganés
+  Real Valladolid CF       1-1  RCD Espanyol
+[Sáb. 27.10.]
+  Girona FC                2-1  Rayo Vallecano
+  Athletic Club Bilbao     0-0  Valencia CF
+  Levante UD               2-0  CD Leganés
+  RC Celta Vigo            4-0  SD Eibar
+  Atlético Madrid          2-0  Real Sociedad
 [Dom. 28.10.]
-  FC Barcelona                 5-1 Real Madrid
-  CD Alavés                    2-1 Villarreal CF
-  Getafe CF                    2-0 Betis Sevilla
-  Sevilla FC                   2-1 SD Huesca
-
+  Getafe CF                2-0  Real Betis
+  FC Barcelona             5-1  Real Madrid
+  Deportivo Alavés         2-1  Villarreal CF
+  Sevilla FC               2-1  SD Huesca
 
 
 Jornada 11
-[Sab. 3.11.]
-  CD Leganés                   1-1 Atlético Madrid
-  Rayo Vallecano               2-3 FC Barcelona
-  Real Madrid                  2-0 Real Valladolid
-  Valencia CF                  0-1 Girona FC
+[Sáb. 3.11.]
+  CD Leganés               1-1  Atlético Madrid
+  Real Madrid              2-0  Real Valladolid CF
+  Valencia CF              0-1  Girona FC
+  Rayo Vallecano           2-3  FC Barcelona
 [Dom. 4.11.]
-  Betis Sevilla                3-3 Celta Vigo
-  Real Sociedad San Sebastian  0-0 Sevilla FC
-  SD Eibar                     2-1 CD Alavés
-  SD Huesca                    1-1 Getafe CF
-  Villarreal CF                1-1 Levante UD
+  SD Eibar                 2-1  Deportivo Alavés
+  Villarreal CF            1-1  Levante UD
+  Real Sociedad            0-0  Sevilla FC
+  SD Huesca                1-1  Getafe CF
+  Real Betis               3-3  RC Celta Vigo
 [Lun. 5.11.]
-  Espanyol Barcelona           1-0 Athletic Bilbao
+  RCD Espanyol             1-0  Athletic Club Bilbao
 
 
 Jornada 12
 [Vie. 9.11.]
-  Levante UD                   1-3 Real Sociedad San Sebastian
-[Sab. 10.11.]
-  Getafe CF                    0-1 Valencia CF
-  Girona FC                    0-0 CD Leganés
-  Atlético Madrid              3-2 Athletic Bilbao
-  Real Valladolid              0-0 SD Eibar
+  Levante UD               1-3  Real Sociedad
+[Sáb. 10.11.]
+  Real Valladolid CF       0-0  SD Eibar
+  Getafe CF                0-1  Valencia CF
+  Atlético Madrid          3-2  Athletic Club Bilbao
+  Girona FC                0-0  CD Leganés
 [Dom. 11.11.]
-  CD Alavés                    2-1 SD Huesca
-  FC Barcelona                 3-4 Betis Sevilla
-  Celta Vigo                   2-4 Real Madrid
-  Rayo Vallecano               2-2 Villarreal CF
-  Sevilla FC                   2-1 Espanyol Barcelona
+  Deportivo Alavés         2-1  SD Huesca
+  FC Barcelona             3-4  Real Betis
+  Sevilla FC               2-1  RCD Espanyol
+  Rayo Vallecano           2-2  Villarreal CF
+  RC Celta Vigo            2-4  Real Madrid
 
 
 Jornada 13
 [Vie. 23.11.]
-  CD Leganés                   1-0 CD Alavés
-[Sab. 24.11.]
-  Atlético Madrid              1-1 FC Barcelona
-  SD Eibar                     3-0 Real Madrid
-  SD Huesca                    2-2 Levante UD
-  Valencia CF                  3-0 Rayo Vallecano
+  CD Leganés               1-0  Deportivo Alavés
+[Sáb. 24.11.]
+  SD Eibar                 3-0  Real Madrid
+  Valencia CF              3-0  Rayo Vallecano
+  SD Huesca                2-2  Levante UD
+  Atlético Madrid          1-1  FC Barcelona
 [Dom. 25.11.]
-  Athletic Bilbao              1-1 Getafe CF
-  Espanyol Barcelona           1-3 Girona FC
-  Sevilla FC                   1-0 Real Valladolid
-  Villarreal CF                2-1 Betis Sevilla
-[Lun. 26.11]
-  Real Sociedad San Sebastian  2-1 Celta Vigo
+  Athletic Club Bilbao     1-1  Getafe CF
+  Sevilla FC               1-0  Real Valladolid CF
+  RCD Espanyol             1-3  Girona FC
+  Villarreal CF            2-1  Real Betis
+[Lun. 26.11.]
+  Real Sociedad            2-1  RC Celta Vigo
 
 
 Jornada 14
 [Vie. 30.11.]
-  Rayo Vallecano               1-0 SD Eibar
-[Sab. 1.12.]
-  Celta Vigo                   2-0 SD Huesca
-  Real Madrid                  2-0 Valencia CF
-  Getafe CF                    3-0 Espanyol Barcelona
-  Real Valladolid              2-4 CD Leganés
+  Rayo Vallecano           1-0  SD Eibar
+[Sáb. 1.12.]
+  RC Celta Vigo            2-0  SD Huesca
+  Real Valladolid CF       2-4  CD Leganés
+  Getafe CF                3-0  RCD Espanyol
+  Real Madrid              2-0  Valencia CF
 [Dom. 2.12.]
-  CD Alavés                    1-1 Sevilla FC
-  FC Barcelona                 2-0 Villarreal CF
-  Betis Sevilla                1-0 Real Sociedad San Sebastian
-  Girona FC                    1-1 Atlético Madrid
+  Real Betis               1-0  Real Sociedad
+  Girona FC                1-1  Atlético Madrid
+  FC Barcelona             2-0  Villarreal CF
+  Deportivo Alavés         1-1  Sevilla FC
 [Lun. 3.12.]
-  Levante UD                   3-0 Athletic Bilbao
+  Levante UD               3-0  Athletic Club Bilbao
 
 
 Jornada 15
 [Vie. 7.12.]
-  CD Leganés                   1-1 Getafe CF
-[Sab. 8.12.]
-  Atlético Madrid              3-0 CD Alavés
-  Espanyol Barcelona           0-4 FC Barcelona
-  Villarreal CF                2-3 Celta Vigo
-  Valencia CF                  1-1 Sevilla FC
+  CD Leganés               1-1  Getafe CF
+[Sáb. 8.12.]
+  Atlético Madrid          3-0  Deportivo Alavés
+  Valencia CF              1-1  Sevilla FC
+  Villarreal CF            2-3  RC Celta Vigo
+  RCD Espanyol             0-4  FC Barcelona
 [Dom. 9.12.]
-  Betis Sevilla                2-0 Rayo Vallecano
-  SD Eibar                     4-4 Levante UD
-  SD Huesca                    0-1 Real Madrid
-  Real Sociedad San Sebastian  1-2 Real Valladolid
+  SD Eibar                 4-4  Levante UD
+  SD Huesca                0-1  Real Madrid
+  Real Sociedad            1-2  Real Valladolid CF
+  Real Betis               2-0  Rayo Vallecano
 [Lun. 10.12.]
-  Athletic Bilbao              1-0 Girona FC
+  Athletic Club Bilbao     1-0  Girona FC
 
 
 Jornada 16
 [Vie. 14.12.]
-  Celta Vigo                   0-0 CD Leganés
-[Sab. 15.12.]
-  SD Eibar                     1-1 Valencia CF
-  Getafe CF                    1-0 Real Sociedad San Sebastian
-  Real Valladolid              2-3 Atlético Madrid
-  Real Madrid                  1-0 Rayo Vallecano
+  RC Celta Vigo            0-0  CD Leganés
+[Sáb. 15.12.]
+  Getafe CF                1-0  Real Sociedad
+  Real Valladolid CF       2-3  Atlético Madrid
+  Real Madrid              1-0  Rayo Vallecano
+  SD Eibar                 1-1  Valencia CF
 [Dom. 16.12.]
-  SD Huesca                    2-2 Villarreal CF
-  Levante UD                   0-5 FC Barcelona
-  Espanyol Barcelona           1-3 Betis Sevilla
-  Sevilla FC                   2-0 Girona FC
+  Sevilla FC               2-0  Girona FC
+  RCD Espanyol             1-3  Real Betis
+  SD Huesca                2-2  Villarreal CF
+  Levante UD               0-5  FC Barcelona
 [Lun. 17.12.]
-  CD Alavés                    0-0 Athletic Bilbao
+  Deportivo Alavés         0-0  Athletic Club Bilbao
 
 
 Jornada 17
 [Vie. 21.12.]
-  Girona FC                    1-1 Getafe CF
-  Real Sociedad San Sebastian  0-1 CD Alavés
+  Girona FC                1-1  Getafe CF
+  Real Sociedad            0-1  Deportivo Alavés
 [Sáb. 22.12.]
-  Athletic Bilbao              1-1 Real Valladolid
-  Atlético Madrid              1-0 Espanyol Barcelona
-  FC Barcelona                 2-0 Celta Vigo
-  Betis Sevilla                1-1 SD Eibar
+  Real Betis               1-1  SD Eibar
+  Atlético Madrid          1-0  RCD Espanyol
+  FC Barcelona             2-0  RC Celta Vigo
+  Athletic Club Bilbao     1-1  Real Valladolid CF
 [Dom. 23.12.]
-  CD Leganés                   1-1 Sevilla FC
-  Valencia CF                  2-1 SD Huesca
-  Rayo Vallecano               2-1 Levante UD
+  Valencia CF              2-1  SD Huesca
+  CD Leganés               1-1  Sevilla FC
+  Rayo Vallecano           2-1  Levante UD
 [Jue. 3.1.]
-  Villarreal CF                2-2 Real Madrid
+  Villarreal CF            2-2  Real Madrid
 
-# Winterpause bis Jue.3.1.2013
 
 Jornada 18
-[Vie. 4.4.]
-  Levante UD                   2-2 Girona FC
-  Espanyol Barcelona           1-0 CD Leganés
-[Sab. 5.1.]
-  SD Huesca                    2-1 Betis Sevilla
-  Real Valladolid              0-1 Rayo Vallecano
-  CD Alavés                    2-1 Valencia CF
+[Vie. 4.1.]
+  Levante UD               2-2  Girona FC
+  RCD Espanyol             1-0  CD Leganés
+[Sáb. 5.1.]
+  Real Valladolid CF       0-1  Rayo Vallecano
+  Deportivo Alavés         2-1  Valencia CF
+  SD Huesca                2-1  Real Betis
 [Dom. 6.1.]
-  SD Eibar                     0-0 Villarreal CF
-  Real Madrid                  0-2 Real Sociedad San Sebastian
-  Sevilla FC                   1-1 Atlético Madrid
-  Getafe CF                    1-2 FC Barcelona
-[Lue. 7.1.]
-  Celta Vigo                   1-2 Athletic Bilbao
+  SD Eibar                 0-0  Villarreal CF
+  Sevilla FC               1-1  Atlético Madrid
+  Real Madrid              0-2  Real Sociedad
+  Getafe CF                1-2  FC Barcelona
+[Lun. 7.1.]
+  RC Celta Vigo            1-2  Athletic Club Bilbao
+
 
 Jornada 19
 [Vie. 11.1.]
-  Rayo Vallecano               4-2 Celta Vigo
-[Sab.12.1.]
-  Valencia CF                  1-1 Real Valladolid
-  Girona FC                    1-1 CD Alavés
-  Villarreal CF                1-2 Getafe CF
-  CD Leganés                   1-0 SD Huesca
+  Rayo Vallecano           4-2  RC Celta Vigo
+[Sáb. 12.1.]
+  CD Leganés               1-0  SD Huesca
+  Valencia CF              1-1  Real Valladolid CF
+  Girona FC                1-1  Deportivo Alavés
+  Villarreal CF            1-2  Getafe CF
 [Dom. 13.1.]
-  Athletic Bilbao              2-0 Sevilla FC
-  Atlético Madrid              1-0 Levante UD
-  FC Barcelona                 3-0 SD Eibar
-  Betis Sevilla                1-2 Real Madrid
-[Lue. 14.1.]
-  Real Sociedad San Sebastian  3-2 Espanyol Barcelona
+  Atlético Madrid          1-0  Levante UD
+  Athletic Club Bilbao     2-0  Sevilla FC
+  FC Barcelona             3-0  SD Eibar
+  Real Betis               1-2  Real Madrid
+[Lun. 14.1.]
+  Real Sociedad            3-2  RCD Espanyol
+
 
 Jornada 20
 [Vie. 18.1.]
-  Getafe CF                    4-0 CD Alavés
-[Sab. 19.1.]
-  Real Madrid                  2-0 Sevilla FC
-  Celta Vigo                   1-2 Valencia CF
-  SD Huesca                    0-3 Atlético Madrid
+  Getafe CF                4-0  Deportivo Alavés
+[Sáb. 19.1.]
+  Real Madrid              2-0  Sevilla FC
+  SD Huesca                0-3  Atlético Madrid
+  RC Celta Vigo            1-2  Valencia CF
 [Dom. 20.1.]
-  FC Barcelona                 3-1 CD Leganés
-  Betis Sevilla                3-2 Girona FC
-  Levante UD                   2-0 Real Valladolid
-  Rayo Vallecano               2-2 Real Sociedad San Sebastian
-  Villarreal CF                1-1 Athletic Bilbao
-[Lue. 21.1.]
-  SD Eibar                     3-0 Espanyol Barcelona
+  Real Betis               3-2  Girona FC
+  Villarreal CF            1-1  Athletic Club Bilbao
+  Levante UD               2-0  Real Valladolid CF
+  Rayo Vallecano           2-2  Real Sociedad
+  FC Barcelona             3-1  CD Leganés
+[Lun. 21.1.]
+  SD Eibar                 3-0  RCD Espanyol
 
 
 Jornada 21
-[Sab. 26.1.]
-  Atlético Madrid              2-0 Getafe CF
-  CD Leganés                   2-2 SD Eibar
-  Sevilla FC                   5-0 Levante UD
-  Valencia CF                  3-0 Villarreal CF
+[Sáb. 26.1.]
+  Sevilla FC               5-0  Levante UD
+  Atlético Madrid          2-0  Getafe CF
+  CD Leganés               2-2  SD Eibar
+  Valencia CF              3-0  Villarreal CF
 [Dom. 27.1.]
-  Espanyol Barcelona           2-4 Real Madrid
-  Athletic Bilbao              1-0 Betis Sevilla
-  Girona FC                    0-2 FC Barcelona
-  Real Valladolid              2-1 Celta Vigo
-  Real Sociedad San Sebastian  0-0 SD Huesca
+  Real Valladolid CF       2-1  RC Celta Vigo
+  Girona FC                0-2  FC Barcelona
+  Athletic Club Bilbao     1-0  Real Betis
+  Real Sociedad            0-0  SD Huesca
+  RCD Espanyol             2-4  Real Madrid
 [Lun. 28.1.]
-  CD Alavés                    0-1 Rayo Vallecano
+  Deportivo Alavés         0-1  Rayo Vallecano
 
 
 Jornada 22
 [Vie. 1.2.]
-  SD Huesca                    4-0 Real Valladolid
-[Sab. 2.2.]
-  FC Barcelona                 2-2 Valencia CF
-  Celta Vigo                   1-0 Sevilla FC
-  Levante UD                   0-0 Getafe CF
-  Real Sociedad San Sebastian  2-1 Athletic Bilbao
+  SD Huesca                4-0  Real Valladolid CF
+[Sáb. 2.2.]
+  Levante UD               0-0  Getafe CF
+  Real Sociedad            2-1  Athletic Club Bilbao
+  FC Barcelona             2-2  Valencia CF
+  RC Celta Vigo            1-0  Sevilla FC
 [Dom. 3.2.]
-  SD Eibar                     3-0 Girona FC
-  Real Madrid                  3-0 CD Alavés
-  Betis Sevilla                1-0 Atlético Madrid
-  Villarreal CF                2-2 Espanyol Barcelona
-[Lue. 4.2.]
-  Rayo Vallecano               1-2 CD Leganés
+  Villarreal CF            2-2  RCD Espanyol
+  Real Betis               1-0  Atlético Madrid
+  SD Eibar                 3-0  Girona FC
+  Real Madrid              3-0  Deportivo Alavés
+[Lun. 4.2.]
+  Rayo Vallecano           1-2  CD Leganés
 
 
 Jornada 23
 [Vie. 8.2.]
-  Real Valladolid              0-0 Villarreal CF
-[Sab. 9.2.]
-  Getafe CF                    3-1 Celta Vigo
-  Atlético Madrid              1-3 Real Madrid
-  Espanyol Barcelona           2-1 Rayo Vallecano
-  Girona FC                    0-2 SD Huesca
+  Real Valladolid CF       0-0  Villarreal CF
+[Sáb. 9.2.]
+  Getafe CF                3-1  RC Celta Vigo
+  Atlético Madrid          1-3  Real Madrid
+  RCD Espanyol             2-1  Rayo Vallecano
+  Girona FC                0-2  SD Huesca
 [Dom. 10.2.]
-  Athletic Bilbao              0-0 FC Barcelona
-  CD Leganés                   3-0 Betis Sevilla
-  Sevilla FC                   2-2 SD Eibar
-  Valencia CF                  0-0 Real Sociedad San Sebastian
+  CD Leganés               3-0  Real Betis
+  Valencia CF              0-0  Real Sociedad
+  Sevilla FC               2-2  SD Eibar
+  Athletic Club Bilbao     0-0  FC Barcelona
 [Lun. 11.2.]
-  CD Alavés                    2-0 Levante UD
+  Deportivo Alavés         2-0  Levante UD
 
 
 Jornada 24
 [Vie. 15.2.]
-  SD Eibar                     2-2 Getafe CF
-[Sab. 16.2.]
-  FC Barcelona                 1-0 Real Valladolid
-  Celta Vigo                   1-4 Levante UD
-  Real Sociedad San Sebastian  3-0 CD Leganés
-  Rayo Vallecano               0-1 Atlético Madrid
+  SD Eibar                 2-2  Getafe CF
+[Sáb. 16.2.]
+  RC Celta Vigo            1-4  Levante UD
+  Rayo Vallecano           0-1  Atlético Madrid
+  Real Sociedad            3-0  CD Leganés
+  FC Barcelona             1-0  Real Valladolid CF
 [Dom. 17.2.]
-  Betis Sevilla                1-1 CD Alavés
-  Valencia CF                  0-0 Espanyol Barcelona
-  Real Madrid                  1-2 Girona FC
-  Villarreal CF                3-0 Sevilla FC
+  Real Madrid              1-2  Girona FC
+  Valencia CF              0-0  RCD Espanyol
+  Villarreal CF            3-0  Sevilla FC
+  Real Betis               1-1  Deportivo Alavés
 [Lun. 18.2.]
-  SD Huesca                    0-1 Athletic Bilbao
+  SD Huesca                0-1  Athletic Club Bilbao
 
 
 Jornada 25
-[Vie. 22.2]
-  Espanyol Barcelona           1-1 SD Huesca
-[Sab. 23.2.]
-  CD Alavés                    0-0 Celta Vigo
-  Athletic Bilbao              1-0 SD Eibar
-  Getafe CF                    2-1 Rayo Vallecano
-  Sevilla FC                   2-4 FC Barcelona
+[Vie. 22.2.]
+  RCD Espanyol             1-1  SD Huesca
+[Sáb. 23.2.]
+  Getafe CF                2-1  Rayo Vallecano
+  Sevilla FC               2-4  FC Barcelona
+  Deportivo Alavés         0-0  RC Celta Vigo
+  Athletic Club Bilbao     1-0  SD Eibar
 [Dom. 24.2.]
-  Atlético Madrid              2-0 Villarreal CF
-  CD Leganés                   1-1 Valencia CF
-  Levante UD                   1-2 Real Madrid
-  Real Valladolid              0-2 Betis Sevilla
+  CD Leganés               1-1  Valencia CF
+  Atlético Madrid          2-0  Villarreal CF
+  Real Valladolid CF       0-2  Real Betis
+  Levante UD               1-2  Real Madrid
 [Lun. 25.2.]
-  Girona FC                    0-0 Real Sociedad San Sebastian
+  Girona FC                0-0  Real Sociedad
 
 
 Jornada 26
 [Vie. 1.3.]
-  Rayo Vallecano               0-2 Girona FC
-[Sab. 2.3.]
-  Espanyol Barcelona           3-1 Real Valladolid
-  SD Huesca                    2-1 Sevilla FC
-  Real Madrid                  0-1 FC Barcelona
-  Villarreal CF                1-2 CD Alavés
+  Rayo Vallecano           0-2  Girona FC
+[Sáb. 2.3.]
+  RCD Espanyol             3-1  Real Valladolid CF
+  Villarreal CF            1-2  Deportivo Alavés
+  SD Huesca                2-1  Sevilla FC
+  Real Madrid              0-1  FC Barcelona
 [Dom. 3.3.]
-  Betis Sevilla                1-2 Getafe CF
-  Valencia CF                  2-0 Athletic Bilbao
-  Real Sociedad San Sebastian  0-2 Atlético Madrid
-  SD Eibar                     1-0 Celta Vigo
+  SD Eibar                 1-0  RC Celta Vigo
+  Real Betis               1-2  Getafe CF
+  Real Sociedad            0-2  Atlético Madrid
+  Valencia CF              2-0  Athletic Club Bilbao
 [Lun. 4.3.]
-  CD Leganés                   1-0 Levante UD
+  CD Leganés               1-0  Levante UD
 
 
 Jornada 27
 [Vie. 8.3.]
-  Athletic Bilbao              1-1 Espanyol Barcelona
-[Sab. 9.3.]
-  CD Alavés                    1-1 SD Eibar
-  Atlético Madrid              1-0 CD Leganés
-  FC Barcelona                 3-1 Rayo Vallecano
-  Getafe CF                    2-1 SD Huesca
+  Athletic Club Bilbao     1-1  RCD Espanyol
+[Sáb. 9.3.]
+  Deportivo Alavés         1-1  SD Eibar
+  Atlético Madrid          1-0  CD Leganés
+  FC Barcelona             3-1  Rayo Vallecano
+  Getafe CF                2-1  SD Huesca
 [Dom. 10.3.]
-  Girona FC                    2-3 Valencia CF
-  Levante UD                   0-2 Villarreal CF
-  Celta Vigo                   0-1 Betis Sevilla
-  Real Valladolid              1-4 Real Madrid
-  Sevilla FC                   5-2 Real Sociedad San Sebastian
+  RC Celta Vigo            0-1  Real Betis
+  Girona FC                2-3  Valencia CF
+  Sevilla FC               5-2  Real Sociedad
+  Levante UD               0-2  Villarreal CF
+  Real Valladolid CF       1-4  Real Madrid
 
 
 Jornada 28
 [Vie. 15.3.]
-  Real Sociedad San Sebastian  1-1 Levante UD
-[Sab. 16.3.]
-  Athletic Bilbao              2-0 Atlético Madrid
-  SD Huesca                    1-3 CD Alavés
-  Real Madrid                  2-0 Celta Vigo
-  CD Leganés                   0-2 Girona FC
+  Real Sociedad            1-1  Levante UD
+[Sáb. 16.3.]
+  SD Huesca                1-3  Deportivo Alavés
+  Real Madrid              2-0  RC Celta Vigo
+  Athletic Club Bilbao     2-0  Atlético Madrid
+  CD Leganés               0-2  Girona FC
 [Dom. 17.3.]
-  SD Eibar                     1-2 Real Valladolid
-  Espanyol Barcelona           0-1 Sevilla FC
-  Betis Sevilla                1-4 FC Barcelona
-  Valencia CF                  0-0 Getafe CF
-  Villarreal CF                3-1 Rayo Vallecano
+  SD Eibar                 1-2  Real Valladolid CF
+  RCD Espanyol             0-1  Sevilla FC
+  Villarreal CF            3-1  Rayo Vallecano
+  Valencia CF              0-0  Getafe CF
+  Real Betis               1-4  FC Barcelona
 
 
 Jornada 29
 [Vie. 29.3.]
-  Girona FC                    1-2 Athletic Bilbao
-[Sab. 30.3.]
-  CD Alavés                    0-4 Atlético Madrid
-  FC Barcelona                 2-0 Espanyol Barcelona
-  Celta Vigo                   3-2 Villarreal CF
-  Getafe CF                    0-2 CD Leganés
+  Girona FC                1-2  Athletic Club Bilbao
+[Sáb. 30.3.]
+  Getafe CF                0-2  CD Leganés
+  FC Barcelona             2-0  RCD Espanyol
+  RC Celta Vigo            3-2  Villarreal CF
+  Deportivo Alavés         0-4  Atlético Madrid
 [Dom. 31.3.]
-  Sevilla FC                   0-1 Valencia CF
-  Rayo Vallecano               1-1 Betis Sevilla
-  Levante UD                   2-2 SD Eibar
-  Real Madrid                  3-2 SD Huesca
-  Real Valladolid              1-1 Real Sociedad San Sebastian
+  Levante UD               2-2  SD Eibar
+  Rayo Vallecano           1-1  Real Betis
+  Sevilla FC               0-1  Valencia CF
+  Real Valladolid CF       1-1  Real Sociedad
+  Real Madrid              3-2  SD Huesca
 
 
 Jornada 30
 [Mar. 2.4.]
-  Atlético Madrid              2-0 Girona FC
-  Espanyol Barcelona           1-1 Getafe CF
-  Villarreal CF                4-4 FC Barcelona
+  Atlético Madrid          2-0  Girona FC
+  RCD Espanyol             1-1  Getafe CF
+  Villarreal CF            4-4  FC Barcelona
 [Mié. 3.4.]
-  Athletic Bilbao              3-2 Levante UD
-  SD Eibar                     2-1 Rayo Vallecano
-  SD Huesca                    3-3 Celta Vigo
-  Valencia CF                  2-1 Real Madrid
+  Athletic Club Bilbao     3-2  Levante UD
+  SD Eibar                 2-1  Rayo Vallecano
+  SD Huesca                3-3  RC Celta Vigo
+  Valencia CF              2-1  Real Madrid
 [Jue. 4.4.]
-  CD Leganés                   1-0 Real Valladolid
-  Sevilla FC                   2-0 CD Alavés
-  Real Sociedad San Sebastian  2-1 Betis Sevilla
+  Sevilla FC               2-0  Deportivo Alavés
+  CD Leganés               1-0  Real Valladolid CF
+  Real Sociedad            2-1  Real Betis
 
 
 Jornada 31
-[Sab. 6.4.]
-  FC Barcelona                 2-0 Atlético Madrid
-  Real Madrid                  2-1 SD Eibar
-  Girona FC                    1-2 Espanyol Barcelona
-  Rayo Vallecano               2-0 Valencia CF
+[Sáb. 6.4.]
+  Girona FC                1-2  RCD Espanyol
+  Real Madrid              2-1  SD Eibar
+  Rayo Vallecano           2-0  Valencia CF
+  FC Barcelona             2-0  Atlético Madrid
 [Dom. 7.4.]
-  CD Alavés                    1-1 CD Leganés
-  Betis Sevilla                2-1 Villarreal CF
-  Celta Vigo                   3-1 Real Sociedad San Sebastian
-  Getafe CF                    1-0 Athletic Bilbao
-  Levante UD                   2-2 SD Huesca
-  Real Valladolid              0-2 Sevilla FC
+  Deportivo Alavés         1-1  CD Leganés
+  Getafe CF                1-0  Athletic Club Bilbao
+  Real Valladolid CF       0-2  Sevilla FC
+  RC Celta Vigo            3-1  Real Sociedad
+  Levante UD               2-2  SD Huesca
+  Real Betis               2-1  Villarreal CF
 
 
 Jornada 32
-[Sab. 13.4.]
-  Espanyol Barcelona           2-1 CD Alavés
-  SD Huesca                    0-0 FC Barcelona
-  Sevilla FC                   3-2 Betis Sevilla
-  Atlético Madrid              2-0 Celta Vigo
+[Sáb. 13.4.]
+  RCD Espanyol             2-1  Deportivo Alavés
+  SD Huesca                0-0  FC Barcelona
+  Atlético Madrid          2-0  RC Celta Vigo
+  Sevilla FC               3-2  Real Betis
 [Dom. 14.4.]
-  Athletic Bilbao              3-2 Rayo Vallecano
-  Girona FC                    0-1 Villarreal CF
-  Real Sociedad San Sebastian  1-1 SD Eibar
-  Real Valladolid              2-2 Getafe CF
-  Valencia CF                  3-1 Levante UD
+  Real Valladolid CF       2-2  Getafe CF
+  Athletic Club Bilbao     3-2  Rayo Vallecano
+  Real Sociedad            1-1  SD Eibar
+  Girona FC                0-1  Villarreal CF
+  Valencia CF              3-1  Levante UD
 [Lun. 15.4.]
-  CD Leganés                   1-1 Real Madrid
+  CD Leganés               1-1  Real Madrid
 
 
 Jornada 33
 [Vie. 19.4.]
-  CD Alavés                    2-2 Real Valladolid
-[Sab. 20.4.]
-  FC Barcelona                 2-1 Real Sociedad San Sebastian
-  Celta Vigo                   2-1 Girona FC
-  SD Eibar                     0-1 Atlético Madrid
-  Rayo Vallecano               0-0 SD Huesca
+  Deportivo Alavés         2-2  Real Valladolid CF
+[Sáb. 20.4.]
+  RC Celta Vigo            2-1  Girona FC
+  SD Eibar                 0-1  Atlético Madrid
+  Rayo Vallecano           0-0  SD Huesca
+  FC Barcelona             2-1  Real Sociedad
 [Dom. 21.4.]
-  Betis Sevilla                1-2 Valencia CF
-  Getafe CF                    3-0 Sevilla FC
-  Real Madrid                  3-0 Athletic Bilbao
-  Levante UD                   2-2 Espanyol Barcelona
-  Villarreal CF                2-1 CD Leganés
+  Levante UD               2-2  RCD Espanyol
+  Getafe CF                3-0  Sevilla FC
+  Real Madrid              3-0  Athletic Club Bilbao
+  Villarreal CF            2-1  CD Leganés
+  Real Betis               1-2  Valencia CF
 
 
 Jornada 34
 [Mar. 23.4.]
-  SD Huesca                    2-0 SD Eibar
-  Real Valladolid              1-0 Girona FC
-  CD Alavés                    0-2 FC Barcelona
+  SD Huesca                2-0  SD Eibar
+  Real Valladolid CF       1-0  Girona FC
+  Deportivo Alavés         0-2  FC Barcelona
 [Mié. 24.4.]
-  Atlético Madrid              3-2 Valencia CF
-  CD Leganés                   0-1 Athletic Bilbao
-  Levante UD                   4-0 Betis Sevilla
-  Espanyol Barcelona           1-1 Celta Vigo
+  Atlético Madrid          3-2  Valencia CF
+  RCD Espanyol             1-1  RC Celta Vigo
+  CD Leganés               0-1  Athletic Club Bilbao
+  Levante UD               4-0  Real Betis
 [Jue. 25.4.]
-  Getafe CF                    0-0 Real Madrid
-  Real Sociedad San Sebastian  0-1 Villarreal CF
-  Sevilla FC                   5-0 Rayo Vallecano
+  Sevilla FC               5-0  Rayo Vallecano
+  Real Sociedad            0-1  Villarreal CF
+  Getafe CF                0-0  Real Madrid
 
 
 Jornada 35
-[Sab. 27.4.]
-  CD Leganés                   0-0 Celta Vigo
-  Atlético Madrid              1-0 Real Valladolid
-  FC Barcelona                 1-0 Levante UD
-  Athletic Bilbao              1-1 CD Alavés
+[Sáb. 27.4.]
+  Athletic Club Bilbao     1-1  Deportivo Alavés
+  Atlético Madrid          1-0  Real Valladolid CF
+  CD Leganés               0-0  RC Celta Vigo
+  FC Barcelona             1-0  Levante UD
 [Dom. 28.4.]
-  Valencia CF                  0-1 SD Eibar
-  Real Sociedad San Sebastian  2-1 Getafe CF
-  Villarreal CF                1-1 SD Huesca
-  Girona FC                    1-0 Sevilla FC
-  Rayo Vallecano               1-0 Real Madrid
-[Lun, 29.4.]
-  Betis Sevilla                1-1 Espanyol Barcelona
+  Valencia CF              0-1  SD Eibar
+  Girona FC                1-0  Sevilla FC
+  Real Sociedad            2-1  Getafe CF
+  Villarreal CF            1-1  SD Huesca
+  Rayo Vallecano           1-0  Real Madrid
+[Lun. 29.4.]
+  Real Betis               1-1  RCD Espanyol
 
 
 Jornada 36
 [Vie. 3.5.]
-  Sevilla FC                   0-3 CD Leganés
-[Sab. 4.5.]
-Levante UD                     4-1 Rayo Vallecano
-  CD Alavés                    0-1 Real Sociedad San Sebastian
-  Espanyol Barcelona           3-0 Atlético Madrid
-  Celta Vigo                   2-0 FC Barcelona
+  Sevilla FC               0-3  CD Leganés
+[Sáb. 4.5.]
+  Levante UD               4-1  Rayo Vallecano
+  RCD Espanyol             3-0  Atlético Madrid
+  Deportivo Alavés         0-1  Real Sociedad
+  RC Celta Vigo            2-0  FC Barcelona
 [Dom. 5.5.]
-  Getafe CF                    2-0 Girona FC
-  SD Huesca                    2-6 Valencia CF
-  Real Madrid                  3-2 Villarreal CF
-  Real Valladolid              1-0 Athletic Bilbao
-  SD Eibar                     1-0 Betis Sevilla
-
+  Getafe CF                2-0  Girona FC
+  SD Eibar                 1-0  Real Betis
+  Real Madrid              3-2  Villarreal CF
+  Real Valladolid CF       1-0  Athletic Club Bilbao
+  SD Huesca                2-6  Valencia CF
 
 
 Jornada 37
 [Dom. 12.5.]
-  Athletic Bilbao              3-1 Celta Vigo
-  Atlético Madrid              1-1 Sevilla FC
-  FC Barcelona                 2-0 Getafe CF
-  Betis Sevilla                2-1 SD Huesca
-  Girona FC                    1-2 Levante UD
-  Rayo Vallecano               1-2 Real Valladolid
-  Valencia CF                  3-1 CD Alavés
-  Villarreal CF                1-0 SD Eibar
-  CD Leganés                   0-2 Espanyol Barcelona
-  Real Sociedad San Sebastian  3-1 Real Madrid
-
+  Valencia CF              3-1  Deportivo Alavés
+  FC Barcelona             2-0  Getafe CF
+  CD Leganés               0-2  RCD Espanyol
+  Atlético Madrid          1-1  Sevilla FC
+  Villarreal CF            1-0  SD Eibar
+  Real Betis               2-1  SD Huesca
+  Girona FC                1-2  Levante UD
+  Rayo Vallecano           1-2  Real Valladolid CF
+  Real Sociedad            3-1  Real Madrid
+  Athletic Club Bilbao     3-1  RC Celta Vigo
 
 
 Jornada 38
-[Sab. 18.5.]
-  CD Alavés                    2-1 Girona FC
-  Celta Vigo                   2-2 Rayo Vallecano
-  Espanyol Barcelona           2-0 Real Sociedad San Sebastian
-  Getafe CF                    2-2 Villarreal CF
-  SD Huesca                    2-1 CD Leganés
-  Sevilla FC                   2-0 Athletic Bilbao
-  Levante UD                   2-2 Atlético Madrid
-  Real Valladolid              0-2 Valencia CF
+[Sáb. 18.5.]
+  Levante UD               2-2  Atlético Madrid
+  Real Valladolid CF       0-2  Valencia CF
+  Getafe CF                2-2  Villarreal CF
+  Sevilla FC               2-0  Athletic Club Bilbao
+  RCD Espanyol             2-0  Real Sociedad
+  SD Huesca                2-1  CD Leganés
+  RC Celta Vigo            2-2  Rayo Vallecano
+  Deportivo Alavés         2-1  Girona FC
 [Dom. 19.5.]
-  SD Eibar                     2-2 FC Barcelona
-  Real Madrid                  0-2 Betis Sevilla
-
+  Real Madrid              0-2  Real Betis
+  SD Eibar                 2-2  FC Barcelona

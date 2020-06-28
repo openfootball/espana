@@ -2,540 +2,640 @@
 
 
 Jornada 1
-
-[Vié. 19.8.]
-  Málaga CF                    1-1  CA Osasuna
-  Deportivo La Coruña          2-1  SD Eibar
+[Vie. 19.8.]
+  Málaga CF                1-1  CA Osasuna
+  RCD La Coruña            2-1  SD Eibar
 [Sáb. 20.8.]
-  FC Barcelona                 6-2  Betis Sevilla
-  Granada CF                   1-1  Villarreal CF
-  Sevilla FC                   6-4  Espanyol Barcelona
+  FC Barcelona             6-2  Real Betis
+  Granada CF               1-1  Villarreal CF
+  Sevilla FC               6-4  RCD Espanyol
 [Dom. 21.8.]
-  Sporting Gijón               2-1  Athletic Bilbao
-  Real Sociedad San Sebastián  0-3  Real Madrid
-  Atlético Madrid              1-1  CD Alavés
+  Sporting Gijón           2-1  Athletic Club Bilbao
+  Real Sociedad            0-3  Real Madrid
+  Atlético Madrid          1-1  Deportivo Alavés
 [Lun. 22.8.]
-  Celta Vigo                   0-1  CD Leganés
-  Valencia CF                  2-4  UD Las Palmas
+  RC Celta Vigo            0-1  CD Leganés
+  Valencia CF              2-4  UD Las Palmas
 
 
 Jornada 2
-
-[Vié. 26.8.]
-  Betis Sevilla                0-0  Deportivo La Coruña
-  Espanyol Barcelona           2-2  Málaga CF
+[Vie. 26.8.]
+  Real Betis               0-0  RCD La Coruña
+  RCD Espanyol             2-2  Málaga CF
 [Sáb. 27.8.]
-  CA Osasuna                   0-2  Real Sociedad San Sebastián
-  SD Eibar                     1-0  Valencia CF
-  Real Madrid                  2-1  Celta Vigo
-  CD Leganés                   0-0  Atlético Madrid
+  CA Osasuna               0-2  Real Sociedad
+  SD Eibar                 1-0  Valencia CF
+  Real Madrid              2-1  RC Celta Vigo
+  CD Leganés               0-0  Atlético Madrid
 [Dom. 28.8.]
-  UD Las Palmas                5-1  Granada CF
-  CD Alavés                    0-0  Sporting Gijón
-  Athletic Bilbao              0-1  FC Barcelona
-  Villarreal CF                0-0  Sevilla FC
+  UD Las Palmas            5-1  Granada CF
+  Deportivo Alavés         0-0  Sporting Gijón
+  Athletic Club Bilbao     0-1  FC Barcelona
+  Villarreal CF            0-0  Sevilla FC
 
 
 Jornada 3
-
-[Vié. 9.9.]
-  Real Sociedad San Sebastián  1-1  Espanyol Barcelona
+[Vie. 9.9.]
+  Real Sociedad            1-1  RCD Espanyol
 [Sáb. 10.9.]
-  Celta Vigo                   0-4  Atlético Madrid
-  Real Madrid                  5-2  CA Osasuna
-  Málaga CF                    0-2  Villarreal CF
-  Sevilla FC                   2-1  UD Las Palmas
-  FC Barcelona                 1-2  CD Alavés
+  RC Celta Vigo            0-4  Atlético Madrid
+  Real Madrid              5-2  CA Osasuna
+  Málaga CF                0-2  Villarreal CF
+  Sevilla FC               2-1  UD Las Palmas
+  FC Barcelona             1-2  Deportivo Alavés
 [Dom. 11.9.]
-  Sporting Gijón               2-1  CD Leganés
-  Valencia CF                  2-3  Betis Sevilla
-  Granada CF                   1-2  SD Eibar
-  Deportivo La Coruña          0-1  Athletic Bilbao
+  Sporting Gijón           2-1  CD Leganés
+  Valencia CF              2-3  Real Betis
+  Granada CF               1-2  SD Eibar
+  RCD La Coruña            0-1  Athletic Club Bilbao
+
 
 Jornada 4
-
-[Vié. 16.9.]
-  Betis Sevilla                2-2  Granada CF
+[Vie. 16.9.]
+  Real Betis               2-2  Granada CF
 [Sáb. 17.9.]
-  CD Leganés                   1-5  FC Barcelona
-  Atlético Madrid              5-0  Sporting Gijón
-  SD Eibar                     1-1  Sevilla FC
-  UD Las Palmas                1-0  Málaga CF
+  CD Leganés               1-5  FC Barcelona
+  Atlético Madrid          5-0  Sporting Gijón
+  SD Eibar                 1-1  Sevilla FC
+  UD Las Palmas            1-0  Málaga CF
 [Dom. 18.9.]
-  CA Osasuna                   0-0  Celta Vigo
-  Athletic Bilbao              2-1  Valencia CF
-  Villarreal CF                2-1  Real Sociedad San Sebastián
-  Espanyol Barcelona           0-2  Real Madrid
+  CA Osasuna               0-0  RC Celta Vigo
+  Athletic Club Bilbao     2-1  Valencia CF
+  Villarreal CF            2-1  Real Sociedad
+  RCD Espanyol             0-2  Real Madrid
 [Lun. 19.9.]
-  CD Alavés                    0-0  Deportivo La Coruña
+  Deportivo Alavés         0-0  RCD La Coruña
+
 
 Jornada 5
-
 [Mar. 20.9.]
-  Málaga CF                    2-1  SD Eibar
-  Sevilla FC                   1-0  Betis Sevilla
+  Málaga CF                2-1  SD Eibar
+  Sevilla FC               1-0  Real Betis
 [Mié. 21.9.]
-  Real Madrid                  1-1  Villarreal CF
-  Celta Vigo                   2-1  Sporting Gijón
-  FC Barcelona                 1-1  Atlético Madrid
-  Real Sociedad San Sebastián  4-1  UD Las Palmas
-  Granada CF                   1-2  Athletic Bilbao
+  Real Madrid              1-1  Villarreal CF
+  RC Celta Vigo            2-1  Sporting Gijón
+  Granada CF               1-2  Athletic Club Bilbao
+  Real Sociedad            4-1  UD Las Palmas
+  FC Barcelona             1-1  Atlético Madrid
 [Jue. 22.9.]
-  Deportivo La Coruña          1-2  CD Leganés
-  CA Osasuna                   1-2  Espanyol Barcelona
-  Valencia CF                  2-1  CD Alavés
+  RCD La Coruña            1-2  CD Leganés
+  CA Osasuna               1-2  RCD Espanyol
+  Valencia CF              2-1  Deportivo Alavés
+
 
 Jornada 6
-[Vié. 23.9.]
-  Betis Sevilla                1-0  Málaga CF
+[Vie. 23.9.]
+  Real Betis               1-0  Málaga CF
 [Sáb. 24.9.]
-  SD Eibar                     2-0  Real Sociedad San Sebastián
-  Sporting Gijón               0-5  FC Barcelona
-  Athletic Bilbao              3-1  Sevilla FC
-  UD Las Palmas                2-2  Real Madrid
+  SD Eibar                 2-0  Real Sociedad
+  Sporting Gijón           0-5  FC Barcelona
+  Athletic Club Bilbao     3-1  Sevilla FC
+  UD Las Palmas            2-2  Real Madrid
 [Dom. 25.9.]
-  CD Leganés                   1-2  Valencia CF
-  Atlético Madrid              1-0  Deportivo La Coruña
-  Villarreal CF                3-1  CA Osasuna
-  Espanyol Barcelona           0-2  Celta Vigo
+  CD Leganés               1-2  Valencia CF
+  Atlético Madrid          1-0  RCD La Coruña
+  Villarreal CF            3-1  CA Osasuna
+  RCD Espanyol             0-2  RC Celta Vigo
 [Lun. 26.9.]
-  CD Alavés                    3-1  Granada CF
+  Deportivo Alavés         3-1  Granada CF
+
 
 Jornada 7
 [Vie. 30.9.]
-  Real Sociedad San Sebastián  1-0  Betis Sevilla
+  Real Sociedad            1-0  Real Betis
 [Sáb. 1.10.]
-  Granada CF                   0-1  CD Leganés
-  Sevilla FC                   2-1  CD Alavés
-  CA Osasuna                   2-2  UD Las Palmas
-  Deportivo La Coruña          2-1  Sporting Gijón
+  Granada CF               0-1  CD Leganés
+  Sevilla FC               2-1  Deportivo Alavés
+  CA Osasuna               2-2  UD Las Palmas
+  RCD La Coruña            2-1  Sporting Gijón
 [Dom. 2.10.]
-  Valencia CF                  0-2  Atlético Madrid
-  Real Madrid                  1-1  SD Eibar
-  Málaga CF                    2-1  Athletic Bilbao
-  Espanyol Barcelona           0-0  Villarreal CF
-  Celta Vigo                   4-3  FC Barcelona
+  Valencia CF              0-2  Atlético Madrid
+  Real Madrid              1-1  SD Eibar
+  RCD Espanyol             0-0  Villarreal CF
+  Málaga CF                2-1  Athletic Club Bilbao
+  RC Celta Vigo            4-3  FC Barcelona
+
 
 Jornada 8
-[Vié. 14.10.]
-  UD Las Palmas                0-0  Espanyol Barcelona
+[Vie. 14.10.]
+  UD Las Palmas            0-0  RCD Espanyol
 [Sáb. 15.10.]
-  CD Leganés                   2-3  Sevilla FC
-  FC Barcelona                 4-0  Deportivo La Coruña
-  Atlético Madrid              7-1  Granada CF
-  Betis Sevilla                1-6  Real Madrid
+  CD Leganés               2-3  Sevilla FC
+  FC Barcelona             4-0  RCD La Coruña
+  Atlético Madrid          7-1  Granada CF
+  Real Betis               1-6  Real Madrid
 [Dom. 16.10.]
-  CD Alavés                    1-1  Málaga CF
-  Athletic Bilbao              3-2  Real Sociedad San Sebastián
-  Sporting Gijón               1-2  Valencia CF
-  Villarreal CF                5-0  Celta Vigo
+  Deportivo Alavés         1-1  Málaga CF
+  Athletic Club Bilbao     3-2  Real Sociedad
+  Sporting Gijón           1-2  Valencia CF
+  Villarreal CF            5-0  RC Celta Vigo
 [Lun. 17.10.]
-  SD Eibar                     2-3  CA Osasuna
+  SD Eibar                 2-3  CA Osasuna
+
 
 Jornada 9
+[Vie. 21.10.]
+  CA Osasuna               1-2  Real Betis
+[Sáb. 22.10.]
+  RCD Espanyol             3-3  SD Eibar
+  Valencia CF              2-3  FC Barcelona
+  Real Sociedad            3-0  Deportivo Alavés
+  Granada CF               0-0  Sporting Gijón
 [Dom. 23.10.]
-  Villarreal CF                2-1  UD Las Palmas
-  Espanyol Barcelona           3-3  SD Eibar
-  CA Osasuna                   1-2  Betis Sevilla
-  Real Madrid                  2-1  Athletic Bilbao
-  Real Sociedad San Sebastián  3-0  CD Alavés
-  Málaga CF                    4-0  CD Leganés
-  Sevilla FC                   1-0  Atlético Madrid
-  Granada CF                   0-0  Sporting Gijón
-  Valencia CF                  2-3  FC Barcelona
-  Celta Vigo                   4-1  Deportivo La Coruña
+  RC Celta Vigo            4-1  RCD La Coruña
+  Sevilla FC               1-0  Atlético Madrid
+  Villarreal CF            2-1  UD Las Palmas
+  Málaga CF                4-0  CD Leganés
+  Real Madrid              2-1  Athletic Club Bilbao
+
 
 Jornada 10
+[Vie. 28.10.]
+  CD Leganés               0-2  Real Sociedad
+[Sáb. 29.10.]
+  Sporting Gijón           1-1  Sevilla FC
+  Deportivo Alavés         1-4  Real Madrid
+  Atlético Madrid          4-2  Málaga CF
+  FC Barcelona             1-0  Granada CF
 [Dom. 30.10.]
-  UD Las Palmas                3-3  Celta Vigo
-  SD Eibar                     2-1  Villarreal CF
-  Betis Sevilla                0-1  Espanyol Barcelona
-  Athletic Bilbao              1-1  CA Osasuna
-  CD Alavés                    1-4  Real Madrid
-  CD Leganés                   0-2  Real Sociedad San Sebastián
-  Atlético Madrid              4-2  Málaga CF
-  Sporting Gijón               1-1  Sevilla FC
-  FC Barcelona                 1-0  Granada CF
-  Deportivo La Coruña          1-1  Valencia CF
+  SD Eibar                 2-1  Villarreal CF
+  Athletic Club Bilbao     1-1  CA Osasuna
+  Real Betis               0-1  RCD Espanyol
+  UD Las Palmas            3-3  RC Celta Vigo
+[Lun. 31.10.]
+  RCD La Coruña            1-1  Valencia CF
+
 
 Jornada 11
+[Vie. 4.11.]
+  Málaga CF                3-2  Sporting Gijón
+[Sáb. 5.11.]
+  Granada CF               1-1  RCD La Coruña
+  Real Sociedad            2-0  Atlético Madrid
+  CA Osasuna               0-1  Deportivo Alavés
+  UD Las Palmas            1-0  SD Eibar
 [Dom. 6.11.]
-  UD Las Palmas                1-0  SD Eibar
-  Villarreal CF                2-0  Betis Sevilla
-  Espanyol Barcelona           0-0  Athletic Bilbao
-  CA Osasuna                   0-1  CD Alavés
-  Real Madrid                  3-0  CD Leganés
-  Real Sociedad San Sebastián  2-0  Atlético Madrid
-  Málaga CF                    3-2  Sporting Gijón
-  Sevilla FC                   1-2  FC Barcelona
-  Granada CF                   1-1  Deportivo La Coruña
-  Celta Vigo                   2-1  Valencia CF
+  Real Madrid              3-0  CD Leganés
+  RCD Espanyol             0-0  Athletic Club Bilbao
+  RC Celta Vigo            2-1  Valencia CF
+  Villarreal CF            2-0  Real Betis
+  Sevilla FC               1-2  FC Barcelona
+
 
 Jornada 12
+[Vie. 18.11.]
+  Real Betis               2-0  UD Las Palmas
+[Sáb. 19.11.]
+  RCD La Coruña            2-3  Sevilla FC
+  FC Barcelona             0-0  Málaga CF
+  SD Eibar                 1-0  RC Celta Vigo
+  Atlético Madrid          0-3  Real Madrid
 [Dom. 20.11.]
-  SD Eibar                     1-0  Celta Vigo
-  Betis Sevilla                2-0  UD Las Palmas
-  Athletic Bilbao              1-0  Villarreal CF
-  CD Alavés                    0-1  Espanyol Barcelona
-  CD Leganés                   2-0  CA Osasuna
-  Atlético Madrid              0-3  Real Madrid
-  Sporting Gijón               1-3  Real Sociedad San Sebastián
-  FC Barcelona                 0-0  Málaga CF
-  Deportivo La Coruña          2-3  Sevilla FC
-  Valencia CF                  1-1  Granada CF
+  Deportivo Alavés         0-1  RCD Espanyol
+  Valencia CF              1-1  Granada CF
+  Sporting Gijón           1-3  Real Sociedad
+  Athletic Club Bilbao     1-0  Villarreal CF
+[Lun. 21.11.]
+  CD Leganés               2-0  CA Osasuna
+
 
 Jornada 13
+[Vie. 25.11.]
+  SD Eibar                 3-1  Real Betis
+[Sáb. 26.11.]
+  Málaga CF                4-3  RCD La Coruña
+  Real Madrid              2-1  Sporting Gijón
+  RCD Espanyol             3-0  CD Leganés
+  Sevilla FC               2-1  Valencia CF
 [Dom. 27.11.]
-  SD Eibar                     3-1  Betis Sevilla
-  UD Las Palmas                3-1  Athletic Bilbao
-  Villarreal CF                0-2  CD Alavés
-  Espanyol Barcelona            3-0  CD Leganés
-  CA Osasuna                   0-3  Atlético Madrid
-  Real Madrid                  2-1  Sporting Gijón
-  Real Sociedad San Sebastián  1-1  FC Barcelona
-  Málaga CF                    4-3  Deportivo La Coruña
-  Sevilla FC                   2-1  Valencia CF
-  Celta Vigo                   3-1  Granada CF
+  Villarreal CF            0-2  Deportivo Alavés
+  CA Osasuna               0-3  Atlético Madrid
+  RC Celta Vigo            3-1  Granada CF
+  Real Sociedad            1-1  FC Barcelona
+[Lun. 28.11.]
+  UD Las Palmas            3-1  Athletic Club Bilbao
+
 
 Jornada 14
+[Sáb. 3.12.]
+  Granada CF               2-1  Sevilla FC
+  FC Barcelona             1-1  Real Madrid
+  CD Leganés               0-0  Villarreal CF
+  Atlético Madrid          0-0  RCD Espanyol
 [Dom. 4.12.]
-  Betis Sevilla                3-3  Celta Vigo
-  Athletic Bilbao              3-1  SD Eibar
-  CD Alavés                    1-1  UD Las Palmas
-  CD Leganés                   0-0  Villarreal CF
-  Atlético Madrid              0-0  Espanyol Barcelona
-  Sporting Gijón               3-1  CA Osasuna
-  FC Barcelona                 1-1  Real Madrid
-  Deportivo La Coruña          5-1  Real Sociedad San Sebastián
-  Valencia CF                  2-2  Málaga CF
-  Granada CF                   2-1  Sevilla FC
+  Real Betis               3-3  RC Celta Vigo
+  Athletic Club Bilbao     3-1  SD Eibar
+  Sporting Gijón           3-1  CA Osasuna
+  Deportivo Alavés         1-1  UD Las Palmas
+  Valencia CF              2-2  Málaga CF
+[Lun. 5.12.]
+  RCD La Coruña            5-1  Real Sociedad
+
 
 Jornada 15
+[Vie. 9.12.]
+  Málaga CF                1-1  Granada CF
+[Sáb. 10.12.]
+  CA Osasuna               0-3  FC Barcelona
+  Real Sociedad            3-2  Valencia CF
+  UD Las Palmas            1-1  CD Leganés
+  Real Madrid              3-2  RCD La Coruña
 [Dom. 11.12.]
-  Betis Sevilla                1-0  Athletic Bilbao
-  SD Eibar                     0-0  CD Alavés
-  UD Las Palmas                1-1  CD Leganés
-  Villarreal CF                3-0  Atlético Madrid
-  Espanyol Barcelona           2-1  Sporting Gijón
-  CA Osasuna                   0-3  FC Barcelona
-  Real Madrid                  3-2  Deportivo La Coruña
-  Real Sociedad San Sebastián  3-2  Valencia CF
-  Málaga CF                    1-1  Granada CF
-  Celta Vigo                   0-3  Sevilla FC
+  SD Eibar                 0-0  Deportivo Alavés
+  RC Celta Vigo            0-3  Sevilla FC
+  RCD Espanyol             2-1  Sporting Gijón
+  Real Betis               1-0  Athletic Club Bilbao
+[Lun. 12.12.]
+  Villarreal CF            3-0  Atlético Madrid
+
 
 Jornada 16
+[Vie. 16.12.]
+  Deportivo Alavés         1-0  Real Betis
+[Sáb. 17.12.]
+  Sporting Gijón           1-3  Villarreal CF
+  Atlético Madrid          1-0  UD Las Palmas
+  Granada CF               0-2  Real Sociedad
+  Sevilla FC               4-1  Málaga CF
 [Dom. 18.12.]
-  Athletic Bilbao              2-1  Celta Vigo
-  CD Alavés                    1-0  Betis Sevilla
-  CD Leganés                   1-1  SD Eibar
-  Atlético Madrid              1-0  UD Las Palmas
-  Sporting Gijón               1-3  Villarreal CF
-  FC Barcelona                 4-1  Espanyol Barcelona
-  Deportivo La Coruña          2-0  CA Osasuna
-  ## Valencia CF                -  Real Madrid   ## see postponed
-  Granada CF                   0-2  Real Sociedad San Sebastián
-  Sevilla FC                   4-1  Málaga CF
+  CD Leganés               1-1  SD Eibar
+  RCD La Coruña            2-0  CA Osasuna
+  FC Barcelona             4-1  RCD Espanyol
+[Lun. 19.12.]
+  Athletic Club Bilbao     2-1  RC Celta Vigo
 
 
 Jornada 17
+[Vie. 6.1.]
+  RCD Espanyol             1-1  RCD La Coruña
+[Sáb. 7.1.]
+  Real Madrid              5-0  Granada CF
+  SD Eibar                 0-2  Atlético Madrid
+  UD Las Palmas            1-0  Sporting Gijón
+  Real Sociedad            0-4  Sevilla FC
 [Dom. 8.1.]
-  Athletic Bilbao              0-0  CD Alavés
-  Betis Sevilla                2-0  CD Leganés
-  SD Eibar                     0-2  Atlético Madrid
-  UD Las Palmas                1-0  Sporting Gijón
-  Villarreal CF                1-1  FC Barcelona
-  Espanyol Barcelona           1-1  Deportivo La Coruña
-  CA Osasuna                   3-3  Valencia CF
-  Real Madrid                  5-0  Granada CF
-  Real Sociedad San Sebastián  0-4  Sevilla FC
-  Celta Vigo                   3-1  Málaga CF
+  Athletic Club Bilbao     0-0  Deportivo Alavés
+  Real Betis               2-0  CD Leganés
+  RC Celta Vigo            3-1  Málaga CF
+  Villarreal CF            1-1  FC Barcelona
+[Lun. 9.1.]
+  CA Osasuna               3-3  Valencia CF
+
 
 Jornada 18
+[Sáb. 14.1.]
+  CD Leganés               0-0  Athletic Club Bilbao
+  FC Barcelona             5-0  UD Las Palmas
+  Atlético Madrid          1-0  Real Betis
+  RCD La Coruña            0-0  Villarreal CF
 [Dom. 15.1.]
-  Celta Vigo                   1-0  CD Alavés
-  CD Leganés                   0-0  Athletic Bilbao
-  Atlético Madrid              1-0  Betis Sevilla
-  Sporting Gijón               2-3  SD Eibar
-  FC Barcelona                 5-0  UD Las Palmas
-  Deportivo La Coruña          0-0  Villarreal CF
-  Valencia CF                  2-1  Espanyol Barcelona
-  Granada CF                   1-1  CA Osasuna
-  Sevilla FC                   2-1  Real Madrid
-  Málaga CF                    0-2  Real Sociedad San Sebastián
+  Valencia CF              2-1  RCD Espanyol
+  RC Celta Vigo            1-0  Deportivo Alavés
+  Granada CF               1-1  CA Osasuna
+  Sporting Gijón           2-3  SD Eibar
+  Sevilla FC               2-1  Real Madrid
+[Lun. 16.1.]
+  Málaga CF                0-2  Real Sociedad
+
 
 Jornada 19
+[Vie. 20.1.]
+  UD Las Palmas            1-1  RCD La Coruña
+[Sáb. 21.1.]
+  RCD Espanyol             3-1  Granada CF
+  Real Madrid              2-1  Málaga CF
+  Deportivo Alavés         2-2  CD Leganés
+  Villarreal CF            0-2  Valencia CF
 [Dom. 22.1.]
-  CD Alavés                    2-2  CD Leganés
-  Athletic Bilbao              2-2  Atlético Madrid
-  Betis Sevilla                0-0  Sporting Gijón
-  SD Eibar                     0-4  FC Barcelona
-  UD Las Palmas                1-1  Deportivo La Coruña
-  Villarreal CF                0-2  Valencia CF
-  Espanyol Barcelona           3-1  Granada CF
-  CA Osasuna                   3-4  Sevilla FC
-  Real Madrid                  2-1  Málaga CF
-  Real Sociedad San Sebastián  1-0  Celta Vigo
+  CA Osasuna               3-4  Sevilla FC
+  Athletic Club Bilbao     2-2  Atlético Madrid
+  Real Betis               0-0  Sporting Gijón
+  Real Sociedad            1-0  RC Celta Vigo
+  SD Eibar                 0-4  FC Barcelona
+
 
 Jornada 20
+[Vie. 27.1.]
+  CA Osasuna               1-1  Málaga CF
+[Sáb. 28.1.]
+  Villarreal CF            2-0  Granada CF
+  Deportivo Alavés         0-0  Atlético Madrid
+  SD Eibar                 3-1  RCD La Coruña
+  CD Leganés               0-2  RC Celta Vigo
 [Dom. 29.1.]
-  Real Madrid                  3-0  Real Sociedad San Sebastián
-  CD Alavés                    0-0  Atlético Madrid
-  Athletic Bilbao              2-1  Sporting Gijón
-  Betis Sevilla                1-1  FC Barcelona
-  SD Eibar                     3-1  Deportivo La Coruña
-  UD Las Palmas                3-1  Valencia CF
-  Villarreal CF                2-0  Granada CF
-  Espanyol Barcelona           3-1  Sevilla FC
-  CA Osasuna                   1-1  Málaga CF
-  CD Leganés                   0-2  Celta Vigo
+  Real Betis               1-1  FC Barcelona
+  RCD Espanyol             3-1  Sevilla FC
+  Athletic Club Bilbao     2-1  Sporting Gijón
+  Real Madrid              3-0  Real Sociedad
+[Lun. 30.1.]
+  UD Las Palmas            3-1  Valencia CF
+
 
 Jornada 21
+[Sáb. 4.2.]
+  Málaga CF                0-1  RCD Espanyol
+  FC Barcelona             3-0  Athletic Club Bilbao
+  Atlético Madrid          2-0  CD Leganés
+  Valencia CF              0-4  SD Eibar
 [Dom. 5.2.]
-  ## Celta Vigo                 -  Real Madrid        ## see postponed
-  Real Sociedad San Sebastián  3-2  CA Osasuna
-  Málaga CF                    0-1  Espanyol Barcelona
-  Sevilla FC                   0-0  Villarreal CF
-  Granada CF                   1-0  UD Las Palmas
-  Valencia CF                  0-4  SD Eibar
-  ## Deportivo La Coruña        -  Betis Sevilla      ## see postponed
-  FC Barcelona                 3-0  Athletic Bilbao
-  Sporting Gijón               2-4  CD Alavés
-  Atlético Madrid              2-0  CD Leganés
+  Sevilla FC               0-0  Villarreal CF
+  Sporting Gijón           2-4  Deportivo Alavés
+  Real Sociedad            3-2  CA Osasuna
+[Lun. 6.2.]
+  Granada CF               1-0  UD Las Palmas
+
 
 Jornada 22
+[Vie. 10.2.]
+  RCD Espanyol             1-2  Real Sociedad
+[Sáb. 11.2.]
+  Real Betis               0-0  Valencia CF
+  Deportivo Alavés         0-6  FC Barcelona
+  Athletic Club Bilbao     2-1  RCD La Coruña
+  CA Osasuna               1-3  Real Madrid
 [Dom. 12.2.]
-  CA Osasuna                   1-3  Real Madrid
-  Espanyol Barcelona           1-2  Real Sociedad San Sebastián
-  Villarreal CF                1-1  Málaga CF
-  UD Las Palmas                0-1  Sevilla FC
-  SD Eibar                     4-0  Granada CF
-  Betis Sevilla                0-0  Valencia CF
-  Athletic Bilbao              2-1  Deportivo La Coruña
-  CD Alavés                    0-6  FC Barcelona
-  CD Leganés                   0-2  Sporting Gijón
-  Atlético Madrid              3-2  Celta Vigo
+  Villarreal CF            1-1  Málaga CF
+  CD Leganés               0-2  Sporting Gijón
+  UD Las Palmas            0-1  Sevilla FC
+  Atlético Madrid          3-2  RC Celta Vigo
+[Lun. 13.2.]
+  SD Eibar                 4-0  Granada CF
+
 
 Jornada 23
+[Vie. 17.2.]
+  Granada CF               4-1  Real Betis
+[Sáb. 18.2.]
+  Sporting Gijón           1-4  Atlético Madrid
+  Real Madrid              2-0  RCD Espanyol
+  RCD La Coruña            0-1  Deportivo Alavés
+  Sevilla FC               2-0  SD Eibar
 [Dom. 19.2.]
-  Celta Vigo                   3-0  CA Osasuna
-  Real Madrid                  2-0  Espanyol Barcelona
-  Real Sociedad San Sebastián  0-1  Villarreal CF
-  Málaga CF                    2-1  UD Las Palmas
-  Sevilla FC                   2-0  SD Eibar
-  Granada CF                   4-1  Betis Sevilla
-  Valencia CF                  2-0  Athletic Bilbao
-  Deportivo La Coruña          0-1  CD Alavés
-  FC Barcelona                 2-1  CD Leganés
-  Sporting Gijón               1-4  Atlético Madrid
+  Real Sociedad            0-1  Villarreal CF
+  Valencia CF              2-0  Athletic Club Bilbao
+  RC Celta Vigo            3-0  CA Osasuna
+  FC Barcelona             2-1  CD Leganés
+[Lun. 20.2.]
+  Málaga CF                2-1  UD Las Palmas
 
-Jornada 16     ## postponed
+
+Jornada 16
 [Mié. 22.2.]
-  Valencia CF                  2-1  Real Madrid
+  Valencia CF              2-1  Real Madrid
 
 
 Jornada 24
+[Vie. 24.2.]
+  UD Las Palmas            0-1  Real Sociedad
+[Sáb. 25.2.]
+  Deportivo Alavés         2-1  Valencia CF
+  Real Betis               1-2  Sevilla FC
+  CD Leganés               4-0  RCD La Coruña
+  SD Eibar                 3-0  Málaga CF
 [Dom. 26.2.]
-  Espanyol Barcelona           3-0  CA Osasuna
-  Villarreal CF                2-3  Real Madrid
-  UD Las Palmas                0-1  Real Sociedad San Sebastián
-  SD Eibar                     3-0  Málaga CF
-  Betis Sevilla                1-2  Sevilla FC
-  Athletic Bilbao              3-1  Granada CF
-  CD Alavés                    2-1  Valencia CF
-  CD Leganés                   4-0  Deportivo La Coruña
-  Atlético Madrid              1-2  FC Barcelona
-  Sporting Gijón               1-1  Celta Vigo
+  RCD Espanyol             3-0  CA Osasuna
+  Atlético Madrid          1-2  FC Barcelona
+  Sporting Gijón           1-1  RC Celta Vigo
+  Athletic Club Bilbao     3-1  Granada CF
+  Villarreal CF            2-3  Real Madrid
+
 
 Jornada 25
+[Mar. 28.2.]
+  Real Sociedad            2-2  SD Eibar
+  Málaga CF                1-2  Real Betis
+  Valencia CF              1-0  CD Leganés
 [Mié. 1.3.]
-  Celta Vigo                   2-2  Espanyol Barcelona
-  CA Osasuna                   1-4  Villarreal CF
-  Real Madrid                  3-3  UD Las Palmas
-  Real Sociedad San Sebastián  2-2  SD Eibar
-  Málaga CF                    1-2  Betis Sevilla
-  Sevilla FC                   1-0  Athletic Bilbao
-  Granada CF                   2-1  CD Alavés
-  Valencia CF                  1-0  CD Leganés
-  Deportivo La Coruña          1-1  Atlético Madrid
-  FC Barcelona                 6-1  Sporting Gijón
+  CA Osasuna               1-4  Villarreal CF
+  FC Barcelona             6-1  Sporting Gijón
+  RC Celta Vigo            2-2  RCD Espanyol
+  Real Madrid              3-3  UD Las Palmas
+  Granada CF               2-1  Deportivo Alavés
+[Jue. 2.3.]
+  RCD La Coruña            1-1  Atlético Madrid
+  Sevilla FC               1-0  Athletic Club Bilbao
+
 
 Jornada 26
+[Vie. 3.3.]
+  Real Betis               2-3  Real Sociedad
+[Sáb. 4.3.]
+  CD Leganés               1-0  Granada CF
+  SD Eibar                 1-4  Real Madrid
+  Villarreal CF            2-0  RCD Espanyol
+  FC Barcelona             5-0  RC Celta Vigo
 [Dom. 5.3.]
-  Villarreal CF                2-0  Espanyol Barcelona
-  UD Las Palmas                5-2  CA Osasuna
-  SD Eibar                     1-4  Real Madrid
-  Betis Sevilla                2-3  Real Sociedad San Sebastián
-  Athletic Bilbao              1-0  Málaga CF
-  CD Alavés                    1-1  Sevilla FC
-  CD Leganés                   1-0  Granada CF
-  Atlético Madrid              3-0  Valencia CF
-  Sporting Gijón               0-1  Deportivo La Coruña
-  FC Barcelona                 5-0  Celta Vigo
+  Sporting Gijón           0-1  RCD La Coruña
+  Atlético Madrid          3-0  Valencia CF
+  UD Las Palmas            5-2  CA Osasuna
+  Athletic Club Bilbao     1-0  Málaga CF
+[Lun. 6.3.]
+  Deportivo Alavés         1-1  Sevilla FC
 
-Jornada 21      ## postponed
+
+Jornada 21
 [Mié. 8.3.]
-  Deportivo La Coruña          1-1  Betis Sevilla
+  RCD La Coruña            1-1  Real Betis
+
 
 Jornada 27
+[Vie. 10.3.]
+  RCD Espanyol             4-3  UD Las Palmas
+[Sáb. 11.3.]
+  Valencia CF              1-1  Sporting Gijón
+  Sevilla FC               1-1  CD Leganés
+  Málaga CF                1-2  Deportivo Alavés
+  Granada CF               0-1  Atlético Madrid
 [Dom. 12.3.]
-  Celta Vigo                   0-1  Villarreal CF
-  Espanyol Barcelona           4-3  UD Las Palmas
-  CA Osasuna                   1-1  SD Eibar
-  Real Madrid                  2-1  Betis Sevilla
-  Real Sociedad San Sebastián  0-2  Athletic Bilbao
-  Málaga CF                    1-2  CD Alavés
-  Sevilla FC                   1-1  CD Leganés
-  Granada CF                   0-1  Atlético Madrid
-  Valencia CF                  1-1  Sporting Gijón
-  Deportivo La Coruña          2-1  FC Barcelona
+  Real Sociedad            0-2  Athletic Club Bilbao
+  RCD La Coruña            2-1  FC Barcelona
+  RC Celta Vigo            0-1  Villarreal CF
+  Real Madrid              2-1  Real Betis
+[Lun. 13.3.]
+  CA Osasuna               1-1  SD Eibar
+
 
 Jornada 28
+[Vie. 17.3.]
+  UD Las Palmas            1-0  Villarreal CF
+[Sáb. 18.3.]
+  SD Eibar                 1-1  RCD Espanyol
+  Athletic Club Bilbao     1-2  Real Madrid
+  Deportivo Alavés         1-0  Real Sociedad
+  Real Betis               2-0  CA Osasuna
 [Dom. 19.3.]
-  UD Las Palmas                1-0  Villarreal CF
-  SD Eibar                     1-1  Espanyol Barcelona
-  Betis Sevilla                2-0  CA Osasuna
-  Athletic Bilbao              1-2  Real Madrid
-  CD Alavés                    1-0  Real Sociedad San Sebastián
-  CD Leganés                   0-0  Málaga CF
-  Atlético Madrid              3-1  Sevilla FC
-  Sporting Gijón               3-1  Granada CF
-  FC Barcelona                 4-2  Valencia CF
-  Deportivo La Coruña          0-1  Celta Vigo
+  CD Leganés               0-0  Málaga CF
+  Atlético Madrid          3-1  Sevilla FC
+  RCD La Coruña            0-1  RC Celta Vigo
+  Sporting Gijón           3-1  Granada CF
+  FC Barcelona             4-2  Valencia CF
+
 
 Jornada 29
+[Vie. 31.3.]
+  RCD Espanyol             2-1  Real Betis
+[Sáb. 1.4.]
+  Villarreal CF            2-3  SD Eibar
+  CA Osasuna               1-2  Athletic Club Bilbao
+  Real Sociedad            1-1  CD Leganés
+  Málaga CF                0-2  Atlético Madrid
 [Dom. 2.4.]
-  Celta Vigo                   3-1  UD Las Palmas
-  Villarreal CF                2-3  SD Eibar
-  Espanyol Barcelona           2-1  Betis Sevilla
-  CA Osasuna                   1-2  Athletic Bilbao
-  Real Madrid                  3-0  CD Alavés
-  Real Sociedad San Sebastián  1-1  CD Leganés
-  Málaga CF                    0-2  Atlético Madrid
-  Sevilla FC                   0-0  Sporting Gijón
-  Granada CF                   1-4  FC Barcelona
-  Valencia CF                  3-0  Deportivo La Coruña
+  Sevilla FC               0-0  Sporting Gijón
+  Real Madrid              3-0  Deportivo Alavés
+  Valencia CF              3-0  RCD La Coruña
+  Granada CF               1-4  FC Barcelona
+[Lun. 3.4.]
+  RC Celta Vigo            3-1  UD Las Palmas
+
 
 Jornada 30
+[Mar. 4.4.]
+  Athletic Club Bilbao     2-0  RCD Espanyol
+  Real Betis               0-1  Villarreal CF
+  Atlético Madrid          1-0  Real Sociedad
 [Mié. 5.4.]
-  SD Eibar                     3-1  UD Las Palmas
-  Betis Sevilla                0-1  Villarreal CF
-  Athletic Bilbao              2-0  Espanyol Barcelona
-  CD Alavés                    0-1  CA Osasuna
-  CD Leganés                   2-4  Real Madrid
-  Atlético Madrid              1-0  Real Sociedad San Sebastián
-  Sporting Gijón               0-1  Málaga CF
-  FC Barcelona                 3-0  Sevilla FC
-  Deportivo La Coruña          0-0  Granada CF
-  Valencia CF                  3-2  Celta Vigo
+  FC Barcelona             3-0  Sevilla FC
+  Sporting Gijón           0-1  Málaga CF
+  Deportivo Alavés         0-1  CA Osasuna
+  RCD La Coruña            0-0  Granada CF
+  CD Leganés               2-4  Real Madrid
+[Jue. 6.4.]
+  SD Eibar                 3-1  UD Las Palmas
+  Valencia CF              3-2  RC Celta Vigo
+
 
 Jornada 31
+[Vie. 7.4.]
+  Villarreal CF            3-1  Athletic Club Bilbao
+[Sáb. 8.4.]
+  RCD Espanyol             1-0  Deportivo Alavés
+  Real Madrid              1-1  Atlético Madrid
+  Sevilla FC               4-2  RCD La Coruña
+  Málaga CF                2-0  FC Barcelona
 [Dom. 9.4.]
-  Celta Vigo                   0-2  SD Eibar
-  UD Las Palmas                4-1  Betis Sevilla
-  Villarreal CF                3-1  Athletic Bilbao
-  Espanyol Barcelona           1-0  CD Alavés
-  CA Osasuna                   2-1  CD Leganés
-  Real Madrid                  1-1  Atlético Madrid
-  Real Sociedad San Sebastián  3-1  Sporting Gijón
-  Málaga CF                    2-0  FC Barcelona
-  Sevilla FC                   4-2  Deportivo La Coruña
-  Granada CF                   1-3  Valencia CF
+  Granada CF               1-3  Valencia CF
+  RC Celta Vigo            0-2  SD Eibar
+  CA Osasuna               2-1  CD Leganés
+  UD Las Palmas            4-1  Real Betis
+[Lun. 10.4.]
+  Real Sociedad            3-1  Sporting Gijón
+
 
 Jornada 32
+[Vie. 14.4.]
+  Athletic Club Bilbao     5-1  UD Las Palmas
+[Sáb. 15.4.]
+  RCD La Coruña            2-0  Málaga CF
+  Sporting Gijón           2-3  Real Madrid
+  Atlético Madrid          3-0  CA Osasuna
+  FC Barcelona             3-2  Real Sociedad
 [Dom. 16.4.]
-  Betis Sevilla                2-0  SD Eibar
-  Athletic Bilbao              5-1  UD Las Palmas
-  CD Alavés                    2-1  Villarreal CF
-  CD Leganés                   0-1  Espanyol Barcelona
-  Atlético Madrid              3-0  CA Osasuna
-  Sporting Gijón               2-3  Real Madrid
-  FC Barcelona                 3-2  Real Sociedad San Sebastián
-  Deportivo La Coruña          2-0  Málaga CF
-  Valencia CF                  0-0  Sevilla FC
-  Granada CF                   0-3  Celta Vigo
+  CD Leganés               0-1  RCD Espanyol
+  Valencia CF              0-0  Sevilla FC
+  Real Betis               2-0  SD Eibar
+  Granada CF               0-3  RC Celta Vigo
+[Lun. 17.4.]
+  Deportivo Alavés         2-1  Villarreal CF
+
 
 Jornada 33
+[Vie. 21.4.]
+  Sevilla FC               2-0  Granada CF
+[Sáb. 22.4.]
+  Málaga CF                2-0  Valencia CF
+  Villarreal CF            2-1  CD Leganés
+  CA Osasuna               2-2  Sporting Gijón
+  RCD Espanyol             0-1  Atlético Madrid
 [Dom. 23.4.]
-  Celta Vigo                   0-1  Betis Sevilla
-  SD Eibar                     0-1  Athletic Bilbao
-  UD Las Palmas                1-1  CD Alavés
-  Villarreal CF                2-1  CD Leganés
-  Espanyol Barcelona           0-1  Atlético Madrid
-  CA Osasuna                   2-2  Sporting Gijón
-  Real Madrid                  2-3  FC Barcelona
-  Real Sociedad San Sebastián  1-0  Deportivo La Coruña
-  Málaga CF                    2-0  Valencia CF
-  Sevilla FC                   2-0  Granada CF
+  Real Sociedad            1-0  RCD La Coruña
+  RC Celta Vigo            0-1  Real Betis
+  UD Las Palmas            1-1  Deportivo Alavés
+  Real Madrid              2-3  FC Barcelona
+[Lun. 24.4.]
+  SD Eibar                 0-1  Athletic Club Bilbao
 
 
 Jornada 34
+[Mar. 25.4.]
+  Sporting Gijón           1-1  RCD Espanyol
+  Granada CF               0-2  Málaga CF
+  Atlético Madrid          0-1  Villarreal CF
 [Mié. 26.4.]
-  Athletic Bilbao              2-1  Betis Sevilla
-  CD Alavés                    0-0  SD Eibar
-  CD Leganés                   3-0  UD Las Palmas
-  Atlético Madrid              0-1  Villarreal CF
-  Sporting Gijón               1-1  Espanyol Barcelona
-  FC Barcelona                 7-1  CA Osasuna
-  Deportivo La Coruña          2-6  Real Madrid
-  Valencia CF                  2-3  Real Sociedad San Sebastián
-  Granada CF                   0-2  Málaga CF
-  Sevilla FC                   2-1  Celta Vigo
+  FC Barcelona             7-1  CA Osasuna
+  CD Leganés               3-0  UD Las Palmas
+  Valencia CF              2-3  Real Sociedad
+  RCD La Coruña            2-6  Real Madrid
+[Jue. 27.4.]
+  Deportivo Alavés         0-0  SD Eibar
+  Sevilla FC               2-1  RC Celta Vigo
+  Athletic Club Bilbao     2-1  Real Betis
+
 
 Jornada 35
+[Vie. 28.4.]
+  Villarreal CF            3-1  Sporting Gijón
+[Sáb. 29.4.]
+  Real Sociedad            2-1  Granada CF
+  Real Madrid              2-1  Valencia CF
+  UD Las Palmas            0-5  Atlético Madrid
+  RCD Espanyol             0-3  FC Barcelona
 [Dom. 30.4.]
-  Celta Vigo                   0-3  Athletic Bilbao
-  Betis Sevilla                1-4  CD Alavés
-  SD Eibar                     2-0  CD Leganés
-  UD Las Palmas                0-5  Atlético Madrid
-  Villarreal CF                3-1  Sporting Gijón
-  Espanyol Barcelona           0-3  FC Barcelona
-  CA Osasuna                   2-2  Deportivo La Coruña
-  Real Madrid                  2-1  Valencia CF
-  Real Sociedad San Sebastián  2-1  Granada CF
-  Málaga CF                    4-2  Sevilla FC
+  CA Osasuna               2-2  RCD La Coruña
+  Real Betis               1-4  Deportivo Alavés
+  SD Eibar                 2-0  CD Leganés
+  RC Celta Vigo            0-3  Athletic Club Bilbao
+[Lun. 1.5.]
+  Málaga CF                4-2  Sevilla FC
 
 
 Jornada 36
+[Vie. 5.5.]
+  Sevilla FC               1-1  Real Sociedad
+[Sáb. 6.5.]
+  Sporting Gijón           1-0  UD Las Palmas
+  Atlético Madrid          1-0  SD Eibar
+  FC Barcelona             4-1  Villarreal CF
+  Granada CF               0-4  Real Madrid
 [Dom. 7.5.]
-  CD Alavés                    1-0  Athletic Bilbao
-  CD Leganés                   4-0  Betis Sevilla
-  Atlético Madrid              1-0  SD Eibar
-  Sporting Gijón               1-0  UD Las Palmas
-  FC Barcelona                 4-1  Villarreal CF
-  Deportivo La Coruña          1-2  Espanyol Barcelona
-  Valencia CF                  4-1  CA Osasuna
-  Granada CF                   0-4  Real Madrid
-  Sevilla FC                   1-1  Real Sociedad San Sebastián
-  Málaga CF                    3-0  Celta Vigo
+  Deportivo Alavés         1-0  Athletic Club Bilbao
+  Valencia CF              4-1  CA Osasuna
+  RCD La Coruña            1-2  RCD Espanyol
+  Málaga CF                3-0  RC Celta Vigo
+[Lun. 8.5.]
+  CD Leganés               4-0  Real Betis
+
 
 Jornada 37
+[Sáb. 13.5.]
+  RCD Espanyol             0-1  Valencia CF
+  CA Osasuna               2-1  Granada CF
 [Dom. 14.5.]
-  CD Alavés                    3-1  Celta Vigo
-  Athletic Bilbao              1-1  CD Leganés
-  Betis Sevilla                1-1  Atlético Madrid
-  SD Eibar                     0-1  Sporting Gijón
-  UD Las Palmas                1-4  FC Barcelona
-  Villarreal CF                0-0  Deportivo La Coruña
-  Espanyol Barcelona           0-1  Valencia CF
-  CA Osasuna                   2-1  Granada CF
-  Real Madrid                  4-1  Sevilla FC
-  Real Sociedad San Sebastián  2-2  Málaga CF
+  Deportivo Alavés         3-1  RC Celta Vigo
+  UD Las Palmas            1-4  FC Barcelona
+  Athletic Club Bilbao     1-1  CD Leganés
+  SD Eibar                 0-1  Sporting Gijón
+  Villarreal CF            0-0  RCD La Coruña
+  Real Madrid              4-1  Sevilla FC
+  Real Sociedad            2-2  Málaga CF
+  Real Betis               1-1  Atlético Madrid
 
 
-Jornada 21     ## postponed
+Jornada 21
 [Mié. 17.5.]
-  Celta Vigo                   1-4  Real Madrid
+  RC Celta Vigo            1-4  Real Madrid
+
 
 Jornada 38
+[Vie. 19.5.]
+  Granada CF               1-2  RCD Espanyol
+[Sáb. 20.5.]
+  Sporting Gijón           2-2  Real Betis
+  CD Leganés               1-1  Deportivo Alavés
+  RCD La Coruña            3-0  UD Las Palmas
+  Sevilla FC               5-0  CA Osasuna
 [Dom. 21.5.]
-  CD Leganés                   1-1  CD Alavés
-  Atlético Madrid              3-1  Athletic Bilbao
-  Sporting Gijón               2-2  Betis Sevilla
-  FC Barcelona                 4-2  SD Eibar
-  Deportivo La Coruña          3-0  UD Las Palmas
-  Valencia CF                  1-3  Villarreal CF
-  Granada CF                   1-2  Espanyol Barcelona
-  Sevilla FC                   5-0  CA Osasuna
-  Málaga CF                    0-2  Real Madrid
-  Celta Vigo                   2-2  Real Sociedad San Sebastián
-
+  RC Celta Vigo            2-2  Real Sociedad
+  Valencia CF              1-3  Villarreal CF
+  Atlético Madrid          3-1  Athletic Club Bilbao
+  FC Barcelona             4-2  SD Eibar
+  Málaga CF                0-2  Real Madrid
