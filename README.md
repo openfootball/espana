@@ -44,9 +44,9 @@ Jornada 1
 ```
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `espana.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
+Use the `sportdb` command line tool to build your own `espana.db` copy
 from the plain text datasets. [More »](https://github.com/openfootball/datafile)
 
 ### Examples
