@@ -3,26 +3,26 @@
 
 Jornada 1
 [Sáb. 17.8.]
-  Real Racing Santander    0-1  Málaga CF
   CD Lugo                  0-0  Extremadura UD
+  Real Racing Santander    0-1  Málaga CF
   UD Almería               3-0  Albacete Balompié
   Elche CF                 0-2  CF Fuenlabrada
   Rayo Vallecano           2-2  CD Mirandés
   Real Zaragoza            2-0  CD Tenerife
 [Dom. 18.8.]
-  CD Numancia              0-1  AD Alcorcón
   RCD La Coruña            3-2  Real Oviedo
-  Girona FC                1-1  Sporting Gijón
+  CD Numancia              0-1  AD Alcorcón
   UD Las Palmas            0-1  SD Huesca
   Cádiz CF                 3-1  SD Ponferradina
+  Girona FC                1-1  Sporting Gijón
 
 
 Jornada 2
 [Vie. 23.8.]
   Albacete Balompié        1-0  Girona FC
 [Sáb. 24.8.]
-  Real Oviedo              1-1  CD Lugo
   Real Racing Santander    1-1  UD Almería
+  Real Oviedo              1-1  CD Lugo
   CD Mirandés              1-2  Cádiz CF
   AD Alcorcón              1-2  Elche CF
   Málaga CF                1-1  UD Las Palmas
@@ -38,17 +38,17 @@ Jornada 3
 [Vie. 30.8.]
   Real Zaragoza            1-0  Elche CF
 [Sáb. 31.8.]
-  CD Numancia              2-0  CD Mirandés
+  UD Las Palmas            2-2  Real Racing Santander
   CF Fuenlabrada           2-1  Real Oviedo
   UD Almería               1-0  SD Huesca
-  UD Las Palmas            2-2  Real Racing Santander
+  CD Numancia              2-0  CD Mirandés
 [Dom. 1.9.]
   CD Lugo                  2-4  AD Alcorcón
   Rayo Vallecano           3-1  RCD La Coruña
-  Sporting Gijón           2-0  Albacete Balompié
+  Cádiz CF                 2-1  Extremadura UD
   Girona FC                1-0  Málaga CF
   SD Ponferradina          4-0  CD Tenerife
-  Cádiz CF                 2-1  Extremadura UD
+  Sporting Gijón           2-0  Albacete Balompié
 
 
 Jornada 4
@@ -63,9 +63,9 @@ Jornada 4
 [Dom. 8.9.]
   SD Huesca                1-0  Sporting Gijón
   Girona FC                3-1  Rayo Vallecano
+  AD Alcorcón              0-3  Real Zaragoza
   CD Mirandés              2-1  Real Oviedo
   Elche CF                 1-1  CD Lugo
-  AD Alcorcón              0-3  Real Zaragoza
 
 
 Jornada 5
@@ -73,10 +73,10 @@ Jornada 5
   Rayo Vallecano           2-0  Real Racing Santander
 [Sáb. 14.9.]
   CD Numancia              1-0  SD Huesca
-  CD Mirandés              1-1  Málaga CF
+  SD Ponferradina          1-1  AD Alcorcón
   UD Las Palmas            0-3  UD Almería
   Cádiz CF                 2-0  Girona FC
-  SD Ponferradina          1-1  AD Alcorcón
+  CD Mirandés              1-1  Málaga CF
 [Dom. 15.9.]
   Albacete Balompié        0-4  CD Tenerife
   Real Oviedo              0-2  Elche CF
@@ -87,13 +87,13 @@ Jornada 5
 
 Jornada 6
 [Mar. 17.9.]
-  Málaga CF                1-1  Rayo Vallecano
   UD Almería               3-1  Girona FC
-  Real Racing Santander    4-0  CD Mirandés
+  Málaga CF                1-1  Rayo Vallecano
   AD Alcorcón              3-0  Cádiz CF
+  Real Racing Santander    4-0  CD Mirandés
 [Mié. 18.9.]
-  CD Lugo                  2-2  SD Ponferradina
   SD Huesca                0-1  Albacete Balompié
+  CD Lugo                  2-2  SD Ponferradina
   RCD La Coruña            3-3  CD Numancia
 [Jue. 19.9.]
   Elche CF                 1-1  CD Tenerife
@@ -105,51 +105,51 @@ Jornada 7
 [Vie. 20.9.]
   CD Mirandés              2-2  AD Alcorcón
 [Sáb. 21.9.]
-  Cádiz CF                 0-0  RCD La Coruña
-  Real Zaragoza            0-0  CD Lugo
   Rayo Vallecano           1-1  UD Almería
   Albacete Balompié        1-0  Málaga CF
+  Real Zaragoza            0-0  CD Lugo
+  Cádiz CF                 0-0  RCD La Coruña
 [Dom. 22.9.]
-  SD Ponferradina          2-1  Real Oviedo
-  Girona FC                1-0  UD Las Palmas
-  Sporting Gijón           1-1  Real Racing Santander
-  CD Numancia              1-1  Elche CF
   CD Tenerife              0-1  CF Fuenlabrada
+  SD Ponferradina          2-1  Real Oviedo
   Extremadura UD           0-1  SD Huesca
+  CD Numancia              1-1  Elche CF
+  Sporting Gijón           1-1  Real Racing Santander
+  Girona FC                1-0  UD Las Palmas
 
 
 Jornada 8
 [Vie. 27.9.]
   UD Las Palmas            3-2  Albacete Balompié
 [Sáb. 28.9.]
-  CF Fuenlabrada           2-2  Rayo Vallecano
-  SD Huesca                1-0  Girona FC
   AD Alcorcón              0-2  Extremadura UD
+  CF Fuenlabrada           2-2  Rayo Vallecano
   Elche CF                 1-0  SD Ponferradina
+  SD Huesca                1-0  Girona FC
   Real Racing Santander    0-0  CD Numancia
 [Dom. 29.9.]
+  CD Lugo                  1-4  CD Tenerife
   Málaga CF                0-0  Sporting Gijón
   UD Almería               1-2  Cádiz CF
   Real Oviedo              2-2  Real Zaragoza
   RCD La Coruña            1-1  CD Mirandés
-  CD Lugo                  1-4  CD Tenerife
 
 
 Jornada 9
 [Mar. 1.10.]
-  Albacete Balompié        0-0  Real Racing Santander
-  CD Numancia              1-0  CF Fuenlabrada
-  Extremadura UD           2-0  Elche CF
   Rayo Vallecano           1-1  AD Alcorcón
+  Albacete Balompié        0-0  Real Racing Santander
+  Extremadura UD           2-0  Elche CF
+  CD Numancia              1-0  CF Fuenlabrada
 [Mié. 2.10.]
-  Cádiz CF                 1-0  SD Huesca
   CD Mirandés              1-1  CD Lugo
+  Cádiz CF                 1-0  SD Huesca
   CD Tenerife              0-1  Real Oviedo
   SD Ponferradina          0-2  UD Las Palmas
 [Jue. 3.10.]
+  Girona FC                3-1  RCD La Coruña
   Sporting Gijón           4-2  UD Almería
   Real Zaragoza            2-2  Málaga CF
-  Girona FC                3-1  RCD La Coruña
 
 
 Jornada 10
@@ -158,32 +158,32 @@ Jornada 10
 [Sáb. 5.10.]
   CD Lugo                  0-2  UD Las Palmas
   Elche CF                 1-1  Rayo Vallecano
-  SD Ponferradina          2-0  CD Mirandés
   CD Tenerife              1-2  Extremadura UD
+  SD Ponferradina          2-0  CD Mirandés
 [Dom. 6.10.]
   CF Fuenlabrada           2-0  Sporting Gijón
-  Real Zaragoza            0-2  Cádiz CF
-  Real Oviedo              1-1  CD Numancia
-  RCD La Coruña            0-0  UD Almería
-  SD Huesca                2-0  Málaga CF
   Real Racing Santander    0-3  Girona FC
+  SD Huesca                2-0  Málaga CF
+  Real Zaragoza            0-2  Cádiz CF
+  RCD La Coruña            0-0  UD Almería
+  Real Oviedo              1-1  CD Numancia
 
 
 Jornada 11
 [Vie. 11.10.]
   Rayo Vallecano           2-1  CD Tenerife
 [Sáb. 12.10.]
-  Girona FC                0-2  Elche CF
-  Sporting Gijón           1-3  AD Alcorcón
-  UD Almería               0-0  CD Lugo
   Extremadura UD           1-1  SD Ponferradina
+  Girona FC                0-2  Elche CF
+  UD Almería               0-0  CD Lugo
+  Sporting Gijón           1-3  AD Alcorcón
   Málaga CF                1-2  Cádiz CF
 [Dom. 13.10.]
+  UD Las Palmas            3-0  RCD La Coruña
   CD Mirandés              2-1  CF Fuenlabrada
   CD Numancia              0-1  Real Zaragoza
   Albacete Balompié        1-2  Real Oviedo
   SD Huesca                1-1  Real Racing Santander
-  UD Las Palmas            3-0  RCD La Coruña
 
 
 Jornada 6
@@ -195,17 +195,17 @@ Jornada 12
 [Vie. 18.10.]
   Cádiz CF                 2-0  UD Las Palmas
 [Sáb. 19.10.]
-  SD Ponferradina          1-1  CD Numancia
+  Extremadura UD           0-3  Rayo Vallecano
   AD Alcorcón              2-2  UD Almería
   Elche CF                 0-1  Sporting Gijón
   CD Lugo                  3-2  SD Huesca
-  Extremadura UD           0-3  Rayo Vallecano
+  SD Ponferradina          1-1  CD Numancia
 [Dom. 20.10.]
   CF Fuenlabrada           0-1  Albacete Balompié
   RCD La Coruña            0-2  Málaga CF
-  CD Tenerife              3-3  Real Racing Santander
   Real Oviedo              4-2  Girona FC
   Real Zaragoza            1-2  CD Mirandés
+  CD Tenerife              3-3  Real Racing Santander
 
 
 Jornada 13
@@ -215,22 +215,22 @@ Jornada 13
   Rayo Vallecano           1-3  SD Ponferradina
   CD Mirandés              0-0  CD Tenerife
   Real Racing Santander    1-1  RCD La Coruña
-  CD Numancia              3-1  CD Lugo
   Málaga CF                2-1  Real Oviedo
+  CD Numancia              3-1  CD Lugo
 [Dom. 27.10.]
   Girona FC                0-0  AD Alcorcón
-  Sporting Gijón           4-0  Real Zaragoza
-  UD Las Palmas            1-3  CF Fuenlabrada
-  SD Huesca                2-0  Elche CF
   UD Almería               3-2  Extremadura UD
+  SD Huesca                2-0  Elche CF
+  UD Las Palmas            1-3  CF Fuenlabrada
+  Sporting Gijón           4-0  Real Zaragoza
 
 
 Jornada 14
 [Vie. 1.11.]
   CD Numancia              1-0  Albacete Balompié
   Cádiz CF                 3-1  Sporting Gijón
-  SD Ponferradina          1-0  Málaga CF
   Real Oviedo              0-0  UD Almería
+  SD Ponferradina          1-0  Málaga CF
 [Sáb. 2.11.]
   CF Fuenlabrada           1-1  RCD La Coruña
   AD Alcorcón              1-0  Real Racing Santander
@@ -246,17 +246,17 @@ Jornada 15
 [Vie. 8.11.]
   Girona FC                1-0  CD Tenerife
 [Sáb. 9.11.]
-  SD Huesca                3-1  Real Oviedo
   CD Mirandés              2-0  Extremadura UD
-  Sporting Gijón           0-1  CD Numancia
-  Albacete Balompié        0-1  CD Lugo
   UD Las Palmas            1-1  AD Alcorcón
+  Albacete Balompié        0-1  CD Lugo
+  Sporting Gijón           0-1  CD Numancia
+  SD Huesca                3-1  Real Oviedo
 [Dom. 10.11.]
   RCD La Coruña            1-3  Elche CF
-  UD Almería               1-1  Real Zaragoza
-  Real Racing Santander    2-2  SD Ponferradina
-  Málaga CF                0-0  CF Fuenlabrada
   Rayo Vallecano           1-1  Cádiz CF
+  Málaga CF                0-0  CF Fuenlabrada
+  Real Racing Santander    2-2  SD Ponferradina
+  UD Almería               1-1  Real Zaragoza
 
 
 Jornada 16
@@ -269,56 +269,56 @@ Jornada 16
 [Dom. 17.11.]
   SD Ponferradina          1-1  Girona FC
   AD Alcorcón              1-0  Málaga CF
-  Real Oviedo              0-0  Sporting Gijón
+  CD Tenerife              1-1  Cádiz CF
   CD Lugo                  1-1  Real Racing Santander
   CD Mirandés              2-1  UD Las Palmas
-  CD Tenerife              1-1  Cádiz CF
+  Real Oviedo              0-0  Sporting Gijón
 
 
 Jornada 17
 [Vie. 22.11.]
   Sporting Gijón           0-2  CD Tenerife
 [Sáb. 23.11.]
+  RCD La Coruña            0-0  AD Alcorcón
   Rayo Vallecano           0-1  Real Zaragoza
   Real Racing Santander    3-0  Extremadura UD
-  RCD La Coruña            0-0  AD Alcorcón
   SD Huesca                2-0  SD Ponferradina
 [Dom. 24.11.]
   UD Almería               2-0  CD Numancia
   Albacete Balompié        1-2  CD Mirandés
   Málaga CF                3-3  Elche CF
+  Cádiz CF                 2-1  CD Lugo
   UD Las Palmas            3-1  Real Oviedo
   Girona FC                2-0  CF Fuenlabrada
-  Cádiz CF                 2-1  CD Lugo
 
 
 Jornada 18
 [Vie. 29.11.]
   CD Numancia              0-0  Málaga CF
 [Sáb. 30.11.]
-  AD Alcorcón              0-2  SD Huesca
   CD Mirandés              0-0  Sporting Gijón
+  AD Alcorcón              0-2  SD Huesca
+  Real Zaragoza            3-3  Girona FC
   CD Tenerife              1-3  UD Almería
   SD Ponferradina          1-1  Albacete Balompié
-  Real Zaragoza            3-3  Girona FC
 [Dom. 1.12.]
   CF Fuenlabrada           1-0  Cádiz CF
   Real Oviedo              2-1  Rayo Vallecano
-  CD Lugo                  0-0  RCD La Coruña
   Elche CF                 2-0  Real Racing Santander
+  CD Lugo                  0-0  RCD La Coruña
   Extremadura UD           0-1  UD Las Palmas
 
 
 Jornada 19
 [Vie. 6.12.]
-  Albacete Balompié        1-1  Extremadura UD
+  Málaga CF                2-0  CD Tenerife
   Real Racing Santander    2-2  CF Fuenlabrada
   AD Alcorcón              1-3  Real Oviedo
-  Málaga CF                2-0  CD Tenerife
+  Albacete Balompié        1-1  Extremadura UD
 [Sáb. 7.12.]
   SD Huesca                0-2  Rayo Vallecano
-  Sporting Gijón           1-0  SD Ponferradina
   UD Almería               3-1  CD Mirandés
+  Sporting Gijón           1-0  SD Ponferradina
 [Dom. 8.12.]
   Girona FC                3-1  CD Lugo
   RCD La Coruña            1-3  Real Zaragoza
@@ -331,66 +331,66 @@ Jornada 20
   CD Numancia              2-0  Girona FC
 [Sáb. 14.12.]
   CD Mirandés              2-0  SD Huesca
+  Real Zaragoza            2-0  Real Racing Santander
   CD Tenerife              0-0  AD Alcorcón
   SD Ponferradina          2-0  RCD La Coruña
-  Real Zaragoza            2-0  Real Racing Santander
 [Dom. 15.12.]
   Extremadura UD           0-0  Málaga CF
   Real Oviedo              0-2  Cádiz CF
-  CD Lugo                  1-2  Sporting Gijón
   Elche CF                 2-3  UD Las Palmas
   CF Fuenlabrada           2-2  UD Almería
+  CD Lugo                  1-2  Sporting Gijón
 
 
 Jornada 21
 [Vie. 20.12.]
   RCD La Coruña            2-1  CD Tenerife
 [Sáb. 21.12.]
-  Albacete Balompié        0-1  Elche CF
   Málaga CF                1-1  CD Lugo
-  UD Las Palmas            1-1  Rayo Vallecano
+  Albacete Balompié        0-1  Elche CF
   Sporting Gijón           0-1  Extremadura UD
-  Real Racing Santander    1-1  Real Oviedo
+  UD Las Palmas            1-1  Rayo Vallecano
   Cádiz CF                 2-4  CD Numancia
+  Real Racing Santander    1-1  Real Oviedo
 [Dom. 22.12.]
+  Girona FC                0-3  CD Mirandés
   UD Almería               2-3  SD Ponferradina
   SD Huesca                2-1  Real Zaragoza
   AD Alcorcón              1-1  CF Fuenlabrada
-  Girona FC                0-3  CD Mirandés
 
 
 Jornada 22
 [Vie. 3.1.]
   Extremadura UD           0-0  AD Alcorcón
 [Sáb. 4.1.]
+  CD Mirandés              0-0  Real Racing Santander
   CF Fuenlabrada           0-0  UD Las Palmas
   SD Ponferradina          0-0  Cádiz CF
-  CD Tenerife              4-2  Albacete Balompié
   CD Lugo                  0-4  UD Almería
-  CD Mirandés              0-0  Real Racing Santander
+  CD Tenerife              4-2  Albacete Balompié
   Elche CF                 1-1  SD Huesca
 [Dom. 5.1.]
+  Real Oviedo              1-1  Málaga CF
   CD Numancia              0-1  RCD La Coruña
   Rayo Vallecano           1-0  Girona FC
-  Real Oviedo              1-1  Málaga CF
 [Mar. 7.1.]
   Real Zaragoza            2-0  Sporting Gijón
 
 
 Jornada 23
 [Mar. 14.1.]
-  Albacete Balompié        1-1  CF Fuenlabrada
   Sporting Gijón           1-0  Elche CF
   Málaga CF                1-0  SD Ponferradina
   UD Las Palmas            0-1  Real Zaragoza
+  Albacete Balompié        1-1  CF Fuenlabrada
 [Mié. 15.1.]
-  SD Huesca                2-1  CD Tenerife
-  AD Alcorcón              2-2  CD Numancia
-  Rayo Vallecano           1-0  CD Lugo
   Cádiz CF                 3-3  CD Mirandés
+  AD Alcorcón              2-2  CD Numancia
+  SD Huesca                2-1  CD Tenerife
+  Rayo Vallecano           1-0  CD Lugo
 [Jue. 16.1.]
-  RCD La Coruña            2-1  Real Racing Santander
   Girona FC                3-1  Extremadura UD
+  RCD La Coruña            2-1  Real Racing Santander
   UD Almería               2-0  Real Oviedo
 
 
@@ -399,14 +399,14 @@ Jornada 24
   CF Fuenlabrada           0-0  Málaga CF
 [Sáb. 18.1.]
   CD Numancia              2-0  Sporting Gijón
-  CD Lugo                  1-0  Albacete Balompié
   SD Ponferradina          1-1  Rayo Vallecano
+  CD Lugo                  1-0  Albacete Balompié
 [Dom. 19.1.]
-  Elche CF                 1-1  AD Alcorcón
   RCD La Coruña            1-0  Cádiz CF
-  Real Racing Santander    1-1  UD Las Palmas
-  Real Oviedo              1-1  SD Huesca
+  Elche CF                 1-1  AD Alcorcón
   CD Tenerife              1-0  Girona FC
+  Real Oviedo              1-1  SD Huesca
+  Real Racing Santander    1-1  UD Las Palmas
   Extremadura UD           1-2  UD Almería
 
 
@@ -414,68 +414,68 @@ Jornada 25
 [Vie. 24.1.]
   Cádiz CF                 1-0  Real Racing Santander
 [Sáb. 25.1.]
+  Real Zaragoza            1-0  CD Numancia
   Sporting Gijón           1-0  CF Fuenlabrada
   SD Huesca                2-1  CD Lugo
   UD Las Palmas            0-0  CD Tenerife
-  Real Zaragoza            1-0  CD Numancia
 [Dom. 26.1.]
-  Málaga CF                2-2  CD Mirandés
-  Albacete Balompié        0-1  RCD La Coruña
-  UD Almería               0-2  Elche CF
   AD Alcorcón              3-1  SD Ponferradina
   Rayo Vallecano           1-1  Extremadura UD
+  Málaga CF                2-2  CD Mirandés
   Girona FC                1-1  Real Oviedo
+  UD Almería               0-2  Elche CF
+  Albacete Balompié        0-1  RCD La Coruña
 
 
 Jornada 26
 [Vie. 31.1.]
   CD Tenerife              2-1  Sporting Gijón
 [Sáb. 1.2.]
-  Extremadura UD           1-0  CD Lugo
-  RCD La Coruña            2-1  UD Las Palmas
   SD Ponferradina          3-1  SD Huesca
   Elche CF                 2-0  Málaga CF
+  Extremadura UD           1-0  CD Lugo
+  RCD La Coruña            2-1  UD Las Palmas
 [Dom. 2.2.]
+  Real Racing Santander    1-1  AD Alcorcón
+  Real Oviedo              3-1  Albacete Balompié
   CF Fuenlabrada           0-1  Girona FC
   Cádiz CF                 1-1  Real Zaragoza
   CD Numancia              1-1  UD Almería
   CD Mirandés              0-0  Rayo Vallecano
-  Real Racing Santander    1-1  AD Alcorcón
-  Real Oviedo              3-1  Albacete Balompié
 
 
 Jornada 27
 [Vie. 7.2.]
   UD Almería               0-1  Real Racing Santander
 [Sáb. 8.2.]
-  Girona FC                1-0  SD Huesca
-  Extremadura UD           2-4  CD Tenerife
   UD Las Palmas            1-2  Cádiz CF
+  Extremadura UD           2-4  CD Tenerife
   Real Zaragoza            0-0  CF Fuenlabrada
+  Girona FC                1-0  SD Huesca
 [Dom. 9.2.]
   Albacete Balompié        1-1  SD Ponferradina
-  AD Alcorcón              0-1  RCD La Coruña
-  Sporting Gijón           2-2  CD Mirandés
-  Rayo Vallecano           1-1  Real Oviedo
-  CD Lugo                  2-2  Elche CF
   Málaga CF                2-1  CD Numancia
+  Rayo Vallecano           1-1  Real Oviedo
+  AD Alcorcón              0-1  RCD La Coruña
+  CD Lugo                  2-2  Elche CF
+  Sporting Gijón           2-2  CD Mirandés
 
 
 Jornada 28
 [Vie. 14.2.]
   RCD La Coruña            2-2  Girona FC
 [Sáb. 15.2.]
-  SD Huesca                3-2  UD Almería
   CD Numancia              1-1  UD Las Palmas
-  Real Oviedo              1-2  AD Alcorcón
   Elche CF                 1-2  Real Zaragoza
+  SD Huesca                3-2  UD Almería
+  Real Oviedo              1-2  AD Alcorcón
 [Dom. 16.2.]
-  CD Mirandés              1-1  Albacete Balompié
-  CF Fuenlabrada           0-1  CD Lugo
-  Cádiz CF                 0-1  Málaga CF
-  Real Racing Santander    0-2  Sporting Gijón
-  SD Ponferradina          0-0  Extremadura UD
   CD Tenerife              0-0  Rayo Vallecano
+  Real Racing Santander    0-2  Sporting Gijón
+  CF Fuenlabrada           0-1  CD Lugo
+  CD Mirandés              1-1  Albacete Balompié
+  Cádiz CF                 0-1  Málaga CF
+  SD Ponferradina          0-0  Extremadura UD
 
 
 Jornada 24
@@ -487,33 +487,33 @@ Jornada 29
 [Vie. 21.2.]
   Sporting Gijón           1-0  Cádiz CF
 [Sáb. 22.2.]
-  UD Almería               0-0  CF Fuenlabrada
   AD Alcorcón              1-1  UD Las Palmas
   CD Tenerife              1-0  Elche CF
+  UD Almería               0-0  CF Fuenlabrada
   Girona FC                2-0  SD Ponferradina
   Albacete Balompié        2-1  CD Numancia
 [Dom. 23.2.]
+  Rayo Vallecano           2-0  SD Huesca
   CD Lugo                  1-0  Real Oviedo
   Real Zaragoza            3-1  RCD La Coruña
   Málaga CF                2-0  Real Racing Santander
   Extremadura UD           3-2  CD Mirandés
-  Rayo Vallecano           2-0  SD Huesca
 
 
 Jornada 30
 [Vie. 28.2.]
   UD Las Palmas            1-1  Málaga CF
 [Sáb. 29.2.]
+  Real Racing Santander    2-2  Real Zaragoza
   SD Huesca                2-2  Extremadura UD
   SD Ponferradina          1-0  Sporting Gijón
   Cádiz CF                 2-1  UD Almería
   Albacete Balompié        1-1  Rayo Vallecano
-  Real Racing Santander    2-2  Real Zaragoza
 [Dom. 1.3.]
-  CD Mirandés              1-1  Girona FC
   RCD La Coruña            0-0  CD Lugo
-  Elche CF                 2-0  CD Numancia
+  CD Mirandés              1-1  Girona FC
   Real Oviedo              1-0  CD Tenerife
+  Elche CF                 2-0  CD Numancia
   CF Fuenlabrada           3-4  AD Alcorcón
 
 
@@ -521,17 +521,17 @@ Jornada 31
 [Vie. 6.3.]
   CD Lugo                  1-1  Cádiz CF
 [Sáb. 7.3.]
-  Girona FC                1-1  Albacete Balompié
-  Extremadura UD           1-2  Real Oviedo
-  CD Numancia              1-2  Real Racing Santander
-  SD Huesca                2-0  CF Fuenlabrada
   UD Almería               4-0  RCD La Coruña
+  Extremadura UD           1-2  Real Oviedo
+  Girona FC                1-1  Albacete Balompié
+  SD Huesca                2-0  CF Fuenlabrada
+  CD Numancia              1-2  Real Racing Santander
 [Dom. 8.3.]
+  CD Tenerife              1-0  SD Ponferradina
   Rayo Vallecano           2-3  Elche CF
   Málaga CF                0-1  Real Zaragoza
   AD Alcorcón              1-2  CD Mirandés
   Sporting Gijón           4-0  UD Las Palmas
-  CD Tenerife              1-0  SD Ponferradina
 
 
 Jornada 20
@@ -542,13 +542,13 @@ Jornada 20
 Jornada 32
 [Vie. 12.6.]
   Elche CF                 1-1  Extremadura UD
-  Málaga CF                1-3  SD Huesca
   CF Fuenlabrada           1-0  CD Tenerife
+  Málaga CF                1-3  SD Huesca
   Real Oviedo              0-0  SD Ponferradina
 [Sáb. 13.6.]
   Real Racing Santander    1-2  CD Lugo
-  UD Las Palmas            0-0  Girona FC
   Real Zaragoza            1-3  AD Alcorcón
+  UD Las Palmas            0-0  Girona FC
 [Dom. 14.6.]
   RCD La Coruña            0-0  Sporting Gijón
   CD Mirandés              2-1  CD Numancia
@@ -564,8 +564,8 @@ Jornada 33
   CD Lugo                  1-3  Real Zaragoza
   Girona FC                0-0  Real Racing Santander
 [Mié. 17.6.]
-  Extremadura UD           0-1  Albacete Balompié
   UD Almería               0-1  UD Las Palmas
+  Extremadura UD           0-1  Albacete Balompié
   Real Oviedo              2-2  RCD La Coruña
   Rayo Vallecano           1-0  CF Fuenlabrada
 [Jue. 18.6.]
@@ -584,138 +584,142 @@ Jornada 34
   Málaga CF                1-1  Extremadura UD
 [Dom. 21.6.]
   CD Mirandés              1-2  SD Ponferradina
-  Real Racing Santander    1-2  CD Tenerife
-  Cádiz CF                 1-1  AD Alcorcón
-  Albacete Balompié        2-2  SD Huesca
   CF Fuenlabrada           2-0  CD Numancia
+  Albacete Balompié        2-2  SD Huesca
+  Cádiz CF                 1-1  AD Alcorcón
+  Real Racing Santander    1-2  CD Tenerife
 [Lun. 22.6.]
   Sporting Gijón           0-1  Real Oviedo
 
 
 Jornada 35
 [Mar. 23.6.]
-  CD Lugo                  0-0  Málaga CF
   Elche CF                 0-1  RCD La Coruña
+  CD Lugo                  0-0  Málaga CF
   Extremadura UD           1-2  Real Zaragoza
 [Mié. 24.6.]
-  CD Tenerife              4-1  CD Mirandés
   Girona FC                2-0  CD Numancia
   SD Huesca                1-1  Cádiz CF
+  CD Tenerife              4-1  CD Mirandés
   SD Ponferradina          1-1  Real Racing Santander
   Albacete Balompié        0-0  UD Las Palmas
 [Jue. 25.6.]
+  Real Oviedo              0-0  CF Fuenlabrada
   Rayo Vallecano           1-1  Sporting Gijón
   UD Almería               0-1  AD Alcorcón
-  Real Oviedo              0-0  CF Fuenlabrada
 
 
 Jornada 36
 [Sáb. 27.6.]
-  RCD La Coruña            -  SD Ponferradina
-  UD Las Palmas            -  Elche CF
-  Cádiz CF                 -  CD Tenerife
-  Real Racing Santander    -  Albacete Balompié
+  Real Racing Santander    1-2  Albacete Balompié
+  Cádiz CF                 0-2  CD Tenerife
+  UD Las Palmas            1-1  Elche CF
+  RCD La Coruña            2-1  SD Ponferradina
 [Dom. 28.6.]
-  CD Mirandés              -  UD Almería
-  Sporting Gijón           -  CD Lugo
-  CD Numancia              -  Real Oviedo
-  Málaga CF                -  Girona FC
-  CF Fuenlabrada           -  Extremadura UD
+  CD Mirandés              2-2  UD Almería
+  Sporting Gijón           2-0  CD Lugo
+  CF Fuenlabrada           1-1  Extremadura UD
+  CD Numancia              1-0  Real Oviedo
+  Málaga CF                2-0  Girona FC
 [Lun. 29.6.]
-  AD Alcorcón              -  Rayo Vallecano
-  Real Zaragoza            -  SD Huesca
+  AD Alcorcón              3-2  Rayo Vallecano
+  Real Zaragoza            0-1  SD Huesca
 
 
 Jornada 37
 [Mar. 30.6.]
-  CD Tenerife              -  RCD La Coruña
-  Elche CF                 -  Cádiz CF
+  CD Tenerife              1-1  RCD La Coruña
+  Elche CF                 0-0  Cádiz CF
 [Mié. 1.7.]
-  UD Almería               -  Sporting Gijón
-  Real Oviedo              -  CD Mirandés
-  CD Lugo                  -  CD Numancia
-  Extremadura UD           -  Real Racing Santander
-  SD Ponferradina          -  CF Fuenlabrada
+  UD Almería               1-0  Sporting Gijón
+  SD Ponferradina          0-3  CF Fuenlabrada
+  Real Oviedo              1-0  CD Mirandés
+  Extremadura UD           3-1  Real Racing Santander
+  CD Lugo                  3-1  CD Numancia
 [Jue. 2.7.]
-  Albacete Balompié        -  AD Alcorcón
-  SD Huesca                -  UD Las Palmas
-  Rayo Vallecano           -  Málaga CF
+  SD Huesca                1-0  UD Las Palmas
+  Albacete Balompié        1-1  AD Alcorcón
+  Rayo Vallecano           0-0  Málaga CF
 [Vie. 3.7.]
-  Girona FC                -  Real Zaragoza
+  Girona FC                1-0  Real Zaragoza
 
 
 Jornada 38
 [Sáb. 4.7.]
-  CD Numancia              -  Extremadura UD
-  Real Racing Santander    -  Elche CF
-  UD Almería               -  CD Tenerife
-  CF Fuenlabrada           -  CD Mirandés
-  Cádiz CF                 -  Real Oviedo
+  CD Numancia              1-0  Extremadura UD
+  Real Racing Santander    1-2  Elche CF
+  UD Almería               1-2  CD Tenerife
+  CF Fuenlabrada           2-2  CD Mirandés
+  Cádiz CF                 2-0  Real Oviedo
 [Dom. 5.7.]
-  RCD La Coruña            -  SD Huesca
-  UD Las Palmas            -  SD Ponferradina
-  Málaga CF                -  Albacete Balompié
-  AD Alcorcón              -  CD Lugo
+  RCD La Coruña            2-1  SD Huesca
+  AD Alcorcón              2-2  CD Lugo
+  Málaga CF                0-0  Albacete Balompié
+  UD Las Palmas            3-0  SD Ponferradina
 [Lun. 6.7.]
-  Sporting Gijón           -  Girona FC
-  Real Zaragoza            -  Rayo Vallecano
+  Sporting Gijón           0-0  Girona FC
+  Real Zaragoza            2-4  Rayo Vallecano
 
 
 Jornada 39
+[Mar. 7.7.]
+  CD Mirandés              1-0  Elche CF
+  CF Fuenlabrada           1-0  Real Racing Santander
+  Extremadura UD           0-1  Cádiz CF
 [Mié. 8.7.]
-  CF Fuenlabrada           -  Real Racing Santander
-  CD Mirandés              -  Elche CF
-  SD Ponferradina          -  CD Lugo
-  Albacete Balompié        -  Sporting Gijón
-  Málaga CF                -  RCD La Coruña
-  Extremadura UD           -  Cádiz CF
-  SD Huesca                -  AD Alcorcón
-  Rayo Vallecano           -  CD Numancia
-  CD Tenerife              -  Real Zaragoza
-  Girona FC                -  UD Almería
-  Real Oviedo              -  UD Las Palmas
+  Málaga CF                1-0  RCD La Coruña
+  Real Oviedo              2-1  UD Las Palmas
+  SD Huesca                2-1  AD Alcorcón
+  SD Ponferradina          0-1  CD Lugo
+[Jue. 9.7.]
+  Albacete Balompié        1-1  Sporting Gijón
+  Rayo Vallecano           3-2  CD Numancia
+  Girona FC                1-0  UD Almería
+  CD Tenerife              1-1  Real Zaragoza
 
 
 Jornada 40
-[Dom. 12.7.]
-  CD Numancia              -  SD Ponferradina
-  UD Las Palmas            -  CD Mirandés
-  Elche CF                 -  Albacete Balompié
+[Sáb. 11.7.]
   Real Racing Santander    -  SD Huesca
-  Sporting Gijón           -  Málaga CF
-  AD Alcorcón              -  CD Tenerife
-  Real Zaragoza            -  Real Oviedo
+  UD Las Palmas            -  CD Mirandés
   Cádiz CF                 -  CF Fuenlabrada
-  UD Almería               -  Rayo Vallecano
+[Dom. 12.7.]
   RCD La Coruña            -  Extremadura UD
   CD Lugo                  -  Girona FC
+  Real Zaragoza            -  Real Oviedo
+  CD Numancia              -  SD Ponferradina
+[Lun. 13.7.]
+  UD Almería               -  Rayo Vallecano
+  Sporting Gijón           -  Málaga CF
+  AD Alcorcón              -  CD Tenerife
+  Elche CF                 -  Albacete Balompié
 
 
 Jornada 41
 [Mié. 15.7.]
-  Extremadura UD           -  Sporting Gijón
   Girona FC                -  Cádiz CF
-  Rayo Vallecano           -  UD Las Palmas
-  CD Mirandés              -  RCD La Coruña
-  CD Tenerife              -  CD Lugo
-  SD Ponferradina          -  UD Almería
-  Real Oviedo              -  Real Racing Santander
-  Málaga CF                -  AD Alcorcón
-  SD Huesca                -  CD Numancia
+  Extremadura UD           -  Sporting Gijón
   CF Fuenlabrada           -  Elche CF
   Albacete Balompié        -  Real Zaragoza
+  SD Huesca                -  CD Numancia
+  CD Mirandés              -  RCD La Coruña
+  Málaga CF                -  AD Alcorcón
+  SD Ponferradina          -  UD Almería
+  Real Oviedo              -  Real Racing Santander
+  CD Tenerife              -  CD Lugo
+  Rayo Vallecano           -  UD Las Palmas
 
 
 Jornada 42
 [Dom. 19.7.]
-  RCD La Coruña            -  CF Fuenlabrada
+  AD Alcorcón              -  Girona FC
   UD Almería               -  Málaga CF
   Cádiz CF                 -  Albacete Balompié
-  Real Zaragoza            -  SD Ponferradina
-  Sporting Gijón           -  SD Huesca
+  RCD La Coruña            -  CF Fuenlabrada
   Elche CF                 -  Real Oviedo
-  Real Racing Santander    -  Rayo Vallecano
-  CD Numancia              -  CD Tenerife
-  CD Lugo                  -  CD Mirandés
-  AD Alcorcón              -  Girona FC
   UD Las Palmas            -  Extremadura UD
+  CD Lugo                  -  CD Mirandés
+  CD Numancia              -  CD Tenerife
+  Real Racing Santander    -  Rayo Vallecano
+  Sporting Gijón           -  SD Huesca
+  Real Zaragoza            -  SD Ponferradina
