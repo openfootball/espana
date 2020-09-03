@@ -1,0 +1,637 @@
+= Segunda División de España 2020/21
+
+
+Jornada 1
+[Vie. 11.9.]
+  20.00  CD Leganés               -  UD Las Palmas
+[Sáb. 12.9.]
+  15.00  SD Ponferradina          -  CD Castellón
+  17.15  Sporting Gijón           -  UD Logroñés
+  20.00  RCD Espanyol             -  Albacete Balompié
+[Dom. 13.9.]
+  Real Zaragoza            -  Girona FC
+  CE Sabadell              -  UD Almería
+  11.00  Real Oviedo              -  FC Cartagena
+  15.00  RCD Mallorca             -  Rayo Vallecano
+  17.15  CF Fuenlabrada           -  CD Lugo
+  20.00  CD Tenerife              -  Málaga CF
+[Lun. 14.9.]
+  20.00  CD Mirandés              -  AD Alcorcón
+
+
+Jornada 2
+[Vie. 18.9.]
+  20.00  CD Castellón             -  Málaga CF
+[Sáb. 19.9.]
+  15.00  CD Mirandés              -  Real Oviedo
+  17.15  AD Alcorcón              -  CD Tenerife
+  20.00  Rayo Vallecano           -  CE Sabadell
+[Dom. 20.9.]
+  Girona FC                -  UD Logroñés
+  UD Almería               -  Real Zaragoza
+  11.00  CD Lugo                  -  CD Leganés
+  15.00  RCD Espanyol             -  RCD Mallorca
+  17.15  Albacete Balompié        -  SD Ponferradina
+  19.30  UD Las Palmas            -  CF Fuenlabrada
+[Lun. 21.9.]
+  20.00  FC Cartagena             -  Sporting Gijón
+
+
+Jornada 3
+[Dom. 27.9.]
+  CD Leganés               -  FC Cartagena
+  CD Lugo                  -  UD Almería
+  CD Tenerife              -  CD Mirandés
+  Málaga CF                -  AD Alcorcón
+  CF Fuenlabrada           -  Albacete Balompié
+  RCD Mallorca             -  CE Sabadell
+  Real Oviedo              -  RCD Espanyol
+  Real Zaragoza            -  UD Las Palmas
+  SD Ponferradina          -  Rayo Vallecano
+  Sporting Gijón           -  Girona FC
+  UD Logroñés              -  CD Castellón
+
+
+Jornada 4
+[Dom. 4.10.]
+  AD Alcorcón              -  Real Zaragoza
+  Albacete Balompié        -  Real Oviedo
+  CD Castellón             -  CD Leganés
+  CD Mirandés              -  SD Ponferradina
+  FC Cartagena             -  CD Lugo
+  Girona FC                -  CF Fuenlabrada
+  Rayo Vallecano           -  Málaga CF
+  RCD Mallorca             -  CD Tenerife
+  CE Sabadell              -  RCD Espanyol
+  UD Almería               -  Sporting Gijón
+  UD Las Palmas            -  UD Logroñés
+
+
+Jornada 5
+[Dom. 11.10.]
+  CD Leganés               -  Girona FC
+  CD Lugo                  -  RCD Mallorca
+  CD Tenerife              -  Rayo Vallecano
+  RCD Espanyol             -  AD Alcorcón
+  Málaga CF                -  UD Las Palmas
+  CF Fuenlabrada           -  CD Castellón
+  Real Oviedo              -  Sporting Gijón
+  Real Zaragoza            -  Albacete Balompié
+  CE Sabadell              -  CD Mirandés
+  SD Ponferradina          -  FC Cartagena
+  UD Logroñés              -  UD Almería
+
+
+Jornada 6
+[Dom. 18.10.]
+  AD Alcorcón              -  SD Ponferradina
+  Albacete Balompié        -  CE Sabadell
+  CD Castellón             -  CD Lugo
+  CD Mirandés              -  RCD Mallorca
+  FC Cartagena             -  CF Fuenlabrada
+  Girona FC                -  Real Oviedo
+  Rayo Vallecano           -  RCD Espanyol
+  Real Zaragoza            -  Málaga CF
+  Sporting Gijón           -  CD Tenerife
+  UD Las Palmas            -  UD Almería
+  UD Logroñés              -  CD Leganés
+
+
+Jornada 7
+[Mié. 21.10.]
+  CD Leganés               -  Real Zaragoza
+  CD Lugo                  -  Girona FC
+  RCD Espanyol             -  CD Mirandés
+  Málaga CF                -  Sporting Gijón
+  CF Fuenlabrada           -  UD Logroñés
+  RCD Mallorca             -  Albacete Balompié
+  Real Oviedo              -  Rayo Vallecano
+  CE Sabadell              -  AD Alcorcón
+  SD Ponferradina          -  CD Tenerife
+  UD Almería               -  FC Cartagena
+  UD Las Palmas            -  CD Castellón
+
+
+Jornada 8
+[Dom. 25.10.]
+  AD Alcorcón              -  RCD Mallorca
+  Albacete Balompié        -  Rayo Vallecano
+  CD Castellón             -  Girona FC
+  CD Leganés               -  Real Oviedo
+  CD Tenerife              -  RCD Espanyol
+  FC Cartagena             -  UD Las Palmas
+  Málaga CF                -  CD Mirandés
+  Real Zaragoza            -  CE Sabadell
+  Sporting Gijón           -  SD Ponferradina
+  UD Almería               -  CF Fuenlabrada
+  UD Logroñés              -  CD Lugo
+
+
+Jornada 9
+[Mié. 28.10.]
+  AD Alcorcón              -  Sporting Gijón
+  Albacete Balompié        -  UD Las Palmas
+  CD Castellón             -  UD Almería
+  CD Mirandés              -  Real Zaragoza
+  CD Tenerife              -  CD Lugo
+  RCD Espanyol             -  SD Ponferradina
+  Girona FC                -  FC Cartagena
+  Rayo Vallecano           -  CF Fuenlabrada
+  RCD Mallorca             -  Málaga CF
+  Real Oviedo              -  UD Logroñés
+  CE Sabadell              -  CD Leganés
+
+
+Jornada 10
+[Dom. 1.11.]
+  CD Leganés               -  CD Mirandés
+  CD Lugo                  -  Rayo Vallecano
+  FC Cartagena             -  Albacete Balompié
+  Málaga CF                -  RCD Espanyol
+  CF Fuenlabrada           -  CD Tenerife
+  Real Zaragoza            -  RCD Mallorca
+  SD Ponferradina          -  CE Sabadell
+  Sporting Gijón           -  CD Castellón
+  UD Almería               -  Girona FC
+  UD Las Palmas            -  Real Oviedo
+  UD Logroñés              -  AD Alcorcón
+
+
+Jornada 11
+[Dom. 8.11.]
+  AD Alcorcón              -  CF Fuenlabrada
+  Albacete Balompié        -  CD Leganés
+  CD Mirandés              -  Sporting Gijón
+  CD Tenerife              -  Real Zaragoza
+  RCD Espanyol             -  CD Lugo
+  FC Cartagena             -  UD Logroñés
+  Girona FC                -  UD Las Palmas
+  Rayo Vallecano           -  UD Almería
+  RCD Mallorca             -  SD Ponferradina
+  Real Oviedo              -  CD Castellón
+  CE Sabadell              -  Málaga CF
+
+
+Jornada 12
+[Dom. 15.11.]
+  CD Castellón             -  FC Cartagena
+  CD Leganés               -  AD Alcorcón
+  CD Lugo                  -  Albacete Balompié
+  Girona FC                -  RCD Mallorca
+  CF Fuenlabrada           -  RCD Espanyol
+  Real Zaragoza            -  Real Oviedo
+  SD Ponferradina          -  Málaga CF
+  Sporting Gijón           -  Rayo Vallecano
+  UD Almería               -  CD Mirandés
+  UD Las Palmas            -  CD Tenerife
+  UD Logroñés              -  CE Sabadell
+
+
+Jornada 13
+[Dom. 22.11.]
+  AD Alcorcón              -  CD Lugo
+  Albacete Balompié        -  UD Almería
+  CD Mirandés              -  FC Cartagena
+  CD Tenerife              -  UD Logroñés
+  RCD Espanyol             -  Girona FC
+  Málaga CF                -  CD Leganés
+  Rayo Vallecano           -  CD Castellón
+  RCD Mallorca             -  Sporting Gijón
+  Real Oviedo              -  CF Fuenlabrada
+  CE Sabadell              -  UD Las Palmas
+  SD Ponferradina          -  Real Zaragoza
+
+
+Jornada 14
+[Mié. 25.11.]
+  CD Castellón             -  AD Alcorcón
+  CD Leganés               -  RCD Espanyol
+  CD Lugo                  -  Real Oviedo
+  FC Cartagena             -  RCD Mallorca
+  Girona FC                -  Málaga CF
+  CF Fuenlabrada           -  SD Ponferradina
+  Real Zaragoza            -  Rayo Vallecano
+  Sporting Gijón           -  CE Sabadell
+  UD Almería               -  CD Tenerife
+  UD Las Palmas            -  CD Mirandés
+  UD Logroñés              -  Albacete Balompié
+
+
+Jornada 15
+[Dom. 29.11.]
+  AD Alcorcón              -  Girona FC
+  Albacete Balompié        -  CD Tenerife
+  CD Mirandés              -  CD Castellón
+  RCD Espanyol             -  Real Zaragoza
+  Málaga CF                -  CD Lugo
+  Rayo Vallecano           -  FC Cartagena
+  RCD Mallorca             -  UD Logroñés
+  Real Oviedo              -  UD Almería
+  CE Sabadell              -  CF Fuenlabrada
+  SD Ponferradina          -  CD Leganés
+  UD Las Palmas            -  Sporting Gijón
+
+
+Jornada 16
+[Mié. 2.12.]
+  CD Castellón             -  Real Zaragoza
+  CD Leganés               -  Rayo Vallecano
+  CD Lugo                  -  UD Las Palmas
+  CD Tenerife              -  CE Sabadell
+  FC Cartagena             -  RCD Espanyol
+  Girona FC                -  CD Mirandés
+  CF Fuenlabrada           -  Málaga CF
+  Real Oviedo              -  AD Alcorcón
+  Sporting Gijón           -  Albacete Balompié
+  UD Almería               -  RCD Mallorca
+  UD Logroñés              -  SD Ponferradina
+
+
+Jornada 17
+[Dom. 6.12.]
+  AD Alcorcón              -  UD Almería
+  Albacete Balompié        -  Girona FC
+  CD Mirandés              -  CD Lugo
+  CD Tenerife              -  CD Leganés
+  RCD Espanyol             -  Sporting Gijón
+  Málaga CF                -  FC Cartagena
+  Rayo Vallecano           -  UD Logroñés
+  RCD Mallorca             -  CD Castellón
+  Real Zaragoza            -  CF Fuenlabrada
+  CE Sabadell              -  Real Oviedo
+  SD Ponferradina          -  UD Las Palmas
+
+
+Jornada 18
+[Dom. 13.12.]
+  CD Castellón             -  Albacete Balompié
+  CD Leganés               -  RCD Mallorca
+  CD Lugo                  -  SD Ponferradina
+  FC Cartagena             -  CE Sabadell
+  Girona FC                -  Rayo Vallecano
+  CF Fuenlabrada           -  CD Mirandés
+  Real Oviedo              -  CD Tenerife
+  Sporting Gijón           -  Real Zaragoza
+  UD Almería               -  Málaga CF
+  UD Las Palmas            -  AD Alcorcón
+  UD Logroñés              -  RCD Espanyol
+
+
+Jornada 19
+[Dom. 20.12.]
+  AD Alcorcón              -  FC Cartagena
+  CD Mirandés              -  Albacete Balompié
+  CD Tenerife              -  Girona FC
+  RCD Espanyol             -  UD Almería
+  Málaga CF                -  UD Logroñés
+  Rayo Vallecano           -  UD Las Palmas
+  RCD Mallorca             -  CF Fuenlabrada
+  Real Zaragoza            -  CD Lugo
+  CE Sabadell              -  CD Castellón
+  SD Ponferradina          -  Real Oviedo
+  Sporting Gijón           -  CD Leganés
+
+
+Jornada 20
+[Dom. 3.1.]
+  Albacete Balompié        -  Málaga CF
+  CD Castellón             -  CD Tenerife
+  CD Lugo                  -  Sporting Gijón
+  FC Cartagena             -  Real Zaragoza
+  Girona FC                -  CE Sabadell
+  CF Fuenlabrada           -  CD Leganés
+  Rayo Vallecano           -  AD Alcorcón
+  Real Oviedo              -  RCD Mallorca
+  UD Almería               -  SD Ponferradina
+  UD Las Palmas            -  RCD Espanyol
+  UD Logroñés              -  CD Mirandés
+
+
+Jornada 21
+[Dom. 10.1.]
+  AD Alcorcón              -  Albacete Balompié
+  CD Leganés               -  UD Almería
+  CD Mirandés              -  Rayo Vallecano
+  CD Tenerife              -  FC Cartagena
+  RCD Espanyol             -  CD Castellón
+  Málaga CF                -  Real Oviedo
+  RCD Mallorca             -  UD Las Palmas
+  Real Zaragoza            -  UD Logroñés
+  CE Sabadell              -  CD Lugo
+  SD Ponferradina          -  Girona FC
+  Sporting Gijón           -  CF Fuenlabrada
+
+
+Jornada 22
+[Dom. 24.1.]
+  Albacete Balompié        -  Real Zaragoza
+  CD Castellón             -  Sporting Gijón
+  CD Lugo                  -  CD Tenerife
+  FC Cartagena             -  CD Mirandés
+  Girona FC                -  RCD Espanyol
+  Málaga CF                -  SD Ponferradina
+  CF Fuenlabrada           -  AD Alcorcón
+  Rayo Vallecano           -  RCD Mallorca
+  UD Almería               -  CE Sabadell
+  UD Las Palmas            -  CD Leganés
+  UD Logroñés              -  Real Oviedo
+
+
+Jornada 23
+[Dom. 31.1.]
+  AD Alcorcón              -  Málaga CF
+  CD Leganés               -  CD Lugo
+  CD Mirandés              -  UD Las Palmas
+  CD Tenerife              -  CF Fuenlabrada
+  RCD Espanyol             -  Rayo Vallecano
+  RCD Mallorca             -  Girona FC
+  Real Oviedo              -  Albacete Balompié
+  Real Zaragoza            -  SD Ponferradina
+  CE Sabadell              -  UD Logroñés
+  Sporting Gijón           -  FC Cartagena
+  UD Almería               -  CD Castellón
+
+
+Jornada 24
+[Dom. 7.2.]
+  Albacete Balompié        -  RCD Mallorca
+  CD Castellón             -  CD Mirandés
+  CD Lugo                  -  RCD Espanyol
+  FC Cartagena             -  Real Oviedo
+  Girona FC                -  CD Leganés
+  Málaga CF                -  Real Zaragoza
+  CF Fuenlabrada           -  UD Almería
+  Rayo Vallecano           -  CD Tenerife
+  SD Ponferradina          -  AD Alcorcón
+  UD Las Palmas            -  CE Sabadell
+  UD Logroñés              -  Sporting Gijón
+
+
+Jornada 25
+[Dom. 14.2.]
+  AD Alcorcón              -  UD Logroñés
+  CD Castellón             -  CF Fuenlabrada
+  CD Leganés               -  Albacete Balompié
+  CD Mirandés              -  Girona FC
+  CD Tenerife              -  SD Ponferradina
+  FC Cartagena             -  Rayo Vallecano
+  RCD Mallorca             -  RCD Espanyol
+  Real Oviedo              -  CD Lugo
+  CE Sabadell              -  Real Zaragoza
+  Sporting Gijón           -  Málaga CF
+  UD Almería               -  UD Las Palmas
+
+
+Jornada 26
+[Dom. 21.2.]
+  Albacete Balompié        -  Sporting Gijón
+  CD Leganés               -  CD Tenerife
+  CD Lugo                  -  UD Logroñés
+  RCD Espanyol             -  CE Sabadell
+  Girona FC                -  CD Castellón
+  Málaga CF                -  Rayo Vallecano
+  CF Fuenlabrada           -  Real Oviedo
+  RCD Mallorca             -  UD Almería
+  Real Zaragoza            -  AD Alcorcón
+  SD Ponferradina          -  CD Mirandés
+  UD Las Palmas            -  FC Cartagena
+
+
+Jornada 27
+[Dom. 28.2.]
+  CD Castellón             -  UD Las Palmas
+  CD Mirandés              -  Málaga CF
+  CD Tenerife              -  AD Alcorcón
+  FC Cartagena             -  CD Leganés
+  CF Fuenlabrada           -  Girona FC
+  Rayo Vallecano           -  SD Ponferradina
+  Real Oviedo              -  Real Zaragoza
+  CE Sabadell              -  Albacete Balompié
+  Sporting Gijón           -  RCD Espanyol
+  UD Almería               -  CD Lugo
+  UD Logroñés              -  RCD Mallorca
+
+
+Jornada 28
+[Dom. 7.3.]
+  AD Alcorcón              -  CD Mirandés
+  Albacete Balompié        -  UD Logroñés
+  CD Leganés               -  CD Castellón
+  CD Lugo                  -  CF Fuenlabrada
+  RCD Espanyol             -  Real Oviedo
+  Girona FC                -  UD Almería
+  Málaga CF                -  CE Sabadell
+  RCD Mallorca             -  FC Cartagena
+  Real Zaragoza            -  CD Tenerife
+  SD Ponferradina          -  Sporting Gijón
+  UD Las Palmas            -  Rayo Vallecano
+
+
+Jornada 29
+[Dom. 14.3.]
+  CD Castellón             -  CE Sabadell
+  CD Mirandés              -  RCD Espanyol
+  CD Tenerife              -  Albacete Balompié
+  FC Cartagena             -  SD Ponferradina
+  Girona FC                -  CD Lugo
+  CF Fuenlabrada           -  UD Las Palmas
+  Rayo Vallecano           -  Real Zaragoza
+  Real Oviedo              -  CD Leganés
+  Sporting Gijón           -  RCD Mallorca
+  UD Almería               -  AD Alcorcón
+  UD Logroñés              -  Málaga CF
+
+
+Jornada 30
+[Dom. 21.3.]
+  AD Alcorcón              -  Rayo Vallecano
+  Albacete Balompié        -  FC Cartagena
+  CD Leganés               -  CF Fuenlabrada
+  CD Lugo                  -  CD Castellón
+  RCD Espanyol             -  UD Logroñés
+  Málaga CF                -  CD Tenerife
+  RCD Mallorca             -  Real Oviedo
+  Real Zaragoza            -  CD Mirandés
+  CE Sabadell              -  Sporting Gijón
+  SD Ponferradina          -  UD Almería
+  UD Las Palmas            -  Girona FC
+
+
+Jornada 31
+[Dom. 28.3.]
+  CD Castellón             -  RCD Espanyol
+  CD Lugo                  -  CE Sabadell
+  CD Tenerife              -  UD Las Palmas
+  FC Cartagena             -  Málaga CF
+  Girona FC                -  Albacete Balompié
+  CF Fuenlabrada           -  RCD Mallorca
+  Rayo Vallecano           -  CD Mirandés
+  Real Oviedo              -  SD Ponferradina
+  Sporting Gijón           -  AD Alcorcón
+  UD Almería               -  CD Leganés
+  UD Logroñés              -  Real Zaragoza
+
+
+Jornada 32
+[Mié. 31.3.]
+  AD Alcorcón              -  Real Oviedo
+  Albacete Balompié        -  CD Castellón
+  CD Mirandés              -  CD Tenerife
+  RCD Espanyol             -  CF Fuenlabrada
+  Málaga CF                -  UD Almería
+  Rayo Vallecano           -  Sporting Gijón
+  RCD Mallorca             -  CD Leganés
+  Real Zaragoza            -  FC Cartagena
+  CE Sabadell              -  Girona FC
+  SD Ponferradina          -  UD Logroñés
+  UD Las Palmas            -  CD Lugo
+
+
+Jornada 33
+[Dom. 4.4.]
+  Albacete Balompié        -  RCD Espanyol
+  CD Castellón             -  Real Oviedo
+  CD Leganés               -  CE Sabadell
+  CD Lugo                  -  Málaga CF
+  FC Cartagena             -  AD Alcorcón
+  Girona FC                -  SD Ponferradina
+  CF Fuenlabrada           -  Real Zaragoza
+  Sporting Gijón           -  CD Mirandés
+  UD Almería               -  Rayo Vallecano
+  UD Las Palmas            -  RCD Mallorca
+  UD Logroñés              -  CD Tenerife
+
+
+Jornada 34
+[Dom. 11.4.]
+  AD Alcorcón              -  CD Castellón
+  CD Mirandés              -  UD Logroñés
+  CD Tenerife              -  Sporting Gijón
+  RCD Espanyol             -  CD Leganés
+  Málaga CF                -  Albacete Balompié
+  Rayo Vallecano           -  Girona FC
+  RCD Mallorca             -  CD Lugo
+  Real Oviedo              -  UD Las Palmas
+  Real Zaragoza            -  UD Almería
+  CE Sabadell              -  FC Cartagena
+  SD Ponferradina          -  CF Fuenlabrada
+
+
+Jornada 35
+[Dom. 18.4.]
+  Albacete Balompié        -  CD Mirandés
+  CD Castellón             -  RCD Mallorca
+  CD Leganés               -  SD Ponferradina
+  CD Lugo                  -  AD Alcorcón
+  FC Cartagena             -  CD Tenerife
+  Girona FC                -  Real Zaragoza
+  CF Fuenlabrada           -  CE Sabadell
+  Sporting Gijón           -  Real Oviedo
+  UD Almería               -  RCD Espanyol
+  UD Las Palmas            -  Málaga CF
+  UD Logroñés              -  Rayo Vallecano
+
+
+Jornada 36
+[Dom. 25.4.]
+  AD Alcorcón              -  CD Leganés
+  CD Mirandés              -  UD Almería
+  CD Tenerife              -  CD Castellón
+  RCD Espanyol             -  UD Las Palmas
+  Málaga CF                -  CF Fuenlabrada
+  Rayo Vallecano           -  Albacete Balompié
+  Real Oviedo              -  Girona FC
+  Real Zaragoza            -  Sporting Gijón
+  CE Sabadell              -  RCD Mallorca
+  SD Ponferradina          -  CD Lugo
+  UD Logroñés              -  FC Cartagena
+
+
+Jornada 37
+[Dom. 2.5.]
+  Albacete Balompié        -  AD Alcorcón
+  CD Castellón             -  UD Logroñés
+  CD Leganés               -  Sporting Gijón
+  CD Lugo                  -  Real Zaragoza
+  RCD Espanyol             -  Málaga CF
+  Girona FC                -  CD Tenerife
+  CF Fuenlabrada           -  FC Cartagena
+  RCD Mallorca             -  CD Mirandés
+  CE Sabadell              -  Rayo Vallecano
+  UD Almería               -  Real Oviedo
+  UD Las Palmas            -  SD Ponferradina
+
+
+Jornada 38
+[Dom. 9.5.]
+  AD Alcorcón              -  UD Las Palmas
+  CD Mirandés              -  CF Fuenlabrada
+  CD Tenerife              -  UD Almería
+  FC Cartagena             -  CD Castellón
+  Málaga CF                -  RCD Mallorca
+  Rayo Vallecano           -  CD Leganés
+  Real Oviedo              -  CE Sabadell
+  Real Zaragoza            -  RCD Espanyol
+  SD Ponferradina          -  Albacete Balompié
+  Sporting Gijón           -  CD Lugo
+  UD Logroñés              -  Girona FC
+
+
+Jornada 39
+[Dom. 16.5.]
+  CD Castellón             -  SD Ponferradina
+  CD Leganés               -  UD Logroñés
+  CD Lugo                  -  CD Mirandés
+  RCD Espanyol             -  FC Cartagena
+  Girona FC                -  Sporting Gijón
+  CF Fuenlabrada           -  Rayo Vallecano
+  RCD Mallorca             -  AD Alcorcón
+  Real Oviedo              -  Málaga CF
+  CE Sabadell              -  CD Tenerife
+  UD Almería               -  Albacete Balompié
+  UD Las Palmas            -  Real Zaragoza
+
+
+Jornada 40
+[Mié. 19.5.]
+  AD Alcorcón              -  CE Sabadell
+  Albacete Balompié        -  CD Lugo
+  CD Mirandés              -  CD Leganés
+  CD Tenerife              -  RCD Mallorca
+  FC Cartagena             -  UD Almería
+  Málaga CF                -  Girona FC
+  Rayo Vallecano           -  Real Oviedo
+  Real Zaragoza            -  CD Castellón
+  SD Ponferradina          -  RCD Espanyol
+  Sporting Gijón           -  UD Las Palmas
+  UD Logroñés              -  CF Fuenlabrada
+
+
+Jornada 41
+[Dom. 23.5.]
+  CD Castellón             -  Rayo Vallecano
+  CD Leganés               -  Málaga CF
+  CD Lugo                  -  FC Cartagena
+  RCD Espanyol             -  CD Tenerife
+  Girona FC                -  AD Alcorcón
+  CF Fuenlabrada           -  Sporting Gijón
+  RCD Mallorca             -  Real Zaragoza
+  Real Oviedo              -  CD Mirandés
+  CE Sabadell              -  SD Ponferradina
+  UD Almería               -  UD Logroñés
+  UD Las Palmas            -  Albacete Balompié
+
+
+Jornada 42
+[Dom. 30.5.]
+  AD Alcorcón              -  RCD Espanyol
+  Albacete Balompié        -  CF Fuenlabrada
+  CD Mirandés              -  CE Sabadell
+  CD Tenerife              -  Real Oviedo
+  FC Cartagena             -  Girona FC
+  Málaga CF                -  CD Castellón
+  Rayo Vallecano           -  CD Lugo
+  Real Zaragoza            -  CD Leganés
+  SD Ponferradina          -  RCD Mallorca
+  Sporting Gijón           -  UD Almería
+  UD Logroñés              -  UD Las Palmas
