@@ -2,21 +2,19 @@
 
 
 Jornada 1
-[Vie. 11.9.]
-  20.00  CD Leganés               -  UD Las Palmas
 [Sáb. 12.9.]
-  15.00  SD Ponferradina          -  CD Castellón
-  17.15  Sporting Gijón           -  UD Logroñés
-  20.00  RCD Espanyol             -  Albacete Balompié
+  15.00  SD Ponferradina          1-2 (1-1)  CD Castellón
+  17.15  CD Leganés               1-0 (0-0)  UD Las Palmas
+         Sporting Gijón           1-0 (0-0)  UD Logroñés
+  20.00  RCD Espanyol             3-0 (2-0)  Albacete Balompié
 [Dom. 13.9.]
   Real Zaragoza            -  Girona FC
   CE Sabadell              -  UD Almería
-  11.00  Real Oviedo              -  FC Cartagena
-  15.00  RCD Mallorca             -  Rayo Vallecano
-  17.15  CF Fuenlabrada           -  CD Lugo
-  20.00  CD Tenerife              -  Málaga CF
-[Lun. 14.9.]
-  20.00  CD Mirandés              -  AD Alcorcón
+  11.00  Real Oviedo              0-0  FC Cartagena
+  15.00  RCD Mallorca             0-1 (0-0)  Rayo Vallecano
+  17.15  CD Mirandés              0-0  AD Alcorcón
+         CF Fuenlabrada           2-0 (0-0)  CD Lugo
+  20.00  CD Tenerife              2-0 (1-0)  Málaga CF
 
 
 Jornada 2

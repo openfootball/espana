@@ -2,27 +2,25 @@
 
 
 Jornada 1
-[Vie. 11.9.]
-  20.00  Granada CF               -  Athletic Club Bilbao
 [Sáb. 12.9.]
-  15.00  SD Eibar                 -  RC Celta Vigo
-  20.00  Cádiz CF                 -  CA Osasuna
+  15.00  SD Eibar                 0-0  RC Celta Vigo
+  17.30  Granada CF               2-0 (0-0)  Athletic Club Bilbao
+  20.00  Cádiz CF                 0-2 (0-1)  CA Osasuna
 [Dom. 13.9.]
   Real Madrid              -  Getafe CF
   FC Barcelona             -  Elche CF
-  15.00  Real Valladolid CF       -  Real Sociedad
-  17.30  Villarreal CF            -  SD Huesca
-  20.00  Valencia CF              -  Levante UD
-[Lun. 14.9.]
-  20.00  Deportivo Alavés         -  Real Betis
+  13.00  Deportivo Alavés         0-1 (0-0)  Real Betis
+  15.00  Real Valladolid CF       1-1 (1-0)  Real Sociedad
+  17.30  Villarreal CF            1-1 (0-1)  SD Huesca
+  20.00  Valencia CF              4-2 (2-2)  Levante UD
 
 
 Jornada 2
 [Vie. 18.9.]
   20.00  Getafe CF                -  CA Osasuna
 [Sáb. 19.9.]
-  15.00  RC Celta Vigo            -  Valencia CF
-  20.00  Villarreal CF            -  SD Eibar
+  15.00  Villarreal CF            -  SD Eibar
+  20.00  RC Celta Vigo            -  Valencia CF
 [Dom. 20.9.]
   15.00  SD Huesca                -  Cádiz CF
   Levante UD               -  Atlético Madrid
