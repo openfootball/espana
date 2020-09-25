@@ -18,36 +18,35 @@ Jornada 1
 
 
 Jornada 2
-[Vie. 18.9.]
-  20.00  CD Castellón             -  Málaga CF
 [Sáb. 19.9.]
-  15.00  CD Mirandés              -  Real Oviedo
-  17.15  AD Alcorcón              -  CD Tenerife
-  20.00  Rayo Vallecano           -  CE Sabadell
+  15.00  CD Mirandés              1-1 (0-0)  Real Oviedo
+  17.15  AD Alcorcón              2-0 (0-0)  CD Tenerife
+         CD Castellón             0-1 (0-1)  Málaga CF
+  20.00  Rayo Vallecano           2-1 (0-1)  CE Sabadell
 [Dom. 20.9.]
   Girona FC                -  UD Logroñés
   UD Almería               -  Real Zaragoza
-  11.00  CD Lugo                  -  CD Leganés
-  15.00  RCD Espanyol             -  RCD Mallorca
-  17.15  Albacete Balompié        -  SD Ponferradina
-  19.30  UD Las Palmas            -  CF Fuenlabrada
-[Lun. 21.9.]
-  20.00  FC Cartagena             -  Sporting Gijón
+  11.00  CD Lugo                  2-1 (0-1)  CD Leganés
+  15.00  RCD Espanyol             0-0  RCD Mallorca
+  17.15  Albacete Balompié        0-2 (0-1)  SD Ponferradina
+         FC Cartagena             0-1 (0-0)  Sporting Gijón
+  19.30  UD Las Palmas            3-3 (1-0)  CF Fuenlabrada
 
 
 Jornada 3
+[Sáb. 26.9.]
+  15.00  Real Zaragoza            -  UD Las Palmas
+  17.15  Málaga CF                -  AD Alcorcón
+         Sporting Gijón           -  Girona FC
+         UD Logroñés              -  CD Castellón
+  19.30  CF Fuenlabrada           -  Albacete Balompié
 [Dom. 27.9.]
-  CD Leganés               -  FC Cartagena
-  CD Lugo                  -  UD Almería
-  CD Tenerife              -  CD Mirandés
-  Málaga CF                -  AD Alcorcón
-  CF Fuenlabrada           -  Albacete Balompié
-  RCD Mallorca             -  CE Sabadell
-  Real Oviedo              -  RCD Espanyol
-  Real Zaragoza            -  UD Las Palmas
-  SD Ponferradina          -  Rayo Vallecano
-  Sporting Gijón           -  Girona FC
-  UD Logroñés              -  CD Castellón
+  11.00  CD Lugo                  -  UD Almería
+  15.00  RCD Mallorca             -  CE Sabadell
+  17.15  CD Tenerife              -  CD Mirandés
+         Real Oviedo              -  RCD Espanyol
+         SD Ponferradina          -  Rayo Vallecano
+  19.30  CD Leganés               -  FC Cartagena
 
 
 Jornada 4

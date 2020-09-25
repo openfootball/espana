@@ -16,47 +16,48 @@ Jornada 1
 
 
 Jornada 2
-[Vie. 18.9.]
-  20.00  Getafe CF                -  CA Osasuna
 [Sáb. 19.9.]
-  15.00  Villarreal CF            -  SD Eibar
-  20.00  RC Celta Vigo            -  Valencia CF
+  15.00  Villarreal CF            2-1 (0-0)  SD Eibar
+  17.30  Getafe CF                1-0 (0-0)  CA Osasuna
+  20.00  RC Celta Vigo            2-1 (1-0)  Valencia CF
 [Dom. 20.9.]
-  15.00  SD Huesca                -  Cádiz CF
   Levante UD               -  Atlético Madrid
+  17.30  Real Betis               2-0 (2-0)  Real Valladolid CF
+         Granada CF               2-1 (1-1)  Deportivo Alavés
+  15.00  SD Huesca                0-2 (0-1)  Cádiz CF
+  20.00  Real Sociedad            0-0  Real Madrid
   Sevilla FC               -  Elche CF
-  17.30  Granada CF               -  Deportivo Alavés
-  20.00  Real Sociedad            -  Real Madrid
-[Lun. 21.9.]
-  20.00  Real Betis               -  Real Valladolid CF
 
 
 Jornada 3
+[Sáb. 26.9.]
+  12.00  Deportivo Alavés         -  Getafe CF
+  15.00  Valencia CF              -  SD Huesca
+  17.30  Elche CF                 -  Real Sociedad
+  20.00  Real Betis               -  Real Madrid
 [Dom. 27.9.]
-  Atlético Madrid          -  Granada CF
-  Real Valladolid CF       -  RC Celta Vigo
-  Deportivo Alavés         -  Getafe CF
-  Real Betis               -  Real Madrid
-  Elche CF                 -  Real Sociedad
-  Valencia CF              -  SD Huesca
-  SD Eibar                 -  Athletic Club Bilbao
-  Cádiz CF                 -  Sevilla FC
-  CA Osasuna               -  Levante UD
-  FC Barcelona             -  Villarreal CF
+  11.00  CA Osasuna               -  Levante UD
+  13.00  SD Eibar                 -  Athletic Club Bilbao
+  15.00  Atlético Madrid          -  Granada CF
+  17.30  Cádiz CF                 -  Sevilla FC
+         Real Valladolid CF       -  RC Celta Vigo
+  20.00  FC Barcelona             -  Villarreal CF
 
 
 Jornada 4
+[Mar. 29.9.]
+  18.00  Real Sociedad            -  Valencia CF
+  20.30  Getafe CF                -  Real Betis
 [Mié. 30.9.]
-  Sevilla FC               -  Levante UD
-  Villarreal CF            -  Deportivo Alavés
-  Athletic Club Bilbao     -  Cádiz CF
-  RC Celta Vigo            -  FC Barcelona
-  SD Eibar                 -  Elche CF
-  Getafe CF                -  Real Betis
-  Granada CF               -  CA Osasuna
-  SD Huesca                -  Atlético Madrid
-  Real Madrid              -  Real Valladolid CF
-  Real Sociedad            -  Valencia CF
+  18.00  Villarreal CF            -  Deportivo Alavés
+         SD Huesca                -  Atlético Madrid
+  20.30  SD Eibar                 -  Elche CF
+         Real Madrid              -  Real Valladolid CF
+[Jue. 1.10.]
+  18.00  Athletic Club Bilbao     -  Cádiz CF
+         Sevilla FC               -  Levante UD
+  20.30  Granada CF               -  CA Osasuna
+         RC Celta Vigo            -  FC Barcelona
 
 
 Jornada 5
@@ -66,11 +67,11 @@ Jornada 5
   Deportivo Alavés         -  Athletic Club Bilbao
   Atlético Madrid          -  Villarreal CF
   FC Barcelona             -  Sevilla FC
-  Cádiz CF                 -  Granada CF
+  Real Valladolid CF       -  SD Eibar
   Levante UD               -  Real Madrid
   CA Osasuna               -  RC Celta Vigo
   Real Sociedad            -  Getafe CF
-  Real Valladolid CF       -  SD Eibar
+  Cádiz CF                 -  Granada CF
 
 
 Jornada 6
