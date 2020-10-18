@@ -55,8 +55,7 @@ Jornada 4
          SD Eibar                 0-1 (0-1)  Elche CF
 [Jue. 1.10.]
   18.00  Sevilla FC               1-0 (0-0)  Levante UD
-  Granada CF               -  CA Osasuna
-  18.00  Athletic Club Bilbao     0-1 (0-0)  Cádiz CF
+         Athletic Club Bilbao     0-1 (0-0)  Cádiz CF
   20.30  RC Celta Vigo            0-3 (0-1)  FC Barcelona
 
 
@@ -64,8 +63,8 @@ Jornada 5
 [Sáb. 3.10.]
   12.00  Real Valladolid CF       1-2 (1-1)  SD Eibar
   15.00  Atlético Madrid          0-0  Villarreal CF
-  17.30  Real Sociedad            3-0 (1-0)  Getafe CF
-         Elche CF                 0-0  SD Huesca
+  17.30  Elche CF                 0-0  SD Huesca
+         Real Sociedad            3-0 (1-0)  Getafe CF
   20.00  Valencia CF              0-2 (0-1)  Real Betis
 [Dom. 4.10.]
   11.00  CA Osasuna               2-0 (1-0)  RC Celta Vigo
@@ -76,171 +75,178 @@ Jornada 5
 
 
 Jornada 6
+[Sáb. 17.10.]
+  12.00  Granada CF               1-0 (0-0)  Sevilla FC
+  15.00  RC Celta Vigo            0-2 (0-1)  Atlético Madrid
+  17.30  Real Madrid              0-1 (0-1)  Cádiz CF
+  20.00  Getafe CF                1-0 (0-0)  FC Barcelona
 [Dom. 18.10.]
-  Athletic Club Bilbao     -  Levante UD
-  Villarreal CF            -  Valencia CF
-  Deportivo Alavés         -  Elche CF
-  Real Madrid              -  Cádiz CF
-  Real Betis               -  Real Sociedad
-  SD Huesca                -  Real Valladolid CF
-  SD Eibar                 -  CA Osasuna
-  Getafe CF                -  FC Barcelona
-  Granada CF               -  Sevilla FC
-  RC Celta Vigo            -  Atlético Madrid
+  11.00  SD Eibar                 0-0  CA Osasuna
+  13.00  Athletic Club Bilbao     2-0 (0-0)  Levante UD
+  15.00  Villarreal CF            2-1 (1-1)  Valencia CF
+  17.30  Deportivo Alavés         -  Elche CF
+         SD Huesca                -  Real Valladolid CF
+  20.00  Real Betis               -  Real Sociedad
 
 
 Jornada 7
+[Vie. 23.10.]
+  20.00  Elche CF                 -  Valencia CF
+[Sáb. 24.10.]
+  12.00  CA Osasuna               -  Athletic Club Bilbao
+  15.00  FC Barcelona             -  Real Madrid
+  17.30  Sevilla FC               -  SD Eibar
+  20.00  Atlético Madrid          -  Real Betis
 [Dom. 25.10.]
-  Real Valladolid CF       -  Deportivo Alavés
-  Elche CF                 -  Valencia CF
-  Atlético Madrid          -  Real Betis
-  FC Barcelona             -  Real Madrid
-  Getafe CF                -  Granada CF
-  Cádiz CF                 -  Villarreal CF
-  Levante UD               -  RC Celta Vigo
-  CA Osasuna               -  Athletic Club Bilbao
-  Real Sociedad            -  SD Huesca
-  Sevilla FC               -  SD Eibar
+  11.00  Real Valladolid CF       -  Deportivo Alavés
+  15.00  Cádiz CF                 -  Villarreal CF
+  17.30  Getafe CF                -  Granada CF
+  20.00  Real Sociedad            -  SD Huesca
+[Lun. 26.10.]
+  20.00  Levante UD               -  RC Celta Vigo
 
 
 Jornada 8
+[Vie. 30.10.]
+  20.00  SD Eibar                 -  Cádiz CF
+[Sáb. 31.10.]
+  13.00  Real Madrid              -  SD Huesca
+  15.00  Athletic Club Bilbao     -  Sevilla FC
+  17.30  CA Osasuna               -  Atlético Madrid
+  20.00  Deportivo Alavés         -  FC Barcelona
 [Dom. 1.11.]
-  Real Betis               -  Elche CF
-  Valencia CF              -  Getafe CF
-  Deportivo Alavés         -  FC Barcelona
-  Athletic Club Bilbao     -  Sevilla FC
-  Real Madrid              -  SD Huesca
-  RC Celta Vigo            -  Real Sociedad
-  SD Eibar                 -  Cádiz CF
-  Granada CF               -  Levante UD
-  CA Osasuna               -  Atlético Madrid
-  Villarreal CF            -  Real Valladolid CF
+  13.00  Real Betis               -  Elche CF
+  15.00  RC Celta Vigo            -  Real Sociedad
+  17.30  Granada CF               -  Levante UD
+  20.00  Valencia CF              -  Getafe CF
+[Lun. 2.11.]
+  20.00  Villarreal CF            -  Real Valladolid CF
 
 
 Jornada 9
 [Dom. 8.11.]
-  Elche CF                 -  RC Celta Vigo
-  Real Valladolid CF       -  Athletic Club Bilbao
-  Atlético Madrid          -  Cádiz CF
-  FC Barcelona             -  Real Betis
   Valencia CF              -  Real Madrid
+  Real Valladolid CF       -  Athletic Club Bilbao
+  Elche CF                 -  RC Celta Vigo
+  Atlético Madrid          -  Cádiz CF
+  Sevilla FC               -  CA Osasuna
+  Getafe CF                -  Villarreal CF
   SD Huesca                -  SD Eibar
   Levante UD               -  Deportivo Alavés
   Real Sociedad            -  Granada CF
-  Sevilla FC               -  CA Osasuna
-  Getafe CF                -  Villarreal CF
+  FC Barcelona             -  Real Betis
 
 
 Jornada 10
 [Dom. 22.11.]
-  Sevilla FC               -  RC Celta Vigo
   CA Osasuna               -  SD Huesca
+  Levante UD               -  Elche CF
+  Sevilla FC               -  RC Celta Vigo
   Deportivo Alavés         -  Valencia CF
   Athletic Club Bilbao     -  Real Betis
   Atlético Madrid          -  FC Barcelona
   SD Eibar                 -  Getafe CF
   Cádiz CF                 -  Real Sociedad
   Granada CF               -  Real Valladolid CF
-  Levante UD               -  Elche CF
   Villarreal CF            -  Real Madrid
 
 
 Jornada 11
 [Dom. 29.11.]
+  Real Sociedad            -  Villarreal CF
+  Elche CF                 -  Cádiz CF
   Valencia CF              -  Atlético Madrid
-  Real Valladolid CF       -  Levante UD
   FC Barcelona             -  CA Osasuna
   Real Betis               -  SD Eibar
   RC Celta Vigo            -  Granada CF
   Getafe CF                -  Athletic Club Bilbao
   SD Huesca                -  Sevilla FC
   Real Madrid              -  Deportivo Alavés
-  Real Sociedad            -  Villarreal CF
-  Elche CF                 -  Cádiz CF
+  Real Valladolid CF       -  Levante UD
 
 
 Jornada 12
 [Dom. 6.12.]
+  CA Osasuna               -  Real Betis
   Sevilla FC               -  Real Madrid
   Villarreal CF            -  Elche CF
   Deportivo Alavés         -  Real Sociedad
   Athletic Club Bilbao     -  RC Celta Vigo
-  Atlético Madrid          -  Real Valladolid CF
-  CA Osasuna               -  Real Betis
-  Cádiz CF                 -  FC Barcelona
-  Granada CF               -  SD Huesca
   Levante UD               -  Getafe CF
   SD Eibar                 -  Valencia CF
+  Cádiz CF                 -  FC Barcelona
+  Granada CF               -  SD Huesca
+  Atlético Madrid          -  Real Valladolid CF
 
 
 Jornada 13
 [Dom. 13.12.]
+  Valencia CF              -  Athletic Club Bilbao
   Real Valladolid CF       -  CA Osasuna
   Elche CF                 -  Granada CF
   FC Barcelona             -  Levante UD
-  Real Betis               -  Villarreal CF
-  Valencia CF              -  Athletic Club Bilbao
+  Real Sociedad            -  SD Eibar
+  RC Celta Vigo            -  Cádiz CF
   Getafe CF                -  Sevilla FC
   SD Huesca                -  Deportivo Alavés
   Real Madrid              -  Atlético Madrid
-  Real Sociedad            -  SD Eibar
-  RC Celta Vigo            -  Cádiz CF
+  Real Betis               -  Villarreal CF
 
 
 Jornada 14
 [Dom. 20.12.]
-  RC Celta Vigo            -  Deportivo Alavés
-  Sevilla FC               -  Real Valladolid CF
-  Athletic Club Bilbao     -  SD Huesca
-  Atlético Madrid          -  Elche CF
   Levante UD               -  Real Sociedad
   CA Osasuna               -  Villarreal CF
-  SD Eibar                 -  Real Madrid
-  Cádiz CF                 -  Getafe CF
+  Sevilla FC               -  Real Valladolid CF
+  Athletic Club Bilbao     -  SD Huesca
   Granada CF               -  Real Betis
   FC Barcelona             -  Valencia CF
+  RC Celta Vigo            -  Deportivo Alavés
+  SD Eibar                 -  Real Madrid
+  Cádiz CF                 -  Getafe CF
+  Atlético Madrid          -  Elche CF
 
 
 Jornada 15
 [Mié. 23.12.]
   Villarreal CF            -  Athletic Club Bilbao
-  Deportivo Alavés         -  SD Eibar
+  Real Valladolid CF       -  FC Barcelona
   Elche CF                 -  CA Osasuna
+  Deportivo Alavés         -  SD Eibar
   Real Betis               -  Cádiz CF
   Getafe CF                -  RC Celta Vigo
   SD Huesca                -  Levante UD
   Real Madrid              -  Granada CF
   Real Sociedad            -  Atlético Madrid
   Valencia CF              -  Sevilla FC
-  Real Valladolid CF       -  FC Barcelona
 
 
 Jornada 16
 [Mié. 30.12.]
+  Sevilla FC               -  Villarreal CF
+  CA Osasuna               -  Deportivo Alavés
   Elche CF                 -  Real Madrid
-  RC Celta Vigo            -  SD Huesca
   Athletic Club Bilbao     -  Real Sociedad
   Atlético Madrid          -  Getafe CF
   FC Barcelona             -  SD Eibar
-  CA Osasuna               -  Deportivo Alavés
+  RC Celta Vigo            -  SD Huesca
   Cádiz CF                 -  Real Valladolid CF
   Granada CF               -  Valencia CF
   Levante UD               -  Real Betis
-  Sevilla FC               -  Villarreal CF
 
 
 Jornada 17
 [Dom. 3.1.]
   Villarreal CF            -  Levante UD
   Valencia CF              -  Cádiz CF
+  Real Sociedad            -  CA Osasuna
   Deportivo Alavés         -  Atlético Madrid
   Athletic Club Bilbao     -  Elche CF
-  Real Betis               -  Sevilla FC
+  Real Madrid              -  RC Celta Vigo
   SD Eibar                 -  Granada CF
   Getafe CF                -  Real Valladolid CF
   SD Huesca                -  FC Barcelona
-  Real Madrid              -  RC Celta Vigo
-  Real Sociedad            -  CA Osasuna
+  Real Betis               -  Sevilla FC
 
 
 Jornada 2
@@ -250,7 +256,8 @@ Jornada 2
 
 Jornada 18
 [Dom. 10.1.]
-  Elche CF                 -  Getafe CF
+  Sevilla FC               -  Real Sociedad
+  Real Valladolid CF       -  Valencia CF
   Atlético Madrid          -  Athletic Club Bilbao
   RC Celta Vigo            -  Villarreal CF
   Cádiz CF                 -  Deportivo Alavés
@@ -258,13 +265,17 @@ Jornada 18
   SD Huesca                -  Real Betis
   Levante UD               -  SD Eibar
   CA Osasuna               -  Real Madrid
-  Sevilla FC               -  Real Sociedad
-  Real Valladolid CF       -  Valencia CF
+  Elche CF                 -  Getafe CF
 
 
 Jornada 1
 [Mar. 12.1.]
   Atlético Madrid          -  Sevilla FC
+
+
+Jornada 4
+[Mar. 12.1.]
+  Granada CF               -  CA Osasuna
 
 
 Jornada 19
@@ -273,12 +284,12 @@ Jornada 19
   Real Betis               -  RC Celta Vigo
   SD Eibar                 -  Atlético Madrid
   Getafe CF                -  SD Huesca
-  Real Madrid              -  Athletic Club Bilbao
+  Cádiz CF                 -  Levante UD
   Valencia CF              -  CA Osasuna
   Real Valladolid CF       -  Elche CF
   Villarreal CF            -  Granada CF
   FC Barcelona             -  Real Sociedad
-  Cádiz CF                 -  Levante UD
+  Real Madrid              -  Athletic Club Bilbao
 
 
 Jornada 20

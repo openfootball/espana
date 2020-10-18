@@ -51,7 +51,7 @@ Jornada 3
 
 Jornada 4
 [Sáb. 3.10.]
-  15.00  AD Alcorcón              0-0  Real Zaragoza
+  15.00  AD Alcorcón              0-3 (0-0)  Real Zaragoza
          CD Mirandés              0-1 (0-0)  SD Ponferradina
   17.15  Albacete Balompié        1-1 (0-1)  Real Oviedo
          RCD Mallorca             2-0 (1-0)  CD Tenerife
@@ -67,64 +67,66 @@ Jornada 4
 
 Jornada 5
 [Sáb. 10.10.]
-  12.00  CE Sabadell              -  CD Mirandés
-  15.00  RCD Espanyol             -  AD Alcorcón
-         UD Logroñés              -  UD Almería
-  17.30  CD Tenerife              -  Rayo Vallecano
+  12.00  CE Sabadell              0-2 (0-0)  CD Mirandés
+  15.00  RCD Espanyol             1-0 (0-0)  AD Alcorcón
+         UD Logroñés              1-0 (0-0)  UD Almería
+  17.30  CD Tenerife              1-0 (0-0)  Rayo Vallecano
 [Dom. 11.10.]
-  11.00  CF Fuenlabrada           -  CD Castellón
-  15.00  Málaga CF                -  UD Las Palmas
-  17.30  SD Ponferradina          -  FC Cartagena
-  20.00  Real Oviedo              -  Sporting Gijón
-[Lun. 12.10.]
-  15.00  CD Lugo                  -  RCD Mallorca
-  17.30  CD Leganés               -  Girona FC
-  20.00  Real Zaragoza            -  Albacete Balompié
+  11.00  CD Lugo                  0-1 (0-0)  RCD Mallorca
+         CF Fuenlabrada           1-1 (1-0)  CD Castellón
+  15.00  CD Leganés               0-1 (0-1)  Girona FC
+         Málaga CF                0-0  UD Las Palmas
+  17.00  Real Zaragoza            1-0 (0-0)  Albacete Balompié
+  17.30  SD Ponferradina          0-2 (0-0)  FC Cartagena
+  20.00  Real Oviedo              1-0 (1-0)  Sporting Gijón
 
 
 Jornada 6
+[Sáb. 17.10.]
+  15.00  Albacete Balompié        3-0 (1-0)  CE Sabadell
+  17.15  FC Cartagena             1-1 (0-0)  CF Fuenlabrada
+         UD Las Palmas            2-0 (1-0)  UD Almería
+  19.30  CD Castellón             0-1 (0-0)  CD Lugo
+         UD Logroñés              0-1 (0-1)  CD Leganés
 [Dom. 18.10.]
   AD Alcorcón              -  SD Ponferradina
-  Albacete Balompié        -  CE Sabadell
-  CD Castellón             -  CD Lugo
-  CD Mirandés              -  RCD Mallorca
-  FC Cartagena             -  CF Fuenlabrada
-  Girona FC                -  Real Oviedo
-  Rayo Vallecano           -  RCD Espanyol
-  Real Zaragoza            -  Málaga CF
-  Sporting Gijón           -  CD Tenerife
-  UD Las Palmas            -  UD Almería
-  UD Logroñés              -  CD Leganés
+  15.00  Rayo Vallecano           1-0 (0-0)  RCD Espanyol
+  17.15  CD Mirandés              -  RCD Mallorca
+         Real Zaragoza            -  Málaga CF
+  19.30  Girona FC                -  Real Oviedo
+  20.00  Sporting Gijón           -  CD Tenerife
 
 
 Jornada 7
 [Mié. 21.10.]
-  CD Leganés               -  Real Zaragoza
-  CD Lugo                  -  Girona FC
-  RCD Espanyol             -  CD Mirandés
-  Málaga CF                -  Sporting Gijón
-  CF Fuenlabrada           -  UD Logroñés
-  RCD Mallorca             -  Albacete Balompié
-  Real Oviedo              -  Rayo Vallecano
-  CE Sabadell              -  AD Alcorcón
-  SD Ponferradina          -  CD Tenerife
-  UD Almería               -  FC Cartagena
-  UD Las Palmas            -  CD Castellón
+  15.30  RCD Espanyol             -  CD Mirandés
+  18.00  CD Lugo                  -  Girona FC
+         SD Ponferradina          -  CD Tenerife
+         UD Las Palmas            -  CD Castellón
+  20.30  CF Fuenlabrada           -  UD Logroñés
+         CE Sabadell              -  AD Alcorcón
+         UD Almería               -  FC Cartagena
+[Jue. 22.10.]
+  15.30  CD Leganés               -  Real Zaragoza
+  18.00  RCD Mallorca             -  Albacete Balompié
+         Real Oviedo              -  Rayo Vallecano
+  20.30  Málaga CF                -  Sporting Gijón
 
 
 Jornada 8
+[Sáb. 24.10.]
+  17.15  FC Cartagena             -  UD Las Palmas
+         UD Logroñés              -  CD Lugo
+  19.30  CD Castellón             -  Girona FC
+         UD Almería               -  CF Fuenlabrada
 [Dom. 25.10.]
-  AD Alcorcón              -  RCD Mallorca
-  Albacete Balompié        -  Rayo Vallecano
-  CD Castellón             -  Girona FC
-  CD Leganés               -  Real Oviedo
-  CD Tenerife              -  RCD Espanyol
-  FC Cartagena             -  UD Las Palmas
-  Málaga CF                -  CD Mirandés
-  Real Zaragoza            -  CE Sabadell
-  Sporting Gijón           -  SD Ponferradina
-  UD Almería               -  CF Fuenlabrada
-  UD Logroñés              -  CD Lugo
+  13.00  AD Alcorcón              -  RCD Mallorca
+  15.00  Sporting Gijón           -  SD Ponferradina
+  17.15  CD Leganés               -  Real Oviedo
+         CD Tenerife              -  RCD Espanyol
+  19.30  Albacete Balompié        -  Rayo Vallecano
+         Málaga CF                -  CD Mirandés
+  20.00  Real Zaragoza            -  CE Sabadell
 
 
 Jornada 9
