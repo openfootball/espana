@@ -84,22 +84,22 @@ Jornada 6
   11.00  SD Eibar                 0-0  CA Osasuna
   13.00  Athletic Club Bilbao     2-0 (0-0)  Levante UD
   15.00  Villarreal CF            2-1 (1-1)  Valencia CF
-  17.30  Deportivo Alavés         -  Elche CF
-         SD Huesca                -  Real Valladolid CF
-  20.00  Real Betis               -  Real Sociedad
+  17.30  Deportivo Alavés         0-2 (0-1)  Elche CF
+         SD Huesca                2-2 (0-1)  Real Valladolid CF
+  20.00  Real Betis               0-3 (0-1)  Real Sociedad
 
 
 Jornada 7
 [Vie. 23.10.]
-  20.00  Elche CF                 -  Valencia CF
+  20.00  Elche CF                 2-1 (2-0)  Valencia CF
 [Sáb. 24.10.]
-  12.00  CA Osasuna               -  Athletic Club Bilbao
-  15.00  FC Barcelona             -  Real Madrid
-  17.30  Sevilla FC               -  SD Eibar
-  20.00  Atlético Madrid          -  Real Betis
+  15.00  FC Barcelona             1-3 (1-1)  Real Madrid
+  17.30  Sevilla FC               0-1 (0-1)  SD Eibar
+         CA Osasuna               1-0 (0-0)  Athletic Club Bilbao
+  20.00  Atlético Madrid          2-0 (0-0)  Real Betis
 [Dom. 25.10.]
-  11.00  Real Valladolid CF       -  Deportivo Alavés
-  15.00  Cádiz CF                 -  Villarreal CF
+  13.00  Real Valladolid CF       0-2 (0-0)  Deportivo Alavés
+  15.00  Cádiz CF                 0-0  Villarreal CF
   17.30  Getafe CF                -  Granada CF
   20.00  Real Sociedad            -  SD Huesca
 [Lun. 26.10.]
