@@ -100,10 +100,10 @@ Jornada 7
 [Dom. 25.10.]
   13.00  Real Valladolid CF       0-2 (0-0)  Deportivo Alavés
   15.00  Cádiz CF                 0-0  Villarreal CF
-  17.30  Getafe CF                -  Granada CF
-  20.00  Real Sociedad            -  SD Huesca
+  17.30  Getafe CF                0-1 (0-1)  Granada CF
+  20.00  Real Sociedad            4-1 (1-0)  SD Huesca
 [Lun. 26.10.]
-  20.00  Levante UD               -  RC Celta Vigo
+  20.00  Levante UD               1-1 (0-0)  RC Celta Vigo
 
 
 Jornada 8
@@ -124,17 +124,19 @@ Jornada 8
 
 
 Jornada 9
+[Vie. 6.11.]
+  20.00  Elche CF                 -  RC Celta Vigo
+[Sáb. 7.11.]
+  13.00  SD Huesca                -  SD Eibar
+  15.15  FC Barcelona             -  Real Betis
+  17.30  Sevilla FC               -  CA Osasuna
+  20.00  Atlético Madrid          -  Cádiz CF
 [Dom. 8.11.]
-  Valencia CF              -  Real Madrid
-  Real Valladolid CF       -  Athletic Club Bilbao
-  Elche CF                 -  RC Celta Vigo
-  Atlético Madrid          -  Cádiz CF
-  Sevilla FC               -  CA Osasuna
-  Getafe CF                -  Villarreal CF
-  SD Huesca                -  SD Eibar
-  Levante UD               -  Deportivo Alavés
-  Real Sociedad            -  Granada CF
-  FC Barcelona             -  Real Betis
+  13.00  Getafe CF                -  Villarreal CF
+  15.15  Real Sociedad            -  Granada CF
+  17.30  Levante UD               -  Deportivo Alavés
+         Real Valladolid CF       -  Athletic Club Bilbao
+  20.00  Valencia CF              -  Real Madrid
 
 
 Jornada 10
@@ -144,11 +146,11 @@ Jornada 10
   Sevilla FC               -  RC Celta Vigo
   Deportivo Alavés         -  Valencia CF
   Athletic Club Bilbao     -  Real Betis
-  Atlético Madrid          -  FC Barcelona
+  Villarreal CF            -  Real Madrid
   SD Eibar                 -  Getafe CF
   Cádiz CF                 -  Real Sociedad
   Granada CF               -  Real Valladolid CF
-  Villarreal CF            -  Real Madrid
+  Atlético Madrid          -  FC Barcelona
 
 
 Jornada 11
