@@ -131,30 +131,30 @@ Jornada 9
 [Mar. 27.10.]
   18.00  Girona FC                2-1 (1-1)  FC Cartagena
 [Mié. 28.10.]
-  18.00  RCD Espanyol             -  SD Ponferradina
-         Albacete Balompié        -  UD Las Palmas
-         CD Castellón             -  UD Almería
-  20.30  Real Oviedo              -  UD Logroñés
+  18.00  RCD Espanyol             2-0 (1-0)  SD Ponferradina
+         Albacete Balompié        1-1 (1-0)  UD Las Palmas
+         CD Castellón             1-2 (0-1)  UD Almería
+  20.30  Real Oviedo              2-3 (1-0)  UD Logroñés
 [Jue. 29.10.]
-  15.30  AD Alcorcón              -  Sporting Gijón
-  18.00  CD Tenerife              -  CD Lugo
-         CD Mirandés              -  Real Zaragoza
-         RCD Mallorca             -  Málaga CF
-  20.30  CE Sabadell              -  CD Leganés
-         Rayo Vallecano           -  CF Fuenlabrada
+  15.30  AD Alcorcón              1-2 (0-0)  Sporting Gijón
+  18.00  CD Tenerife              1-1 (1-0)  CD Lugo
+         CD Mirandés              1-0 (0-0)  Real Zaragoza
+         RCD Mallorca             3-1 (1-0)  Málaga CF
+  20.30  CE Sabadell              1-0 (0-0)  CD Leganés
+         Rayo Vallecano           2-0 (0-0)  CF Fuenlabrada
 
 
 Jornada 10
 [Sáb. 31.10.]
-  15.00  FC Cartagena             -  Albacete Balompié
-  17.15  UD Las Palmas            -  Real Oviedo
+  15.00  FC Cartagena             3-1 (3-0)  Albacete Balompié
+  17.15  UD Las Palmas            1-2 (0-2)  Real Oviedo
 [Dom. 1.11.]
-  13.00  CD Leganés               -  CD Mirandés
-  15.00  Real Zaragoza            -  RCD Mallorca
-  17.15  CF Fuenlabrada           -  CD Tenerife
-         SD Ponferradina          -  CE Sabadell
-  19.30  CD Lugo                  -  Rayo Vallecano
-  20.00  UD Almería               -  Girona FC
+  13.00  CD Leganés               1-0 (0-0)  CD Mirandés
+  15.00  Real Zaragoza            0-0  RCD Mallorca
+  17.15  CF Fuenlabrada           1-1 (1-0)  CD Tenerife
+         SD Ponferradina          0-3 (0-1)  CE Sabadell
+  19.30  CD Lugo                  1-0 (1-0)  Rayo Vallecano
+  20.00  UD Almería               0-0  Girona FC
 [Lun. 2.11.]
   15.00  UD Logroñés              -  AD Alcorcón
   17.15  Sporting Gijón           -  CD Castellón
@@ -192,18 +192,21 @@ Jornada 11
 
 
 Jornada 12
+[Vie. 13.11.]
+  20.00  Real Zaragoza            -  Real Oviedo
+[Sáb. 14.11.]
+  13.00  CF Fuenlabrada           -  RCD Espanyol
+  15.15  UD Almería               -  CD Mirandés
+  17.30  CD Lugo                  -  Albacete Balompié
+         Girona FC                -  RCD Mallorca
 [Dom. 15.11.]
-  CD Castellón             -  FC Cartagena
-  CD Leganés               -  AD Alcorcón
-  CD Lugo                  -  Albacete Balompié
-  Girona FC                -  RCD Mallorca
-  CF Fuenlabrada           -  RCD Espanyol
-  Real Zaragoza            -  Real Oviedo
-  SD Ponferradina          -  Málaga CF
-  Sporting Gijón           -  Rayo Vallecano
-  UD Almería               -  CD Mirandés
-  UD Las Palmas            -  CD Tenerife
-  UD Logroñés              -  CE Sabadell
+  13.00  CD Leganés               -  AD Alcorcón
+  15.15  SD Ponferradina          -  Málaga CF
+  17.30  CD Castellón             -  FC Cartagena
+         UD Logroñés              -  CE Sabadell
+  20.00  UD Las Palmas            -  CD Tenerife
+[Lun. 16.11.]
+  20.00  Sporting Gijón           -  Rayo Vallecano
 
 
 Jornada 13
