@@ -120,23 +120,23 @@ Jornada 8
   17.30  Granada CF               1-1 (1-1)  Levante UD
   20.00  Valencia CF              2-2 (1-0)  Getafe CF
 [Lun. 2.11.]
-  20.00  Villarreal CF            -  Real Valladolid CF
+  20.00  Villarreal CF            2-0 (2-0)  Real Valladolid CF
 
 
 Jornada 9
 [Vie. 6.11.]
-  20.00  Elche CF                 -  RC Celta Vigo
+  20.00  Elche CF                 1-1 (1-1)  RC Celta Vigo
 [Sáb. 7.11.]
-  13.00  SD Huesca                -  SD Eibar
-  15.15  FC Barcelona             -  Real Betis
-  17.30  Sevilla FC               -  CA Osasuna
-  20.00  Atlético Madrid          -  Cádiz CF
+  13.00  SD Huesca                1-1 (0-1)  SD Eibar
+  15.15  FC Barcelona             5-2 (1-1)  Real Betis
+  17.30  Sevilla FC               1-0 (0-0)  CA Osasuna
+  20.00  Atlético Madrid          4-0 (2-0)  Cádiz CF
 [Dom. 8.11.]
-  13.00  Getafe CF                -  Villarreal CF
-  15.15  Real Sociedad            -  Granada CF
-  17.30  Levante UD               -  Deportivo Alavés
-         Real Valladolid CF       -  Athletic Club Bilbao
-  20.00  Valencia CF              -  Real Madrid
+  13.00  Getafe CF                1-3 (1-2)  Villarreal CF
+  15.15  Real Sociedad            2-0 (2-0)  Granada CF
+  17.30  Levante UD               1-1 (0-1)  Deportivo Alavés
+         Real Valladolid CF       2-1 (1-0)  Athletic Club Bilbao
+  20.00  Valencia CF              4-1 (2-1)  Real Madrid
 
 
 Jornada 10
