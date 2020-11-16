@@ -188,23 +188,23 @@ Jornada 11
          RCD Mallorca             3-0 (2-0)  SD Ponferradina
   19.30  CD Tenerife              1-0 (1-0)  Real Zaragoza
 [Lun. 9.11.]
-  20.00  Girona FC                -  UD Las Palmas
+  20.00  Girona FC                1-1 (0-1)  UD Las Palmas
 
 
 Jornada 12
 [Vie. 13.11.]
-  20.00  Real Zaragoza            -  Real Oviedo
+  20.00  Real Zaragoza            1-2 (1-1)  Real Oviedo
 [Sáb. 14.11.]
-  13.00  CF Fuenlabrada           -  RCD Espanyol
-  15.15  UD Almería               -  CD Mirandés
-  17.30  CD Lugo                  -  Albacete Balompié
-         Girona FC                -  RCD Mallorca
+  13.00  CF Fuenlabrada           1-1 (0-1)  RCD Espanyol
+  15.15  UD Almería               2-1 (2-1)  CD Mirandés
+  17.30  CD Lugo                  1-0 (0-0)  Albacete Balompié
+         Girona FC                0-1 (0-1)  RCD Mallorca
 [Dom. 15.11.]
-  13.00  CD Leganés               -  AD Alcorcón
-  15.15  SD Ponferradina          -  Málaga CF
-  17.30  CD Castellón             -  FC Cartagena
-         UD Logroñés              -  CE Sabadell
-  21.00  UD Las Palmas            -  CD Tenerife
+  13.00  CD Leganés               1-0 (0-0)  AD Alcorcón
+  15.15  SD Ponferradina          1-1 (0-1)  Málaga CF
+  17.30  CD Castellón             2-1 (0-0)  FC Cartagena
+         UD Logroñés              1-0 (0-0)  CE Sabadell
+  21.00  UD Las Palmas            1-0 (0-0)  CD Tenerife
 [Lun. 16.11.]
   20.00  Sporting Gijón           -  Rayo Vallecano
 
@@ -263,33 +263,37 @@ Jornada 15
 
 
 Jornada 16
+[Mar. 1.12.]
+  18.00  CF Fuenlabrada           -  Málaga CF
+  20.30  Girona FC                -  CD Mirandés
 [Mié. 2.12.]
-  CD Castellón             -  Real Zaragoza
-  CD Leganés               -  Rayo Vallecano
-  CD Lugo                  -  UD Las Palmas
-  CD Tenerife              -  CE Sabadell
-  FC Cartagena             -  RCD Espanyol
-  Girona FC                -  CD Mirandés
-  CF Fuenlabrada           -  Málaga CF
-  Real Oviedo              -  AD Alcorcón
-  Sporting Gijón           -  Albacete Balompié
-  UD Almería               -  RCD Mallorca
-  UD Logroñés              -  SD Ponferradina
+  18.00  UD Logroñés              -  SD Ponferradina
+         FC Cartagena             -  RCD Espanyol
+         CD Leganés               -  Rayo Vallecano
+  20.00  CD Castellón             -  Real Zaragoza
+  20.30  CD Lugo                  -  UD Las Palmas
+[Jue. 3.12.]
+  18.00  CD Tenerife              -  CE Sabadell
+         Real Oviedo              -  AD Alcorcón
+         UD Almería               -  RCD Mallorca
+  20.30  Sporting Gijón           -  Albacete Balompié
 
 
 Jornada 17
+[Sáb. 5.12.]
+  13.00  Rayo Vallecano           -  UD Logroñés
+  15.00  SD Ponferradina          -  UD Las Palmas
+  17.15  CD Mirandés              -  CD Lugo
+  19.30  Málaga CF                -  FC Cartagena
 [Dom. 6.12.]
-  AD Alcorcón              -  UD Almería
-  Albacete Balompié        -  Girona FC
-  CD Mirandés              -  CD Lugo
-  CD Tenerife              -  CD Leganés
-  RCD Espanyol             -  Sporting Gijón
-  Málaga CF                -  FC Cartagena
-  Rayo Vallecano           -  UD Logroñés
-  RCD Mallorca             -  CD Castellón
-  Real Zaragoza            -  CF Fuenlabrada
-  CE Sabadell              -  Real Oviedo
-  SD Ponferradina          -  UD Las Palmas
+  13.00  AD Alcorcón              -  UD Almería
+  15.00  RCD Espanyol             -  Sporting Gijón
+  17.15  Albacete Balompié        -  Girona FC
+  19.30  CE Sabadell              -  Real Oviedo
+  20.00  Real Zaragoza            -  CF Fuenlabrada
+[Lun. 7.12.]
+  18.00  CD Tenerife              -  CD Leganés
+  20.00  RCD Mallorca             -  CD Castellón
 
 
 Jornada 18
