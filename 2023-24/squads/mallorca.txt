@@ -1,0 +1,36 @@
+= Real Club Deportivo Mallorca    # Mallorca
+
+ 1  Predrag Rajković (SRB)         GK    # 31 Oct 1995, Negotin  -- Reims
+13  Dominik Greif (SVN)            GK    # 06 Apr 1997, Bratislava  -- Slovan Bratislava
+25  Iván Cuéllar (ESP)             GK    # 27 May 1984, Mérida  -- Sporting Gijón
+36  Álex Quevedo (ESP)             GK    # 28 Apr 2004, Mahón  -- Mallorca B
+
+ 2  Matija Nastasić (SRB)          DF    # 28 Mar 1993, Belgrade  -- Fiorentina
+ 3  Toni Lato (ESP)                DF    # 21 Nov 1997, La Pobla de Vallbona  -- Valencia
+ 4  Siebe Van Der Heyden (BEL)     DF    # 30 May 1998, Denderleeuw  -- Union St-Gilloise
+ 6  Copete (ESP)                   DF    # 10 Oct 1999, Écija  -- Ponferradina
+11  Jaume Costa (ESP)              DF    # 18 Mar 1988, Valencia  -- Villarreal
+15  Pablo Maffeo (ESP)             DF    # 12 Jul 1997, Sant Joan Despí  -- Stuttgart
+20  Giovanni González (URU)        DF    # 20 Sep 1994, Montevideo  -- Peñarol
+21  Antonio Raíllo (ESP)           DF    # 08 Oct 1991, Córdoba  -- Espanyol
+22  Nacho Vidal (ESP)              DF    # 24 Jan 1995, El Campello  -- Osasuna
+24  Martin Valjent (SVK)           DF    # 11 Dec 1995, Dubnica nad Váhom  -- Chievo Verona
+29  Miguelito (ESP)                DF    # 12 Jan 2001, Palma de Mallorca  -- Mallorca B
+31  Yuzún Ley (ESP)                DF    # 18 Jan 2004, Arrecife  -- Mallorca B
+32  Marcos Fernández (ESP)         DF    # 17 Jul 2003, Andratx  -- Mallorca B
+37  Carles Sogorb (ESP)            DF    # 23 Aug 2005, Palma de Mallorca  -- Mallorca B
+
+ 5  Omar Mascarell (ESP)           MF    # 02 Feb 1993, Santa Cruz de Tenerife  -- Elche
+ 8  Manu Morlanes (ESP)            MF    # 12 Jan 1999, Zaragoza  -- Villarreal
+10  Sergi Darder (ESP)             MF    # 22 Dec 1993, Artà  -- Espanyol
+12  Samú Costa (POR)               MF    # 27 Nov 2000, Aveiro  -- Almería
+14  Dani Rodríguez (ESP)           MF    # 06 Jun 1988, Betanzos  -- Albacete
+18  Antonio Sánchez (ESP)          MF    # 22 Apr 1997, Palma de Mallorca  -- Mallorca B
+23  Nemanja Radonjić (SRB)         MF    # 15 Feb 1996, Niš  -- Torino
+26  Rubén Quintanilla (ESP)        MF    # 03 Apr 2002, Barcelona  -- Damm
+
+ 7  Vedat Muriqi (KVX)             FW    # 24 Apr 1994, Prizren  -- Lazio
+ 9  Abdón Prats (ESP)              FW    # 17 Feb 1992, Artà  -- Racing Santander
+17  Cyle Larin (CAN)               FW    # 17 Apr 1995, Brampton  -- Valladolid
+19  Javi Llabrés (ESP)             FW    # 11 Sep 2002, Inca  -- Mallorca B
+34  Pau Mascaró (ESP)              FW    # 20 Oct 2004  -- Mallorca B

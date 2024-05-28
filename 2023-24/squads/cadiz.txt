@@ -1,0 +1,40 @@
+= Cádiz Club de Fútbol    # Cádiz
+
+ 1  Jeremias Ledesma (ARG)         GK    # 13 Feb 1993, Rosario  -- Rosario Central
+13  David Gil (ESP)                GK    # 11 Jan 1994, Getafe  -- Getafe B
+26  Víctor Aznar (BRA)             GK    # 17 Oct 2002, São Paulo  -- Verona
+
+ 2  Joseba Zaldúa (ESP)            DF    # 24 Jun 1992, San Sebastián  -- Real Sociedad
+ 3  Fali (ESP)                     DF    # 12 Aug 1993, Valencia  -- Nàstic
+ 5  Víctor Chust (ESP)             DF    # 05 Mar 2000, Valencia  -- Real Madrid B
+14  Momo Mbaye (SEN)               DF    # 28 Jun 1998, Dakara  -- Watford
+15  Javi Hernández (ESP)           DF    # 02 May 1998, Jerez de la Frontera  -- Leganés
+20  Isaac Carcelén (ESP)           DF    # 23 Apr 1993, El Puerto de Santa María  -- Rayo Majadahonda
+22  Jorge Meré (ESP)               DF    # 17 Apr 1997, Oviedo  -- América
+24  Aiham Ousou (SWE)              DF    # 09 Jan 2000, Mölndal  -- Slavia Prague
+30  Alejandro Morata (ESP)         DF    # 06 Jul 2006  -- Cádiz B
+31  Adrián Miranda (ESP)           DF    # 26 Apr 2003, Olesa de Montserrat  -- Peña
+32  Julio Cabrera (ESP)            DF    # 14 Aug 2003, Olvera  -- Cádiz B
+33  Lucas Pires (BRA)              DF    # 24 Mar 2001, São Paulo  -- Santos
+35  Adrían Salguero (ESP)          DF    # 20 May 2003, El Vendrell  -- Ibiza
+
+ 4  Rubén Alcaraz (ESP)            MF    # 01 May 1991, Barcelona  -- Valladolid
+ 6  Diadie Samassékou (MLI)        MF    # 11 Jan 1996, Bamako  -- 1899 Hoffenheim
+ 8  Álex Fernández (ESP)           MF    # 15 Oct 1992, Madrid  -- Elche
+11  Iván Alejo (ESP)               MF    # 10 Feb 1995, Valladolid  -- Getafe
+12  Rominigue Kouamé (MLI)         MF    # 17 Dec 1996, Lopou  -- Troyes
+17  Gonzalo Escalante (ARG)        MF    # 27 Mar 1993, Bella Vista  -- Lazio
+27  Robert Navarro (ESP)           MF    # 12 Apr 2002, Barcelona  -- Real Sociedad
+28  Moussa Diakité (MLI)           MF    # 04 Nov 2003  -- Étoiles du Mandé
+29  Nico Njalla (CMR)              MF    # 13 Apr 2003, Douala  -- Cádiz B
+36  Etta Eyong (CMR)               MF    # 14 Oct 2003, Douala  -- Cádiz B
+
+ 7  Rubén Sobrino (ESP)            FW    # 01 Jun 1992, Daimiel  -- Valencia
+ 9  Juanmi (ESP)                   FW    # 20 May 1993, Coín  -- Betis
+10  Brian Ocampo (URU)             FW    # 25 Jun 1999, Florida  -- Nacional [URU]
+16  Chris Ramos (ESP)              FW    # 16 Jan 1997, Cádiz  -- Lugo
+18  Darwin Machís (VEN)            FW    # 07 Feb 1993, Tucupita  -- Valladolid
+19  Sergi Guardiola (ESP)          FW    # 29 May 1991, Manacor  -- Valladolid
+21  Roger (ESP)                    FW    # 03 Jan 1991, Torrent  -- Elche
+25  Maximiliano Gómez (URU)        FW    # 14 Aug 1996, Paysandú  -- Trabzonspor
+40  Borja Vázquez (ESP)            FW    # 18 Jan 2005, Jerez de la Frontera  -- Cádiz B

@@ -1,0 +1,47 @@
+= Villarreal Club de Fútbol    # Villarreal
+
+ 1  Pepe Reina (ESP)               GK    # 31 Aug 1982, Madrid  -- Lazio
+13  Filip Jörgensen (DEN)          GK    # 16 Apr 2002, Lomma  -- Villarreal B
+31  Iker Álvarez (AND)             GK    # 25 Jul 2001, Andorra la Vella  -- Villarreal B
+35  Miguel Ángel Morro (ESP)       GK    # 11 Sep 2000, Alcalá de Henares  -- Rayo Vallecano B
+
+ 2  Yerson Mosquera (COL)          DF    # 02 May 2001, Apartadó  -- Wolverhampton W
+ 3  Raúl Albiol (ESP)              DF    # 04 Sep 1985, Vilamarxant  -- Napoli
+ 5  Jorge Cuenca (ESP)             DF    # 17 Nov 1999, Madrid  -- Barcelona B
+ 8  Juan Foyth (ARG)               DF    # 12 Jan 1998, La Plata  -- Tottenham H
+12  Eric Bailly (CIV)              DF    # 12 Apr 1994, Abidjan  -- Beşiktaş
+17  Kiko Femenía (ESP)             DF    # 02 Feb 1991, Sanet y Negrals  -- Watford
+18  Alberto Moreno (ESP)           DF    # 05 Jul 1992, Seville  -- Liverpool
+23  Aïssa Mandi (ALG)              DF    # 22 Oct 1991, Châlons-en-Champagne  -- Betis
+26  Adrià Altimira (ESP)           DF    # 28 Feb 2001, Cardedeu  -- Andorra
+29  Abraham del Moral (ESP)        DF    # 05 Jul 2001, Martos  -- Villarreal B
+37  Carlos Romero (ESP)            DF    # 29 Oct 2001, Valencia  -- Villarreal B
+39  Antonio Espigares (ESP)        DF    # 05 Sep 2004, Granada  -- Villarreal B
+42  Stefan Leković (SRB)           DF    # 09 Jan 2004, Belgrade  -- Crvena Zvezda
+44  Daniel Budesca (ESP)           DF    # 27 May 2006, Murcia  -- Roda
+
+ 4  Santi Comesaña (ESP)           MF    # 05 Oct 1996, Vigo  -- Rayo Vallecano
+ 6  Étienne Capoue (FRA)           MF    # 11 Jul 1988, Niort  -- Watford
+ 9  Gonçalo Guedes (POR)           MF    # 29 Nov 1996, Benavente  -- Wolverhampton W
+10  Daniel Parejo (ESP)            MF    # 16 Apr 1989, Madrid  -- Valencia
+14  Manu Trigueros (ESP)           MF    # 17 Oct 1991, Talavera de la Reina  -- Villarreal B
+15  José Luis Morales (ESP)        MF    # 23 Jul 1987, Madrid  -- Levante
+16  Álex Baena (ESP)               MF    # 20 Jul 2001, Roquetas de Mar  -- Villarreal B
+19  Francis Coquelin (FRA)         MF    # 13 May 1991, Laval  -- Valencia
+20  Ramon Terrats (ESP)            MF    # 18 Oct 2000, Barcelona  -- Girona
+22  Denis Suárez (ESP)             MF    # 06 Jan 1994, Salceda de Caselas  -- Celta Vigo
+24  Alfonso Pedraza (ESP)          MF    # 09 Apr 1996, San Sebastián de los Ballesteros  -- Villarreal B
+32  Aitor Gelardo (ESP)            MF    # 26 Jun 2002, Catral  -- Villarreal B
+33  Rodri Alonso (ESP)             MF    # 04 Jan 2003, Castelló de la Plana  -- Villarreal B
+34  Tiago Geralnik (ARG)           MF    # 31 Mar 2003, Rosario  -- River Plate
+36  Victor Moreno (ESP)            MF    # 30 Sep 2005, Estepona  -- Roda
+38  Dani Requena (ESP)             MF    # 12 Feb 2004, Cenes de la Vega  -- Roda
+
+ 7  Gerard Moreno (ESP)            FW    # 07 Apr 1992, Santa Coloma de Gramenet  -- Espanyol
+11  Alexander Sørloth (NOR)        FW    # 05 Dec 1995, Trondheim  -- RB Leipzig
+21  Yéremi Pino (ESP)              FW    # 20 Oct 2002, Las Palmas  -- Villarreal B
+25  Bertrand Traoré (BFA)          FW    # 06 Sep 1995, Bobo-Dioulasso  -- Aston Villa
+27  Ilias Akhomach (MAR)           FW    # 16 Apr 2004, Els Hostalets de Pierola  -- Barcelona B
+30  Jorge Pascual (ESP)            FW    # 09 Apr 2003, Almería  -- Villarreal B
+40  Alex Forés (ESP)               FW    # 12 Apr 2001, Valencia  -- Villarreal B
+43  Diego Collado (ESP)            FW    # 09 Jan 2001, Granada  -- Villarreal B

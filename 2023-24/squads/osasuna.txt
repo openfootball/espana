@@ -1,0 +1,32 @@
+= Club Atlético Osasuna    # Osasuna
+
+ 1  Sergio Herrera (ESP)           GK    # 05 Jun 1993, Miranda de Ebro  -- Huesca
+13  Aitor Fernández (ESP)          GK    # 03 May 1991, Mondragón  -- Levante
+31  Pablo Valencia (ESP)           GK    # 16 Mar 2001, Bariáin  -- Osasuna B
+32  Dimitrios Stamatakis (GRE)     GK    # 23 Apr 2003, Athens  -- Atlético Madrid B
+
+ 3  Juan Cruz (ESP)                DF    # 28 Jul 1992, Madrid  -- Elche
+ 4  Unai García (ESP)              DF    # 03 Sep 1992, Esquíroz  -- Osasuna B
+ 5  David García (ESP)             DF    # 14 Feb 1994, Pamplona  -- Osasuna B
+12  Jesús Areso (ESP)              DF    # 02 Jul 1999, Cascante  -- Athletic Bilbao B
+15  Rubén Peña (ESP)               DF    # 18 Jul 1991, Ávila  -- Villarreal
+22  Johan Mojica (COL)             DF    # 21 Aug 1992, Cali  -- Villarreal
+24  Alejandro Catena (ESP)         DF    # 28 Oct 1994, Madrid  -- Rayo Vallecano
+28  Jorge Herrando (ESP)           DF    # 28 Feb 2001, Pamplona  -- Osasuna B
+44  Íñigo Arguibide (ESP)          DF    # 19 Apr 2005, Pamplona  -- Osasuna B
+45  Jorge Moreno (ESP)             DF    # 25 Jul 2001, Madrid  -- Rayo Vallecano B
+
+ 6  Lucas Torró (ESP)              MF    # 19 Jul 1994, Concentaina  -- Eintracht Frankfurt
+ 7  Jon Moncayola (ESP)            MF    # 13 May 1998, Garinoain  -- Osasuna B
+10  Aimar Oroz (ESP)               MF    # 27 Nov 2001, Pamplona  -- Osasuna B
+11  Kike Barja (ESP)               MF    # 01 Apr 1997, Pamplona  -- Osasuna B
+14  Rubén García (ESP)             MF    # 14 Jul 1993, Valencia  -- Levante
+16  Moi Gómez (ESP)                MF    # 23 Jun 1994, Rojales  -- Villarreal
+19  Pablo Ibáñez (ESP)             MF    # 20 Sep 1998, Pamplona  -- Mutilvera
+34  Iker Muñoz (ESP)               MF    # 05 Nov 2002, Villafranca  -- Osasuna B
+41  Asier Osambela (ESP)           MF    # 30 Oct 2004, Pamplona  -- Osasuna B
+
+17  Ante Budimir (CRO)             FW    # 22 Jul 1991, Zenica  -- Mallorca
+20  José Arnáiz (ESP)              FW    # 15 Apr 1995, Talavera de la Reina  -- Leganés
+23  Raúl García (ESP)              FW    # 03 Nov 2000, Olesa de Montserrat  -- Betis B
+43  Max Svensson (ESP)             FW    # 08 Nov 2001, Barcelona  -- Espanyol B

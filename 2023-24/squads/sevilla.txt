@@ -1,0 +1,47 @@
+= Sevilla Fútbol Club    # Sevilla
+
+ 1  Marko Dmitrović (SRB)          GK    # 24 Jan 1992, Subotica  -- Eibar
+13  Ørjan Nyland (NOR)             GK    # 10 Sep 1990, Volda  -- RB Leipzig
+31  Alberto Flores (ESP)           GK    # 09 Nov 2003, Fuentes de Andalucía  -- Sevilla B
+32  Rafa Romero (ESP)              GK    # 07 Aug 2003, Jerez de la Frontera  -- Granada B
+33  Matías Árbol (ESP)             GK    # 12 Sep 2002, Palomares del Río  -- Sevilla B
+
+ 2  Kike Salas (ESP)               DF    # 23 Apr 2002, Morón de la Frontera  -- Sevilla B
+ 3  Adrià Pedrosa (ESP)            DF    # 13 May 1998, Barcelona  -- Espanyol
+ 4  Sergio Ramos (ESP)             DF    # 30 Mar 1986, Camas  -- Paris St-Germain
+14  Tanguy Nianzou (FRA)           DF    # 07 Jun 2002, Paris  -- Bayern Munich
+16  Jesús Navas (ESP)              DF    # 21 Nov 1985, Los Palacios  -- Manchester C
+19  Marcos Acuña (ARG)             DF    # 28 Oct 1991, Zapala  -- Sporting CP
+22  Loïc Badé (FRA)                DF    # 11 Apr 2000, Sèvres  -- Rennes
+23  Marcão (BRA)                   DF    # 05 Jun 1996, Londrina  -- Galatasaray
+29  Darío Benavides (ESP)          DF    # 12 Jan 2003, El Ejido  -- Sevilla B
+38  Diego Hormigo (ESP)            DF    # 16 Apr 2003, Seville  -- Sevilla B
+
+ 5  Lucas Ocampos (ARG)            MF    # 11 Jul 1994, Quilmes  -- Marseille
+ 6  Nemanja Gudelj (SRB)           MF    # 16 Nov 1991, Belgrade  -- Guangzhou Evergrande
+ 7  Suso (ESP)                     MF    # 19 Nov 1993, Cádiz  -- Milan
+ 8  Joan Jordán (ESP)              MF    # 06 Jul 1993, Palamós  -- Eibar
+11  Dodi Lukebakio (BEL)           MF    # 24 Sep 1997, Asse  -- Hertha Berlin
+17  Erik Lamela (ARG)              MF    # 25 Mar 1992, Florida  -- Tottenham H
+18  Djibril Sow (SUI)              MF    # 06 Feb 1997, Zürich  -- Eintracht Frankfurt
+21  Óliver Torres (ESP)            MF    # 10 Nov 1994, Navalmoral de la Mata  -- FC Porto
+24  Boubakary Soumaré (FRA)        MF    # 27 Feb 1999, Noisy-le-Sec  -- Leicester C
+25  Adnan Januzaj (BEL)            MF    # 05 Feb 1995, Brussels  -- Real Sociedad
+26  Juanlu Sánchez (ESP)           MF    # 15 Aug 2003, Seville  -- Sevilla B
+28  Manu Bueno (ESP)               MF    # 27 Jul 2004, Jerez de la Frontera  -- Sevilla B
+35  Xavi Sintes (ESP)              MF    # 05 Aug 2001, Mahón  -- Real Madrid B
+37  Alberto Collado (ESP)          MF    # 16 Apr 2005, Algeciras  -- Sevilla B
+39  Lulo Dasilva (ESP)             MF    # 04 Oct 2002, Seville  -- Sevilla B
+41  Stanis Idumbo Muzambo (BEL)    MF    # 29 Jun 2005, Melun  -- Ajax
+42  Lucien Agoumé (FRA)            MF    # 09 Feb 2002, Yaoundé  -- Internazionale
+46  Hannibal Mejbri (TUN)          MF    # 21 Jan 2003, Ivry-sur-Seine  -- Manchester U
+
+ 9  Rafa Mir (ESP)                 FW    # 18 Jun 1997, Murcia  -- Wolverhampton W
+10  Alejo Véliz (ARG)              FW    # 19 Sep 2003, Bernardo de Irigoyen  -- Tottenham H
+12  Mariano (DOM)                  FW    # 01 Aug 1993, Barcelona  -- Real Madrid
+15  Yousseff En-Nesyri (MAR)       FW    # 01 Jun 1997, Fez  -- Leganés
+20  Isaac Romero (ESP)             FW    # 18 May 2000, Lebrija  -- Sevilla B
+30  Ibrahima Sow (SEN)             FW    # 26 Jan 2007, Dakar  -- Sevilla B
+34  Isra Domínguez (ESP)           FW    # 07 May 2003, Antequera  -- Antequera
+36  Oso (ESP)                      FW    # 09 Jul 2003, Torrevieja  -- Sevilla B
+40  Miguel Capi (ESP)              FW    # 06 Mar 2001, Mairena del Alcor  -- Sevilla B

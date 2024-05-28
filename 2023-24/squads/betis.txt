@@ -1,0 +1,53 @@
+= Real Betis Balompié    # Betis
+
+ 1  Claudio Bravo (CHI)            GK    # 13 Apr 1983, Viluco  -- Manchester C
+13  Rui Silva (POR)                GK    # 07 Feb 1994, Águas Santas  -- Granada
+30  Fran Vieites (ESP)             GK    # 07 May 1999, Pontecesures  -- Lugo
+31  Guilherme Fernandes (POR)      GK    # 28 Mar 2001, Lisbon  -- Estrela da Amadora
+41  Josán Gordo (ESP)              GK    # 12 Jan 2005, Seville  -- Betis B
+50  Germán García (ESP)            GK    # 01 Feb 2004, Alcalá de Guadaíra  -- Betis B
+
+ 2  Héctor Bellerín (ESP)          DF    # 19 Mar 1995, Barcelona  -- Sporting CP
+ 3  Juan Miranda (ESP)             DF    # 19 Jan 2000, Olivares  -- Barcelona B
+ 6  Germán Pezzella (ARG)          DF    # 27 Jun 1991, Bahía Blanca  -- Fiorentina
+15  Marc Bartra (ESP)              DF    # 15 Jan 1991, San Jaime dels Domenys  -- Trabzonspor
+19  Sokratis Papastathopoulos (GRE)   DF    # 09 Jun 1988, Kalamata  -- Olympiakos
+20  Abner (BRA)                    DF    # 27 May 2000, Presidente Prudente  -- Ponte Preta
+23  Youssouf Sabaly (SEN)          DF    # 05 Mar 1993, Chesnay  -- Bordeaux
+28  Chadi Riad (MAR)               DF    # 17 Jun 2003, Palma de Mallorca  -- Barcelona B
+32  Nobel Mendy (SEN)              DF    # 16 Aug 2004, Guédiawaye  -- Paris FC
+33  Xavi Pleguezuelo (ESP)         DF    # 14 Jan 2003, Barcelona  -- Betis B
+34  Ricardo Visus (ESP)            DF    # 24 Apr 2001, Madrid  -- Betis B
+42  Pablo Busto (ESP)              DF    # 15 Sep 2005, Seville  -- Betis B
+44  Marcos Solís (ESP)             DF    # 27 Feb 2005  -- Betis B
+45  Antonio Salguero (ESP)         DF    # 11 Jun 2005  -- Betis B
+
+ 4  Johnny Cardoso (USA)           MF    # 20 Sep 2001, Denville  -- Internacional
+ 5  Guido Rodríguez (ARG)          MF    # 12 Apr 1994, Sáenz Peña  -- América
+ 8  Nabil Fekir (FRA)              MF    # 18 Jul 1993, Lyon  -- Lyon
+14  William Carvalho (POR)         MF    # 07 Apr 1992, Luanda  -- Sporting CP
+17  Rodri (ESP)                    MF    # 16 May 2000, Talayuela  -- Betis B
+18  Pablo Fornals (ESP)            MF    # 22 Feb 1996, Castellón de la Plana  -- West Ham U
+21  Marc Roca (ESP)                MF    # 26 Nov 1996, La Granada  -- Leeds U
+22  Isco (ESP)                     MF    # 21 Apr 1992, Benalmádena  -- Sevilla
+27  Sergi Altimira (ESP)           MF    # 25 Aug 2001, Cardedeu  -- Getafe
+29  Ángel Ortiz (ESP)              MF    # 25 Jul 2004, Almendralejo  -- Betis B
+37  Dani Pérez (ESP)               MF    # 26 Jul 2005, Seville  -- Betis B
+39  Ginés Sorroche (ESP)           MF    # 24 Mar 2004, Lorca  -- Betis B
+40  Enrique Fernández (ESP)        MF    # 16 Nov 2003, Trebujena  -- Betis B
+46  Mateo Flores (ESP)             MF    # 07 Apr 2004, Valencina de la Concepción  -- Betis B
+47  Carlos Reina (ESP)             MF    # 10 Aug 2004, Seville  -- Betis B
+48  Iván Corralejo (ESP)           MF    # 01 May 2007  -- Betis B
+
+ 7  Abde Ezzalzouli (MAR)          FW    # 17 Dec 2001, Beni Mellal  -- Barcelona
+ 9  Ezequiel Ávila (ARG)           FW    # 06 Feb 1994, Rosario  -- Osasuna
+10  Ayoze Pérez (ESP)              FW    # 23 Jul 1993, Santa Cruz de Tenerife  -- Leicester C
+11  Cédric Bakambu (COD)           FW    # 11 Apr 1991, Vitry-Sur-Seine  -- Galatasaray
+12  Willian José (BRA)             FW    # 23 Nov 1991, Porto Calvo  -- Real Sociedad
+24  Aitor Ruibal (ESP)             FW    # 22 Mar 1996, Manresa  -- Betis B
+38  Assane Diao (ESP)              FW    # 07 Sep 2005, Ndongane  -- Betis B
+43  Marcos Fernández (ESP)         FW    # 17 May 2003, Cambrils  -- Betis B
+49  Manu Morillo (ESP)             FW    # 14 Aug 2003, Sanlúcar la Mayor  -- Betis B
+54  Álvaro Gómez (ESP)             FW    # 04 Jan 2005  -- Betis B
+55  Rodrigo Marina (ESP)           FW    # 28 Jul 2006, Cáceres  -- Betis B
+56  Pablo García (ESP)             FW    # 13 Jun 2006  -- Betis B

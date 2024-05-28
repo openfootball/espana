@@ -1,0 +1,39 @@
+= Unión Deportiva Las Palmas    # Las Palmas
+
+ 1  Aarón Escandell (ESP)          GK    # 27 Sep 1995, Carcaixent  -- Cartagena
+13  Álvaro Valles (ESP)            GK    # 25 May 1997, La Rinconada  -- Betis B
+30  Álvaro Killane (ARG)           GK    # 14 Dec 2004  -- Las Palmas B
+35  Ale Gorrín (ESP)               GK    # 08 Aug 2002  -- Las Palmas B
+
+ 2  Marvin Park (ESP)              DF    # 03 Jul 2000, Palma de Mallorca  -- Real Madrid B
+ 3  Sergi Cardona (ESP)            DF    # 08 Jul 1999, Lloret de Mar  -- La Pobla de Mafumet
+ 4  Alex Suárez (ESP)              DF    # 18 Mar 1993, Las Palmas  -- Las Palmas B
+ 6  Eric Curbelo (ESP)             DF    # 14 Jan 1994, Telde  -- Las Palmas B
+14  Álvaro Lemos (ESP)             DF    # 30 Mar 1993, La Coruña  -- Celta Vigo
+15  Mika Màrmol (ESP)              DF    # 01 Jul 2001, Terrassa  -- Andorra
+18  Daley Sinkgraven (NED)         DF    # 04 Jul 1995, Assen  -- Bayer Leverkusen
+23  Saúl Coco (EQG)                DF    # 09 Feb 1999, Lanzarote  -- Las Palmas B
+28  Julián Araujo (MEX)            DF    # 13 Aug 2001, Lompoc  -- Barcelona
+33  Gabriel Palmero (ESP)          DF    # 15 Jan 2002, La Palma  -- Las Palmas B
+
+ 5  Javi Muñoz (ESP)               MF    # 28 Feb 1995, Parla  -- Eibar
+ 8  Maximo Perrone (ARG)           MF    # 07 Jan 2003, Capital Federal  -- Manchester C
+10  Alberto Moleiro (ESP)          MF    # 30 Sep 2003, Santa Cruz de Tenerife  -- Las Palmas B
+11  Benito Ramírez (ESP)           MF    # 11 Jul 1995, Las Palmas  -- Las Palmas B
+12  Enzo Loiodice (FRA)            MF    # 27 Nov 2000, Paris  -- Dijon
+20  Kirian Rodríguez (ESP)         MF    # 05 Mar 1996, Candelaria  -- Las Palmas B
+21  José Campaña (ESP)             MF    # 30 May 1993, Seville  -- Levante
+22  Omenuke Mfulu (COD)            MF    # 20 Mar 1994, Poissy  -- Elche
+24  Pejiño (ESP)                   MF    # 29 Jul 1996, Barbate  -- Sevilla B
+25  Fabio González (ESP)           MF    # 12 Feb 1997, Ingenio  -- Las Palmas B
+26  Yadam Santana (ESP)            MF    # 14 Mar 2002, Las Palmas  -- Las Palmas B
+29  Iñaki González (ESP)           MF    # 27 Jul 2004, Badajoz  -- Badajoz
+31  Juanma Herzog (ESP)            MF    # 13 May 2004, Santa Cruz de Tenerife  -- Las Palmas B
+34  Abou Bassinga (CIV)            MF    # 13 Jul 2005  -- Las Palmas B
+
+ 7  Cristian Herrera (ESP)         FW    # 13 Mar 1991, Las Palmas  -- Ibiza
+ 9  Sandro Ramírez (ESP)           FW    # 09 Jul 1995, Las Palmas  -- Huesca
+16  Sory Kaba (GUI)                FW    # 10 Apr 1995, Conakry  -- FC Midtjylland
+17  Munir El Haddadi (MAR)         FW    # 01 Sep 1995, San Lorenzo de El Escorial  -- Getafe
+19  Marc Cardona (ESP)             FW    # 08 Jul 1995, Lleida  -- Osasuna
+27  Pau (ESP)                      FW    # 17 Oct 2003, Benicarló  -- Las Palmas B

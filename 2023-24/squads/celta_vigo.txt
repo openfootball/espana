@@ -1,0 +1,39 @@
+= Real Club Celta de Vigo    # Celta Vigo
+
+13  Iván Villar (ESP)              GK    # 09 Jul 1997, Aldán  -- Celta B
+25  Vicente Guaita (ESP)           GK    # 10 Jan 1987, Torrent  -- Crystal Palace
+26  Coke Carrillo (ESP)            GK    # 07 Jan 2002, Poio  -- Barcelona B
+27  Raúl García (ESP)              GK    # 27 Jan 2000, León  -- Celta B
+37  César Fernández (ESP)          GK    # 28 Jan 2004, O Barco de Valdeorras  -- Celta B
+
+ 2  Carl Starfelt (SWE)            DF    # 01 Jun 1995, Stockholm  -- Celtic
+ 3  Óscar Mingueza (ESP)           DF    # 13 May 1999, Santa Perpètua de Mogoda  -- Barcelona
+ 4  Unai Núñez (ESP)               DF    # 30 Jan 1997, Portugalete  -- Athletic Bilbao
+15  Joseph Aidoo (GHA)             DF    # 29 Sep 1995, Tema  -- KRC Genk
+20  Kevin Vázquez (ESP)            DF    # 23 Mar 1993, Nigrán  -- Celta B
+21  Mihailo Ristić (SRB)           DF    # 31 Oct 1995, Bijeljina  -- Benfica
+22  Javi Manquillo (ESP)           DF    # 05 May 1994, Madrid  -- Newcastle U
+23  Manu Sánchez (ESP)             DF    # 24 Aug 2000, Madrid  -- Atlético Madrid
+28  Carlos Domínguez (ESP)         DF    # 11 Feb 2001, Vigo  -- Celta B
+31  Javi Domínguez (ESP)           DF    # 26 Mar 2001, Madrid  -- Talavera
+32  Javi Rodríguez (ESP)           DF    # 26 Jun 2003, Pontevedra  -- Celta B
+35  Joel López (ESP)               DF    # 31 Mar 2002, Barcelona  -- Cultural Leonesa
+
+ 5  Renato Tapia (PER)             MF    # 28 Jul 1995, Lima  -- Feyenoord
+ 6  Carlos Dotor (ESP)             MF    # 15 Mar 2001, Madrid  -- Real Madrid B
+ 8  Fran Beltrán (ESP)             MF    # 03 Feb 1999, Madrid  -- Rayo Vallecano
+11  Franco Cervi (ARG)             MF    # 26 May 1994, San Lorenzo  -- Benfica
+14  Luca De La Torre (USA)         MF    # 23 May 1998, San Diego  -- Heracles Almelo
+16  Jailson (BRA)                  MF    # 07 Sep 1995, Caçapava do Sul  -- Palmeiras
+19  Williot Swedberg (SWE)         MF    # 01 Feb 2004, Stockholm  -- Hammarby IF
+30  Hugo Sotelo (ESP)              MF    # 19 Dec 2003, Vigo  -- Celta B
+33  Hugo Álvarez (ESP)             MF    # 02 Jul 2003, Ourense  -- Celta B
+34  Damián Rodríguez (ESP)         MF    # 17 Mar 2003, Ponteareas  -- Celta B
+
+ 7  Carles Pérez (ESP)             FW    # 16 Feb 1998, Granollers  -- Roma
+ 9  Tadeo Allende (ARG)            FW    # 20 Feb 1999, Mina Clavero  -- Godoy Cruz (Mendoza)
+10  Iago Aspas (ESP)               FW    # 11 Aug 1987, Moaña  -- Sevilla
+12  Tasos Douvikas (GRE)           FW    # 02 Aug 1999, Athens  -- FC Utrecht
+17  Jonathan Bamba (CIV)           FW    # 26 Mar 1996, Alfortville  -- Lille
+18  Jörgen Strand Larsen (NOR)     FW    # 06 Feb 2000, Halden  -- FC Groningen
+24  Miguel Rodríguez (ESP)         FW    # 29 Apr 2003, Redondela  -- Celta B

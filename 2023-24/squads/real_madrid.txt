@@ -1,0 +1,44 @@
+= Real Madrid Club de Fútbol    # Real Madrid
+
+ 1  Thibaut Courtois (BEL)         GK    # 11 May 1992, Bree  -- Chelsea
+13  Andriy Lunin (UKR)             GK    # 11 Feb 1999, Krasnohrad  -- Zorya Luhansk
+25  Kepa Arrizabalaga (ESP)        GK    # 03 Oct 1994, Ondarroa  -- Chelsea
+26  Diego Piñeiro (ESP)            GK    # 13 Feb 2004, Madrid  -- Real Madrid B
+30  Fran González (ESP)            GK    # 24 Jun 2005, León  -- Cultural Leonesa
+31  Lucas Cañizares (ESP)          GK    # 10 May 2002, Valencia  -- Real Madrid B
+39  Mario de Luis (ESP)            GK    # 05 Jun 2002, Madrid  -- Rayo Vallecano B
+
+ 2  Daniel Carvajal (ESP)          DF    # 11 Jan 1992, Leganés  -- Bayer Leverkusen
+ 3  Éder Militão (BRA)             DF    # 18 Jan 1998, Sertãozinho  -- FC Porto
+ 4  David Alaba (AUT)              DF    # 24 Jun 1992, Vienna  -- Bayern Munich
+ 6  Nacho Fernández (ESP)          DF    # 18 Jan 1990, Madrid  -- Real Madrid B
+20  Fran García (ESP)              DF    # 14 Aug 1999, Bolaños de Calatrava  -- Rayo Vallecano
+22  Antonio Rüdiger (GER)          DF    # 03 Mar 1993, Berlin  -- Chelsea
+23  Ferland Mendy (FRA)            DF    # 08 Jun 1995, Meulan  -- Lyon
+27  Rafael Obrador (ESP)           DF    # 24 Feb 2004, Campos  -- Mallorca B
+34  Álvaro Carrillo (ESP)          DF    # 06 Apr 2002, Murcia  -- Real Madrid B
+35  Marvel (MAR)                   DF    # 07 Jan 2003, Casablanca  -- Real Madrid B
+36  Vinícius Tobías (BRA)          DF    # 23 Feb 2004, São Paulo  -- Shakhtar Donetsk
+37  Edgar Pujol (DOM)              DF    # 07 Aug 2004, Sabadell  -- Real Madrid B
+40  Raúl Asencio (ESP)             DF    # 13 Feb 2003, Las Palmas  -- Real Madrid B
+41  Jacobo Ramón (ESP)             DF    # 06 Jan 2005, Madrid  -- Real Madrid B
+
+ 5  Jude Bellingham (ENG)          MF    # 29 Jun 2003, Stourbridge  -- Borussia Dortmund
+ 8  Toni Kroos (GER)               MF    # 04 Jan 1990, Greifswald  -- Bayern Munich
+10  Luka Modrić (CRO)              MF    # 09 Sep 1985, Zadar  -- Tottenham H
+12  Eduardo Camavinga (FRA)        MF    # 10 Nov 2002, Miconje  -- Rennes
+15  Federico Valverde (URU)        MF    # 22 Jul 1998, Montevideo  -- Peñarol
+17  Lucas Vázquez (ESP)            MF    # 01 Jul 1991, Curtis  -- Espanyol
+18  Aurélien Tchouaméni (FRA)      MF    # 27 Jan 2000, Rouen  -- Monaco
+19  Dani Ceballos (ESP)            MF    # 07 Aug 1996, Utrera  -- Betis
+24  Arda Güler (TUR)               MF    # 25 Feb 2005, Ankara  -- Fenerbahçe
+28  Mario Martín (ESP)             MF    # 05 Mar 2004, Sonseca  -- Real Madrid B
+32  Nico Paz (ARG)                 MF    # 08 Sep 2004, Santa Cruz de Tenerife  -- Real Madrid B
+38  Théo Zidane (FRA)              MF    # 18 May 2002, Marseille  -- Real Madrid B
+
+ 7  Vinícius Júnior (BRA)          FW    # 12 Jul 2000, São Gonçalo  -- Flamengo
+11  Rodrygo (BRA)                  FW    # 09 Jan 2001, Osasco  -- Santos
+14  Joselu (ESP)                   FW    # 27 Mar 1990, Stuttgart  -- Espanyol
+21  Brahim Díaz (MAR)              FW    # 03 Aug 1999, Málaga  -- Manchester C
+29  Álvaro Rodríguez (URU)         FW    # 14 Jul 2004, Palamós  -- Real Madrid B
+33  Gonzalo García (ESP)           FW    # 24 Mar 2004, Madrid  -- Real Madrid B

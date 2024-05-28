@@ -1,0 +1,39 @@
+= Valencia Club de Fútbol    # Valencia
+
+ 1  Jaume Domènech (ESP)           GK    # 05 Nov 1990, Almenara  -- Huracán Valencia
+13  Cristian Rivero (ESP)          GK    # 21 Mar 1998, Gandia  -- Valencia B
+25  Giorgi Mamardashvili (GEO)     GK    # 29 Sep 2000, Tbilisi  -- Dinamo Tbilisi
+49  Vicent Abril (ESP)             GK    # 15 Feb 2005, Valencia  -- Valencia B
+
+ 3  Cristhian Mosquera (COL)       DF    # 27 Jun 2004, Alicante  -- Valencia B
+ 4  Mouctar Diakhaby (GUI)         DF    # 19 Dec 1996, Vendôme  -- Lyon
+ 6  Hugo Guillamón (ESP)           DF    # 31 Jan 2000, L'Eliana  -- Valencia B
+12  Thierry Correia (POR)          DF    # 09 Mar 1999, Amadora  -- Sporting CP
+14  José Luis Gayà (ESP)           DF    # 25 May 1995, Pedreguer  -- Valencia B
+15  Cenk Özkaçar (TUR)             DF    # 06 Oct 2000, Konak  -- Lyon
+20  Dimitri Foulquier (FRA)        DF    # 23 Mar 1993, Sarcelles  -- Granada
+21  Jesús Vázquez (ESP)            DF    # 02 Jan 2003, Mérida  -- Valencia B
+31  Rubén Iranzo (ESP)             DF    # 14 Mar 2003, Picanya  -- Valencia B
+34  Yarek Gasiorowski (ESP)        DF    # 12 Jan 2005, Polinyà del Xúquer  -- Valencia B
+
+ 8  Javi Guerra (ESP)              MF    # 13 May 2003, Valencia  -- Valencia B
+10  André Almeida (POR)            MF    # 30 May 2000, Guimarães  -- Vitória Guimarães
+11  Peter (DOM)                    MF    # 25 Jul 2002, Madrid  -- Real Madrid B
+18  Pepelu (ESP)                   MF    # 11 Aug 1998, Denia  -- Levante
+19  Selim Amallah (MAR)            MF    # 15 Nov 1996, Hautrage  -- Valladolid
+26  Javi Navarro (ESP)             MF    # 24 Feb 2004, Elche  -- Valencia B
+27  Pablo Gozálbez (ESP)           MF    # 30 Apr 2001, Valencia  -- Valencia B
+30  Hugo González (ESP)            MF    # 07 Feb 2003, Valencia  -- Valencia B
+32  Martín Tejón (ESP)             MF    # 12 Apr 2004, Villamarchante  -- Valencia B
+37  Ali Fadal (GHA)                MF    # 14 Jan 2004, Kumasi  -- Montverde Academy
+39  Marco Camus (ESP)              MF    # 16 Nov 2001, Santander  -- Racing Santander
+
+ 7  Sergi Canós (ESP)              FW    # 02 Feb 1997, Nules  -- Brentford
+ 9  Hugo Duro (ESP)                FW    # 10 Nov 1999, Getafe  -- Getafe
+16  Diego López (ESP)              FW    # 13 May 2002, Turón  -- Barcelona B
+17  Roman Yaremchuk (UKR)          FW    # 27 Nov 1995, Lviv  -- Club Brugge
+22  Alberto Marí (ESP)             FW    # 11 Jul 2001, Alicante  -- Vitoria
+23  Fran Pérez (ESP)               FW    # 09 Sep 2002, Valencia  -- Valencia B
+36  Mario Dominguez (ESP)          FW    # 10 Feb 2004, Granada  -- Valencia B
+38  Joselu (ESP)                   FW    # 12 Mar 2004, Villalbilla  -- Valencia B
+47  David Otorbi (ESP)             FW    # 16 Oct 2007, Valencia  -- Valencia B
