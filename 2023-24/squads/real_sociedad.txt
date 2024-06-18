@@ -1,42 +1,42 @@
-= Real Sociedad de Fútbol    # Real Sociedad
+=  Real Sociedad - Primera División de España 2023/24
 
- 1  Alejandro Remiro (ESP)         GK    # 24 Mar 1995, Cascante  -- Athletic Bilbao
-13  Unai Marrero (ESP)             GK    # 09 Oct 2001, San Sebastián  -- Real Sociedad B
-30  Gaizka Ayesa (ESP)             GK    # 02 Apr 2001, Ansoáin  -- Real Sociedad B
-37  Aitor Fraga (ESP)              GK    # 09 Mar 2003, Hernani  -- Real Sociedad B
+  1,  Alejandro Remiro,                  GK,   b. 1995,   Athletic Bilbao
+ 13,  Unai Marrero,                      GK,   b. 2001,   Real Sociedad B
+ 30,  Gaizka Ayesa,                      GK,   b. 2001,   Real Sociedad B
+ 37,  Aitor Fraga,                       GK,   b. 2003,   Real Sociedad B
 
- 2  Álvaro Odriozola (ESP)         DF    # 14 Dec 1995, San Sebastián  -- Real Madrid
- 3  Aihen Muñoz (ESP)              DF    # 16 Aug 1997, Etxauri  -- Real Sociedad B
- 5  Igor Zubeldia (ESP)            DF    # 30 Mar 1997, Azkoitia  -- Real Sociedad B
- 6  Aritz Elustondo (ESP)          DF    # 28 Mar 1994, Beasain  -- Real Sociedad B
-15  Urko González de Zárate (ESP)   DF    # 20 Mar 2001, Vitoria-Gasteiz  -- Real Sociedad B
-17  Kieran Tierney (SCO)           DF    # 05 Jun 1997, Douglas  -- Arsenal
-18  Hamary Traoré (MLI)            DF    # 27 Jan 1992, Bamako  -- Rennes
-20  Jon Pacheco (ESP)              DF    # 08 Jan 2001, Elizondo  -- Real Sociedad B
-24  Robin Le Normand (FRA)         DF    # 11 Nov 1996, Pabu  -- Brest
-25  Javi Galán (ESP)               DF    # 19 Nov 1994, Badajoz  -- Atlético Madrid
-33  Eneko Astigarraga (ESP)        DF    # 08 Jan 2004, San Sebastián  -- Real Sociedad B
-36  Jon Martín (ESP)               DF    # 23 Apr 2006, San Sebastián  -- Real Sociedad B
-39  Jon Mikel Aramburu (VEN)       DF    # 23 Jul 2002, Caracas  -- Real Unión
-41  Iñaki Rupérez (ESP)            DF    # 07 Jan 2003, Ansoáin  -- Real Sociedad B
+  2,  Álvaro Odriozola,                  DF,   b. 1995,   Real Madrid
+  3,  Aihen Muñoz,                       DF,   b. 1997,   Real Sociedad B
+  5,  Igor Zubeldia,                     DF,   b. 1997,   Real Sociedad B
+  6,  Aritz Elustondo,                   DF,   b. 1994,   Real Sociedad B
+ 15,  Urko González de Zárate,           DF,   b. 2001,   Real Sociedad B
+ 17,  Kieran Tierney (SCO),              DF,   b. 1997,   Arsenal
+ 18,  Hamary Traoré (MLI),               DF,   b. 1992,   Rennes
+ 20,  Jon Pacheco,                       DF,   b. 2001,   Real Sociedad B
+ 24,  Robin Le Normand (FRA),            DF,   b. 1996,   Brest
+ 25,  Javi Galán,                        DF,   b. 1994,   Atlético Madrid
+ 33,  Eneko Astigarraga,                 DF,   b. 2004,   Real Sociedad B
+ 36,  Jon Martín,                        DF,   b. 2006,   Real Sociedad B
+ 39,  Jon Mikel Aramburu (VEN),          DF,   b. 2002,   Real Unión
+ 41,  Iñaki Rupérez,                     DF,   b. 2003,   Real Sociedad B
 
- 4  Martín Zubimendi (ESP)         MF    # 02 Feb 1999, San Sebastián  -- Real Sociedad B
- 8  Mikel Merino (ESP)             MF    # 22 Jun 1996, Pamplona  -- Newcastle U
-10  Mikel Oyarzabal (ESP)          MF    # 21 Apr 1997, Eibar  -- Real Sociedad B
-12  Arsen Zakharyan (RUS)          MF    # 26 May 2003, Samara  -- Dynamo Moscow
-14  Takefusa Kubo (JPN)            MF    # 04 Jun 2001, Kawasaki  -- Real Madrid
-16  Jon Ander Olasagasti (ESP)     MF    # 16 Aug 2000, San Sebastián  -- Real Sociedad B
-22  Beñat Turrientes (ESP)         MF    # 31 Jan 2002, Beasain  -- Real Sociedad B
-28  Jon Magunazelaia (ESP)         MF    # 13 Jul 2001, Eibar  -- Real Sociedad B
-29  Pablo Marín (ESP)              MF    # 03 Jul 2003, Logroño  -- Real Sociedad B
-34  Jon Gorrotxategi (ESP)         MF    # 02 Feb 2002, Eibar  -- Real Sociedad B
-35  Alex Lebarbier (FRA)           MF    # 23 Aug 2004, Paris  -- Real Sociedad B
-38  Alberto Dadie (ESP)            MF    # 20 Jul 2002, San Sebastián  -- Real Sociedad B
+  4,  Martín Zubimendi,                  MF,   b. 1999,   Real Sociedad B
+  8,  Mikel Merino,                      MF,   b. 1996,   Newcastle U
+ 10,  Mikel Oyarzabal,                   MF,   b. 1997,   Real Sociedad B
+ 12,  Arsen Zakharyan (RUS),             MF,   b. 2003,   Dynamo Moscow
+ 14,  Takefusa Kubo (JPN),               MF,   b. 2001,   Real Madrid
+ 16,  Jon Ander Olasagasti,              MF,   b. 2000,   Real Sociedad B
+ 22,  Beñat Turrientes,                  MF,   b. 2002,   Real Sociedad B
+ 28,  Jon Magunazelaia,                  MF,   b. 2001,   Real Sociedad B
+ 29,  Pablo Marín,                       MF,   b. 2003,   Real Sociedad B
+ 34,  Jon Gorrotxategi,                  MF,   b. 2002,   Real Sociedad B
+ 35,  Alex Lebarbier (FRA),              MF,   b. 2004,   Real Sociedad B
+ 38,  Alberto Dadie,                     MF,   b. 2002,   Real Sociedad B
 
- 7  Ander Barrenetxea (ESP)        FW    # 27 Dec 2001, San Sebastián  -- Real Sociedad B
- 9  Carlos Fernández (ESP)         FW    # 22 May 1996, Seville  -- Sevilla
-11  Sheraldo Becker (NED)          FW    # 09 Feb 1995, Amsterdam  -- Union Berlin
-19  Umar Sadiq (NGA)               FW    # 02 Feb 1997, Lagos  -- Almería
-21  André Silva (POR)              FW    # 06 Nov 1995, Baguim do Monte  -- RB Leipzig
-23  Brais Méndez (ESP)             FW    # 07 Jan 1997, Mos  -- Celta Vigo
-40  Bryan Fiabema (NOR)            FW    # 16 Feb 2003, Tromsø  -- Chelsea
+  7,  Ander Barrenetxea,                 FW,   b. 2001,   Real Sociedad B
+  9,  Carlos Fernández,                  FW,   b. 1996,   Sevilla
+ 11,  Sheraldo Becker (NED),             FW,   b. 1995,   Union Berlin
+ 19,  Umar Sadiq (NGA),                  FW,   b. 1997,   Almería
+ 21,  André Silva (POR),                 FW,   b. 1995,   RB Leipzig
+ 23,  Brais Méndez,                      FW,   b. 1997,   Celta Vigo
+ 40,  Bryan Fiabema (NOR),               FW,   b. 2003,   Chelsea

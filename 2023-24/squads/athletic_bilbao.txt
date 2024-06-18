@@ -1,35 +1,35 @@
-= Athletic Club de Bilbao    # Athletic Bilbao
+=  Athletic Club Bilbao - Primera División de España 2023/24
 
- 1  Unai Simón (ESP)               GK    # 11 Jun 1997, Vitoria-Gasteiz  -- Athletic Bilbao B
-13  Julen Agirrezabala (ESP)       GK    # 26 Dec 2000, San Sebastián  -- Athletic Bilbao B
-26  Álex Padilla (ESP)             GK    # 01 Sep 2003, Zarautz  -- Athletic Bilbao B
+  1,  Unai Simón,                        GK,   b. 1997,   Athletic Bilbao B
+ 13,  Julen Agirrezabala,                GK,   b. 2000,   Athletic Bilbao B
+ 26,  Álex Padilla,                      GK,   b. 2003,   Athletic Bilbao B
 
- 3  Daniel Vivian (ESP)            DF    # 05 Jul 1999, Vitoria-Gasteiz  -- Athletic Bilbao B
- 4  Aitor Paredes (ESP)            DF    # 29 Apr 2000, Bilbao  -- Athletic Bilbao B
- 5  Yeray (ESP)                    DF    # 24 Jan 1995, Barakaldo  -- Athletic Bilbao B
-15  Íñigo Lekue (ESP)              DF    # 04 May 1993, Bilbao  -- Athletic Bilbao B
-17  Yuri Berchiche (ESP)           DF    # 10 Feb 1990, Zarautz  -- Paris St-Germain
-18  Óscar de Marcos (ESP)          DF    # 14 Apr 1989, Laguardia  -- Alavés
-19  Imanol García (ESP)            DF    # 08 Jun 2000, Gallarta  -- Athletic Bilbao B
-27  Unai Eguíluz (ESP)             DF    # 19 Mar 2002, Durango  -- Athletic Bilbao B
-32  Hugo Rincón (ESP)              DF    # 27 Jan 2003, Valtierra  -- Athletic Bilbao B
+  3,  Daniel Vivian,                     DF,   b. 1999,   Athletic Bilbao B
+  4,  Aitor Paredes,                     DF,   b. 2000,   Athletic Bilbao B
+  5,  Yeray,                             DF,   b. 1995,   Athletic Bilbao B
+ 15,  Íñigo Lekue,                       DF,   b. 1993,   Athletic Bilbao B
+ 17,  Yuri Berchiche,                    DF,   b. 1990,   Paris St-Germain
+ 18,  Óscar de Marcos,                   DF,   b. 1989,   Alavés
+ 19,  Imanol García,                     DF,   b. 2000,   Athletic Bilbao B
+ 27,  Unai Eguíluz,                      DF,   b. 2002,   Athletic Bilbao B
+ 32,  Hugo Rincón,                       DF,   b. 2003,   Athletic Bilbao B
 
- 6  Mikel Vesga (ESP)              MF    # 08 Apr 1993, Vitoria-Gasteiz  -- Alavés B
- 7  Alex Berenguer (ESP)           MF    # 04 Jul 1995, Pamplona  -- Torino
- 8  Oihan Sancet (ESP)             MF    # 25 Apr 2000, Iruñea  -- Athletic Bilbao B
-14  Dani García (ESP)              MF    # 24 May 1990, Zumarraga  -- Eibar
-16  Iñigo Ruiz de Galarreta (ESP)   MF    # 06 Aug 1993, San Sebastián  -- Mallorca
-21  Ander Herrera (ESP)            MF    # 14 Aug 1989, Bilbao  -- Paris St-Germain
-22  Raúl García (ESP)              MF    # 11 Jul 1986, Pamplona  -- Atlético Madrid
-24  Beñat Prados (ESP)             MF    # 08 Feb 2001, Pamplona  -- Athletic Bilbao B
-28  Junior Bita (ESP)              MF    # 08 Jun 2005, Adzopé  -- Athletic Bilbao B
-30  Unai Gómez (ESP)               MF    # 25 May 2003, Bermeo  -- Athletic Bilbao B
-31  Mikel Jauregizar (ESP)         MF    # 13 Nov 2003, Bilbao  -- Athletic Bilbao B
+  6,  Mikel Vesga,                       MF,   b. 1993,   Alavés B
+  7,  Alex Berenguer,                    MF,   b. 1995,   Torino
+  8,  Oihan Sancet,                      MF,   b. 2000,   Athletic Bilbao B
+ 14,  Dani García,                       MF,   b. 1990,   Eibar
+ 16,  Iñigo Ruiz de Galarreta,           MF,   b. 1993,   Mallorca
+ 21,  Ander Herrera,                     MF,   b. 1989,   Paris St-Germain
+ 22,  Raúl García,                       MF,   b. 1986,   Atlético Madrid
+ 24,  Beñat Prados,                      MF,   b. 2001,   Athletic Bilbao B
+ 28,  Junior Bita,                       MF,   b. 2005,   Athletic Bilbao B
+ 30,  Unai Gómez,                        MF,   b. 2003,   Athletic Bilbao B
+ 31,  Mikel Jauregizar,                  MF,   b. 2003,   Athletic Bilbao B
 
- 9  Iñaki Williams (GHA)           FW    # 15 Jun 1994, Bilbao  -- Athletic Bilbao B
-10  Iker Muniain (ESP)             FW    # 19 Dec 1992, Pamplona  -- Athletic Bilbao B
-11  Nico Williams (ESP)            FW    # 12 Jul 2002, Pamplona  -- Athletic Bilbao B
-12  Gorka Guruzeta (ESP)           FW    # 12 Sep 1996, San Sebastián  -- Amorebieta
-20  Asier Villalibre (ESP)         FW    # 30 Sep 1997, Guernica  -- Basconia
-23  Malcom Adu Ares (ESP)          FW    # 12 Oct 2001, Bilbao  -- Athletic Bilbao B
-33  Aingeru Olabarrieta (ESP)      FW    # 14 Nov 2005, Luiaondo  -- Athletic Bilbao B
+  9,  Iñaki Williams (GHA),              FW,   b. 1994,   Athletic Bilbao B
+ 10,  Iker Muniain,                      FW,   b. 1992,   Athletic Bilbao B
+ 11,  Nico Williams,                     FW,   b. 2002,   Athletic Bilbao B
+ 12,  Gorka Guruzeta,                    FW,   b. 1996,   Amorebieta
+ 20,  Asier Villalibre,                  FW,   b. 1997,   Basconia
+ 23,  Malcom Adu Ares,                   FW,   b. 2001,   Athletic Bilbao B
+ 33,  Aingeru Olabarrieta,               FW,   b. 2005,   Athletic Bilbao B

@@ -1,37 +1,37 @@
-= Girona Fútbol Club    # Girona
+=  Girona FC - Primera División de España 2023/24
 
- 1  Juan Carlos (ESP)              GK    # 20 Jan 1988, Guadalajara  -- Lugo
-13  Paulo Gazzaniga (ARG)          GK    # 02 Jan 1992, Murphy  -- Fulham
-26  Toni Fuidias (ESP)             GK    # 15 Apr 2001, Berga  -- Real Madrid B
+  1,  Juan Carlos,                       GK,   b. 1988,   Lugo
+ 13,  Paulo Gazzaniga (ARG),             GK,   b. 1992,   Fulham
+ 26,  Toni Fuidias,                      GK,   b. 2001,   Real Madrid B
 
- 3  Miguel Gutiérrez (ESP)         DF    # 27 Jul 2001, Madrid  -- Real Madrid B
- 4  Arnau Martínez (ESP)           DF    # 25 Apr 2003, Premià de Dalt  -- Girona B
-11  Valery Fernández (ESP)         DF    # 23 Nov 1999, L'Escala  -- Girona B
-15  Juanpe (ESP)                   DF    # 30 Apr 1991, Las Palmas  -- Granada
-17  Daley Blind (NED)              DF    # 09 Mar 1990, Amsterdam  -- Bayern Munich
-20  Yan Couto (BRA)                DF    # 03 Jun 2002, Curitiba  -- Manchester C
-25  Eric García (ESP)              DF    # 09 Jan 2001, Barcelona  -- Barcelona
-35  Antal Yaakobishvili (HUN)      DF    # 12 Jul 2004, Budapest  -- Atlètic Sant Just
+  3,  Miguel Gutiérrez,                  DF,   b. 2001,   Real Madrid B
+  4,  Arnau Martínez,                    DF,   b. 2003,   Girona B
+ 11,  Valery Fernández,                  DF,   b. 1999,   Girona B
+ 15,  Juanpe,                            DF,   b. 1991,   Granada
+ 17,  Daley Blind (NED),                 DF,   b. 1990,   Bayern Munich
+ 20,  Yan Couto (BRA),                   DF,   b. 2002,   Manchester C
+ 25,  Eric García,                       DF,   b. 2001,   Barcelona
+ 35,  Antal Yaakobishvili (HUN),         DF,   b. 2004,   Atlètic Sant Just
 
- 5  David López (ESP)              MF    # 09 Oct 1989, Barcelona  -- Espanyol
- 8  Viktor Tsyhankov (UKR)         MF    # 15 Nov 1997, Nahariya  -- Dynamo Kyiv
-10  Borja (ESP)                    MF    # 02 Nov 1990, Torremocha de Jarama  -- Huesca
-14  Aleix García (ESP)             MF    # 28 Jun 1997, Ulldecona  -- Eibar
-18  Pablo Torre (ESP)              MF    # 03 Apr 2003, Soto de la Marina  -- Barcelona B
-19  Toni Villa (ESP)               MF    # 07 Jan 1995, Murcia  -- Valladolid
-21  Yangel Herrera (VEN)           MF    # 07 Jan 1998, La Guaira  -- Manchester C
-22  Jhon Solís (COL)               MF    # 03 Oct 2004, Guacarí  -- Atlético Nacional
-23  Iván Martín (ESP)              MF    # 14 Feb 1999, Bilbao  -- Villarreal B
-28  Selvi (ESP)                    MF    # 29 Jan 2005, El Pinell de Brai  -- Girona B
-30  Iker Almena (ESP)              MF    # 04 May 2004, L'Hospitalet de Llobregat  -- Girona B
-36  Ricard Artero (ESP)            MF    # 05 Feb 2003, La Bisbal d'Empordà  -- Girona B
+  5,  David López,                       MF,   b. 1989,   Espanyol
+  8,  Viktor Tsyhankov (UKR),            MF,   b. 1997,   Dynamo Kyiv
+ 10,  Borja,                             MF,   b. 1990,   Huesca
+ 14,  Aleix García,                      MF,   b. 1997,   Eibar
+ 18,  Pablo Torre,                       MF,   b. 2003,   Barcelona B
+ 19,  Toni Villa,                        MF,   b. 1995,   Valladolid
+ 21,  Yangel Herrera (VEN),              MF,   b. 1998,   Manchester C
+ 22,  Jhon Solís (COL),                  MF,   b. 2004,   Atlético Nacional
+ 23,  Iván Martín,                       MF,   b. 1999,   Villarreal B
+ 28,  Selvi,                             MF,   b. 2005,   Girona B
+ 30,  Iker Almena,                       MF,   b. 2004,   Girona B
+ 36,  Ricard Artero,                     MF,   b. 2003,   Girona B
 
- 7  Cristhian Stuani (URU)         FW    # 12 Oct 1986, Tala  -- Middlesbrough
- 9  Artem Dovbyk (UKR)             FW    # 21 Jun 1997, Cherkasy  -- Dnipro-1
-16  Sávio (BRA)                    FW    # 10 Apr 2004, Duque de Caxias  -- Troyes
-24  Portu (ESP)                    FW    # 21 May 1992, Murcia  -- Getafe
-29  Álex Almansa (ESP)             FW    # 08 Nov 2003  -- Girona B
-31  Jastin García (ESP)            FW    # 15 Jan 2004, Lleida  -- Girona B
-32  Enric García (ESP)             FW    # 28 Feb 2006  -- Girona B
-34  Juan Arango Jr (VEN)           FW    # 27 Jun 2006, Calvià  -- Girona B
-40  Carles Garrido (ESP)           FW    # 04 Oct 2004, Barcelona  -- Cornellà
+  7,  Cristhian Stuani (URU),            FW,   b. 1986,   Middlesbrough
+  9,  Artem Dovbyk (UKR),                FW,   b. 1997,   Dnipro-1
+ 16,  Sávio (BRA),                       FW,   b. 2004,   Troyes
+ 24,  Portu,                             FW,   b. 1992,   Getafe
+ 29,  Álex Almansa,                      FW,   b. 2003,   Girona B
+ 31,  Jastin García,                     FW,   b. 2004,   Girona B
+ 32,  Enric García,                      FW,   b. 2006,   Girona B
+ 34,  Juan Arango Jr (VEN),              FW,   b. 2006,   Girona B
+ 40,  Carles Garrido,                    FW,   b. 2004,   Cornellà

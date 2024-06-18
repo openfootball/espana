@@ -1,31 +1,31 @@
-= Rayo Vallecano de Madrid    # Rayo Vallecano
+=  Rayo Vallecano - Primera División de España 2023/24
 
- 1  Stole Dimitrievski (MKD)       GK    # 23 Dec 1993, Kumanovo  -- Nàstic
-13  Dani Cárdenas (ESP)            GK    # 28 Mar 1997, Terrassa  -- Levante
+  1,  Stole Dimitrievski (MKD),          GK,   b. 1993,   Nàstic
+ 13,  Dani Cárdenas,                     GK,   b. 1997,   Levante
 
- 2  Andrei Rațiu (ROU)             DF    # 20 Jun 1998, Aiud  -- Huesca
- 3  Pep Chavarria (ESP)            DF    # 10 Apr 1998, Figueres  -- Zaragoza
- 4  Martín Pascual (ESP)           DF    # 04 Aug 1999, Madrid  -- Rayo B
- 5  Aridane (ESP)                  DF    # 23 Mar 1989, Fuerteventura  -- Osasuna
-12  Alfonso Espino (URU)           DF    # 05 Jan 1992, San Jacinto  -- Cádiz
-16  Abdul Mumin (GHA)              DF    # 06 Jun 1998  -- Vitória Guimarães
-20  Iván Balliu (ALB)              DF    # 01 Jan 1992, Caldes de Malavella  -- Almería
-24  Florian Lejeune (FRA)          DF    # 20 May 1991, Paris  -- Alavés
-29  Diego Méndez (ESP)             DF    # 29 Aug 2003, Móstoles  -- Rayo B
+  2,  Andrei Rațiu (ROU),                DF,   b. 1998,   Huesca
+  3,  Pep Chavarria,                     DF,   b. 1998,   Zaragoza
+  4,  Martín Pascual,                    DF,   b. 1999,   Rayo B
+  5,  Aridane,                           DF,   b. 1989,   Osasuna
+ 12,  Alfonso Espino (URU),              DF,   b. 1992,   Cádiz
+ 16,  Abdul Mumin (GHA),                 DF,   b. 1998,   Vitória Guimarães
+ 20,  Iván Balliu (ALB),                 DF,   b. 1992,   Almería
+ 24,  Florian Lejeune (FRA),             DF,   b. 1991,   Alavés
+ 29,  Diego Méndez,                      DF,   b. 2003,   Rayo B
 
- 6  José Ángel Pozo (ESP)          MF    # 15 Mar 1996, Málaga  -- Almería
- 7  Isi Palazón (ESP)              MF    # 27 Dec 1994, Cieza  -- Ponferradina
-10  Bebé (CPV)                     MF    # 12 Jul 1990, Agualva-Cacém  -- Eibar
-11  Randy Nteka (FRA)              MF    # 06 Dec 1997, Paris  -- Fuenlabrada
-14  Kike Pérez (ESP)               MF    # 14 Feb 1997, Gálvez  -- Valladolid
-15  Miguel Crespo (POR)            MF    # 11 Sep 1996, Lyon  -- Fenerbahçe
-17  Unai López (ESP)               MF    # 30 Oct 1995, Errenteria  -- Athletic Bilbao
-18  Álvaro García (ESP)            MF    # 27 Oct 1992, Utrera  -- Cádiz
-21  Pathé Ciss (SEN)               MF    # 16 Mar 1994, Dakar  -- Fuenlabrada
-23  Óscar Valentín (ESP)           MF    # 20 Aug 1994, Ajofrín  -- Rayo Majadahonda
+  6,  José Ángel Pozo,                   MF,   b. 1996,   Almería
+  7,  Isi Palazón,                       MF,   b. 1994,   Ponferradina
+ 10,  Bebé (CPV),                        MF,   b. 1990,   Eibar
+ 11,  Randy Nteka (FRA),                 MF,   b. 1997,   Fuenlabrada
+ 14,  Kike Pérez,                        MF,   b. 1997,   Valladolid
+ 15,  Miguel Crespo (POR),               MF,   b. 1996,   Fenerbahçe
+ 17,  Unai López,                        MF,   b. 1995,   Athletic Bilbao
+ 18,  Álvaro García,                     MF,   b. 1992,   Cádiz
+ 21,  Pathé Ciss (SEN),                  MF,   b. 1994,   Fuenlabrada
+ 23,  Óscar Valentín,                    MF,   b. 1994,   Rayo Majadahonda
 
- 8  Óscar Trejo (ARG)              FW    # 26 Apr 1988, Santiago del Estero  -- Toulouse
- 9  Radamel Falcao García (COL)    FW    # 10 Feb 1986, Santa Marta  -- Galatasaray
-19  Jorge De Frutos (ESP)          FW    # 20 Feb 1997, Navares de Enmedio  -- Levante
-22  Raúl de Tomás (ESP)            FW    # 17 Oct 1994, Madrid  -- Espanyol
-34  Sergio Camello (ESP)           FW    # 10 Feb 2001, Madrid  -- Atlético Madrid B
+  8,  Óscar Trejo (ARG),                 FW,   b. 1988,   Toulouse
+  9,  Radamel Falcao García (COL),       FW,   b. 1986,   Galatasaray
+ 19,  Jorge De Frutos,                   FW,   b. 1997,   Levante
+ 22,  Raúl de Tomás,                     FW,   b. 1994,   Espanyol
+ 34,  Sergio Camello,                    FW,   b. 2001,   Atlético Madrid B

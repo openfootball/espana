@@ -1,39 +1,39 @@
-= Getafe Club de Fútbol    # Getafe
+=  Getafe CF - Primera División de España 2023/24
 
- 1  Daniel Fuzato (BRA)            GK    # 04 Jul 1997, Santa Bárbara d'Oeste  -- Ibiza
-13  David Soria (ESP)              GK    # 04 Apr 1993, Madrid  -- Sevilla
-35  Jorge Benito (ESP)             GK    # 06 Jun 2006  -- Getafe B
-40  Djordjije Medenica (CZE)       GK    # 17 Nov 2006  -- Dukla Prague
+  1,  Daniel Fuzato (BRA),               GK,   b. 1997,   Ibiza
+ 13,  David Soria,                       GK,   b. 1993,   Sevilla
+ 35,  Jorge Benito,                      GK,   b. 2006,   Getafe B
+ 40,  Djordjije Medenica (CZE),          GK,   b. 2006,   Dukla Prague
 
- 2  Dakonam Djené (TOG)            DF    # 31 Dec 1991, Dapaong  -- Sint-Truiden
- 3  Fabrizio Angileri (ARG)        DF    # 15 Mar 1994, Junin  -- River Plate
- 4  Gastón Álvarez (URU)           DF    # 24 Mar 2000, Melo  -- Boston River
- 6  Domingos Duarte (POR)          DF    # 10 Mar 1995, Cascais  -- Granada
-15  Omar Alderete (PAR)            DF    # 26 Dec 1996, Asunción  -- Hertha Berlin
-16  Diego Rico (ESP)               DF    # 23 Feb 1993, Burgos  -- Real Sociedad
-18  José Ángel Carmona (ESP)       DF    # 29 Jan 2002, El Viso del Alcor  -- Sevilla B
-21  Juan Iglesias (ESP)            DF    # 03 Jul 1998, Valladolid  -- Logroñés
-27  Gorka Rivera (ESP)             DF    # 01 Aug 2004, Leganés  -- Getafe B
-30  Nabil Aberdin (FRA)            DF    # 23 Aug 2002, Paris  -- Rayo Majadahonda
-32  Jordi Martín (ESP)             DF    # 05 Jan 2001, Madrid  -- Real Madrid B
-33  Alejandro Herranz (ESP)        DF    # 26 Nov 2004  -- Getafe B
-34  Sergio Gimeno (ESP)            DF    # 25 May 2001  -- Sanse
+  2,  Dakonam Djené (TOG),               DF,   b. 1991,   Sint-Truiden
+  3,  Fabrizio Angileri (ARG),           DF,   b. 1994,   River Plate
+  4,  Gastón Álvarez (URU),              DF,   b. 2000,   Boston River
+  6,  Domingos Duarte (POR),             DF,   b. 1995,   Granada
+ 15,  Omar Alderete (PAR),               DF,   b. 1996,   Hertha Berlin
+ 16,  Diego Rico,                        DF,   b. 1993,   Real Sociedad
+ 18,  José Ángel Carmona,                DF,   b. 2002,   Sevilla B
+ 21,  Juan Iglesias,                     DF,   b. 1998,   Logroñés
+ 27,  Gorka Rivera,                      DF,   b. 2004,   Getafe B
+ 30,  Nabil Aberdin (FRA),               DF,   b. 2002,   Rayo Majadahonda
+ 32,  Jordi Martín,                      DF,   b. 2001,   Real Madrid B
+ 33,  Alejandro Herranz,                 DF,   b. 2004,   Getafe B
+ 34,  Sergio Gimeno,                     DF,   b. 2001,   Sanse
 
- 5  Luis Milla (ESP)               MF    # 07 Oct 1994, Madrid  -- Granada
- 8  Mauro Arambarri (URU)          MF    # 30 Sep 1995, Salto  -- Boston River
- 9  Óscar (ESP)                    MF    # 28 Jun 1998, Talavera de la Reina  -- Sevilla
-11  Carles Aleñà (ESP)             MF    # 05 Jan 1998, Mataró  -- Barcelona
-20  Nemanja Maksimović (SRB)       MF    # 26 Jan 1995, Banja Koviljača  -- Valencia
-24  Ilaix Moriba (GUI)             MF    # 19 Jan 2003, Conakry  -- RB Leipzig
-25  Yellu (ESP)                    MF    # 25 May 2004, Murcia  -- Valencia B
-26  John Patrick Finn (ESP)        MF    # 24 Sep 2003, Madrid  -- Getafe B
-28  Santi García (ESP)             MF    # 29 Aug 2001, Madrid  -- Getafe B
-29  Facundo Esnaider (ESP)         MF    # 09 Nov 2001, Porto  -- Rayo Majadahonda
-36  Diego López (ESP)              MF    # 21 Oct 2001  -- Torrejón
-37  Alberto Risco (ESP)            MF    # 30 Aug 2005  -- Getafe B
+  5,  Luis Milla,                        MF,   b. 1994,   Granada
+  8,  Mauro Arambarri (URU),             MF,   b. 1995,   Boston River
+  9,  Óscar,                             MF,   b. 1998,   Sevilla
+ 11,  Carles Aleñà,                      MF,   b. 1998,   Barcelona
+ 20,  Nemanja Maksimović (SRB),          MF,   b. 1995,   Valencia
+ 24,  Ilaix Moriba (GUI),                MF,   b. 2003,   RB Leipzig
+ 25,  Yellu,                             MF,   b. 2004,   Valencia B
+ 26,  John Patrick Finn,                 MF,   b. 2003,   Getafe B
+ 28,  Santi García,                      MF,   b. 2001,   Getafe B
+ 29,  Facundo Esnaider,                  MF,   b. 2001,   Rayo Majadahonda
+ 36,  Diego López,                       MF,   b. 2001,   Torrejón
+ 37,  Alberto Risco,                     MF,   b. 2005,   Getafe B
 
- 7  Jaime Mata (ESP)               FW    # 24 Oct 1988, Madrid  -- Valladolid
-12  Mason Greenwood (ENG)          FW    # 01 Oct 2001, Bradford  -- Manchester U
-14  Juanmi Latasa (ESP)            FW    # 23 Mar 2001, Madrid  -- Real Madrid B
-19  Borja Mayoral (ESP)            FW    # 05 Apr 1997, Parla  -- Real Madrid
-31  Yassin Tallal (MAR)            FW    # 03 Mar 2005, Madrid  -- Rayo Majadahonda
+  7,  Jaime Mata,                        FW,   b. 1988,   Valladolid
+ 12,  Mason Greenwood (ENG),             FW,   b. 2001,   Manchester U
+ 14,  Juanmi Latasa,                     FW,   b. 2001,   Real Madrid B
+ 19,  Borja Mayoral,                     FW,   b. 1997,   Real Madrid
+ 31,  Yassin Tallal (MAR),               FW,   b. 2005,   Rayo Majadahonda

@@ -1,41 +1,41 @@
-= Granada Club de Fútbol    # Granada
+=  Granada CF - Primera División de España 2023/24
 
- 1  Raúl (ESP)                     GK    # 13 Mar 1988, Bilbao  -- Las Palmas
-13  Marc Martínez (ESP)            GK    # 04 Apr 1990, Barcelona  -- Cartagena
-25  Augusto Batalla (ARG)          GK    # 30 Apr 1996, Florencio Varela  -- River Plate
-31  Adrián López (ESP)             GK    # 09 Jan 1999, Barcelona  -- Hércules
-34  Pol Tristán (ESP)              GK    # 18 Mar 2002, Barcelona  -- Algeciras
-35  Fran Árbol (ESP)               GK    # 30 Jun 2006, Granada  -- Granada B
+  1,  Raúl,                              GK,   b. 1988,   Las Palmas
+ 13,  Marc Martínez,                     GK,   b. 1990,   Cartagena
+ 25,  Augusto Batalla (ARG),             GK,   b. 1996,   River Plate
+ 31,  Adrián López,                      GK,   b. 1999,   Hércules
+ 34,  Pol Tristán,                       GK,   b. 2002,   Algeciras
+ 35,  Fran Árbol,                        GK,   b. 2006,   Granada B
 
- 2  Bruno Méndez (URU)             DF    # 10 Sep 1999, Montevideo  -- Corinthians
- 3  Faitout Maouassa (FRA)         DF    # 06 Jul 1998, Villepinte  -- Club Brugge
- 4  Miguel Rubio (ESP)             DF    # 11 Mar 1998, Leganés  -- Getafe
- 5  Jesús Vallejo (ESP)            DF    # 05 Jan 1997, Zaragoza  -- Real Madrid
-12  Ricard Sánchez (ESP)           DF    # 22 Feb 2000, Sant Jaume dels Domenys  -- Atlético Madrid B
-14  Ignasi Miquel (ESP)            DF    # 28 Sep 1992, Corbera de Llobregat  -- Getafe
-15  Carlos Neva (ESP)              DF    # 12 Jun 1996, El Puerto de Santa María  -- Marbella
-16  Víctor Díaz (ESP)              DF    # 12 Jun 1988, Huelva  -- Leganés
-22  Kamil Piątkowski (POL)         DF    # 21 Jun 2000, Jasło  -- Red Bull Salzburg
-32  Miki Bosch (ESP)               DF    # 09 Jun 2001, Alginet  -- Valencia B
-39  Miguel Brau (ESP)              DF    # 27 Dec 2001, Cartagena  -- Granada B
+  2,  Bruno Méndez (URU),                DF,   b. 1999,   Corinthians
+  3,  Faitout Maouassa (FRA),            DF,   b. 1998,   Club Brugge
+  4,  Miguel Rubio,                      DF,   b. 1998,   Getafe
+  5,  Jesús Vallejo,                     DF,   b. 1997,   Real Madrid
+ 12,  Ricard Sánchez,                    DF,   b. 2000,   Atlético Madrid B
+ 14,  Ignasi Miquel,                     DF,   b. 1992,   Getafe
+ 15,  Carlos Neva,                       DF,   b. 1996,   Marbella
+ 16,  Víctor Díaz,                       DF,   b. 1988,   Leganés
+ 22,  Kamil Piątkowski (POL),            DF,   b. 2000,   Red Bull Salzburg
+ 32,  Miki Bosch,                        DF,   b. 2001,   Valencia B
+ 39,  Miguel Brau,                       DF,   b. 2001,   Granada B
 
- 6  Martin Hongla (CMR)            MF    # 16 Mar 1998, Yaoundé  -- Verona
-10  Antonio Puertas (ESP)          MF    # 21 Feb 1992, Benahadux  -- Almería
-11  Myrto Uzuni (ALB)              MF    # 31 May 1995, Berat  -- Ferencváros
-18  Kamil Jóźwiak (POL)            MF    # 22 Apr 1998, Międzyrzecz  -- Charlotte FC
-19  Facundo Pellistri (URU)        MF    # 20 Dec 2001, Montevideo  -- Manchester U
-20  Sergio Ruiz (ESP)              MF    # 16 Dec 1994, El Astillero  -- Charlotte FC
-21  Óscar Melendo (ESP)            MF    # 23 Aug 1997, Barcelona  -- Espanyol
-23  Gerard Gumbau (ESP)            MF    # 18 Dec 1994, Campllong  -- Elche
-24  Gonzalo Villar (ESP)           MF    # 23 Mar 1998, Murcia  -- Roma
-27  Mario González (ESP)           MF    # 05 Feb 2004, Málaga  -- Granada B
-28  Raúl Torrente (ESP)            MF    # 01 Mar 2001, Murcia  -- Granada B
-36  Lassina Sangaré (CIV)          MF    # 20 Nov 2001, Séguéla  -- Talavera
+  6,  Martin Hongla (CMR),               MF,   b. 1998,   Verona
+ 10,  Antonio Puertas,                   MF,   b. 1992,   Almería
+ 11,  Myrto Uzuni (ALB),                 MF,   b. 1995,   Ferencváros
+ 18,  Kamil Jóźwiak (POL),               MF,   b. 1998,   Charlotte FC
+ 19,  Facundo Pellistri (URU),           MF,   b. 2001,   Manchester U
+ 20,  Sergio Ruiz,                       MF,   b. 1994,   Charlotte FC
+ 21,  Óscar Melendo,                     MF,   b. 1997,   Espanyol
+ 23,  Gerard Gumbau,                     MF,   b. 1994,   Elche
+ 24,  Gonzalo Villar,                    MF,   b. 1998,   Roma
+ 27,  Mario González,                    MF,   b. 2004,   Granada B
+ 28,  Raúl Torrente,                     MF,   b. 2001,   Granada B
+ 36,  Lassina Sangaré (CIV),             MF,   b. 2001,   Talavera
 
- 7  Lucas Boyé (ARG)               FW    # 28 Feb 1996, San Gregorio  -- Elche
- 8  Matías Arezo (URU)             FW    # 21 Nov 2002, Montevideo  -- River Plate [URU]
- 9  José Callejón (ESP)            FW    # 11 Feb 1987, Motril  -- Fiorentina
-17  Theo Corbeanu (CAN)            FW    # 17 May 2002, Burlington  -- Wolverhampton W
-26  Sergio Rodelas (ESP)           FW    # 01 Dec 2004, Granada  -- Granada B
-33  Pablo Sáenz (ESP)              FW    # 22 May 2001, San Adrián  -- Calahorra
-37  Eghosa Bello (NGA)             FW    # 17 Mar 2004, Benin City  -- Granada B
+  7,  Lucas Boyé (ARG),                  FW,   b. 1996,   Elche
+  8,  Matías Arezo (URU),                FW,   b. 2002,   River Plate [URU]
+  9,  José Callejón,                     FW,   b. 1987,   Fiorentina
+ 17,  Theo Corbeanu (CAN),               FW,   b. 2002,   Wolverhampton W
+ 26,  Sergio Rodelas,                    FW,   b. 2004,   Granada B
+ 33,  Pablo Sáenz,                       FW,   b. 2001,   Calahorra
+ 37,  Eghosa Bello (NGA),                FW,   b. 2004,   Granada B

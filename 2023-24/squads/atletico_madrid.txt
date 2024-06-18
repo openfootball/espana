@@ -1,48 +1,48 @@
-= Club Atlético de Madrid    # Atlético Madrid
+=  Atlético Madrid - Primera División de España 2023/24
 
- 1  Horaţiu Moldovan (ROU)         GK    # 20 Jan 1998, Cluj-Napoca  -- Rapid București
-13  Jan Oblak (SVN)                GK    # 07 Jan 1993, Škofja Loka  -- Benfica
-31  Antonio Gomis (ESP)            GK    # 20 May 2003, Elche  -- Atlético Madrid B
-33  Alejandro Iturbe (ESP)         GK    # 02 Sep 2003, Madrid  -- Atlético Madrid B
-35  Sergio Mestre (ESP)            GK    # 13 Feb 2005, Madrid  -- Atlético Madrid B
-51  Salvi Esquivel (ESP)           GK    # 30 Sep 2005, Estepona  -- Atlético Madrid B
+  1,  Horaţiu Moldovan (ROU),            GK,   b. 1998,   Rapid București
+ 13,  Jan Oblak (SVN),                   GK,   b. 1993,   Benfica
+ 31,  Antonio Gomis,                     GK,   b. 2003,   Atlético Madrid B
+ 33,  Alejandro Iturbe,                  GK,   b. 2003,   Atlético Madrid B
+ 35,  Sergio Mestre,                     GK,   b. 2005,   Atlético Madrid B
+ 51,  Salvi Esquivel,                    GK,   b. 2005,   Atlético Madrid B
 
- 2  José Giménez (URU)             DF    # 20 Jan 1995, Toledo  -- Danubio
- 3  César Azpilicueta (ESP)        DF    # 28 Aug 1989, Pamplona  -- Chelsea
- 4  Gabriel Paulista (BRA)         DF    # 26 Nov 1990, São Paulo  -- Valencia
-15  Stefan Savić (MNE)             DF    # 08 Jan 1991, Mojkovac  -- Fiorentina
-16  Nahuel Molina (ARG)            DF    # 02 Dec 1997, Embalse  -- Udinese
-22  Mario Hermoso (ESP)            DF    # 18 Jun 1995, Madrid  -- Espanyol
-23  Reinildo Mandava (MOZ)         DF    # 21 Jan 1994, Beira  -- Lille
-27  Ilias Kostis (GRE)             DF    # 27 Feb 2003, Thessaloniki  -- APOEL
-28  Marco Moreno (ESP)             DF    # 20 Feb 2001, Las Palmas  -- Atlético Madrid B
-29  Javier Boñar (ESP)             DF    # 03 Jun 2005, Madrid  -- Atlético Madrid B
-49  Darío Frey (ESP)               DF    # 02 Apr 2005, Madrid  -- Atlético Madrid B
-53  Javier Díaz (ESP)              DF    # 21 Jan 2006, Madrid  -- Atlético Madrid B
+  2,  José Giménez (URU),                DF,   b. 1995,   Danubio
+  3,  César Azpilicueta,                 DF,   b. 1989,   Chelsea
+  4,  Gabriel Paulista (BRA),            DF,   b. 1990,   Valencia
+ 15,  Stefan Savić (MNE),                DF,   b. 1991,   Fiorentina
+ 16,  Nahuel Molina (ARG),               DF,   b. 1997,   Udinese
+ 22,  Mario Hermoso,                     DF,   b. 1995,   Espanyol
+ 23,  Reinildo Mandava (MOZ),            DF,   b. 1994,   Lille
+ 27,  Ilias Kostis (GRE),                DF,   b. 2003,   APOEL
+ 28,  Marco Moreno,                      DF,   b. 2001,   Atlético Madrid B
+ 29,  Javier Boñar,                      DF,   b. 2005,   Atlético Madrid B
+ 49,  Darío Frey,                        DF,   b. 2005,   Atlético Madrid B
+ 53,  Javier Díaz,                       DF,   b. 2006,   Atlético Madrid B
 
- 5  Rodrigo De Paul (ARG)          MF    # 24 May 1994, Sarandí  -- Udinese
- 6  Koke (ESP)                     MF    # 08 Jan 1992, Madrid  -- Atlético Madrid B
- 8  Saúl Ñiguez (ESP)              MF    # 21 Nov 1994, Elche  -- Atlético Madrid B
-11  Thomas Lemar (FRA)             MF    # 12 Nov 1995, Baie-Mahault  -- Monaco
-14  Marcos Llorente (ESP)          MF    # 30 Jan 1995, Madrid  -- Real Madrid
-18  Arthur Vermeeren (BEL)         MF    # 07 Feb 2005, Lier  -- Royal Antwerp
-20  Axel Witsel (BEL)              MF    # 12 Jan 1989, Liège  -- Borussia Dortmund
-24  Pablo Barrios (ESP)            MF    # 15 Jun 2003, Madrid  -- Atlético Madrid B
-26  Aitor Gismera (ESP)            MF    # 21 Feb 2004, Getafe  -- Atlético Madrid B
-40  Mini (ESP)                     MF    # 13 Jan 1999, Alameda  -- Málaga
-46  Julio Díaz (ESP)               MF    # 10 Jan 2005, San Fernando de Henares  -- Atlético Madrid B
-48  Jorge Castellanos (ESP)        MF    # 05 Oct 2005, Madrid  -- Atlético Madrid B
-50  Dani Muñoz (ESP)               MF    # 16 Jul 2006, Málaga  -- Atlético Madrid B
+  5,  Rodrigo De Paul (ARG),             MF,   b. 1994,   Udinese
+  6,  Koke,                              MF,   b. 1992,   Atlético Madrid B
+  8,  Saúl Ñiguez,                       MF,   b. 1994,   Atlético Madrid B
+ 11,  Thomas Lemar (FRA),                MF,   b. 1995,   Monaco
+ 14,  Marcos Llorente,                   MF,   b. 1995,   Real Madrid
+ 18,  Arthur Vermeeren (BEL),            MF,   b. 2005,   Royal Antwerp
+ 20,  Axel Witsel (BEL),                 MF,   b. 1989,   Borussia Dortmund
+ 24,  Pablo Barrios,                     MF,   b. 2003,   Atlético Madrid B
+ 26,  Aitor Gismera,                     MF,   b. 2004,   Atlético Madrid B
+ 40,  Mini,                              MF,   b. 1999,   Málaga
+ 46,  Julio Díaz,                        MF,   b. 2005,   Atlético Madrid B
+ 48,  Jorge Castellanos,                 MF,   b. 2005,   Atlético Madrid B
+ 50,  Dani Muñoz,                        MF,   b. 2006,   Atlético Madrid B
 
- 7  Antoine Griezmann (FRA)        FW    # 21 Mar 1991, Mâcon  -- Barcelona
- 9  Memphis Depay (NED)            FW    # 13 Feb 1994, Moordrecht  -- Barcelona
-10  Ángel Correa (ARG)             FW    # 09 Mar 1995, Rosario  -- San Lorenzo
-12  Samuel Lino (BRA)              FW    # 23 Dec 1999, Santo André  -- Gil Vicente
-17  Rodrigo Riquelme (ESP)         FW    # 02 Apr 2000, Madrid  -- Atlético Madrid B
-19  Álvaro Morata (ESP)            FW    # 23 Oct 1992, Madrid  -- Chelsea
-30  Salim El Jebari (ESP)          FW    # 05 Feb 2004, Madrid  -- Atlético Madrid B
-32  Adrián Niño (ESP)              FW    # 19 Jun 2004, Rota  -- Atlético Madrid B
-36  Álex Calatrava (ESP)           FW    # 22 Jun 2000, Barcelona  -- Costa Brava
-39  Abde Raihani (MAR)             FW    # 03 Feb 2004, Barcelona  -- Damm
-45  Rayane Belaid (ALG)            FW    # 11 May 2005, Orihuela  -- Atlético Madrid B
-47  Paco Esteban (ESP)             FW    # 02 May 2006, Málaga  -- Atlético Madrid B
+  7,  Antoine Griezmann (FRA),           FW,   b. 1991,   Barcelona
+  9,  Memphis Depay (NED),               FW,   b. 1994,   Barcelona
+ 10,  Ángel Correa (ARG),                FW,   b. 1995,   San Lorenzo
+ 12,  Samuel Lino (BRA),                 FW,   b. 1999,   Gil Vicente
+ 17,  Rodrigo Riquelme,                  FW,   b. 2000,   Atlético Madrid B
+ 19,  Álvaro Morata,                     FW,   b. 1992,   Chelsea
+ 30,  Salim El Jebari,                   FW,   b. 2004,   Atlético Madrid B
+ 32,  Adrián Niño,                       FW,   b. 2004,   Atlético Madrid B
+ 36,  Álex Calatrava,                    FW,   b. 2000,   Costa Brava
+ 39,  Abde Raihani (MAR),                FW,   b. 2004,   Damm
+ 45,  Rayane Belaid (ALG),               FW,   b. 2005,   Atlético Madrid B
+ 47,  Paco Esteban,                      FW,   b. 2006,   Atlético Madrid B

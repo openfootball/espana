@@ -1,42 +1,42 @@
-= Fútbol Club Barcelona    # Barcelona
+=  FC Barcelona - Primera División de España 2023/24
 
- 1  Marc-André ter Stegen (GER)    GK    # 30 Apr 1992, Mönchengladbach  -- B Mönchengladbach
-13  Iñaki Peña (ESP)               GK    # 02 Mar 1999, Alicante  -- Barcelona B
-26  Ander Astralaga (ESP)          GK    # 03 Mar 2004, Berango  -- Barcelona B
-31  Diego Kochen (USA)             GK    # 19 Mar 2006, Miami  -- Barcelona B
-36  Áron Yaakobishvili (HUN)       GK    # 06 Mar 2006, Budapest  -- Barcelona B
+  1,  Marc-André ter Stegen (GER),       GK,   b. 1992,   B Mönchengladbach
+ 13,  Iñaki Peña,                        GK,   b. 1999,   Barcelona B
+ 26,  Ander Astralaga,                   GK,   b. 2004,   Barcelona B
+ 31,  Diego Kochen (USA),                GK,   b. 2006,   Barcelona B
+ 36,  Áron Yaakobishvili (HUN),          GK,   b. 2006,   Barcelona B
 
- 2  João Cancelo (POR)             DF    # 27 May 1994, Barreiro  -- Manchester C
- 3  Alejandro Balde (ESP)          DF    # 18 Oct 2003, Barcelona  -- Barcelona B
- 4  Ronald Araújo (URU)            DF    # 07 Mar 1999, Rivera  -- Boston River
- 5  Íñigo Martínez (ESP)           DF    # 17 May 1991, Ondarroa  -- Athletic Bilbao
-15  Andreas Christensen (DEN)      DF    # 10 Apr 1996, Allerød  -- Chelsea
-17  Marcos Alonso (ESP)            DF    # 28 Dec 1990, Madrid  -- Chelsea
-20  Sergi Roberto (ESP)            DF    # 07 Feb 1992, Reus  -- Barcelona B
-23  Jules Koundé (FRA)             DF    # 12 Nov 1998, Paris  -- Sevilla
-33  Pau Cubarsí (ESP)              DF    # 22 Jan 2007, Estanyol  -- Barcelona B
-39  Héctor Fort (ESP)              DF    # 02 Aug 2006, Barcelona  -- Barcelona B
-41  Mikayil Faye (SEN)             DF    # 14 Jul 2004, Sédhiou  -- Kustošija
-42  Gerard Martín (ESP)            DF    # 26 Feb 2002, Esplugues de Llobregat  -- Cornellà
-43  Mamadou Fall (SEN)             DF    # 21 Nov 2002, Rufisque  -- Los Angeles FC
+  2,  João Cancelo (POR),                DF,   b. 1994,   Manchester C
+  3,  Alejandro Balde,                   DF,   b. 2003,   Barcelona B
+  4,  Ronald Araújo (URU),               DF,   b. 1999,   Boston River
+  5,  Íñigo Martínez,                    DF,   b. 1991,   Athletic Bilbao
+ 15,  Andreas Christensen (DEN),         DF,   b. 1996,   Chelsea
+ 17,  Marcos Alonso,                     DF,   b. 1990,   Chelsea
+ 20,  Sergi Roberto,                     DF,   b. 1992,   Barcelona B
+ 23,  Jules Koundé (FRA),                DF,   b. 1998,   Sevilla
+ 33,  Pau Cubarsí,                       DF,   b. 2007,   Barcelona B
+ 39,  Héctor Fort,                       DF,   b. 2006,   Barcelona B
+ 41,  Mikayil Faye (SEN),                DF,   b. 2004,   Kustošija
+ 42,  Gerard Martín,                     DF,   b. 2002,   Cornellà
+ 43,  Mamadou Fall (SEN),                DF,   b. 2002,   Los Angeles FC
 
- 6  Gavi (ESP)                     MF    # 05 Aug 2004, Los Palacios y Villafranca  -- Barcelona B
- 8  Pedri (ESP)                    MF    # 25 Nov 2002, Tegueste  -- Las Palmas B
-11  Raphinha (BRA)                 MF    # 14 Feb 1996, Porto Alegre  -- Leeds U
-16  Fermín López (ESP)             MF    # 11 May 2003, El Campillo  -- Barcelona B
-18  Oriol Romeu (ESP)              MF    # 24 Sep 1991, Ulldecona  -- Girona
-21  Frenkie de Jong (NED)          MF    # 12 May 1997, Arkel  -- Ajax
-22  İlkay Gündoğan (GER)           MF    # 24 Oct 1990, Gelsenkirchen  -- Manchester C
-30  Marc Casadó (ESP)              MF    # 14 Sep 2003, Sant Pere de Vilamajor  -- Barcelona B
-34  Aleix Garrido (ESP)            MF    # 22 Feb 2004, Ripoll  -- Barcelona B
-35  Unai Hernández (ESP)           MF    # 14 Dec 2004, Badalona  -- Girona B
-37  Pau Victor (ESP)               MF    # 26 Nov 2001, Sant Cugat del Vallès  -- Girona B
-40  Pau Prim (ESP)                 MF    # 22 Feb 2006, Barcelona  -- Barcelona B
+  6,  Gavi,                              MF,   b. 2004,   Barcelona B
+  8,  Pedri,                             MF,   b. 2002,   Las Palmas B
+ 11,  Raphinha (BRA),                    MF,   b. 1996,   Leeds U
+ 16,  Fermín López,                      MF,   b. 2003,   Barcelona B
+ 18,  Oriol Romeu,                       MF,   b. 1991,   Girona
+ 21,  Frenkie de Jong (NED),             MF,   b. 1997,   Ajax
+ 22,  İlkay Gündoğan (GER),              MF,   b. 1990,   Manchester C
+ 30,  Marc Casadó,                       MF,   b. 2003,   Barcelona B
+ 34,  Aleix Garrido,                     MF,   b. 2004,   Barcelona B
+ 35,  Unai Hernández,                    MF,   b. 2004,   Girona B
+ 37,  Pau Victor,                        MF,   b. 2001,   Girona B
+ 40,  Pau Prim,                          MF,   b. 2006,   Barcelona B
 
- 7  Ferrán Torres (ESP)            FW    # 29 Feb 2000, Foios  -- Manchester C
- 9  Robert Lewandowski (POL)       FW    # 21 Aug 1988, Warsaw  -- Bayern Munich
-14  João Félix (POR)               FW    # 10 Nov 1999, Viseu  -- Atlético Madrid
-19  Vitor Roque (BRA)              FW    # 28 Feb 2005, Timóteo  -- Athletico Paranaense
-27  Lamine Yamal (ESP)             FW    # 13 Jul 2007, Esplugues de Llobregat  -- Barcelona B
-29  Ángel Alarcón (ESP)            FW    # 15 May 2004, Castelldefels  -- Barcelona B
-38  Marc Guiu (ESP)                FW    # 04 Jan 2006, Granollers  -- Barcelona B
+  7,  Ferrán Torres,                     FW,   b. 2000,   Manchester C
+  9,  Robert Lewandowski (POL),          FW,   b. 1988,   Bayern Munich
+ 14,  João Félix (POR),                  FW,   b. 1999,   Atlético Madrid
+ 19,  Vitor Roque (BRA),                 FW,   b. 2005,   Athletico Paranaense
+ 27,  Lamine Yamal,                      FW,   b. 2007,   Barcelona B
+ 29,  Ángel Alarcón,                     FW,   b. 2004,   Barcelona B
+ 38,  Marc Guiu,                         FW,   b. 2006,   Barcelona B

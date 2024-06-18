@@ -1,36 +1,36 @@
-= Unión Deportiva Almería    # Almería
+=  UD Almería - Primera División de España 2023/24
 
- 1  Diego Mariño (ESP)             GK    # 09 May 1990, Vigo  -- Sporting Gijón
-13  Fernando (ESP)                 GK    # 10 Jun 1990, Murcia  -- UCAM Murcia
-25  Luís Maximiano (POR)           GK    # 05 Jan 1999, Celeirós  -- Lazio
-37  Bruno Iribarne (ESP)           GK    # 18 Aug 2004, Almería  -- Real Madrid B
+  1,  Diego Mariño,                      GK,   b. 1990,   Sporting Gijón
+ 13,  Fernando,                          GK,   b. 1990,   UCAM Murcia
+ 25,  Luís Maximiano (POR),              GK,   b. 1999,   Lazio
+ 37,  Bruno Iribarne,                    GK,   b. 2004,   Real Madrid B
 
- 3  Edgar (ESP)                    DF    # 01 Apr 1997, Sant Joan Despí  -- Betis
-16  Aleksandar Radovanović (SRB)   DF    # 11 Nov 1993, Šabac  -- Kortrijk
-17  Álex Pozo (ESP)                DF    # 22 Feb 1999, Huévar del Aljarafe  -- Sevilla
-18  Marc Pubill (ESP)              DF    # 20 Jun 2003, Terrassa  -- Levante B
-20  Álex Centelles (ESP)           DF    # 30 Aug 1999, Valencia  -- Valencia B
-21  Chumi (ESP)                    DF    # 02 Mar 1999, Laracha  -- Barcelona B
-22  César Montes (MEX)             DF    # 24 Feb 1997, Hermosillo  -- Espanyol
-24  Bruno Langa (MOZ)              DF    # 31 Oct 1997, Maputo  -- Chaves
-27  Paco Sanz (ESP)                DF    # 15 Nov 2004, Aravaca  -- Almería B
-30  Carlos Ballestero (ESP)        DF    # 24 Apr 2004, Oviedo  -- Atlético Madrid B
-32  Miguel Peña (ESP)              DF    # 08 Mar 2001, Paterna  -- Levante B
+  3,  Edgar,                             DF,   b. 1997,   Betis
+ 16,  Aleksandar Radovanović (SRB),      DF,   b. 1993,   Kortrijk
+ 17,  Álex Pozo,                         DF,   b. 1999,   Sevilla
+ 18,  Marc Pubill,                       DF,   b. 2003,   Levante B
+ 20,  Álex Centelles,                    DF,   b. 1999,   Valencia B
+ 21,  Chumi,                             DF,   b. 1999,   Barcelona B
+ 22,  César Montes (MEX),                DF,   b. 1997,   Espanyol
+ 24,  Bruno Langa (MOZ),                 DF,   b. 1997,   Chaves
+ 27,  Paco Sanz,                         DF,   b. 2004,   Almería B
+ 30,  Carlos Ballestero,                 DF,   b. 2004,   Atlético Madrid B
+ 32,  Miguel Peña,                       DF,   b. 2001,   Levante B
 
- 4  Iddrisu Baba (GHA)             MF    # 22 Jan 1996, Accra  -- Mallorca
- 5  Lucas Robertone (ARG)          MF    # 18 Mar 1997, Concordia  -- Vélez Sarsfield
- 6  Dion Lopy (SEN)                MF    # 02 Feb 2002, Dakar  -- Reims
- 8  Jonathan Viera (ESP)           MF    # 21 Oct 1989, Las Palmas  -- Las Palmas
-11  Gonzalo Melero (ESP)           MF    # 02 Jan 1994, Madrid  -- Levante
-19  Sergio Arribas (ESP)           MF    # 30 Sep 2001, Madrid  -- Real Madrid B
-26  Marcos Peña (ESP)              MF    # 22 Jan 2005, Almería  -- Almería B
-38  Luka Romero (ARG)              MF    # 18 Nov 2004, Durango  -- Milan
+  4,  Iddrisu Baba (GHA),                MF,   b. 1996,   Mallorca
+  5,  Lucas Robertone (ARG),             MF,   b. 1997,   Vélez Sarsfield
+  6,  Dion Lopy (SEN),                   MF,   b. 2002,   Reims
+  8,  Jonathan Viera,                    MF,   b. 1989,   Las Palmas
+ 11,  Gonzalo Melero,                    MF,   b. 1994,   Levante
+ 19,  Sergio Arribas,                    MF,   b. 2001,   Real Madrid B
+ 26,  Marcos Peña,                       MF,   b. 2005,   Almería B
+ 38,  Luka Romero (ARG),                 MF,   b. 2004,   Milan
 
- 7  Largie Ramazani (BEL)          FW    # 27 Feb 2001, Sint-Agatha-Berchem  -- Manchester U
- 9  Luis Suárez (COL)              FW    # 02 Dec 1997, Santa Marta  -- Marseille
-10  Adri Embarba (ESP)             FW    # 07 May 1992, Madrid  -- Espanyol
-12  Léo Baptistão (BRA)            FW    # 26 Aug 1992, Santos  -- Santos
-15  Anthony Lozano (HON)           FW    # 25 Apr 1993, Yoro  -- Getafe
-23  Ibrahima Koné (MLI)            FW    # 16 Jun 1999, Bamako  -- Lorient
-28  Rachad Fettal (MAR)            FW    # 16 Jan 2005, Torre-Pacheco  -- Almería B
-29  Marko Milovanović (SRB)        FW    # 04 Aug 2003, Smederevo  -- Partizan Belgrade
+  7,  Largie Ramazani (BEL),             FW,   b. 2001,   Manchester U
+  9,  Luis Suárez (COL),                 FW,   b. 1997,   Marseille
+ 10,  Adri Embarba,                      FW,   b. 1992,   Espanyol
+ 12,  Léo Baptistão (BRA),               FW,   b. 1992,   Santos
+ 15,  Anthony Lozano (HON),              FW,   b. 1993,   Getafe
+ 23,  Ibrahima Koné (MLI),               FW,   b. 1999,   Lorient
+ 28,  Rachad Fettal (MAR),               FW,   b. 2005,   Almería B
+ 29,  Marko Milovanović (SRB),           FW,   b. 2003,   Partizan Belgrade
