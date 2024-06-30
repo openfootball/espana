@@ -1,100 +1,100 @@
 = Primera División de España 2022/23
 
 
-Jornada 1
-[Vie. 12.8.]
+Matchday 1
+[Fri Aug/12]
   21.00  CA Osasuna               2-1 (1-1)  Sevilla FC
-[Sáb. 13.8.]
+[Sat Aug/13]
   17.00  RC Celta Vigo            2-2 (1-0)  RCD Espanyol
   19.00  Real Valladolid CF       0-3 (0-0)  Villarreal CF
   21.00  FC Barcelona             0-0  Rayo Vallecano
-[Dom. 14.8.]
+[Sun Aug/14]
   17.30  Cádiz CF                 0-1 (0-1)  Real Sociedad
   19.30  Valencia CF              1-0 (1-0)  Girona FC
   22.00  UD Almería               1-2 (1-0)  Real Madrid
-[Lun. 15.8.]
+[Mon Aug/15]
   17.30  Athletic Club Bilbao     0-0  RCD Mallorca
   19.30  Getafe CF                0-3 (0-1)  Atlético Madrid
   21.30  Real Betis               3-0 (2-0)  Elche CF
 
 
-Jornada 2
-[Vie. 19.8.]
+Matchday 2
+[Fri Aug/19]
   20.00  RCD Espanyol             0-2 (0-1)  Rayo Vallecano
   22.00  Sevilla FC               1-1 (0-0)  Real Valladolid CF
-[Sáb. 20.8.]
+[Sat Aug/20]
   17.30  CA Osasuna               2-0 (1-0)  Cádiz CF
   19.30  RCD Mallorca             1-2 (0-1)  Real Betis
   22.00  RC Celta Vigo            1-4 (1-2)  Real Madrid
-[Dom. 21.8.]
+[Sun Aug/21]
   17.30  Athletic Club Bilbao     1-0 (1-0)  Valencia CF
   19.30  Atlético Madrid          0-2 (0-0)  Villarreal CF
   22.00  Real Sociedad            1-4 (1-1)  FC Barcelona
-[Lun. 22.8.]
+[Mon Aug/22]
   20.00  Elche CF                 1-1 (1-1)  UD Almería
   22.00  Girona FC                3-1 (1-0)  Getafe CF
 
 
-Jornada 3
-[Vie. 26.8.]
+Matchday 3
+[Fri Aug/26]
   20.00  Girona FC                0-1 (0-0)  RC Celta Vigo
   22.00  Real Betis               1-0 (1-0)  CA Osasuna
-[Sáb. 27.8.]
+[Sat Aug/27]
   17.30  Elche CF                 0-1 (0-1)  Real Sociedad
   19.30  Rayo Vallecano           0-2 (0-1)  RCD Mallorca
   22.00  UD Almería               2-1 (1-1)  Sevilla FC
-[Dom. 28.8.]
+[Sun Aug/28]
   17.30  Getafe CF                0-0  Villarreal CF
   19.30  FC Barcelona             4-0 (2-0)  Real Valladolid CF
   22.00  RCD Espanyol             1-3 (1-1)  Real Madrid
-[Lun. 29.8.]
+[Mon Aug/29]
   20.00  Cádiz CF                 0-4 (0-1)  Athletic Club Bilbao
   22.00  Valencia CF              0-1 (0-0)  Atlético Madrid
 
 
-Jornada 4
-[Vie. 2.9.]
+Matchday 4
+[Fri Sep/2]
   21.00  RC Celta Vigo            3-0 (0-0)  Cádiz CF
-[Sáb. 3.9.]
+[Sat Sep/3]
   14.00  RCD Mallorca             1-1 (0-0)  Girona FC
   16.15  Real Madrid              2-1 (1-1)  Real Betis
   18.30  Real Sociedad            1-1 (0-1)  Atlético Madrid
   21.00  Sevilla FC               0-3 (0-2)  FC Barcelona
-[Dom. 4.9.]
+[Sun Sep/4]
   14.00  CA Osasuna               2-1 (0-0)  Rayo Vallecano
   16.15  Athletic Club Bilbao     0-1 (0-0)  RCD Espanyol
   18.30  Villarreal CF            4-0 (2-0)  Elche CF
   21.00  Valencia CF              5-1 (3-0)  Getafe CF
-[Lun. 5.9.]
+[Mon Sep/5]
   21.00  Real Valladolid CF       1-0 (0-0)  UD Almería
 
 
-Jornada 5
-[Vie. 9.9.]
+Matchday 5
+[Fri Sep/9]
   21.00  Girona FC                2-1 (1-1)  Real Valladolid CF
-[Sáb. 10.9.]
+[Sat Sep/10]
   14.00  Rayo Vallecano           2-1 (1-0)  Valencia CF
   16.15  RCD Espanyol             2-3 (1-3)  Sevilla FC
   18.30  Cádiz CF                 0-4 (0-0)  FC Barcelona
   21.00  Atlético Madrid          4-1 (1-0)  RC Celta Vigo
-[Dom. 11.9.]
+[Sun Sep/11]
   14.00  Real Madrid              4-1 (1-1)  RCD Mallorca
   16.15  Elche CF                 1-4 (0-4)  Athletic Club Bilbao
   18.30  Getafe CF                2-1 (1-0)  Real Sociedad
   21.00  Real Betis               1-0 (0-0)  Villarreal CF
-[Lun. 12.9.]
+[Mon Sep/12]
   21.00  UD Almería               0-1 (0-1)  CA Osasuna
 
 
-Jornada 6
-[Vie. 16.9.]
+Matchday 6
+[Fri Sep/16]
   21.00  Real Valladolid CF       0-1 (0-0)  Cádiz CF
-[Sáb. 17.9.]
+[Sat Sep/17]
   14.00  RCD Mallorca             1-0 (1-0)  UD Almería
   16.15  FC Barcelona             3-0 (2-0)  Elche CF
   18.30  Valencia CF              3-0 (1-0)  RC Celta Vigo
   21.00  Athletic Club Bilbao     3-2 (3-1)  Rayo Vallecano
-[Dom. 18.9.]
+[Sun Sep/18]
   14.00  CA Osasuna               0-2 (0-1)  Getafe CF
   16.15  Villarreal CF            1-1 (0-1)  Sevilla FC
   18.30  Real Betis               2-1 (1-1)  Girona FC
@@ -102,340 +102,340 @@ Jornada 6
   21.00  Atlético Madrid          1-2 (0-2)  Real Madrid
 
 
-Jornada 7
-[Vie. 30.9.]
+Matchday 7
+[Fri Sep/30]
   21.00  Athletic Club Bilbao     4-0 (2-0)  UD Almería
-[Sáb. 1.10.]
+[Sat Oct/1]
   14.00  Cádiz CF                 0-0  Villarreal CF
   16.15  Getafe CF                2-3 (2-2)  Real Valladolid CF
   18.30  Sevilla FC               0-2 (0-1)  Atlético Madrid
   21.00  RCD Mallorca             0-1 (0-1)  FC Barcelona
-[Dom. 2.10.]
+[Sun Oct/2]
   14.00  RCD Espanyol             2-2 (0-0)  Valencia CF
   16.15  RC Celta Vigo            1-0 (1-0)  Real Betis
   18.30  Girona FC                3-5 (2-2)  Real Sociedad
   21.00  Real Madrid              1-1 (1-0)  CA Osasuna
-[Lun. 3.10.]
+[Mon Oct/3]
   21.00  Rayo Vallecano           2-1 (1-1)  Elche CF
 
 
-Jornada 8
-[Vie. 7.10.]
+Matchday 8
+[Fri Oct/7]
   21.00  CA Osasuna               1-2 (0-1)  Valencia CF
-[Sáb. 8.10.]
+[Sat Oct/8]
   14.00  UD Almería               3-1 (3-0)  Rayo Vallecano
   16.15  Atlético Madrid          2-1 (1-0)  Girona FC
   18.30  Sevilla FC               1-1 (1-0)  Athletic Club Bilbao
   21.00  Getafe CF                0-1 (0-1)  Real Madrid
-[Dom. 9.10.]
+[Sun Oct/9]
   14.00  Real Valladolid CF       0-0  Real Betis
   16.15  Cádiz CF                 2-2 (1-0)  RCD Espanyol
   18.30  Real Sociedad            1-0 (1-0)  Villarreal CF
   21.00  FC Barcelona             1-0 (1-0)  RC Celta Vigo
-[Lun. 10.10.]
+[Mon Oct/10]
   21.30  Elche CF                 1-1 (1-0)  RCD Mallorca
 
 
-Jornada 9
-[Vie. 14.10.]
+Matchday 9
+[Fri Oct/14]
   21.00  Rayo Vallecano           0-0  Getafe CF
-[Sáb. 15.10.]
+[Sat Oct/15]
   14.00  Girona FC                1-1 (0-0)  Cádiz CF
   16.15  Valencia CF              2-2 (2-1)  Elche CF
   18.30  RCD Mallorca             0-1 (0-0)  Sevilla FC
   21.00  Athletic Club Bilbao     0-1 (0-0)  Atlético Madrid
-[Dom. 16.10.]
+[Sun Oct/16]
   14.00  RC Celta Vigo            1-2 (1-1)  Real Sociedad
   16.15  Real Madrid              3-1 (2-0)  FC Barcelona
   18.30  RCD Espanyol             1-0 (0-0)  Real Valladolid CF
   21.00  Real Betis               3-1 (1-0)  UD Almería
-[Lun. 17.10.]
+[Mon Oct/17]
   21.00  Villarreal CF            2-0 (1-0)  CA Osasuna
 
 
-Jornada 10
-[Mar. 18.10.]
+Matchday 10
+[Tue Oct/18]
   19.00  Sevilla FC               1-1 (0-1)  Valencia CF
   20.00  Getafe CF                2-2 (1-1)  Athletic Club Bilbao
   21.00  Atlético Madrid          1-1 (1-0)  Rayo Vallecano
-[Mié. 19.10.]
+[Wed Oct/19]
   19.00  Cádiz CF                 0-0  Real Betis
          Real Valladolid CF       4-1 (1-1)  RC Celta Vigo
   20.00  Real Sociedad            1-0 (1-0)  RCD Mallorca
   21.00  Elche CF                 0-3 (0-1)  Real Madrid
-[Jue. 20.10.]
+[Thu Oct/20]
   19.00  UD Almería               3-2 (3-0)  Girona FC
   20.00  CA Osasuna               1-0 (0-0)  RCD Espanyol
   21.00  FC Barcelona             3-0 (3-0)  Villarreal CF
 
 
-Jornada 11
-[Sáb. 22.10.]
+Matchday 11
+[Sat Oct/22]
   14.00  Rayo Vallecano           5-1 (2-0)  Cádiz CF
   16.15  Real Valladolid CF       1-0 (1-0)  Real Sociedad
   18.30  Valencia CF              1-2 (0-0)  RCD Mallorca
   21.00  Real Madrid              3-1 (1-0)  Sevilla FC
-[Dom. 23.10.]
+[Sun Oct/23]
   14.00  RCD Espanyol             2-2 (1-1)  Elche CF
   16.15  Real Betis               1-2 (0-0)  Atlético Madrid
   18.30  Villarreal CF            2-1 (0-1)  UD Almería
          Girona FC                1-1 (1-1)  CA Osasuna
   21.00  FC Barcelona             4-0 (3-0)  Athletic Club Bilbao
-[Lun. 24.10.]
+[Mon Oct/24]
   21.00  RC Celta Vigo            1-1 (0-1)  Getafe CF
 
 
-Jornada 12
-[Vie. 28.10.]
+Matchday 12
+[Fri Oct/28]
   21.00  RCD Mallorca             1-1 (0-0)  RCD Espanyol
-[Sáb. 29.10.]
+[Sat Oct/29]
   14.00  UD Almería               3-1 (0-1)  RC Celta Vigo
   16.15  Cádiz CF                 3-2 (1-0)  Atlético Madrid
   18.30  Sevilla FC               0-1 (0-0)  Rayo Vallecano
   21.00  Valencia CF              0-1 (0-0)  FC Barcelona
-[Dom. 30.10.]
+[Sun Oct/30]
   14.00  CA Osasuna               2-0 (2-0)  Real Valladolid CF
   16.15  Real Madrid              1-1 (0-0)  Girona FC
   18.30  Athletic Club Bilbao     1-0 (0-0)  Villarreal CF
   21.00  Real Sociedad            0-2 (0-0)  Real Betis
-[Lun. 31.10.]
+[Mon Oct/31]
   21.00  Elche CF                 0-1 (0-0)  Getafe CF
 
 
-Jornada 13
-[Vie. 4.11.]
+Matchday 13
+[Fri Nov/4]
   21.00  Girona FC                2-1 (0-0)  Athletic Club Bilbao
-[Sáb. 5.11.]
+[Sat Nov/5]
   14.00  Getafe CF                0-0  Cádiz CF
   16.15  Real Valladolid CF       2-1 (1-0)  Elche CF
   18.30  RC Celta Vigo            1-2 (1-2)  CA Osasuna
   21.00  FC Barcelona             2-0 (0-0)  UD Almería
-[Dom. 6.11.]
+[Sun Nov/6]
   14.00  Atlético Madrid          1-1 (0-0)  RCD Espanyol
   16.15  Real Sociedad            1-1 (1-1)  Valencia CF
   18.30  Villarreal CF            0-2 (0-1)  RCD Mallorca
   21.00  Real Betis               1-1 (1-0)  Sevilla FC
-[Lun. 7.11.]
+[Mon Nov/7]
   21.00  Rayo Vallecano           3-2 (2-2)  Real Madrid
 
 
-Jornada 14
-[Mar. 8.11.]
+Matchday 14
+[Tue Nov/8]
   19.00  Elche CF                 1-2 (1-1)  Girona FC
   20.00  Athletic Club Bilbao     3-0 (1-0)  Real Valladolid CF
   21.30  CA Osasuna               1-2 (1-0)  FC Barcelona
-[Mié. 9.11.]
+[Wed Nov/9]
   19.00  UD Almería               1-0 (1-0)  Getafe CF
          Sevilla FC               1-2 (1-2)  Real Sociedad
   20.00  RCD Espanyol             0-1 (0-0)  Villarreal CF
   21.30  RCD Mallorca             1-0 (1-0)  Atlético Madrid
-[Jue. 10.11.]
+[Thu Nov/10]
   19.00  Rayo Vallecano           0-0  RC Celta Vigo
   20.00  Valencia CF              3-0 (0-0)  Real Betis
   21.30  Real Madrid              2-1 (1-0)  Cádiz CF
 
 
-Jornada 15
-[Jue. 29.12.]
+Matchday 15
+[Thu Dec/29]
   17.00  Girona FC                2-2 (1-1)  Rayo Vallecano
   19.15  Real Betis               0-0  Athletic Club Bilbao
   21.30  Atlético Madrid          2-0 (0-0)  Elche CF
-[Vie. 30.12.]
+[Fri Dec/30]
   17.00  Getafe CF                2-0 (0-0)  RCD Mallorca
   19.15  RC Celta Vigo            1-1 (1-0)  Sevilla FC
          Cádiz CF                 1-1 (0-1)  UD Almería
   21.30  Real Valladolid CF       0-2 (0-0)  Real Madrid
-[Sáb. 31.12.]
+[Sat Dec/31]
   14.00  FC Barcelona             1-1 (1-0)  RCD Espanyol
   16.15  Villarreal CF            2-1 (1-1)  Valencia CF
          Real Sociedad            2-0 (1-0)  CA Osasuna
 
 
-Jornada 16
-[Vie. 6.1.]
+Matchday 16
+[Fri Jan/6]
   18.30  Elche CF                 0-1 (0-1)  RC Celta Vigo
   21.00  Valencia CF              0-1 (0-1)  Cádiz CF
-[Sáb. 7.1.]
+[Sat Jan/7]
   16.15  Villarreal CF            2-1 (0-0)  Real Madrid
   18.30  RCD Mallorca             1-0 (0-0)  Real Valladolid CF
   21.00  RCD Espanyol             2-2 (0-1)  Girona FC
-[Dom. 8.1.]
+[Sun Jan/8]
   14.00  UD Almería               0-2 (0-0)  Real Sociedad
   16.15  Rayo Vallecano           1-2 (1-2)  Real Betis
   18.30  Sevilla FC               2-1 (1-0)  Getafe CF
   21.00  Atlético Madrid          0-1 (0-1)  FC Barcelona
-[Lun. 9.1.]
+[Mon Jan/9]
   21.00  Athletic Club Bilbao     0-0  CA Osasuna
 
 
-Jornada 17
-[Vie. 13.1.]
+Matchday 17
+[Fri Jan/13]
   21.00  RC Celta Vigo            1-1 (0-1)  Villarreal CF
-[Sáb. 14.1.]
+[Sat Jan/14]
   14.00  Real Valladolid CF       0-1 (0-0)  Rayo Vallecano
   16.15  Girona FC                2-1 (0-1)  Sevilla FC
   18.30  CA Osasuna               1-0 (0-0)  RCD Mallorca
   21.00  Real Sociedad            3-1 (2-1)  Athletic Club Bilbao
-[Dom. 15.1.]
+[Sun Jan/15]
   14.00  Getafe CF                1-2 (1-1)  RCD Espanyol
   16.15  UD Almería               1-1 (1-1)  Atlético Madrid
-[Lun. 16.1.]
+[Mon Jan/16]
   21.00  Cádiz CF                 1-1 (1-0)  Elche CF
 
 
-Jornada 18
-[Vie. 20.1.]
+Matchday 18
+[Fri Jan/20]
   21.00  RCD Mallorca             1-0 (0-0)  RC Celta Vigo
-[Sáb. 21.1.]
+[Sat Jan/21]
   14.00  Rayo Vallecano           0-2 (0-2)  Real Sociedad
   16.15  RCD Espanyol             1-0 (1-0)  Real Betis
   18.30  Atlético Madrid          3-0 (3-0)  Real Valladolid CF
   21.00  Sevilla FC               1-0 (0-0)  Cádiz CF
-[Dom. 22.1.]
+[Sun Jan/22]
   14.00  Villarreal CF            1-0 (0-0)  Girona FC
   16.15  Elche CF                 1-1 (0-1)  CA Osasuna
   18.30  FC Barcelona             1-0 (1-0)  Getafe CF
   21.00  Athletic Club Bilbao     0-2 (0-1)  Real Madrid
-[Lun. 23.1.]
+[Mon Jan/23]
   21.00  Valencia CF              2-2 (0-0)  UD Almería
 
 
-Jornada 19
-[Vie. 27.1.]
+Matchday 19
+[Fri Jan/27]
   21.00  UD Almería               3-1 (1-0)  RCD Espanyol
-[Sáb. 28.1.]
+[Sat Jan/28]
   14.00  Cádiz CF                 2-0 (2-0)  RCD Mallorca
   16.15  Girona FC                0-1 (0-0)  FC Barcelona
   18.30  Sevilla FC               3-0 (3-0)  Elche CF
   21.00  Getafe CF                0-1 (0-0)  Real Betis
-[Dom. 29.1.]
+[Sun Jan/29]
   14.00  Real Valladolid CF       1-0 (0-0)  Valencia CF
   16.15  CA Osasuna               0-1 (0-0)  Atlético Madrid
   18.30  RC Celta Vigo            1-0 (0-0)  Athletic Club Bilbao
   21.00  Real Madrid              0-0  Real Sociedad
-[Lun. 30.1.]
+[Mon Jan/30]
   21.00  Villarreal CF            0-1 (0-0)  Rayo Vallecano
 
 
-Jornada 17
-[Mié. 1.2.]
+Matchday 17
+[Wed Feb/1]
   21.00  Real Betis               1-2 (0-0)  FC Barcelona
-[Jue. 2.2.]
+[Thu Feb/2]
   21.00  Real Madrid              2-0 (0-0)  Valencia CF
 
 
-Jornada 20
-[Vie. 3.2.]
+Matchday 20
+[Fri Feb/3]
   21.00  Athletic Club Bilbao     4-1 (3-1)  Cádiz CF
-[Sáb. 4.2.]
+[Sat Feb/4]
   14.00  RCD Espanyol             1-1 (0-1)  CA Osasuna
   16.15  Elche CF                 3-1 (2-1)  Villarreal CF
   18.30  Atlético Madrid          1-1 (0-0)  Getafe CF
   21.00  Real Betis               3-4 (2-2)  RC Celta Vigo
-[Dom. 5.2.]
+[Sun Feb/5]
   14.00  RCD Mallorca             1-0 (1-0)  Real Madrid
   16.15  Girona FC                1-0 (0-0)  Valencia CF
   18.30  Real Sociedad            0-1 (0-0)  Real Valladolid CF
   21.00  FC Barcelona             3-0 (0-0)  Sevilla FC
-[Lun. 6.2.]
+[Mon Feb/6]
   21.00  Rayo Vallecano           2-0 (0-0)  UD Almería
 
 
-Jornada 21
-[Vie. 10.2.]
+Matchday 21
+[Fri Feb/10]
   21.00  Cádiz CF                 2-0 (2-0)  Girona FC
-[Sáb. 11.2.]
+[Sat Feb/11]
   16.15  UD Almería               2-3 (1-2)  Real Betis
   18.30  Sevilla FC               2-0 (2-0)  RCD Mallorca
   21.00  Valencia CF              1-2 (1-1)  Athletic Club Bilbao
-[Dom. 12.2.]
+[Sun Feb/12]
   14.00  Getafe CF                1-1 (0-1)  Rayo Vallecano
   16.15  RC Celta Vigo            0-1 (0-0)  Atlético Madrid
   18.30  Real Valladolid CF       0-0  CA Osasuna
   21.00  Villarreal CF            0-1 (0-1)  FC Barcelona
-[Lun. 13.2.]
+[Mon Feb/13]
   21.00  RCD Espanyol             2-3 (0-1)  Real Sociedad
-[Mié. 15.2.]
+[Wed Feb/15]
   21.00  Real Madrid              4-0 (3-0)  Elche CF
 
 
-Jornada 22
-[Vie. 17.2.]
+Matchday 22
+[Fri Feb/17]
   21.00  Girona FC                6-2 (4-0)  UD Almería
-[Sáb. 18.2.]
+[Sat Feb/18]
   14.00  Real Sociedad            1-1 (1-0)  RC Celta Vigo
   16.15  Real Betis               2-1 (2-1)  Real Valladolid CF
   18.30  RCD Mallorca             4-2 (2-1)  Villarreal CF
   21.00  CA Osasuna               0-2 (0-0)  Real Madrid
-[Dom. 19.2.]
+[Sun Feb/19]
   14.00  Elche CF                 0-1 (0-0)  RCD Espanyol
   16.15  Rayo Vallecano           1-1 (0-1)  Sevilla FC
   18.30  Atlético Madrid          1-0 (0-0)  Athletic Club Bilbao
   21.00  FC Barcelona             2-0 (2-0)  Cádiz CF
-[Lun. 20.2.]
+[Mon Feb/20]
   21.00  Getafe CF                1-0 (0-0)  Valencia CF
 
 
-Jornada 23
-[Vie. 24.2.]
+Matchday 23
+[Fri Feb/24]
   21.00  Elche CF                 2-3 (2-0)  Real Betis
-[Sáb. 25.2.]
+[Sat Feb/25]
   14.00  RCD Espanyol             2-1 (1-1)  RCD Mallorca
   16.15  Cádiz CF                 1-0 (0-0)  Rayo Vallecano
   18.30  Real Madrid              1-1 (0-0)  Atlético Madrid
   21.00  Valencia CF              1-0 (1-0)  Real Sociedad
-[Dom. 26.2.]
+[Sun Feb/26]
   14.00  Athletic Club Bilbao     2-3 (1-3)  Girona FC
   16.15  RC Celta Vigo            3-0 (2-0)  Real Valladolid CF
   18.30  UD Almería               1-0 (1-0)  FC Barcelona
   21.00  Sevilla FC               2-3 (0-1)  CA Osasuna
-[Lun. 27.2.]
+[Mon Feb/27]
   21.00  Villarreal CF            2-1 (1-1)  Getafe CF
 
 
-Jornada 24
-[Vie. 3.3.]
+Matchday 24
+[Fri Mar/3]
   21.00  Real Sociedad            0-0  Cádiz CF
-[Sáb. 4.3.]
+[Sat Mar/4]
   14.00  Getafe CF                3-2 (3-0)  Girona FC
   16.15  UD Almería               0-2 (0-0)  Villarreal CF
   18.30  RCD Mallorca             0-1 (0-0)  Elche CF
   21.00  Atlético Madrid          6-1 (2-1)  Sevilla FC
-[Dom. 5.3.]
+[Sun Mar/5]
   14.00  Real Valladolid CF       2-1 (1-0)  RCD Espanyol
   16.15  FC Barcelona             1-0 (1-0)  Valencia CF
   18.30  Rayo Vallecano           0-0  Athletic Club Bilbao
   21.00  Real Betis               0-0  Real Madrid
-[Lun. 6.3.]
+[Mon Mar/6]
   21.00  CA Osasuna               0-0  RC Celta Vigo
 
 
-Jornada 25
-[Vie. 10.3.]
+Matchday 25
+[Fri Mar/10]
   21.00  Cádiz CF                 2-2 (1-0)  Getafe CF
-[Sáb. 11.3.]
+[Sat Mar/11]
   14.00  Real Madrid              3-1 (2-1)  RCD Espanyol
   16.15  Elche CF                 1-1 (0-1)  Real Valladolid CF
   18.30  RC Celta Vigo            3-0 (0-0)  Rayo Vallecano
   21.00  Valencia CF              1-0 (0-0)  CA Osasuna
-[Dom. 12.3.]
+[Sun Mar/12]
   14.00  RCD Mallorca             1-1 (0-1)  Real Sociedad
   16.15  Sevilla FC               2-1 (1-1)  UD Almería
   18.30  Villarreal CF            1-1 (0-1)  Real Betis
   21.00  Athletic Club Bilbao     0-1 (0-1)  FC Barcelona
-[Lun. 13.3.]
+[Mon Mar/13]
   21.00  Girona FC                0-1 (0-0)  Atlético Madrid
 
 
-Jornada 26
-[Vie. 17.3.]
+Matchday 26
+[Fri Mar/17]
   21.00  Real Valladolid CF       1-3 (0-1)  Athletic Club Bilbao
-[Sáb. 18.3.]
+[Sat Mar/18]
   14.00  UD Almería               1-1 (0-0)  Cádiz CF
   16.15  Rayo Vallecano           2-2 (2-1)  Girona FC
   18.30  RCD Espanyol             1-3 (0-2)  RC Celta Vigo
   21.00  Atlético Madrid          3-0 (1-0)  Valencia CF
-[Dom. 19.3.]
+[Sun Mar/19]
   14.00  Real Betis               1-0 (0-0)  RCD Mallorca
   16.15  Real Sociedad            2-0 (0-0)  Elche CF
          CA Osasuna               0-3 (0-1)  Villarreal CF
@@ -443,175 +443,175 @@ Jornada 26
   21.00  FC Barcelona             2-1 (1-1)  Real Madrid
 
 
-Jornada 27
-[Vie. 31.3.]
+Matchday 27
+[Fri Mar/31]
   21.00  RCD Mallorca             0-0  CA Osasuna
-[Sáb. 1.4.]
+[Sat Apr/1]
   14.00  Girona FC                2-1 (0-0)  RCD Espanyol
   16.15  Athletic Club Bilbao     0-0  Getafe CF
   18.30  Cádiz CF                 0-2 (0-0)  Sevilla FC
   21.00  Elche CF                 0-4 (0-1)  FC Barcelona
-[Dom. 2.4.]
+[Sun Apr/2]
   14.00  RC Celta Vigo            2-2 (2-2)  UD Almería
   16.20  Real Madrid              6-0 (4-0)  Real Valladolid CF
   18.30  Villarreal CF            2-0 (0-0)  Real Sociedad
   21.00  Atlético Madrid          1-0 (0-0)  Real Betis
-[Lun. 3.4.]
+[Mon Apr/3]
   21.00  Valencia CF              1-1 (0-1)  Rayo Vallecano
 
 
-Jornada 28
-[Vie. 7.4.]
+Matchday 28
+[Fri Apr/7]
   21.00  Sevilla FC               2-2 (1-0)  RC Celta Vigo
-[Sáb. 8.4.]
+[Sat Apr/8]
   14.00  CA Osasuna               2-1 (0-1)  Elche CF
   16.15  RCD Espanyol             1-2 (0-1)  Athletic Club Bilbao
   18.30  Real Sociedad            2-0 (1-0)  Getafe CF
   21.00  Real Madrid              2-3 (1-1)  Villarreal CF
-[Dom. 9.4.]
+[Sun Apr/9]
   14.00  Real Valladolid CF       3-3 (1-0)  RCD Mallorca
   16.15  Real Betis               0-2 (0-0)  Cádiz CF
   18.30  UD Almería               2-1 (0-0)  Valencia CF
   21.00  Rayo Vallecano           1-2 (0-2)  Atlético Madrid
-[Lun. 10.4.]
+[Mon Apr/10]
   21.00  FC Barcelona             0-0  Girona FC
 
 
-Jornada 29
-[Vie. 14.4.]
+Matchday 29
+[Fri Apr/14]
   21.00  Rayo Vallecano           2-1 (2-0)  CA Osasuna
-[Sáb. 15.4.]
+[Sat Apr/15]
   14.00  Villarreal CF            1-2 (0-2)  Real Valladolid CF
   16.15  Athletic Club Bilbao     2-0 (1-0)  Real Sociedad
   18.30  Real Betis               3-1 (2-0)  RCD Espanyol
   21.00  Cádiz CF                 0-2 (0-0)  Real Madrid
-[Dom. 16.4.]
+[Sun Apr/16]
   14.00  Girona FC                2-0 (1-0)  Elche CF
   16.15  Getafe CF                0-0  FC Barcelona
   18.30  Atlético Madrid          2-1 (2-1)  UD Almería
   21.00  Valencia CF              0-2 (0-0)  Sevilla FC
-[Lun. 17.4.]
+[Mon Apr/17]
   21.00  RC Celta Vigo            0-1 (0-1)  RCD Mallorca
 
 
-Jornada 30
-[Vie. 21.4.]
+Matchday 30
+[Fri Apr/21]
   21.00  RCD Espanyol             0-0  Cádiz CF
-[Sáb. 22.4.]
+[Sat Apr/22]
   14.00  CA Osasuna               3-2 (3-1)  Real Betis
   16.15  UD Almería               1-2 (0-1)  Athletic Club Bilbao
   18.30  Real Sociedad            2-1 (0-0)  Rayo Vallecano
          Real Valladolid CF       1-0 (1-0)  Girona FC
   21.00  Real Madrid              2-0 (1-0)  RC Celta Vigo
-[Dom. 23.4.]
+[Sun Apr/23]
   14.00  Elche CF                 0-2 (0-2)  Valencia CF
   16.15  FC Barcelona             1-0 (1-0)  Atlético Madrid
   18.30  RCD Mallorca             3-1 (0-1)  Getafe CF
   21.00  Sevilla FC               2-1 (1-0)  Villarreal CF
 
 
-Jornada 31
-[Mar. 25.4.]
+Matchday 31
+[Tue Apr/25]
   19.30  Cádiz CF                 0-1 (0-0)  CA Osasuna
          Girona FC                4-2 (2-1)  Real Madrid
   22.00  Real Betis               0-0  Real Sociedad
-[Mié. 26.4.]
+[Wed Apr/26]
   19.30  Getafe CF                1-2 (0-1)  UD Almería
          Atlético Madrid          3-1 (1-1)  RCD Mallorca
   22.00  RC Celta Vigo            1-0 (0-0)  Elche CF
          Rayo Vallecano           2-1 (1-0)  FC Barcelona
-[Jue. 27.4.]
+[Thu Apr/27]
   19.30  Valencia CF              2-1 (0-1)  Real Valladolid CF
          Villarreal CF            4-2 (0-1)  RCD Espanyol
   22.00  Athletic Club Bilbao     0-1 (0-0)  Sevilla FC
 
 
-Jornada 32
-[Vie. 28.4.]
+Matchday 32
+[Fri Apr/28]
   21.00  CA Osasuna               0-2 (0-1)  Real Sociedad
-[Sáb. 29.4.]
+[Sat Apr/29]
   16.15  Elche CF                 4-0 (1-0)  Rayo Vallecano
   18.30  Real Madrid              4-2 (3-1)  UD Almería
   21.00  FC Barcelona             4-0 (3-0)  Real Betis
-[Dom. 30.4.]
+[Sun Apr/30]
   14.00  Cádiz CF                 2-1 (1-0)  Valencia CF
   16.15  Villarreal CF            3-1 (2-1)  RC Celta Vigo
   18.30  RCD Espanyol             1-0 (1-0)  Getafe CF
   21.00  Real Valladolid CF       2-5 (1-3)  Atlético Madrid
-[Lun. 1.5.]
+[Mon May/1]
   19.00  RCD Mallorca             1-1 (0-0)  Athletic Club Bilbao
   21.00  Sevilla FC               0-2 (0-1)  Girona FC
 
 
-Jornada 33
-[Mar. 2.5.]
+Matchday 33
+[Tue May/2]
   19.30  UD Almería               2-1 (1-0)  Elche CF
          FC Barcelona             1-0 (0-0)  CA Osasuna
   22.00  Real Sociedad            2-0 (0-0)  Real Madrid
-[Mié. 3.5.]
+[Wed May/3]
   19.30  Valencia CF              1-1 (0-0)  Villarreal CF
   22.00  Atlético Madrid          5-1 (2-0)  Cádiz CF
          Getafe CF                1-0 (1-0)  RC Celta Vigo
-[Jue. 4.5.]
+[Thu May/4]
   19.30  Sevilla FC               3-2 (1-2)  RCD Espanyol
          Girona FC                2-1 (1-0)  RCD Mallorca
   22.00  Athletic Club Bilbao     0-1 (0-1)  Real Betis
          Rayo Vallecano           2-1 (0-0)  Real Valladolid CF
 
 
-Jornada 34
-[Vie. 12.5.]
+Matchday 34
+[Fri May/12]
   21.00  RCD Mallorca             1-0 (1-0)  Cádiz CF
-[Sáb. 13.5.]
+[Sat May/13]
   14.00  Real Sociedad            2-2 (2-2)  Girona FC
   16.15  CA Osasuna               3-1 (0-0)  UD Almería
   18.30  Villarreal CF            5-1 (2-1)  Athletic Club Bilbao
   21.00  Real Madrid              1-0 (0-0)  Getafe CF
-[Dom. 14.5.]
+[Sun May/14]
   14.00  RC Celta Vigo            1-2 (0-1)  Valencia CF
   16.15  Elche CF                 1-0 (1-0)  Atlético Madrid
   18.30  Real Valladolid CF       0-3 (0-0)  Sevilla FC
   21.00  RCD Espanyol             2-4 (0-3)  FC Barcelona
-[Lun. 15.5.]
+[Mon May/15]
   21.00  Real Betis               3-1 (2-0)  Rayo Vallecano
 
 
-Jornada 35
-[Vie. 19.5.]
+Matchday 35
+[Fri May/19]
   21.00  Cádiz CF                 2-0 (0-0)  Real Valladolid CF
-[Sáb. 20.5.]
+[Sat May/20]
   14.00  Girona FC                1-2 (1-1)  Villarreal CF
   16.15  Athletic Club Bilbao     2-1 (1-0)  RC Celta Vigo
   18.30  UD Almería               3-0 (2-0)  RCD Mallorca
          Getafe CF                1-1 (1-1)  Elche CF
   21.00  FC Barcelona             1-2 (0-1)  Real Sociedad
-[Dom. 21.5.]
+[Sun May/21]
   14.00  Rayo Vallecano           1-2 (1-1)  RCD Espanyol
   16.15  Atlético Madrid          3-0 (1-0)  CA Osasuna
   18.30  Valencia CF              1-0 (1-0)  Real Madrid
   21.00  Sevilla FC               0-0  Real Betis
 
 
-Jornada 36
-[Mar. 23.5.]
+Matchday 36
+[Tue May/23]
   19.30  Real Sociedad            1-0 (1-0)  UD Almería
          RC Celta Vigo            1-1 (1-0)  Girona FC
   22.00  Real Valladolid CF       3-1 (2-0)  FC Barcelona
-[Mié. 24.5.]
+[Wed May/24]
   19.30  Villarreal CF            2-0 (2-0)  Cádiz CF
          Elche CF                 1-1 (1-1)  Sevilla FC
          Real Madrid              2-1 (1-0)  Rayo Vallecano
   22.00  RCD Espanyol             3-3 (0-2)  Atlético Madrid
          Real Betis               0-1 (0-0)  Getafe CF
-[Jue. 25.5.]
+[Thu May/25]
   19.30  RCD Mallorca             1-0 (0-0)  Valencia CF
   21.30  CA Osasuna               2-0 (0-0)  Athletic Club Bilbao
 
 
-Jornada 37
-[Sáb. 27.5.]
+Matchday 37
+[Sat May/27]
   19.00  Sevilla FC               1-2 (1-1)  Real Madrid
-[Dom. 28.5.]
+[Sun May/28]
   19.00  Valencia CF              2-2 (1-1)  RCD Espanyol
          Girona FC                1-2 (1-0)  Real Betis
          UD Almería               0-0  Real Valladolid CF
@@ -623,8 +623,8 @@ Jornada 37
          Athletic Club Bilbao     0-1 (0-0)  Elche CF
 
 
-Jornada 38
-[Dom. 4.6.]
+Matchday 38
+[Sun Jun/4]
   18.30  Villarreal CF            2-2 (1-1)  Atlético Madrid
          Real Madrid              1-1 (0-0)  Athletic Club Bilbao
          Real Sociedad            2-1 (1-0)  Sevilla FC
