@@ -1,0 +1,538 @@
+= Primera División de España 2024/25
+
+
+Matchday 1
+[Thu Aug/15]
+  19.00  Athletic Club            -  Getafe CF
+  21.30  Real Betis Balompié      -  Girona FC
+[Fri Aug/16]
+  19.00  RC Celta de Vigo         -  Deportivo Alavés
+  21.30  UD Las Palmas            -  Sevilla FC
+[Sat Aug/17]
+  19.00  CA Osasuna               -  CD Leganés
+  21.30  Valencia CF              -  FC Barcelona
+[Sun Aug/18]
+  19.00  Real Sociedad de Fútbol  -  Rayo Vallecano de Madrid
+  21.30  RCD Mallorca             -  Real Madrid CF
+[Mon Aug/19]
+  19.00  Real Valladolid CF       -  RCD Espanyol de Barcelona
+  21.30  Villarreal CF            -  Club Atlético de Madrid
+
+
+Matchday 2
+[Sun Aug/25]
+  Club Atlético de Madrid  -  Girona FC
+  CA Osasuna               -  RCD Mallorca
+  CD Leganés               -  UD Las Palmas
+  RC Celta de Vigo         -  Valencia CF
+  Deportivo Alavés         -  Real Betis Balompié
+  FC Barcelona             -  Athletic Club
+  Getafe CF                -  Rayo Vallecano de Madrid
+  Sevilla FC               -  Villarreal CF
+  Real Madrid CF           -  Real Valladolid CF
+  RCD Espanyol de Barcelona  -  Real Sociedad de Fútbol
+
+
+Matchday 3
+[Wed Aug/28]
+  Athletic Club            -  Valencia CF
+  Real Betis Balompié      -  Getafe CF
+  Girona FC                -  CA Osasuna
+  Villarreal CF            -  RC Celta de Vigo
+  Rayo Vallecano de Madrid  -  FC Barcelona
+  RCD Mallorca             -  Sevilla FC
+  Real Sociedad de Fútbol  -  Deportivo Alavés
+  Real Valladolid CF       -  CD Leganés
+  UD Las Palmas            -  Real Madrid CF
+  Club Atlético de Madrid  -  RCD Espanyol de Barcelona
+
+
+Matchday 4
+[Sun Sep/1]
+  Athletic Club            -  Club Atlético de Madrid
+  CA Osasuna               -  RC Celta de Vigo
+  CD Leganés               -  RCD Mallorca
+  Deportivo Alavés         -  UD Las Palmas
+  FC Barcelona             -  Real Valladolid CF
+  Getafe CF                -  Real Sociedad de Fútbol
+  Sevilla FC               -  Girona FC
+  Valencia CF              -  Villarreal CF
+  Real Madrid CF           -  Real Betis Balompié
+  RCD Espanyol de Barcelona  -  Rayo Vallecano de Madrid
+
+
+Matchday 5
+[Sun Sep/15]
+  Club Atlético de Madrid  -  Valencia CF
+  Real Betis Balompié      -  CD Leganés
+  RC Celta de Vigo         -  Real Valladolid CF
+  Girona FC                -  FC Barcelona
+  Sevilla FC               -  Getafe CF
+  Rayo Vallecano de Madrid  -  CA Osasuna
+  RCD Mallorca             -  Villarreal CF
+  Real Sociedad de Fútbol  -  Real Madrid CF
+  UD Las Palmas            -  Athletic Club
+  RCD Espanyol de Barcelona  -  Deportivo Alavés
+
+
+Matchday 6
+[Sun Sep/22]
+  Athletic Club            -  RC Celta de Vigo
+  Real Betis Balompié      -  RCD Mallorca
+  CA Osasuna               -  UD Las Palmas
+  Deportivo Alavés         -  Sevilla FC
+  Getafe CF                -  CD Leganés
+  Valencia CF              -  Girona FC
+  Villarreal CF            -  FC Barcelona
+  Rayo Vallecano de Madrid  -  Club Atlético de Madrid
+  Real Valladolid CF       -  Real Sociedad de Fútbol
+  Real Madrid CF           -  RCD Espanyol de Barcelona
+
+
+Matchday 7
+[Wed Sep/25]
+  CD Leganés               -  Athletic Club
+  RC Celta de Vigo         -  Club Atlético de Madrid
+  FC Barcelona             -  Getafe CF
+  Girona FC                -  Rayo Vallecano de Madrid
+  Sevilla FC               -  Real Valladolid CF
+  Valencia CF              -  CA Osasuna
+  RCD Mallorca             -  Real Sociedad de Fútbol
+  Real Madrid CF           -  Deportivo Alavés
+  UD Las Palmas            -  Real Betis Balompié
+  RCD Espanyol de Barcelona  -  Villarreal CF
+
+
+Matchday 8
+[Sun Sep/29]
+  Villarreal CF            -  UD Las Palmas
+  Rayo Vallecano de Madrid  -  CD Leganés
+  Real Sociedad de Fútbol  -  Valencia CF
+  Real Valladolid CF       -  RCD Mallorca
+  Real Betis Balompié      -  RCD Espanyol de Barcelona
+  Athletic Club            -  Sevilla FC
+  Club Atlético de Madrid  -  Real Madrid CF
+  CA Osasuna               -  FC Barcelona
+  RC Celta de Vigo         -  Girona FC
+  Getafe CF                -  Deportivo Alavés
+
+
+Matchday 9
+[Sun Oct/6]
+  CD Leganés               -  Valencia CF
+  Deportivo Alavés         -  FC Barcelona
+  Getafe CF                -  CA Osasuna
+  Girona FC                -  Athletic Club
+  Sevilla FC               -  Real Betis Balompié
+  Real Madrid CF           -  Villarreal CF
+  Real Sociedad de Fútbol  -  Club Atlético de Madrid
+  Real Valladolid CF       -  Rayo Vallecano de Madrid
+  UD Las Palmas            -  RC Celta de Vigo
+  RCD Espanyol de Barcelona  -  RCD Mallorca
+
+
+Matchday 10
+[Sun Oct/20]
+  Club Atlético de Madrid  -  CD Leganés
+  CA Osasuna               -  Real Betis Balompié
+  RC Celta de Vigo         -  Real Madrid CF
+  Deportivo Alavés         -  Real Valladolid CF
+  FC Barcelona             -  Sevilla FC
+  Girona FC                -  Real Sociedad de Fútbol
+  Valencia CF              -  UD Las Palmas
+  Villarreal CF            -  Getafe CF
+  RCD Mallorca             -  Rayo Vallecano de Madrid
+  Athletic Club            -  RCD Espanyol de Barcelona
+
+
+Matchday 11
+[Sun Oct/27]
+  Real Betis Balompié      -  Club Atlético de Madrid
+  CD Leganés               -  RC Celta de Vigo
+  Getafe CF                -  Valencia CF
+  Rayo Vallecano de Madrid  -  Deportivo Alavés
+  RCD Mallorca             -  Athletic Club
+  Real Madrid CF           -  FC Barcelona
+  Real Sociedad de Fútbol  -  CA Osasuna
+  Real Valladolid CF       -  Villarreal CF
+  UD Las Palmas            -  Girona FC
+  RCD Espanyol de Barcelona  -  Sevilla FC
+
+
+Matchday 12
+[Sun Nov/3]
+  Athletic Club            -  Real Betis Balompié
+  Club Atlético de Madrid  -  UD Las Palmas
+  CA Osasuna               -  Real Valladolid CF
+  RC Celta de Vigo         -  Getafe CF
+  Deportivo Alavés         -  RCD Mallorca
+  Girona FC                -  CD Leganés
+  Sevilla FC               -  Real Sociedad de Fútbol
+  Valencia CF              -  Real Madrid CF
+  Villarreal CF            -  Rayo Vallecano de Madrid
+  FC Barcelona             -  RCD Espanyol de Barcelona
+
+
+Matchday 13
+[Sun Nov/10]
+  Real Betis Balompié      -  RC Celta de Vigo
+  CD Leganés               -  Sevilla FC
+  Getafe CF                -  Girona FC
+  Villarreal CF            -  Deportivo Alavés
+  Rayo Vallecano de Madrid  -  UD Las Palmas
+  RCD Mallorca             -  Club Atlético de Madrid
+  Real Madrid CF           -  CA Osasuna
+  Real Sociedad de Fútbol  -  FC Barcelona
+  Real Valladolid CF       -  Athletic Club
+  RCD Espanyol de Barcelona  -  Valencia CF
+
+
+Matchday 14
+[Sun Nov/24]
+  Athletic Club            -  Real Sociedad de Fútbol
+  Club Atlético de Madrid  -  Deportivo Alavés
+  CA Osasuna               -  Villarreal CF
+  CD Leganés               -  Real Madrid CF
+  RC Celta de Vigo         -  FC Barcelona
+  Getafe CF                -  Real Valladolid CF
+  Sevilla FC               -  Rayo Vallecano de Madrid
+  Valencia CF              -  Real Betis Balompié
+  UD Las Palmas            -  RCD Mallorca
+  Girona FC                -  RCD Espanyol de Barcelona
+
+
+Matchday 15
+[Sun Dec/1]
+  Deportivo Alavés         -  CD Leganés
+  FC Barcelona             -  UD Las Palmas
+  Sevilla FC               -  CA Osasuna
+  Villarreal CF            -  Girona FC
+  Rayo Vallecano de Madrid  -  Athletic Club
+  RCD Mallorca             -  Valencia CF
+  Real Madrid CF           -  Getafe CF
+  Real Sociedad de Fútbol  -  Real Betis Balompié
+  Real Valladolid CF       -  Club Atlético de Madrid
+  RCD Espanyol de Barcelona  -  RC Celta de Vigo
+
+
+Matchday 16
+[Sun Dec/8]
+  Athletic Club            -  Villarreal CF
+  Club Atlético de Madrid  -  Sevilla FC
+  Real Betis Balompié      -  FC Barcelona
+  CA Osasuna               -  Deportivo Alavés
+  CD Leganés               -  Real Sociedad de Fútbol
+  RC Celta de Vigo         -  RCD Mallorca
+  Girona FC                -  Real Madrid CF
+  Valencia CF              -  Rayo Vallecano de Madrid
+  UD Las Palmas            -  Real Valladolid CF
+  Getafe CF                -  RCD Espanyol de Barcelona
+
+
+Matchday 17
+[Sun Dec/15]
+  Club Atlético de Madrid  -  Getafe CF
+  Deportivo Alavés         -  Athletic Club
+  FC Barcelona             -  CD Leganés
+  Sevilla FC               -  RC Celta de Vigo
+  Villarreal CF            -  Real Betis Balompié
+  Rayo Vallecano de Madrid  -  Real Madrid CF
+  RCD Mallorca             -  Girona FC
+  Real Sociedad de Fútbol  -  UD Las Palmas
+  Real Valladolid CF       -  Valencia CF
+  RCD Espanyol de Barcelona  -  CA Osasuna
+
+
+Matchday 18
+[Sun Dec/22]
+  Real Betis Balompié      -  Rayo Vallecano de Madrid
+  CA Osasuna               -  Athletic Club
+  CD Leganés               -  Villarreal CF
+  RC Celta de Vigo         -  Real Sociedad de Fútbol
+  FC Barcelona             -  Club Atlético de Madrid
+  Getafe CF                -  RCD Mallorca
+  Girona FC                -  Real Valladolid CF
+  Valencia CF              -  Deportivo Alavés
+  Real Madrid CF           -  Sevilla FC
+  UD Las Palmas            -  RCD Espanyol de Barcelona
+
+
+Matchday 19
+[Sat Jan/11]
+  RCD Espanyol de Barcelona  -  CD Leganés
+[Sun Jan/12]
+  Athletic Club            -  Real Madrid CF
+  Club Atlético de Madrid  -  CA Osasuna
+  Deportivo Alavés         -  Girona FC
+  Sevilla FC               -  Valencia CF
+  Rayo Vallecano de Madrid  -  RC Celta de Vigo
+  RCD Mallorca             -  FC Barcelona
+  Real Sociedad de Fútbol  -  Villarreal CF
+  Real Valladolid CF       -  Real Betis Balompié
+  UD Las Palmas            -  Getafe CF
+
+
+Matchday 20
+[Sun Jan/19]
+  Real Betis Balompié      -  Deportivo Alavés
+  CA Osasuna               -  Rayo Vallecano de Madrid
+  CD Leganés               -  Club Atlético de Madrid
+  RC Celta de Vigo         -  Athletic Club
+  Getafe CF                -  FC Barcelona
+  Girona FC                -  Sevilla FC
+  Valencia CF              -  Real Sociedad de Fútbol
+  Villarreal CF            -  RCD Mallorca
+  Real Madrid CF           -  UD Las Palmas
+  RCD Espanyol de Barcelona  -  Real Valladolid CF
+
+
+Matchday 21
+[Sun Jan/26]
+  Athletic Club            -  CD Leganés
+  Club Atlético de Madrid  -  Villarreal CF
+  Deportivo Alavés         -  RC Celta de Vigo
+  FC Barcelona             -  Valencia CF
+  Rayo Vallecano de Madrid  -  Girona FC
+  RCD Mallorca             -  Real Betis Balompié
+  Real Sociedad de Fútbol  -  Getafe CF
+  Real Valladolid CF       -  Real Madrid CF
+  UD Las Palmas            -  CA Osasuna
+  Sevilla FC               -  RCD Espanyol de Barcelona
+
+
+Matchday 22
+[Sun Feb/2]
+  Club Atlético de Madrid  -  RCD Mallorca
+  Real Betis Balompié      -  Athletic Club
+  CA Osasuna               -  Real Sociedad de Fútbol
+  CD Leganés               -  Rayo Vallecano de Madrid
+  FC Barcelona             -  Deportivo Alavés
+  Getafe CF                -  Sevilla FC
+  Girona FC                -  UD Las Palmas
+  Valencia CF              -  RC Celta de Vigo
+  Villarreal CF            -  Real Valladolid CF
+  RCD Espanyol de Barcelona  -  Real Madrid CF
+
+
+Matchday 23
+[Sun Feb/9]
+  Athletic Club            -  Girona FC
+  RC Celta de Vigo         -  Real Betis Balompié
+  Deportivo Alavés         -  Getafe CF
+  Sevilla FC               -  FC Barcelona
+  Valencia CF              -  CD Leganés
+  Rayo Vallecano de Madrid  -  Real Valladolid CF
+  RCD Mallorca             -  CA Osasuna
+  Real Madrid CF           -  Club Atlético de Madrid
+  UD Las Palmas            -  Villarreal CF
+  Real Sociedad de Fútbol  -  RCD Espanyol de Barcelona
+
+
+Matchday 24
+[Sun Feb/16]
+  Club Atlético de Madrid  -  RC Celta de Vigo
+  Real Betis Balompié      -  Real Sociedad de Fútbol
+  CA Osasuna               -  Real Madrid CF
+  CD Leganés               -  Deportivo Alavés
+  FC Barcelona             -  Rayo Vallecano de Madrid
+  Girona FC                -  Getafe CF
+  Villarreal CF            -  Valencia CF
+  RCD Mallorca             -  UD Las Palmas
+  Real Valladolid CF       -  Sevilla FC
+  RCD Espanyol de Barcelona  -  Athletic Club
+
+
+Matchday 25
+[Sun Feb/23]
+  Athletic Club            -  Real Valladolid CF
+  RC Celta de Vigo         -  CA Osasuna
+  Getafe CF                -  Real Betis Balompié
+  Sevilla FC               -  RCD Mallorca
+  Valencia CF              -  Club Atlético de Madrid
+  Rayo Vallecano de Madrid  -  Villarreal CF
+  Real Madrid CF           -  Girona FC
+  Real Sociedad de Fútbol  -  CD Leganés
+  UD Las Palmas            -  FC Barcelona
+  Deportivo Alavés         -  RCD Espanyol de Barcelona
+
+
+Matchday 26
+[Sun Mar/2]
+  Club Atlético de Madrid  -  Athletic Club
+  Real Betis Balompié      -  Real Madrid CF
+  CA Osasuna               -  Valencia CF
+  CD Leganés               -  Getafe CF
+  FC Barcelona             -  Real Sociedad de Fútbol
+  Girona FC                -  RC Celta de Vigo
+  Rayo Vallecano de Madrid  -  Sevilla FC
+  RCD Mallorca             -  Deportivo Alavés
+  Real Valladolid CF       -  UD Las Palmas
+  Villarreal CF            -  RCD Espanyol de Barcelona
+
+
+Matchday 27
+[Sun Mar/9]
+  Athletic Club            -  RCD Mallorca
+  Real Betis Balompié      -  UD Las Palmas
+  RC Celta de Vigo         -  CD Leganés
+  Deportivo Alavés         -  Villarreal CF
+  FC Barcelona             -  CA Osasuna
+  Getafe CF                -  Club Atlético de Madrid
+  Valencia CF              -  Real Valladolid CF
+  Real Madrid CF           -  Rayo Vallecano de Madrid
+  Real Sociedad de Fútbol  -  Sevilla FC
+  RCD Espanyol de Barcelona  -  Girona FC
+
+
+Matchday 28
+[Sun Mar/16]
+  Club Atlético de Madrid  -  FC Barcelona
+  CA Osasuna               -  Getafe CF
+  CD Leganés               -  Real Betis Balompié
+  Girona FC                -  Valencia CF
+  Sevilla FC               -  Athletic Club
+  Villarreal CF            -  Real Madrid CF
+  Rayo Vallecano de Madrid  -  Real Sociedad de Fútbol
+  Real Valladolid CF       -  RC Celta de Vigo
+  UD Las Palmas            -  Deportivo Alavés
+  RCD Mallorca             -  RCD Espanyol de Barcelona
+
+
+Matchday 29
+[Sun Mar/30]
+  Athletic Club            -  CA Osasuna
+  Real Betis Balompié      -  Sevilla FC
+  RC Celta de Vigo         -  UD Las Palmas
+  Deportivo Alavés         -  Rayo Vallecano de Madrid
+  FC Barcelona             -  Girona FC
+  Getafe CF                -  Villarreal CF
+  Valencia CF              -  RCD Mallorca
+  Real Madrid CF           -  CD Leganés
+  Real Sociedad de Fútbol  -  Real Valladolid CF
+  RCD Espanyol de Barcelona  -  Club Atlético de Madrid
+
+
+Matchday 30
+[Sun Apr/6]
+  CD Leganés               -  CA Osasuna
+  FC Barcelona             -  Real Betis Balompié
+  Girona FC                -  Deportivo Alavés
+  Sevilla FC               -  Club Atlético de Madrid
+  Villarreal CF            -  Athletic Club
+  RCD Mallorca             -  RC Celta de Vigo
+  Real Madrid CF           -  Valencia CF
+  Real Valladolid CF       -  Getafe CF
+  UD Las Palmas            -  Real Sociedad de Fútbol
+  Rayo Vallecano de Madrid  -  RCD Espanyol de Barcelona
+
+
+Matchday 31
+[Sun Apr/13]
+  Athletic Club            -  Rayo Vallecano de Madrid
+  Club Atlético de Madrid  -  Real Valladolid CF
+  Real Betis Balompié      -  Villarreal CF
+  CA Osasuna               -  Girona FC
+  CD Leganés               -  FC Barcelona
+  Deportivo Alavés         -  Real Madrid CF
+  Getafe CF                -  UD Las Palmas
+  Valencia CF              -  Sevilla FC
+  Real Sociedad de Fútbol  -  RCD Mallorca
+  RC Celta de Vigo         -  RCD Espanyol de Barcelona
+
+
+Matchday 32
+[Sun Apr/20]
+  FC Barcelona             -  RC Celta de Vigo
+  Girona FC                -  Real Betis Balompié
+  Sevilla FC               -  Deportivo Alavés
+  Villarreal CF            -  Real Sociedad de Fútbol
+  Rayo Vallecano de Madrid  -  Valencia CF
+  RCD Mallorca             -  CD Leganés
+  Real Madrid CF           -  Athletic Club
+  Real Valladolid CF       -  CA Osasuna
+  UD Las Palmas            -  Club Atlético de Madrid
+  RCD Espanyol de Barcelona  -  Getafe CF
+
+
+Matchday 33
+[Wed Apr/23]
+  Athletic Club            -  UD Las Palmas
+  Club Atlético de Madrid  -  Rayo Vallecano de Madrid
+  Real Betis Balompié      -  Real Valladolid CF
+  CA Osasuna               -  Sevilla FC
+  CD Leganés               -  Girona FC
+  RC Celta de Vigo         -  Villarreal CF
+  Deportivo Alavés         -  Real Sociedad de Fútbol
+  FC Barcelona             -  RCD Mallorca
+  Getafe CF                -  Real Madrid CF
+  Valencia CF              -  RCD Espanyol de Barcelona
+
+
+Matchday 34
+[Sun May/4]
+  Girona FC                -  RCD Mallorca
+  Sevilla FC               -  CD Leganés
+  Villarreal CF            -  CA Osasuna
+  Rayo Vallecano de Madrid  -  Getafe CF
+  Real Madrid CF           -  RC Celta de Vigo
+  Real Sociedad de Fútbol  -  Athletic Club
+  Real Valladolid CF       -  FC Barcelona
+  UD Las Palmas            -  Valencia CF
+  RCD Espanyol de Barcelona  -  Real Betis Balompié
+  Deportivo Alavés         -  Club Atlético de Madrid
+
+
+Matchday 35
+[Sun May/11]
+  Athletic Club            -  Deportivo Alavés
+  Club Atlético de Madrid  -  Real Sociedad de Fútbol
+  Real Betis Balompié      -  CA Osasuna
+  RC Celta de Vigo         -  Sevilla FC
+  FC Barcelona             -  Real Madrid CF
+  Girona FC                -  Villarreal CF
+  Valencia CF              -  Getafe CF
+  RCD Mallorca             -  Real Valladolid CF
+  UD Las Palmas            -  Rayo Vallecano de Madrid
+  CD Leganés               -  RCD Espanyol de Barcelona
+
+
+Matchday 36
+[Wed May/14]
+  CA Osasuna               -  Club Atlético de Madrid
+  Deportivo Alavés         -  Valencia CF
+  Getafe CF                -  Athletic Club
+  Sevilla FC               -  UD Las Palmas
+  Villarreal CF            -  CD Leganés
+  Rayo Vallecano de Madrid  -  Real Betis Balompié
+  Real Madrid CF           -  RCD Mallorca
+  Real Sociedad de Fútbol  -  RC Celta de Vigo
+  Real Valladolid CF       -  Girona FC
+  RCD Espanyol de Barcelona  -  FC Barcelona
+
+
+Matchday 37
+[Sun May/18]
+  Club Atlético de Madrid  -  Real Betis Balompié
+  RC Celta de Vigo         -  Rayo Vallecano de Madrid
+  FC Barcelona             -  Villarreal CF
+  Sevilla FC               -  Real Madrid CF
+  Valencia CF              -  Athletic Club
+  RCD Mallorca             -  Getafe CF
+  Real Sociedad de Fútbol  -  Girona FC
+  Real Valladolid CF       -  Deportivo Alavés
+  UD Las Palmas            -  CD Leganés
+  CA Osasuna               -  RCD Espanyol de Barcelona
+
+
+Matchday 38
+[Sun May/25]
+  Athletic Club            -  FC Barcelona
+  Real Betis Balompié      -  Valencia CF
+  CD Leganés               -  Real Valladolid CF
+  Deportivo Alavés         -  CA Osasuna
+  Getafe CF                -  RC Celta de Vigo
+  Girona FC                -  Club Atlético de Madrid
+  Villarreal CF            -  Sevilla FC
+  Rayo Vallecano de Madrid  -  RCD Mallorca
+  Real Madrid CF           -  Real Sociedad de Fútbol
+  RCD Espanyol de Barcelona  -  UD Las Palmas
