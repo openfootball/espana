@@ -1,5 +1,9 @@
 = Primera División de España 2024/25
 
+# Date       Thu Aug/15 2024 - Sun May/25 2025 (283d)
+# Teams      20
+# Matches    380
+
 
 
 Matchday 1
@@ -100,43 +104,51 @@ Matchday 7
 
 
 Matchday 6
+[Fri Sep/20]
+  21.00  Deportivo Alavés         -  Sevilla FC
+[Sat Sep/21]
+  14.00  Real Valladolid CF       -  Real Sociedad de Fútbol
+  16.15  CA Osasuna               -  UD Las Palmas
+  18.30  Valencia CF              -  Girona FC
+  21.00  Real Madrid CF           -  RCD Espanyol de Barcelona
 [Sun Sep/22]
-  Athletic Club            -  RC Celta de Vigo
-  Real Betis Balompié      -  RCD Mallorca
-  CA Osasuna               -  UD Las Palmas
-  Deportivo Alavés         -  Sevilla FC
-  Getafe CF                -  CD Leganés
-  Valencia CF              -  Girona FC
-  Villarreal CF            -  FC Barcelona
-  Rayo Vallecano de Madrid  -  Club Atlético de Madrid
-  Real Valladolid CF       -  Real Sociedad de Fútbol
-  Real Madrid CF           -  RCD Espanyol de Barcelona
+  14.00  Getafe CF                -  CD Leganés
+  16.15  Athletic Club            -  RC Celta de Vigo
+  18.30  Villarreal CF            -  FC Barcelona
+  21.00  Rayo Vallecano de Madrid  -  Club Atlético de Madrid
+[Mon Sep/23]
+  21.00  Real Betis Balompié      -  RCD Mallorca
 
 
 Matchday 7
+[Tue Sep/24]
+  19.00  Sevilla FC               -  Real Valladolid CF
+         Valencia CF              -  CA Osasuna
+  21.00  Real Madrid CF           -  Deportivo Alavés
 [Wed Sep/25]
-  RC Celta de Vigo         -  Club Atlético de Madrid
-  FC Barcelona             -  Getafe CF
-  Girona FC                -  Rayo Vallecano de Madrid
-  Sevilla FC               -  Real Valladolid CF
-  Valencia CF              -  CA Osasuna
-  Real Madrid CF           -  Deportivo Alavés
-  UD Las Palmas            -  Real Betis Balompié
-  RCD Espanyol de Barcelona  -  Villarreal CF
+  19.00  Girona FC                -  Rayo Vallecano de Madrid
+  21.00  FC Barcelona             -  Getafe CF
+[Thu Sep/26]
+  19.00  UD Las Palmas            -  Real Betis Balompié
+         RCD Espanyol de Barcelona  -  Villarreal CF
+  21.00  RC Celta de Vigo         -  Club Atlético de Madrid
 
 
 Matchday 8
+[Fri Sep/27]
+  21.00  Real Valladolid CF       -  RCD Mallorca
+[Sat Sep/28]
+  14.00  Getafe CF                -  Deportivo Alavés
+  16.15  Rayo Vallecano de Madrid  -  CD Leganés
+  18.30  Real Sociedad de Fútbol  -  Valencia CF
+  21.00  CA Osasuna               -  FC Barcelona
 [Sun Sep/29]
-  Villarreal CF            -  UD Las Palmas
-  Rayo Vallecano de Madrid  -  CD Leganés
-  Real Sociedad de Fútbol  -  Valencia CF
-  Real Valladolid CF       -  RCD Mallorca
-  Real Betis Balompié      -  RCD Espanyol de Barcelona
-  Athletic Club            -  Sevilla FC
-  Club Atlético de Madrid  -  Real Madrid CF
-  CA Osasuna               -  FC Barcelona
-  RC Celta de Vigo         -  Girona FC
-  Getafe CF                -  Deportivo Alavés
+  14.00  RC Celta de Vigo         -  Girona FC
+  16.15  Athletic Club            -  Sevilla FC
+  18.30  Real Betis Balompié      -  RCD Espanyol de Barcelona
+  21.00  Club Atlético de Madrid  -  Real Madrid CF
+[Mon Sep/30]
+  21.00  Villarreal CF            -  UD Las Palmas
 
 
 Matchday 9
