@@ -73,17 +73,17 @@ Matchday 4
 
 Matchday 5
 [Fri Sep/13]
-  21.00  Real Betis Balompié      -  CD Leganés
+  21.00  Real Betis Balompié      2-0 (0-0)  CD Leganés
 [Sat Sep/14]
-  14.00  RCD Mallorca             -  Villarreal CF
-  16.15  RCD Espanyol de Barcelona  -  Deportivo Alavés
-  18.30  Sevilla FC               -  Getafe CF
-  21.00  Real Sociedad de Fútbol  -  Real Madrid CF
+  14.00  RCD Mallorca             1-2 (0-1)  Villarreal CF
+  16.15  RCD Espanyol de Barcelona  3-2 (1-1)  Deportivo Alavés
+  18.30  Sevilla FC               1-0 (1-0)  Getafe CF
+  21.00  Real Sociedad de Fútbol  0-2 (0-0)  Real Madrid CF
 [Sun Sep/15]
-  14.00  RC Celta de Vigo         -  Real Valladolid CF
-  16.15  Girona FC                -  FC Barcelona
-  18.30  UD Las Palmas            -  Athletic Club
-  21.00  Club Atlético de Madrid  -  Valencia CF
+  14.00  RC Celta de Vigo         3-1 (2-0)  Real Valladolid CF
+  16.15  Girona FC                1-4 (0-2)  FC Barcelona
+  18.30  UD Las Palmas            2-3 (0-2)  Athletic Club
+  21.00  Club Atlético de Madrid  3-0 (1-0)  Valencia CF
 [Mon Sep/16]
   21.00  Rayo Vallecano de Madrid  -  CA Osasuna
 
