@@ -1,0 +1,754 @@
+= Segunda División de España 2022/23
+
+# Date       Fri Aug/12 2022 - Sun May/28 2023 (289d)
+# Teams      22
+# Matches    462
+
+
+
+Matchday 1
+[Fri Aug/12]
+  21.00  Levante UD               0-0  SD Huesca
+[Sat Aug/13]
+  19.00  CD Mirandés              1-1 (1-1)  Sporting Gijón
+  21.00  CD Leganés               1-2 (0-1)  CD Alavés
+  23.00  UD Las Palmas            0-0  Real Zaragoza
+  17.00  SD Eibar                 2-1 (0-0)  CD Tenerife
+[Sun Aug/14]
+  17.30  Racing Santander         0-2 (0-0)  Villarreal CF B
+  19.30  UD Ibiza                 0-2 (0-0)  Granada CF
+  22.00  Burgos CF                1-0 (0-0)  Málaga CF
+[Mon Aug/15]
+  19.30  CD Lugo                  1-2 (1-1)  Albacete
+  22.00  FC Cartagena             2-3 (1-1)  SD Ponferradina
+  17.30  Real Oviedo              0-1 (0-0)  FC Andorra
+
+
+Matchday 2
+[Fri Aug/19]
+  22.00  CD Alavés                1-0 (1-0)  CD Mirandés
+  20.00  Villarreal CF B          2-2 (2-1)  SD Eibar
+[Sat Aug/20]
+  17.30  Sporting Gijón           4-1 (1-0)  FC Andorra
+  19.30  Albacete                 0-0  Burgos CF
+         Real Zaragoza            0-0  Levante UD
+  22.00  Granada CF               2-0 (0-0)  Racing Santander
+[Sun Aug/21]
+  19.30  SD Huesca                2-3 (1-1)  FC Cartagena
+  22.00  CD Tenerife              1-1 (1-0)  CD Lugo
+  17.30  Real Oviedo              1-0 (0-0)  CD Leganés
+[Mon Aug/22]
+  22.00  Málaga CF                0-4 (0-1)  UD Las Palmas
+  20.00  SD Ponferradina          2-1 (1-1)  UD Ibiza
+
+
+Matchday 3
+[Fri Aug/26]
+  20.00  Albacete                 2-1 (1-0)  SD Huesca
+  22.00  FC Cartagena             1-0 (0-0)  Real Zaragoza
+[Sat Aug/27]
+  19.30  CD Lugo                  1-0 (1-0)  CD Leganés
+         CD Mirandés              1-3 (0-1)  Málaga CF
+  22.00  Levante UD               2-0 (1-0)  CD Tenerife
+  17.30  Sporting Gijón           0-0  Burgos CF
+[Sun Aug/28]
+  17.30  Racing Santander         0-1 (0-0)  Real Oviedo
+  19.30  SD Eibar                 1-0 (1-0)  SD Ponferradina
+  22.00  UD Ibiza                 1-1 (1-0)  CD Alavés
+[Mon Aug/29]
+  22.00  UD Las Palmas            2-0 (1-0)  FC Andorra
+  20.00  Granada CF               3-0 (2-0)  Villarreal CF B
+
+
+Matchday 4
+[Fri Sep/2]
+  21.00  CD Leganés               2-1 (1-0)  SD Eibar
+[Sat Sep/3]
+  14.00  CD Alavés                1-1 (1-0)  UD Las Palmas
+  16.15  Villarreal CF B          3-0 (1-0)  CD Mirandés
+  18.30  SD Ponferradina          1-3 (0-2)  Sporting Gijón
+  21.00  CD Tenerife              1-0 (0-0)  Racing Santander
+[Sun Sep/4]
+  16.15  Málaga CF                1-2 (1-2)  Albacete
+  18.30  Burgos CF                1-0 (1-0)  FC Cartagena
+         SD Huesca                3-0 (1-0)  UD Ibiza
+  21.00  Real Zaragoza            1-2 (1-0)  CD Lugo
+  14.00  FC Andorra               1-0 (1-0)  Granada CF
+[Mon Sep/5]
+  21.00  Real Oviedo              1-1 (1-0)  Levante UD
+
+
+Matchday 5
+[Fri Sep/9]
+  21.00  UD Las Palmas            1-0 (1-0)  CD Leganés
+[Sat Sep/10]
+  16.15  Burgos CF                0-0  Real Oviedo
+  18.30  FC Cartagena             2-1 (0-0)  Albacete
+  21.00  Levante UD               4-1 (1-0)  Villarreal CF B
+  14.00  CD Lugo                  1-2 (1-0)  CD Alavés
+[Sun Sep/11]
+  14.00  Sporting Gijón           0-2 (0-1)  Racing Santander
+  16.15  CD Mirandés              1-1 (1-0)  FC Andorra
+         UD Ibiza                 1-0 (0-0)  CD Tenerife
+  18.30  SD Ponferradina          1-2 (1-1)  Real Zaragoza
+  21.00  SD Huesca                1-0 (0-0)  Málaga CF
+[Mon Sep/12]
+  21.00  SD Eibar                 4-0 (1-0)  Granada CF
+
+
+Matchday 6
+[Fri Sep/16]
+  21.00  Levante UD               0-1 (0-1)  FC Cartagena
+[Sat Sep/17]
+  14.00  Villarreal CF B          3-1 (1-0)  CD Lugo
+  16.15  Real Oviedo              0-1 (0-0)  UD Ibiza
+  18.30  FC Andorra               2-0 (1-0)  SD Eibar
+         Granada CF               2-1 (1-0)  CD Mirandés
+  21.00  Real Zaragoza            1-0 (0-0)  Sporting Gijón
+[Sun Sep/18]
+  16.15  CD Alavés                2-1 (1-0)  SD Huesca
+  18.30  Racing Santander         0-0  UD Las Palmas
+  21.00  Albacete                 0-1 (0-0)  SD Ponferradina
+  14.00  CD Leganés               0-0  Burgos CF
+[Mon Sep/19]
+  21.00  CD Tenerife              3-1 (1-1)  Málaga CF
+
+
+Matchday 7
+[Fri Sep/23]
+  21.00  Sporting Gijón           2-1 (1-1)  UD Ibiza
+[Sat Sep/24]
+  16.15  CD Mirandés              2-0 (1-0)  Real Zaragoza
+  18.30  Málaga CF                1-1 (1-1)  Villarreal CF B
+         SD Ponferradina          2-2 (1-1)  CD Tenerife
+  14.00  SD Huesca                1-0 (1-0)  CD Leganés
+[Sun Sep/25]
+  14.00  Burgos CF                0-0  Levante UD
+  16.15  CD Lugo                  0-0  Real Oviedo
+  18.30  Albacete                 1-1 (0-0)  FC Andorra
+         SD Eibar                 2-1 (2-0)  Racing Santander
+[Mon Sep/26]
+  21.00  UD Las Palmas            2-0 (1-0)  Granada CF
+         FC Cartagena             1-1 (1-0)  CD Alavés
+
+
+Matchday 8
+[Fri Sep/30]
+  21.00  CD Tenerife              1-1 (0-1)  Sporting Gijón
+[Sat Oct/1]
+  16.15  CD Mirandés              3-3 (1-1)  UD Las Palmas
+         Racing Santander         0-0  Málaga CF
+  18.30  FC Andorra               3-1 (0-1)  Levante UD
+  21.00  Villarreal CF B          0-0  Burgos CF
+[Sun Oct/2]
+  16.15  CD Alavés                3-1 (2-1)  SD Ponferradina
+  18.30  Granada CF               0-0  SD Huesca
+         Real Oviedo              1-3 (0-2)  FC Cartagena
+  21.00  UD Ibiza                 3-2 (2-1)  CD Lugo
+  16.15  CD Leganés               1-2 (1-0)  Albacete
+[Mon Oct/3]
+  21.00  Real Zaragoza            0-0  SD Eibar
+
+
+Matchday 9
+[Fri Oct/7]
+  21.00  Sporting Gijón           3-1 (2-0)  Villarreal CF B
+[Sat Oct/8]
+  18.30  SD Huesca                1-1 (0-0)  CD Lugo
+         UD Las Palmas            0-0  UD Ibiza
+  21.00  Burgos CF                3-0 (0-0)  CD Alavés
+  16.15  SD Ponferradina          0-0  Granada CF
+[Sun Oct/9]
+  14.00  FC Cartagena             1-2 (0-0)  CD Leganés
+  16.15  Real Zaragoza            1-1 (1-0)  Real Oviedo
+  18.30  Albacete                 1-1 (0-0)  CD Tenerife
+         Levante UD               0-1 (0-0)  Racing Santander
+  21.00  Málaga CF                0-0  FC Andorra
+[Mon Oct/10]
+  21.00  SD Eibar                 0-0  CD Mirandés
+
+
+Matchday 10
+[Wed Oct/12]
+  14.00  Villarreal CF B          2-2 (0-1)  SD Ponferradina
+  16.15  FC Andorra               0-1 (0-0)  Burgos CF
+         CD Leganés               1-0 (0-0)  Málaga CF
+  18.30  CD Tenerife              0-0  FC Cartagena
+         CD Alavés                0-0  Albacete
+         Real Oviedo              0-1 (0-0)  SD Huesca
+  21.00  CD Lugo                  0-1 (0-0)  UD Las Palmas
+         Racing Santander         1-0 (0-0)  Real Zaragoza
+[Thu Oct/13]
+  19.00  UD Ibiza                 1-2 (1-0)  SD Eibar
+  21.00  Granada CF               5-0 (2-0)  Sporting Gijón
+  19.00  CD Mirandés              0-1 (0-1)  Levante UD
+
+
+Matchday 11
+[Sat Oct/15]
+  16.15  Real Zaragoza            2-1 (1-0)  Villarreal CF B
+  18.30  SD Huesca                0-0  Racing Santander
+         SD Ponferradina          0-1 (0-1)  UD Las Palmas
+  21.00  Albacete                 1-0 (0-0)  Real Oviedo
+  16.15  FC Andorra               0-1 (0-0)  CD Alavés
+[Sun Oct/16]
+  14.00  Levante UD               2-1 (0-0)  CD Leganés
+  18.30  Burgos CF                2-1 (1-0)  CD Mirandés
+         Málaga CF                3-2 (1-0)  CD Lugo
+  21.00  CD Tenerife              2-0 (1-0)  Granada CF
+         FC Cartagena             2-0 (0-0)  UD Ibiza
+[Mon Oct/17]
+  21.00  Sporting Gijón           2-0 (1-0)  SD Eibar
+
+
+Matchday 12
+[Fri Oct/21]
+  21.00  Granada CF               1-0 (0-0)  Real Zaragoza
+[Sat Oct/22]
+  16.15  Villarreal CF B          1-0 (0-0)  FC Andorra
+  18.30  CD Mirandés              1-1 (0-0)  SD Huesca
+         CD Alavés                0-0  Sporting Gijón
+  21.00  UD Ibiza                 1-2 (1-1)  Levante UD
+[Sun Oct/23]
+  16.15  CD Lugo                  2-0 (1-0)  Burgos CF
+  18.30  CD Leganés               2-1 (1-0)  CD Tenerife
+         SD Eibar                 1-1 (1-1)  Albacete
+  21.00  UD Las Palmas            1-0 (0-0)  FC Cartagena
+  14.00  Racing Santander         1-1 (1-0)  SD Ponferradina
+[Mon Oct/24]
+  21.00  Real Oviedo              1-0 (1-0)  Málaga CF
+
+
+Matchday 13
+[Fri Oct/28]
+  21.00  CD Tenerife              0-2 (0-1)  Real Zaragoza
+[Sat Oct/29]
+  14.00  FC Andorra               3-0 (2-0)  SD Ponferradina
+  16.15  SD Huesca                1-0 (1-0)  UD Las Palmas
+  18.30  CD Leganés               0-0  Racing Santander
+         CD Alavés                2-1 (1-0)  Real Oviedo
+  21.00  Burgos CF                2-0 (1-0)  UD Ibiza
+[Sun Oct/30]
+  16.15  Málaga CF                0-1 (0-1)  SD Eibar
+  18.30  FC Cartagena             0-0  Granada CF
+  21.00  Albacete                 0-0  Villarreal CF B
+  14.00  CD Lugo                  0-0  CD Mirandés
+[Mon Oct/31]
+  21.00  Levante UD               1-0 (0-0)  Sporting Gijón
+
+
+Matchday 14
+[Tue Nov/1]
+  16.15  Real Zaragoza            0-2 (0-1)  FC Andorra
+         SD Ponferradina          1-0 (1-0)  SD Huesca
+  18.30  Racing Santander         1-1 (1-1)  CD Alavés
+         UD Las Palmas            0-2 (0-0)  Burgos CF
+  21.00  UD Ibiza                 0-2 (0-1)  CD Leganés
+[Wed Nov/2]
+  19.00  SD Eibar                 1-0 (0-0)  CD Lugo
+  21.00  CD Mirandés              1-0 (0-0)  CD Tenerife
+  19.00  Villarreal CF B          2-1 (0-0)  Real Oviedo
+[Thu Nov/3]
+  19.00  FC Cartagena             2-1 (0-0)  Málaga CF
+         Sporting Gijón           2-2 (1-1)  Albacete
+  21.00  Granada CF               0-0  Levante UD
+
+
+Matchday 15
+[Fri Nov/4]
+  21.00  CD Alavés                1-0 (0-0)  Real Zaragoza
+[Sat Nov/5]
+  18.30  FC Andorra               0-1 (0-0)  Racing Santander
+         SD Huesca                1-0 (1-0)  Villarreal CF B
+  21.00  CD Leganés               2-1 (2-1)  SD Ponferradina
+  16.15  Burgos CF                0-1 (0-0)  CD Tenerife
+[Sun Nov/6]
+  14.00  UD Ibiza                 1-1 (1-0)  CD Mirandés
+  16.15  Real Oviedo              1-0 (0-0)  Granada CF
+  18.30  Málaga CF                1-1 (0-1)  Sporting Gijón
+         UD Las Palmas            1-1 (1-1)  SD Eibar
+  21.00  Albacete                 2-3 (1-1)  Levante UD
+[Mon Nov/7]
+  21.00  CD Lugo                  1-1 (1-1)  FC Cartagena
+
+
+Matchday 16
+[Fri Nov/18]
+  21.00  Granada CF               4-0 (0-0)  Albacete
+[Sat Nov/19]
+  16.15  SD Ponferradina          1-1 (0-0)  Real Oviedo
+  18.30  CD Tenerife              2-0 (0-0)  SD Huesca
+         Sporting Gijón           2-2 (2-1)  CD Leganés
+  21.00  Real Zaragoza            1-1 (0-0)  Málaga CF
+[Sun Nov/20]
+  16.15  FC Andorra               4-0 (0-0)  CD Lugo
+  19.00  Racing Santander         0-1 (0-0)  Burgos CF
+         SD Eibar                 0-0  CD Alavés
+  21.00  Levante UD               1-1 (0-0)  UD Las Palmas
+  14.00  Villarreal CF B          1-0 (0-0)  UD Ibiza
+[Mon Nov/21]
+  21.00  CD Mirandés              2-1 (0-0)  FC Cartagena
+
+
+Matchday 17
+[Fri Nov/25]
+  21.00  SD Huesca                0-0  Sporting Gijón
+[Sat Nov/26]
+  16.15  Málaga CF                1-0 (0-0)  SD Ponferradina
+  18.30  Albacete                 2-1 (1-0)  Racing Santander
+         Real Oviedo              1-0 (1-0)  CD Mirandés
+  22.00  UD Las Palmas            3-1 (1-0)  CD Tenerife
+  16.15  CD Alavés                2-0 (1-0)  Villarreal CF B
+[Sun Nov/27]
+  14.00  Burgos CF                2-2 (0-0)  Real Zaragoza
+  16.00  CD Leganés               1-0 (0-0)  Granada CF
+  16.15  CD Lugo                  1-1 (1-1)  Levante UD
+  18.00  FC Cartagena             2-1 (0-1)  SD Eibar
+[Mon Nov/28]
+  21.00  UD Ibiza                 0-1 (0-1)  FC Andorra
+
+
+Matchday 18
+[Wed Nov/30]
+  21.00  CD Tenerife              0-1 (0-0)  Real Oviedo
+[Fri Dec/2]
+  21.30  Granada CF               3-1 (2-1)  CD Alavés
+[Sat Dec/3]
+  18.30  CD Mirandés              4-2 (3-1)  Albacete
+         Sporting Gijón           0-1 (0-1)  UD Las Palmas
+  21.00  Villarreal CF B          0-0  CD Leganés
+  16.15  Real Zaragoza            2-1 (0-1)  UD Ibiza
+[Sun Dec/4]
+  14.00  FC Andorra               0-1 (0-0)  FC Cartagena
+  16.15  Racing Santander         0-1 (0-0)  CD Lugo
+  18.30  SD Eibar                 2-1 (0-1)  SD Huesca
+  21.00  Levante UD               1-0 (0-0)  Málaga CF
+[Mon Dec/5]
+  21.00  SD Ponferradina          1-2 (1-1)  Burgos CF
+
+
+Matchday 19
+[Tue Dec/6]
+  19.00  Real Oviedo              0-0  UD Las Palmas
+  21.00  Albacete                 0-0  Real Zaragoza
+  19.00  CD Leganés               2-2 (1-1)  CD Mirandés
+[Wed Dec/7]
+  19.00  FC Cartagena             0-1 (0-0)  Villarreal CF B
+         SD Huesca                1-0 (0-0)  FC Andorra
+  21.00  CD Tenerife              2-1 (1-0)  CD Alavés
+[Thu Dec/8]
+  16.15  CD Lugo                  0-1 (0-0)  Sporting Gijón
+  18.30  UD Ibiza                 1-0 (0-0)  Racing Santander
+         Levante UD               0-0  SD Ponferradina
+  21.00  Málaga CF                1-1 (1-0)  Granada CF
+  14.00  Burgos CF                1-2 (1-0)  SD Eibar
+
+
+Matchday 20
+[Sat Dec/10]
+  19.00  Villarreal CF B          2-2 (0-1)  CD Tenerife
+  21.00  Real Zaragoza            3-0 (2-0)  SD Huesca
+  19.00  FC Andorra               1-1 (0-0)  CD Leganés
+[Sun Dec/11]
+  14.00  UD Ibiza                 1-1 (0-1)  Málaga CF
+  16.15  SD Ponferradina          1-0 (1-0)  CD Lugo
+         Sporting Gijón           0-0  FC Cartagena
+  18.30  Granada CF               1-0 (1-0)  Burgos CF
+         SD Eibar                 1-0 (0-0)  Real Oviedo
+  21.00  Racing Santander         1-2 (1-1)  CD Mirandés
+         UD Las Palmas            1-2 (0-1)  Albacete
+[Mon Dec/12]
+  21.00  CD Alavés                0-2 (0-2)  Levante UD
+
+
+Matchday 21
+[Fri Dec/16]
+  21.00  CD Tenerife              1-1 (1-1)  FC Andorra
+[Sat Dec/17]
+  16.15  CD Lugo                  1-0 (1-0)  Granada CF
+         CD Mirandés              2-1 (2-0)  SD Ponferradina
+  18.30  FC Cartagena             0-3 (0-2)  Racing Santander
+         Villarreal CF B          0-1 (0-1)  UD Las Palmas
+  21.00  Real Oviedo              1-0 (0-0)  Sporting Gijón
+[Sun Dec/18]
+  19.00  Burgos CF                1-1 (0-1)  SD Huesca
+         Levante UD               0-0  SD Eibar
+  21.00  Málaga CF                1-0 (0-0)  CD Alavés
+  14.00  Albacete                 4-0 (3-0)  UD Ibiza
+[Mon Dec/19]
+  21.00  CD Leganés               2-1 (1-1)  Real Zaragoza
+
+
+Matchday 22
+[Fri Jan/6]
+  16.15  SD Ponferradina          2-1 (0-1)  Villarreal CF B
+  18.30  Sporting Gijón           1-1 (0-1)  Levante UD
+  21.00  CD Leganés               1-0 (0-0)  CD Lugo
+[Sat Jan/7]
+  18.30  Málaga CF                1-1 (0-0)  CD Tenerife
+  21.00  CD Alavés                1-0 (0-0)  Burgos CF
+  16.15  FC Andorra               3-1 (2-0)  Real Oviedo
+[Sun Jan/8]
+  14.00  Granada CF               1-0 (0-0)  FC Cartagena
+  16.15  Real Zaragoza            0-0  CD Mirandés
+  18.30  UD Las Palmas            1-1 (1-0)  Racing Santander
+  21.00  SD Eibar                 1-0 (1-0)  UD Ibiza
+[Mon Jan/9]
+  21.00  SD Huesca                1-1 (0-1)  Albacete
+
+
+Matchday 23
+[Fri Jan/13]
+  21.00  Real Oviedo              1-0 (0-0)  CD Alavés
+[Sat Jan/14]
+  14.00  FC Cartagena             0-0  SD Huesca
+  16.15  Villarreal CF B          2-3 (2-0)  Real Zaragoza
+         UD Ibiza                 1-2 (1-0)  UD Las Palmas
+  18.30  CD Tenerife              0-0  SD Ponferradina
+         Racing Santander         2-0 (2-0)  Sporting Gijón
+  21.00  Levante UD               3-1 (2-1)  Granada CF
+[Sun Jan/15]
+  16.15  Burgos CF                2-1 (0-1)  FC Andorra
+         CD Mirandés              2-0 (1-0)  CD Lugo
+  14.00  SD Eibar                 2-1 (1-0)  Málaga CF
+[Mon Jan/16]
+  21.00  Albacete                 1-0 (1-0)  CD Leganés
+
+
+Matchday 24
+[Fri Jan/20]
+  21.00  UD Las Palmas            2-1 (0-0)  CD Mirandés
+[Sat Jan/21]
+  16.15  SD Ponferradina          0-1 (0-0)  SD Eibar
+  18.30  Granada CF               2-0 (1-0)  UD Ibiza
+  21.00  CD Alavés                3-0 (1-0)  Racing Santander
+  16.15  Málaga CF                1-1 (1-0)  Burgos CF
+[Sun Jan/22]
+  14.00  CD Leganés               2-2 (1-1)  Levante UD
+  16.15  FC Cartagena             0-1 (0-1)  CD Tenerife
+         Sporting Gijón           1-0 (1-0)  Real Zaragoza
+  18.30  SD Huesca                1-1 (1-1)  Real Oviedo
+  21.00  CD Lugo                  1-2 (0-0)  Villarreal CF B
+[Mon Jan/23]
+  21.00  FC Andorra               0-1 (0-0)  Albacete
+
+
+Matchday 25
+[Fri Jan/27]
+  21.00  Racing Santander         1-1 (1-0)  CD Tenerife
+[Sat Jan/28]
+  18.30  Real Oviedo              0-1 (0-1)  Villarreal CF B
+         SD Eibar                 0-0  CD Leganés
+  21.00  UD Las Palmas            1-0 (0-0)  SD Huesca
+  16.15  Granada CF               2-0 (2-0)  FC Andorra
+[Sun Jan/29]
+  14.00  CD Mirandés              1-3 (1-1)  CD Alavés
+  16.15  Levante UD               1-0 (1-0)  Burgos CF
+  18.30  Albacete                 2-0 (0-0)  CD Lugo
+         Sporting Gijón           0-0  Málaga CF
+  21.00  UD Ibiza                 2-2 (1-2)  FC Cartagena
+[Mon Jan/30]
+  21.00  Real Zaragoza            0-0  SD Ponferradina
+
+
+Matchday 26
+[Fri Feb/3]
+  21.00  Málaga CF                0-1 (0-0)  Real Oviedo
+[Sat Feb/4]
+  16.15  SD Huesca                1-0 (0-0)  CD Mirandés
+  18.30  CD Tenerife              1-0 (1-0)  Albacete
+  21.00  CD Alavés                2-0 (0-0)  SD Eibar
+  16.15  CD Leganés               1-0 (1-0)  Sporting Gijón
+[Sun Feb/5]
+  14.00  Villarreal CF B          0-2 (0-2)  Granada CF
+  16.15  FC Andorra               0-1 (0-0)  Real Zaragoza
+  18.30  FC Cartagena             1-2 (0-0)  Levante UD
+         SD Ponferradina          1-1 (1-0)  Racing Santander
+  21.00  CD Lugo                  0-0  UD Ibiza
+[Mon Feb/6]
+  21.00  Burgos CF                0-0  UD Las Palmas
+
+
+Matchday 27
+[Fri Feb/10]
+  21.00  Granada CF               2-0 (1-0)  CD Tenerife
+[Sat Feb/11]
+  16.15  Real Zaragoza            1-4 (0-1)  CD Alavés
+  18.30  CD Mirandés              2-1 (1-0)  Villarreal CF B
+         Levante UD               1-0 (1-0)  FC Andorra
+  21.00  UD Las Palmas            3-0 (2-0)  CD Lugo
+[Sun Feb/12]
+  16.15  Real Oviedo              0-1 (0-0)  Burgos CF
+  18.30  SD Eibar                 0-3 (0-2)  FC Cartagena
+         Sporting Gijón           1-1 (1-1)  SD Huesca
+  21.00  UD Ibiza                 1-1 (1-0)  SD Ponferradina
+  14.00  Albacete                 3-2 (1-2)  Málaga CF
+[Mon Feb/13]
+  21.00  Racing Santander         2-1 (1-0)  CD Leganés
+
+
+Matchday 28
+[Fri Feb/17]
+  21.00  FC Cartagena             2-1 (2-0)  Real Oviedo
+[Sat Feb/18]
+  18.30  CD Leganés               0-0  UD Las Palmas
+         SD Ponferradina          0-0  Levante UD
+  21.00  CD Tenerife              1-0 (0-0)  CD Mirandés
+  16.15  CD Lugo                  0-2 (0-1)  SD Eibar
+[Sun Feb/19]
+  14.00  SD Huesca                1-1 (1-1)  Granada CF
+  16.15  FC Andorra               1-0 (0-0)  Sporting Gijón
+         CD Alavés                4-2 (3-1)  UD Ibiza
+  18.30  Burgos CF                1-1 (0-0)  Albacete
+  21.00  Villarreal CF B          2-1 (0-0)  Racing Santander
+[Mon Feb/20]
+  21.00  Málaga CF                3-0 (0-0)  Real Zaragoza
+
+
+Matchday 29
+[Fri Feb/24]
+  21.00  SD Eibar                 2-0 (1-0)  Villarreal CF B
+[Sat Feb/25]
+  16.15  Racing Santander         2-1 (2-0)  FC Andorra
+  21.00  CD Mirandés              0-0  CD Leganés
+         Sporting Gijón           1-0 (0-0)  CD Tenerife
+  16.15  CD Alavés                0-0  FC Cartagena
+[Sun Feb/26]
+  14.00  UD Ibiza                 2-2 (1-2)  SD Huesca
+  16.15  Real Zaragoza            0-0  Burgos CF
+         Levante UD               3-1 (2-1)  CD Lugo
+  18.30  UD Las Palmas            2-0 (0-0)  SD Ponferradina
+  21.00  Real Oviedo              1-1 (1-0)  Albacete
+[Mon Feb/27]
+  21.00  Granada CF               1-0 (0-0)  Málaga CF
+
+
+Matchday 30
+[Fri Mar/3]
+  21.00  FC Andorra               0-0  UD Las Palmas
+[Sat Mar/4]
+  18.30  CD Tenerife              0-1 (0-1)  SD Eibar
+         SD Huesca                3-0 (1-0)  Levante UD
+  21.00  CD Mirandés              1-0 (1-0)  Real Oviedo
+  16.15  Burgos CF                1-3 (1-0)  Granada CF
+[Sun Mar/5]
+  14.00  CD Leganés               0-1 (0-0)  UD Ibiza
+  16.15  Albacete                 2-1 (2-1)  Sporting Gijón
+  18.30  CD Lugo                  0-0  Real Zaragoza
+         Málaga CF                0-1 (0-0)  Racing Santander
+  21.00  SD Ponferradina          0-3 (0-1)  FC Cartagena
+[Mon Mar/6]
+  21.00  Villarreal CF B          1-0 (1-0)  CD Alavés
+
+
+Matchday 31
+[Fri Mar/10]
+  21.00  Real Oviedo              0-0  CD Tenerife
+[Sat Mar/11]
+  16.15  SD Eibar                 1-0 (1-0)  Burgos CF
+  18.30  CD Alavés                0-0  CD Lugo
+         UD Ibiza                 0-0  Villarreal CF B
+  21.00  UD Las Palmas            2-2 (1-1)  Málaga CF
+[Sun Mar/12]
+  16.15  Sporting Gijón           3-4 (1-2)  CD Mirandés
+  18.30  FC Cartagena             0-3 (0-0)  FC Andorra
+         Levante UD               0-0  Albacete
+  21.00  Granada CF               2-2 (0-0)  SD Ponferradina
+  14.00  Real Zaragoza            3-0 (1-0)  CD Leganés
+[Mon Mar/13]
+  21.00  Racing Santander         1-1 (1-1)  SD Huesca
+
+
+Matchday 32
+[Fri Mar/17]
+  21.00  Málaga CF                0-0  Levante UD
+[Sat Mar/18]
+  16.15  Albacete                 1-2 (0-1)  Granada CF
+         CD Leganés               0-1 (0-0)  Real Oviedo
+  18.30  CD Tenerife              4-1 (3-0)  UD Las Palmas
+  21.00  SD Ponferradina          1-0 (0-0)  CD Alavés
+  14.00  FC Andorra               2-2 (0-2)  UD Ibiza
+[Sun Mar/19]
+  14.00  Burgos CF                0-0  Sporting Gijón
+  16.15  SD Huesca                1-1 (1-1)  Real Zaragoza
+  18.30  CD Lugo                  1-1 (1-0)  Racing Santander
+         Villarreal CF B          5-2 (1-2)  FC Cartagena
+[Mon Mar/20]
+  21.00  CD Mirandés              2-3 (2-0)  SD Eibar
+
+
+Matchday 33
+[Fri Mar/24]
+  21.00  FC Cartagena             2-0 (0-0)  CD Lugo
+[Sat Mar/25]
+  16.15  UD Ibiza                 2-0 (0-0)  Burgos CF
+  18.30  CD Alavés                1-0 (0-0)  CD Tenerife
+  16.15  Racing Santander         0-1 (0-1)  Levante UD
+[Sun Mar/26]
+  14.00  SD Eibar                 0-0  FC Andorra
+  16.15  Real Zaragoza            1-1 (0-0)  Albacete
+         SD Ponferradina          0-0  CD Mirandés
+  18.30  Granada CF               1-0 (0-0)  Real Oviedo
+         Villarreal CF B          0-0  SD Huesca
+  21.00  UD Las Palmas            1-1 (0-1)  Sporting Gijón
+[Mon Mar/27]
+  21.00  Málaga CF                2-0 (0-0)  CD Leganés
+
+
+Matchday 34
+[Fri Mar/31]
+  21.00  Levante UD               1-1 (1-0)  Real Zaragoza
+[Sat Apr/1]
+  18.30  CD Leganés               1-3 (1-0)  FC Cartagena
+         CD Tenerife              1-1 (0-0)  Villarreal CF B
+  21.00  Real Oviedo              1-1 (0-0)  SD Eibar
+  16.15  Burgos CF                2-1 (1-0)  Racing Santander
+[Sun Apr/2]
+  14.00  SD Huesca                0-1 (0-0)  CD Alavés
+  16.15  CD Lugo                  0-0  SD Ponferradina
+  18.30  FC Andorra               1-0 (0-0)  Málaga CF
+         Sporting Gijón           1-0 (1-0)  Granada CF
+  21.00  CD Mirandés              2-2 (1-1)  UD Ibiza
+[Mon Apr/3]
+  21.00  Albacete                 1-2 (1-0)  UD Las Palmas
+
+
+Matchday 35
+[Fri Apr/7]
+  21.00  Villarreal CF B          1-2 (0-2)  Málaga CF
+  18.30  CD Lugo                  0-0  CD Tenerife
+[Sat Apr/8]
+  16.15  Real Zaragoza            1-0 (1-0)  Granada CF
+  18.30  UD Ibiza                 1-3 (0-2)  Sporting Gijón
+  21.00  Racing Santander         4-1 (3-1)  Albacete
+[Sun Apr/9]
+  16.15  SD Eibar                 1-1 (0-0)  Levante UD
+  18.30  FC Cartagena             1-0 (0-0)  CD Mirandés
+         SD Ponferradina          0-1 (0-0)  CD Leganés
+  21.00  UD Las Palmas            0-1 (0-0)  Real Oviedo
+  14.00  SD Huesca                2-1 (2-0)  Burgos CF
+[Mon Apr/10]
+  21.00  CD Alavés                0-0  FC Andorra
+
+
+Matchday 36
+[Fri Apr/14]
+  21.00  Albacete                 3-1 (2-0)  SD Eibar
+[Sat Apr/15]
+  18.30  Real Oviedo              2-1 (1-1)  CD Lugo
+         Real Zaragoza            4-1 (3-0)  Racing Santander
+  21.00  Burgos CF                2-2 (0-1)  SD Ponferradina
+  16.15  Granada CF               2-1 (2-0)  UD Las Palmas
+[Sun Apr/16]
+  14.00  FC Andorra               1-0 (1-0)  SD Huesca
+  16.15  Sporting Gijón           0-0  CD Alavés
+  18.30  CD Tenerife              4-0 (2-0)  UD Ibiza
+         Málaga CF                1-0 (1-0)  FC Cartagena
+  21.00  CD Leganés               1-0 (1-0)  Villarreal CF B
+[Mon Apr/17]
+  21.00  Levante UD               1-2 (0-1)  CD Mirandés
+
+
+Matchday 37
+[Fri Apr/21]
+  21.00  SD Eibar                 1-1 (0-1)  Real Zaragoza
+[Sat Apr/22]
+  14.00  Villarreal CF B          1-2 (1-1)  Albacete
+  16.15  FC Cartagena             2-1 (2-1)  Sporting Gijón
+         SD Ponferradina          1-4 (0-2)  FC Andorra
+  18.30  UD Las Palmas            0-0  Levante UD
+  21.00  UD Ibiza                 1-2 (1-1)  Real Oviedo
+[Sun Apr/23]
+  18.30  CD Mirandés              2-1 (0-0)  Burgos CF
+         Racing Santander         1-0 (0-0)  Granada CF
+  21.00  CD Alavés                2-1 (1-0)  CD Leganés
+  14.00  CD Lugo                  0-2 (0-2)  Málaga CF
+[Mon Apr/24]
+  21.00  SD Huesca                1-1 (1-0)  CD Tenerife
+
+
+Matchday 38
+[Fri Apr/28]
+  21.00  Racing Santander         1-0 (1-0)  UD Ibiza
+[Sat Apr/29]
+  18.30  Albacete                 1-1 (1-0)  FC Cartagena
+  21.00  CD Tenerife              1-0 (1-0)  CD Leganés
+  16.15  Levante UD               2-0 (2-0)  CD Alavés
+[Sun Apr/30]
+  14.00  FC Andorra               0-1 (0-0)  CD Mirandés
+  16.15  Real Oviedo              3-2 (0-2)  SD Ponferradina
+  18.30  Granada CF               1-1 (0-0)  SD Eibar
+  21.00  Real Zaragoza            1-1 (0-0)  UD Las Palmas
+[Mon May/1]
+  18.30  Málaga CF                0-0  SD Huesca
+  21.00  Burgos CF                1-0 (1-0)  Villarreal CF B
+  16.15  Sporting Gijón           3-1 (2-0)  CD Lugo
+
+
+Matchday 39
+[Fri May/5]
+  21.00  CD Alavés                1-1 (0-1)  Granada CF
+[Sat May/6]
+  16.15  CD Mirandés              1-1 (1-1)  Racing Santander
+  18.30  CD Leganés               2-1 (1-1)  SD Huesca
+         CD Tenerife              1-0 (0-0)  Levante UD
+[Sun May/7]
+  16.15  SD Ponferradina          2-0 (0-0)  Málaga CF
+         UD Ibiza                 0-5 (0-2)  Albacete
+  18.30  CD Lugo                  2-2 (1-1)  FC Andorra
+         Real Oviedo              2-1 (1-0)  Real Zaragoza
+  21.00  FC Cartagena             0-0  Burgos CF
+  14.00  Villarreal CF B          2-0 (1-0)  Sporting Gijón
+[Mon May/8]
+  21.00  SD Eibar                 0-1 (0-0)  UD Las Palmas
+
+
+Matchday 40
+[Fri May/12]
+  21.00  Burgos CF                0-3 (0-2)  CD Leganés
+[Sat May/13]
+  18.30  Granada CF               2-0 (2-0)  CD Lugo
+         Real Zaragoza            2-0 (1-0)  FC Cartagena
+  21.00  Málaga CF                2-0 (1-0)  CD Mirandés
+  16.15  Sporting Gijón           1-1 (0-1)  Real Oviedo
+[Sun May/14]
+  14.00  Racing Santander         1-0 (1-0)  SD Eibar
+  16.15  FC Andorra               1-0 (0-0)  CD Tenerife
+  18.30  Albacete                 1-1 (1-0)  CD Alavés
+         SD Huesca                1-1 (0-0)  SD Ponferradina
+  21.00  UD Las Palmas            1-1 (1-0)  Villarreal CF B
+[Mon May/15]
+  21.00  Levante UD               0-0  UD Ibiza
+
+
+Matchday 41
+[Sat May/20]
+  16.15  UD Ibiza                 1-0 (0-0)  Real Zaragoza
+  18.30  CD Lugo                  1-2 (0-0)  SD Huesca
+         CD Mirandés              1-3 (0-1)  Granada CF
+         CD Alavés                2-1 (0-0)  Málaga CF
+         FC Cartagena             1-4 (1-3)  UD Las Palmas
+         Villarreal CF B          2-3 (1-2)  Levante UD
+         SD Eibar                 2-2 (0-1)  Sporting Gijón
+         SD Ponferradina          1-1 (0-1)  Albacete
+  21.00  CD Tenerife              2-1 (0-1)  Burgos CF
+[Sun May/21]
+  16.15  Real Oviedo              1-0 (1-0)  Racing Santander
+  18.30  CD Leganés               1-1 (1-1)  FC Andorra
+
+
+Matchday 42
+[Fri May/26]
+  21.00  Real Zaragoza            1-1 (0-0)  CD Tenerife
+[Sat May/27]
+  16.15  FC Andorra               4-3 (1-2)  Villarreal CF B
+         Burgos CF                0-1 (0-1)  CD Lugo
+  18.30  Albacete                 2-1 (0-0)  CD Mirandés
+         Málaga CF                1-1 (0-0)  UD Ibiza
+  21.00  Granada CF               2-0 (1-0)  CD Leganés
+         SD Huesca                0-1 (0-0)  SD Eibar
+         UD Las Palmas            0-0  CD Alavés
+         Levante UD               2-1 (0-0)  Real Oviedo
+[Sun May/28]
+  16.15  Sporting Gijón           1-4 (0-1)  SD Ponferradina
+         Racing Santander         3-1 (3-0)  FC Cartagena

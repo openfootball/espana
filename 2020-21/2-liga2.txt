@@ -1,13 +1,18 @@
 = Segunda División de España 2020/21
 
+# Date       Sat Sep/12 2020 - Sun May/30 2021 (260d)
+# Teams      22
+# Matches    462
 
-Jornada 1
-[Sáb. 12.9.]
-  16.00  SD Ponferradina          1-2 (1-1)  CD Castellón
+
+
+Matchday 1
+[Sat Sep/12]
   18.15  CD Leganés               1-0 (0-0)  UD Las Palmas
          Sporting Gijón           1-0 (0-0)  UD Logroñés
-  21.00  RCD Espanyol             3-0 (2-0)  Albacete Balompié
-[Dom. 13.9.]
+  21.00  Espanyol Barcelona       3-0 (2-0)  Albacete
+  16.00  SD Ponferradina          1-2 (1-1)  CD Castellón
+[Sun Sep/13]
   12.00  Real Oviedo              0-0  FC Cartagena
   16.00  RCD Mallorca             0-1 (0-0)  Rayo Vallecano
   18.15  CD Mirandés              0-0  AD Alcorcón
@@ -15,657 +20,751 @@ Jornada 1
   21.00  CD Tenerife              2-0 (1-0)  Málaga CF
 
 
-Jornada 2
-[Sáb. 19.9.]
+Matchday 2
+[Sat Sep/19]
+  21.00  Rayo Vallecano           2-1 (0-1)  CE Sabadell
+  18.15  CD Castellón             0-1 (0-1)  Málaga CF
   16.00  CD Mirandés              1-1 (0-0)  Real Oviedo
   18.15  AD Alcorcón              2-0 (0-0)  CD Tenerife
-         CD Castellón             0-1 (0-1)  Málaga CF
-  21.00  Rayo Vallecano           2-1 (0-1)  CE Sabadell
-[Dom. 20.9.]
-  Girona FC                -  UD Logroñés
-  UD Almería               -  Real Zaragoza
+[Sun Sep/20]
+  18.15  FC Cartagena             0-1 (0-0)  Sporting Gijón
   12.00  CD Lugo                  2-1 (0-1)  CD Leganés
-  16.00  RCD Espanyol             0-0  RCD Mallorca
-  18.15  Albacete Balompié        0-2 (0-1)  SD Ponferradina
-         FC Cartagena             0-1 (0-0)  Sporting Gijón
+  16.00  Espanyol Barcelona       0-0  RCD Mallorca
+  18.15  Albacete                 0-2 (0-1)  SD Ponferradina
   20.30  UD Las Palmas            3-3 (1-0)  CF Fuenlabrada
 
 
-Jornada 3
-[Sáb. 26.9.]
-  16.00  Real Zaragoza            2-2 (1-1)  UD Las Palmas
+Matchday 3
+[Sat Sep/26]
+  18.15  Sporting Gijón           2-0 (0-0)  Girona FC
+  20.30  CF Fuenlabrada           1-0 (0-0)  Albacete
   18.15  Málaga CF                1-0 (1-0)  AD Alcorcón
-         Sporting Gijón           2-0 (0-0)  Girona FC
-         UD Logroñés              1-1 (0-0)  CD Castellón
-  20.30  CF Fuenlabrada           1-0 (0-0)  Albacete Balompié
-[Dom. 27.9.]
+  16.00  Real Zaragoza            2-2 (1-1)  UD Las Palmas
+  18.15  UD Logroñés              1-1 (0-0)  CD Castellón
+[Sun Sep/27]
+  20.30  CD Leganés               3-1 (3-0)  FC Cartagena
+  18.15  Real Oviedo              0-2 (0-0)  Espanyol Barcelona
+         CD Tenerife              1-2 (1-1)  CD Mirandés
+         SD Ponferradina          3-0 (3-0)  Rayo Vallecano
   12.00  CD Lugo                  0-2 (0-2)  UD Almería
   16.00  RCD Mallorca             1-0 (0-0)  CE Sabadell
-  18.15  CD Tenerife              1-2 (1-1)  CD Mirandés
-         Real Oviedo              0-2 (0-0)  RCD Espanyol
-         SD Ponferradina          3-0 (3-0)  Rayo Vallecano
-  20.30  CD Leganés               3-1 (3-0)  FC Cartagena
 
 
-Jornada 4
-[Sáb. 3.10.]
-  16.00  AD Alcorcón              0-3 (0-0)  Real Zaragoza
-         CD Mirandés              0-1 (0-0)  SD Ponferradina
-  18.15  Albacete Balompié        1-1 (0-1)  Real Oviedo
-         RCD Mallorca             2-0 (1-0)  CD Tenerife
-  20.30  UD Las Palmas            2-1 (0-0)  UD Logroñés
+Matchday 4
+[Sat Oct/3]
   21.00  Rayo Vallecano           4-0 (2-0)  Málaga CF
-[Dom. 4.10.]
-  12.00  Girona FC                0-1 (0-1)  CF Fuenlabrada
-  16.00  CE Sabadell              0-1 (0-0)  RCD Espanyol
-  18.15  CD Castellón             2-0 (1-0)  CD Leganés
-         UD Almería               0-1 (0-0)  Sporting Gijón
+  18.15  RCD Mallorca             2-0 (1-0)  CD Tenerife
+         Albacete                 1-1 (0-1)  Real Oviedo
+  16.00  CD Mirandés              0-1 (0-0)  SD Ponferradina
+         AD Alcorcón              0-3 (0-0)  Real Zaragoza
+  20.30  UD Las Palmas            2-1 (0-0)  UD Logroñés
+[Sun Oct/4]
   20.30  FC Cartagena             2-1 (1-0)  CD Lugo
+  18.15  CD Castellón             2-0 (1-0)  CD Leganés
+  16.00  CE Sabadell              0-1 (0-0)  Espanyol Barcelona
+  18.15  UD Almería               0-1 (0-0)  Sporting Gijón
+  12.00  Girona FC                0-1 (0-1)  CF Fuenlabrada
 
 
-Jornada 5
-[Sáb. 10.10.]
+Matchday 5
+[Sat Oct/10]
+  16.00  UD Logroñés              1-0 (0-0)  UD Almería
+         Espanyol Barcelona       1-0 (0-0)  AD Alcorcón
   13.00  CE Sabadell              0-2 (0-0)  CD Mirandés
-  16.00  RCD Espanyol             1-0 (0-0)  AD Alcorcón
-         UD Logroñés              1-0 (0-0)  UD Almería
   18.30  CD Tenerife              1-0 (0-0)  Rayo Vallecano
-[Dom. 11.10.]
+[Sun Oct/11]
+  18.30  SD Ponferradina          0-2 (0-0)  FC Cartagena
+  21.00  Real Oviedo              1-0 (1-0)  Sporting Gijón
+  18.00  Real Zaragoza            1-0 (0-0)  Albacete
+  16.00  Málaga CF                0-0  UD Las Palmas
   12.00  CD Lugo                  0-1 (0-0)  RCD Mallorca
          CF Fuenlabrada           1-1 (1-0)  CD Castellón
   16.00  CD Leganés               0-1 (0-1)  Girona FC
-         Málaga CF                0-0  UD Las Palmas
-  18.00  Real Zaragoza            1-0 (0-0)  Albacete Balompié
-  18.30  SD Ponferradina          0-2 (0-0)  FC Cartagena
-  21.00  Real Oviedo              1-0 (1-0)  Sporting Gijón
 
 
-Jornada 6
-[Sáb. 17.10.]
-  16.00  Albacete Balompié        3-0 (1-0)  CE Sabadell
-  18.15  FC Cartagena             1-1 (0-0)  CF Fuenlabrada
-         UD Las Palmas            2-0 (1-0)  UD Almería
+Matchday 6
+[Sat Oct/17]
   20.30  CD Castellón             0-1 (0-0)  CD Lugo
-         UD Logroñés              0-1 (0-1)  CD Leganés
-[Dom. 18.10.]
-  16.00  Rayo Vallecano           1-0 (0-0)  RCD Espanyol
-  18.15  CD Mirandés              0-0  RCD Mallorca
-         Real Zaragoza            1-2 (0-2)  Málaga CF
+  18.15  UD Las Palmas            2-0 (1-0)  UD Almería
+         FC Cartagena             1-1 (0-0)  CF Fuenlabrada
+  20.30  UD Logroñés              0-1 (0-1)  CD Leganés
+  16.00  Albacete                 3-0 (1-0)  CE Sabadell
+[Sun Oct/18]
   20.30  Girona FC                1-0 (0-0)  Real Oviedo
+  18.15  Real Zaragoza            1-2 (0-2)  Málaga CF
+         CD Mirandés              0-0  RCD Mallorca
+  16.00  Rayo Vallecano           1-0 (0-0)  Espanyol Barcelona
   21.00  Sporting Gijón           1-1 (0-0)  CD Tenerife
 
 
-Jornada 7
-[Mié. 21.10.]
-  16.30  RCD Espanyol             2-0 (2-0)  CD Mirandés
-  19.00  CD Lugo                  3-0 (0-0)  Girona FC
-         SD Ponferradina          1-0 (1-0)  CD Tenerife
-         UD Las Palmas            2-1 (0-0)  CD Castellón
+Matchday 7
+[Wed Oct/21]
   21.30  CF Fuenlabrada           0-0  UD Logroñés
-         CE Sabadell              -  AD Alcorcón
-         UD Almería               1-1 (0-1)  FC Cartagena
-[Jue. 22.10.]
+  19.00  SD Ponferradina          1-0 (1-0)  CD Tenerife
+         CD Lugo                  3-0 (0-0)  Girona FC
+  21.30  UD Almería               1-1 (0-1)  FC Cartagena
+  16.30  Espanyol Barcelona       2-0 (2-0)  CD Mirandés
+  19.00  UD Las Palmas            2-1 (0-0)  CD Castellón
+[Thu Oct/22]
+  19.00  RCD Mallorca             0-0  Albacete
   16.30  CD Leganés               1-0 (0-0)  Real Zaragoza
-  19.00  RCD Mallorca             0-0  Albacete Balompié
-         Real Oviedo              0-0  Rayo Vallecano
   21.30  Málaga CF                1-0 (1-0)  Sporting Gijón
+  19.00  Real Oviedo              0-0  Rayo Vallecano
 
 
-Jornada 8
-[Sáb. 24.10.]
-  18.15  FC Cartagena             3-0 (2-0)  UD Las Palmas
-         UD Logroñés              2-3 (1-0)  CD Lugo
+Matchday 8
+[Sat Oct/24]
+  18.15  UD Logroñés              2-3 (1-0)  CD Lugo
   20.30  CD Castellón             0-1 (0-1)  Girona FC
-         UD Almería               3-0 (1-0)  CF Fuenlabrada
-[Dom. 25.10.]
+  18.15  FC Cartagena             3-0 (2-0)  UD Las Palmas
+  20.30  UD Almería               3-0 (1-0)  CF Fuenlabrada
+[Sun Oct/25]
   16.00  Sporting Gijón           2-1 (0-1)  SD Ponferradina
-  18.15  CD Leganés               2-1 (0-0)  Real Oviedo
-         CD Tenerife              0-0  RCD Espanyol
-  20.30  Albacete Balompié        2-1 (1-0)  Rayo Vallecano
-         Málaga CF                1-1 (1-0)  CD Mirandés
+  18.15  CD Tenerife              0-0  Espanyol Barcelona
+  20.30  Albacete                 2-1 (1-0)  Rayo Vallecano
   21.00  Real Zaragoza            0-0  CE Sabadell
-[Lun. 26.10.]
+  20.30  Málaga CF                1-1 (1-0)  CD Mirandés
+  18.15  CD Leganés               2-1 (0-0)  Real Oviedo
+[Mon Oct/26]
   18.00  AD Alcorcón              0-2 (0-2)  RCD Mallorca
 
 
-Jornada 9
-[Mar. 27.10.]
+Matchday 9
+[Tue Oct/27]
   19.00  Girona FC                2-1 (1-1)  FC Cartagena
-[Mié. 28.10.]
-  19.00  Albacete Balompié        1-1 (1-0)  UD Las Palmas
+[Wed Oct/28]
+  19.00  Albacete                 1-1 (1-0)  UD Las Palmas
          CD Castellón             1-2 (0-1)  UD Almería
-         RCD Espanyol             2-0 (1-0)  SD Ponferradina
+         Espanyol Barcelona       2-0 (1-0)  SD Ponferradina
   21.30  Real Oviedo              2-3 (1-0)  UD Logroñés
-[Jue. 29.10.]
-  16.30  AD Alcorcón              1-2 (0-0)  Sporting Gijón
+[Thu Oct/29]
   19.00  CD Mirandés              1-0 (0-0)  Real Zaragoza
          CD Tenerife              1-1 (1-0)  CD Lugo
-         RCD Mallorca             3-1 (1-0)  Málaga CF
   21.30  Rayo Vallecano           2-0 (0-0)  CF Fuenlabrada
          CE Sabadell              1-0 (0-0)  CD Leganés
+  19.00  RCD Mallorca             3-1 (1-0)  Málaga CF
+  16.30  AD Alcorcón              1-2 (0-0)  Sporting Gijón
 
 
-Jornada 10
-[Sáb. 31.10.]
-  16.00  FC Cartagena             3-1 (3-0)  Albacete Balompié
+Matchday 10
+[Sat Oct/31]
+  16.00  FC Cartagena             3-1 (3-0)  Albacete
   18.15  UD Las Palmas            1-2 (0-2)  Real Oviedo
-[Dom. 1.11.]
+[Sun Nov/1]
+  20.30  CD Lugo                  1-0 (1-0)  Rayo Vallecano
+  18.15  SD Ponferradina          0-3 (0-1)  CE Sabadell
+         CF Fuenlabrada           1-1 (1-0)  CD Tenerife
+  21.00  UD Almería               0-0  Girona FC
   14.00  CD Leganés               1-0 (0-0)  CD Mirandés
   16.00  Real Zaragoza            0-0  RCD Mallorca
-  18.15  CF Fuenlabrada           1-1 (1-0)  CD Tenerife
-         SD Ponferradina          0-3 (0-1)  CE Sabadell
-  20.30  CD Lugo                  1-0 (1-0)  Rayo Vallecano
-  21.00  UD Almería               0-0  Girona FC
-[Lun. 2.11.]
-  16.00  UD Logroñés              1-0 (1-0)  AD Alcorcón
+[Mon Nov/2]
+  21.00  Málaga CF                0-3 (0-1)  Espanyol Barcelona
   18.15  Sporting Gijón           1-0 (1-0)  CD Castellón
-  21.00  Málaga CF                0-3 (0-1)  RCD Espanyol
+  16.00  UD Logroñés              1-0 (1-0)  AD Alcorcón
 
 
-Jornada 1
-[Mié. 4.11.]
+Matchday 1
+[Wed Nov/4]
   19.00  Real Zaragoza            2-2 (0-1)  Girona FC
-[Jue. 5.11.]
+[Thu Nov/5]
   19.00  CE Sabadell              1-2 (1-1)  UD Almería
 
 
-Jornada 6
-[Jue. 5.11.]
+Matchday 6
+[Thu Nov/5]
   19.00  AD Alcorcón              0-1 (0-0)  SD Ponferradina
 
 
-Jornada 11
-[Vie. 6.11.]
-  21.00  Albacete Balompié        0-0  CD Leganés
-[Sáb. 7.11.]
+Matchday 11
+[Fri Nov/6]
+  21.00  Albacete                 0-0  CD Leganés
+[Sat Nov/7]
+  21.00  Espanyol Barcelona       2-1 (1-1)  CD Lugo
   16.00  FC Cartagena             0-1 (0-0)  UD Logroñés
   18.15  CD Mirandés              1-0 (1-0)  Sporting Gijón
-  21.00  RCD Espanyol             2-1 (1-1)  CD Lugo
-[Dom. 8.11.]
+[Sun Nov/8]
+  20.30  CD Tenerife              1-0 (1-0)  Real Zaragoza
+  18.15  Real Oviedo              4-0 (1-0)  CD Castellón
+         RCD Mallorca             3-0 (2-0)  SD Ponferradina
   14.00  CE Sabadell              1-2 (1-1)  Málaga CF
   16.00  AD Alcorcón              0-3 (0-1)  CF Fuenlabrada
          Rayo Vallecano           0-1 (0-0)  UD Almería
-  18.15  RCD Mallorca             3-0 (2-0)  SD Ponferradina
-         Real Oviedo              4-0 (1-0)  CD Castellón
-  20.30  CD Tenerife              1-0 (1-0)  Real Zaragoza
-[Lun. 9.11.]
+[Mon Nov/9]
   21.00  Girona FC                1-1 (0-1)  UD Las Palmas
 
 
-Jornada 12
-[Vie. 13.11.]
+Matchday 12
+[Fri Nov/13]
   21.00  Real Zaragoza            1-2 (1-1)  Real Oviedo
-[Sáb. 14.11.]
-  14.00  CF Fuenlabrada           1-1 (0-1)  RCD Espanyol
+[Sat Nov/14]
   16.15  UD Almería               2-1 (2-1)  CD Mirandés
-  18.30  CD Lugo                  1-0 (0-0)  Albacete Balompié
-         Girona FC                0-1 (0-1)  RCD Mallorca
-[Dom. 15.11.]
-  14.00  CD Leganés               1-0 (0-0)  AD Alcorcón
-  16.15  SD Ponferradina          1-1 (0-1)  Málaga CF
+  18.30  CD Lugo                  1-0 (0-0)  Albacete
+  14.00  CF Fuenlabrada           1-1 (0-1)  Espanyol Barcelona
+  18.30  Girona FC                0-1 (0-1)  RCD Mallorca
+[Sun Nov/15]
   18.30  CD Castellón             2-1 (0-0)  FC Cartagena
          UD Logroñés              1-0 (0-0)  CE Sabadell
   22.00  UD Las Palmas            1-0 (0-0)  CD Tenerife
-[Lun. 16.11.]
+  14.00  CD Leganés               1-0 (0-0)  AD Alcorcón
+  16.15  SD Ponferradina          1-1 (0-1)  Málaga CF
+[Mon Nov/16]
   21.00  Sporting Gijón           1-1 (0-0)  Rayo Vallecano
 
 
-Jornada 13
-[Vie. 20.11.]
-  19.00  AD Alcorcón              -  CD Lugo
-  21.00  RCD Espanyol             -  Girona FC
-[Sáb. 21.11.]
-  14.00  Málaga CF                -  CD Leganés
-  16.00  CD Mirandés              -  FC Cartagena
-  18.15  Rayo Vallecano           -  CD Castellón
-  20.30  Real Oviedo              -  CF Fuenlabrada
-[Dom. 22.11.]
-  14.00  CE Sabadell              -  UD Las Palmas
-  16.00  RCD Mallorca             -  Sporting Gijón
-  18.15  CD Tenerife              -  UD Logroñés
-  21.00  SD Ponferradina          -  Real Zaragoza
-[Lun. 23.11.]
-  21.00  Albacete Balompié        -  UD Almería
+Matchday 13
+[Fri Nov/20]
+  19.00  AD Alcorcón              1-0 (0-0)  CD Lugo
+  21.00  Espanyol Barcelona       1-2 (1-0)  Girona FC
+[Sat Nov/21]
+  14.00  Málaga CF                1-2 (0-1)  CD Leganés
+  20.30  Real Oviedo              1-1 (1-0)  CF Fuenlabrada
+  18.15  Rayo Vallecano           2-1 (2-0)  CD Castellón
+  16.00  CD Mirandés              4-1 (1-0)  FC Cartagena
+[Sun Nov/22]
+  21.00  SD Ponferradina          2-1 (0-0)  Real Zaragoza
+  18.15  CD Tenerife              0-1 (0-1)  UD Logroñés
+  14.00  CE Sabadell              3-1 (2-0)  UD Las Palmas
+  16.00  RCD Mallorca             0-0  Sporting Gijón
+[Mon Nov/23]
+  21.00  Albacete                 1-2 (0-1)  UD Almería
 
 
-Jornada 14
-[Mar. 24.11.]
-  19.00  CD Castellón             -  AD Alcorcón
-         Girona FC                -  Málaga CF
-  21.30  CD Lugo                  -  Real Oviedo
-[Mié. 25.11.]
-  19.00  Real Zaragoza            -  Rayo Vallecano
-         Sporting Gijón           -  CE Sabadell
-         UD Las Palmas            -  CD Mirandés
-  21.30  FC Cartagena             -  RCD Mallorca
-         CF Fuenlabrada           -  SD Ponferradina
-[Jue. 26.11.]
-  19.00  CD Leganés               -  RCD Espanyol
-         UD Logroñés              -  Albacete Balompié
-  21.30  UD Almería               -  CD Tenerife
+Matchday 14
+[Tue Nov/24]
+  21.30  CD Lugo                  0-0  Real Oviedo
+  19.00  CD Castellón             0-2 (0-2)  AD Alcorcón
+         Girona FC                0-1 (0-1)  Málaga CF
+[Wed Nov/25]
+  21.30  FC Cartagena             1-2 (0-0)  RCD Mallorca
+  19.00  UD Las Palmas            0-2 (0-1)  CD Mirandés
+         Real Zaragoza            1-2 (1-0)  Rayo Vallecano
+         Sporting Gijón           3-1 (1-0)  CE Sabadell
+  21.30  CF Fuenlabrada           1-1 (0-0)  SD Ponferradina
+[Thu Nov/26]
+  21.30  UD Almería               2-0 (0-0)  CD Tenerife
+  19.00  CD Leganés               2-0 (1-0)  Espanyol Barcelona
+         UD Logroñés              2-0 (1-0)  Albacete
 
 
-Jornada 15
-[Vie. 27.11.]
-  19.00  AD Alcorcón              -  Girona FC
-  21.00  Málaga CF                -  CD Lugo
-[Sáb. 28.11.]
-  16.00  CE Sabadell              -  CF Fuenlabrada
-  18.15  Rayo Vallecano           -  FC Cartagena
-  20.30  CD Mirandés              -  CD Castellón
-[Dom. 29.11.]
-  14.00  Albacete Balompié        -  CD Tenerife
-  16.00  RCD Espanyol             -  Real Zaragoza
-  18.15  RCD Mallorca             -  UD Logroñés
-         SD Ponferradina          -  CD Leganés
-  21.00  UD Las Palmas            -  Sporting Gijón
-[Lun. 30.11.]
-  21.00  Real Oviedo              -  UD Almería
+Matchday 15
+[Fri Nov/27]
+  19.00  AD Alcorcón              1-0 (0-0)  Girona FC
+  21.00  Málaga CF                2-2 (0-2)  CD Lugo
+[Sat Nov/28]
+  16.00  CE Sabadell              1-2 (1-1)  CF Fuenlabrada
+  18.15  Rayo Vallecano           0-0  FC Cartagena
+  20.30  CD Mirandés              1-1 (1-0)  CD Castellón
+[Sun Nov/29]
+  18.15  SD Ponferradina          3-2 (2-2)  CD Leganés
+  21.00  UD Las Palmas            3-2 (0-2)  Sporting Gijón
+  18.15  RCD Mallorca             4-0 (2-0)  UD Logroñés
+  14.00  Albacete                 0-2 (0-0)  CD Tenerife
+  16.00  Espanyol Barcelona       2-0 (0-0)  Real Zaragoza
+[Mon Nov/30]
+  21.00  Real Oviedo              1-2 (0-1)  UD Almería
 
 
-Jornada 16
-[Mar. 1.12.]
-  19.00  CF Fuenlabrada           -  Málaga CF
-  21.30  Girona FC                -  CD Mirandés
-[Mié. 2.12.]
-  19.00  CD Leganés               -  Rayo Vallecano
-         FC Cartagena             -  RCD Espanyol
-         UD Logroñés              -  SD Ponferradina
-  21.00  CD Castellón             -  Real Zaragoza
-  21.30  CD Lugo                  -  UD Las Palmas
-[Jue. 3.12.]
-  19.00  CD Tenerife              -  CE Sabadell
-         Real Oviedo              -  AD Alcorcón
-         UD Almería               -  RCD Mallorca
-  21.30  Sporting Gijón           -  Albacete Balompié
+Matchday 16
+[Tue Dec/1]
+  19.00  CF Fuenlabrada           0-2 (0-1)  Málaga CF
+  21.30  Girona FC                1-0 (1-0)  CD Mirandés
+[Wed Dec/2]
+  21.00  CD Castellón             1-0 (0-0)  Real Zaragoza
+  19.00  UD Logroñés              1-2 (0-1)  SD Ponferradina
+  21.30  CD Lugo                  1-1 (1-1)  UD Las Palmas
+  19.00  CD Leganés               1-0 (1-0)  Rayo Vallecano
+         FC Cartagena             1-3 (0-0)  Espanyol Barcelona
+[Thu Dec/3]
+  19.00  UD Almería               0-1 (0-0)  RCD Mallorca
+         Real Oviedo              1-1 (0-0)  AD Alcorcón
+  21.30  Sporting Gijón           0-0  Albacete
+  19.00  CD Tenerife              1-2 (1-2)  CE Sabadell
 
 
-Jornada 17
-[Sáb. 5.12.]
-  14.00  Rayo Vallecano           -  UD Logroñés
-  16.00  SD Ponferradina          -  UD Las Palmas
-  18.15  CD Mirandés              -  CD Lugo
-  20.30  Málaga CF                -  FC Cartagena
-[Dom. 6.12.]
-  14.00  AD Alcorcón              -  UD Almería
-  16.00  RCD Espanyol             -  Sporting Gijón
-  18.15  Albacete Balompié        -  Girona FC
-  20.30  CE Sabadell              -  Real Oviedo
-  21.00  Real Zaragoza            -  CF Fuenlabrada
-[Lun. 7.12.]
-  19.00  CD Tenerife              -  CD Leganés
-  21.00  RCD Mallorca             -  CD Castellón
+Matchday 17
+[Sat Dec/5]
+  20.30  Málaga CF                1-2 (1-1)  FC Cartagena
+  18.15  CD Mirandés              0-0  CD Lugo
+  16.00  SD Ponferradina          0-0  UD Las Palmas
+  14.00  Rayo Vallecano           2-1 (2-1)  UD Logroñés
+[Sun Dec/6]
+  21.00  Real Zaragoza            1-0 (0-0)  CF Fuenlabrada
+  18.15  Albacete                 0-2 (0-0)  Girona FC
+  14.00  AD Alcorcón              0-1 (0-0)  UD Almería
+  16.00  Espanyol Barcelona       2-0 (0-0)  Sporting Gijón
+  20.30  CE Sabadell              0-1 (0-0)  Real Oviedo
+[Mon Dec/7]
+  19.00  CD Tenerife              0-0  CD Leganés
+  21.00  RCD Mallorca             3-1 (2-0)  CD Castellón
 
 
-Jornada 18
-[Dom. 13.12.]
-  CD Castellón             -  Albacete Balompié
-  CD Leganés               -  RCD Mallorca
-  CD Lugo                  -  SD Ponferradina
-  FC Cartagena             -  CE Sabadell
-  Girona FC                -  Rayo Vallecano
-  CF Fuenlabrada           -  CD Mirandés
-  Real Oviedo              -  CD Tenerife
-  Sporting Gijón           -  Real Zaragoza
-  UD Almería               -  Málaga CF
-  UD Las Palmas            -  AD Alcorcón
-  UD Logroñés              -  RCD Espanyol
+Matchday 7
+[Wed Dec/9]
+  19.00  CE Sabadell              1-1 (0-0)  AD Alcorcón
 
 
-Jornada 19
-[Dom. 20.12.]
-  AD Alcorcón              -  FC Cartagena
-  CD Mirandés              -  Albacete Balompié
-  CD Tenerife              -  Girona FC
-  RCD Espanyol             -  UD Almería
-  Málaga CF                -  UD Logroñés
-  Rayo Vallecano           -  UD Las Palmas
-  RCD Mallorca             -  CF Fuenlabrada
-  Real Zaragoza            -  CD Lugo
-  CE Sabadell              -  CD Castellón
-  SD Ponferradina          -  Real Oviedo
-  Sporting Gijón           -  CD Leganés
+Matchday 2
+[Wed Dec/9]
+  19.00  UD Almería               1-0 (0-0)  Real Zaragoza
+[Thu Dec/10]
+  19.00  Girona FC                2-0 (0-0)  UD Logroñés
 
 
-Jornada 20
-[Dom. 3.1.]
-  Albacete Balompié        -  Málaga CF
-  CD Castellón             -  CD Tenerife
-  CD Lugo                  -  Sporting Gijón
-  FC Cartagena             -  Real Zaragoza
-  Girona FC                -  CE Sabadell
-  CF Fuenlabrada           -  CD Leganés
-  Rayo Vallecano           -  AD Alcorcón
-  Real Oviedo              -  RCD Mallorca
-  UD Almería               -  SD Ponferradina
-  UD Las Palmas            -  RCD Espanyol
-  UD Logroñés              -  CD Mirandés
+Matchday 18
+[Fri Dec/11]
+  21.00  Real Oviedo              4-2 (2-1)  CD Tenerife
+  19.00  CD Lugo                  1-0 (0-0)  SD Ponferradina
+[Sat Dec/12]
+  18.15  CD Castellón             3-0 (1-0)  Albacete
+  20.30  CF Fuenlabrada           0-1 (0-0)  CD Mirandés
+  16.00  CD Leganés               0-1 (0-0)  RCD Mallorca
+[Sun Dec/13]
+  14.00  UD Logroñés              0-3 (0-2)  Espanyol Barcelona
+  16.00  UD Almería               3-1 (1-1)  Málaga CF
+  18.15  UD Las Palmas            0-0  AD Alcorcón
+  20.30  FC Cartagena             1-2 (0-0)  CE Sabadell
+  21.00  Sporting Gijón           1-0 (0-0)  Real Zaragoza
+[Mon Dec/14]
+  19.00  Girona FC                0-0  Rayo Vallecano
 
 
-Jornada 21
-[Dom. 10.1.]
-  AD Alcorcón              -  Albacete Balompié
-  CD Leganés               -  UD Almería
-  CD Mirandés              -  Rayo Vallecano
-  CD Tenerife              -  FC Cartagena
-  RCD Espanyol             -  CD Castellón
-  Málaga CF                -  Real Oviedo
-  RCD Mallorca             -  UD Las Palmas
-  Real Zaragoza            -  UD Logroñés
-  CE Sabadell              -  CD Lugo
-  SD Ponferradina          -  Girona FC
-  Sporting Gijón           -  CF Fuenlabrada
+Matchday 19
+[Fri Dec/18]
+  19.00  SD Ponferradina          1-0 (1-0)  Real Oviedo
+[Sat Dec/19]
+  16.00  CE Sabadell              1-1 (0-1)  CD Castellón
+  18.15  RCD Mallorca             2-3 (1-2)  CF Fuenlabrada
+  21.00  Real Zaragoza            1-0 (0-0)  CD Lugo
+[Sun Dec/20]
+  16.00  Espanyol Barcelona       2-1 (1-0)  UD Almería
+  18.15  Rayo Vallecano           2-0 (0-0)  UD Las Palmas
+  20.30  Málaga CF                0-0  UD Logroñés
+  14.00  AD Alcorcón              2-1 (2-0)  FC Cartagena
+[Mon Dec/21]
+  19.00  CD Mirandés              0-2 (0-2)  Albacete
+  21.00  Sporting Gijón           1-1 (0-0)  CD Leganés
+  21.30  CD Tenerife              2-0 (2-0)  Girona FC
 
 
-Jornada 22
-[Dom. 24.1.]
-  Albacete Balompié        -  Real Zaragoza
-  CD Castellón             -  Sporting Gijón
-  CD Lugo                  -  CD Tenerife
-  FC Cartagena             -  CD Mirandés
-  Girona FC                -  RCD Espanyol
-  Málaga CF                -  SD Ponferradina
-  CF Fuenlabrada           -  AD Alcorcón
-  Rayo Vallecano           -  RCD Mallorca
-  UD Almería               -  CE Sabadell
-  UD Las Palmas            -  CD Leganés
-  UD Logroñés              -  Real Oviedo
+Matchday 20
+[Sat Jan/2]
+  16.00  Rayo Vallecano           2-1 (1-0)  AD Alcorcón
+  18.15  UD Logroñés              2-1 (1-1)  CD Mirandés
+  20.30  FC Cartagena             1-1 (0-0)  Real Zaragoza
+  14.00  CF Fuenlabrada           0-0  CD Leganés
+[Sun Jan/3]
+  14.00  CD Castellón             0-1 (0-0)  CD Tenerife
+  16.00  UD Las Palmas            1-0 (1-0)  Espanyol Barcelona
+  18.15  Albacete                 1-1 (0-0)  Málaga CF
+  20.30  UD Almería               3-1 (3-0)  SD Ponferradina
+  21.00  Real Oviedo              2-2 (1-2)  RCD Mallorca
+[Mon Jan/4]
+  18.30  Girona FC                0-0  CE Sabadell
+  21.00  CD Lugo                  0-0  Sporting Gijón
 
 
-Jornada 23
-[Dom. 31.1.]
-  AD Alcorcón              -  Málaga CF
-  CD Leganés               -  CD Lugo
-  CD Mirandés              -  UD Las Palmas
-  CD Tenerife              -  CF Fuenlabrada
-  RCD Espanyol             -  Rayo Vallecano
-  RCD Mallorca             -  Girona FC
-  Real Oviedo              -  Albacete Balompié
-  Real Zaragoza            -  SD Ponferradina
-  CE Sabadell              -  UD Logroñés
-  Sporting Gijón           -  FC Cartagena
-  UD Almería               -  CD Castellón
+Matchday 21
+[Fri Jan/8]
+  21.00  Real Zaragoza            2-0 (1-0)  UD Logroñés
+[Sat Jan/9]
+  18.15  Málaga CF                1-1 (1-0)  Real Oviedo
+[Sun Jan/10]
+  16.00  RCD Mallorca             0-1 (0-1)  UD Las Palmas
+  18.15  CD Tenerife              3-0 (1-0)  FC Cartagena
+  21.00  Espanyol Barcelona       2-0 (2-0)  CD Castellón
+[Mon Jan/11]
+  20.30  Sporting Gijón           2-1 (1-0)  CF Fuenlabrada
+  21.30  CE Sabadell              1-1 (1-0)  CD Lugo
+  19.00  SD Ponferradina          1-1 (0-1)  Girona FC
+[Tue Jan/19]
+  19.00  CD Mirandés              0-2 (0-2)  Rayo Vallecano
 
 
-Jornada 24
-[Dom. 7.2.]
-  Albacete Balompié        -  RCD Mallorca
-  CD Castellón             -  CD Mirandés
-  CD Lugo                  -  RCD Espanyol
-  FC Cartagena             -  Real Oviedo
-  Girona FC                -  CD Leganés
-  Málaga CF                -  Real Zaragoza
-  CF Fuenlabrada           -  UD Almería
-  Rayo Vallecano           -  CD Tenerife
-  SD Ponferradina          -  AD Alcorcón
-  UD Las Palmas            -  CE Sabadell
-  UD Logroñés              -  Sporting Gijón
+Matchday 22
+[Fri Jan/22]
+  21.00  Albacete                 1-0 (1-0)  Real Zaragoza
+  19.00  CF Fuenlabrada           0-0  AD Alcorcón
+[Sat Jan/23]
+  20.30  Málaga CF                0-2 (0-1)  SD Ponferradina
+  18.15  Girona FC                1-0 (1-0)  Espanyol Barcelona
+  16.00  Rayo Vallecano           1-3 (1-3)  RCD Mallorca
+  18.15  CD Lugo                  2-0 (1-0)  CD Tenerife
+[Sun Jan/24]
+  18.15  CD Castellón             2-0 (1-0)  Sporting Gijón
+  14.00  UD Almería               2-2 (1-0)  CE Sabadell
+  16.00  UD Logroñés              0-0  Real Oviedo
+  20.30  UD Las Palmas            2-1 (0-0)  CD Leganés
+[Mon Jan/25]
+  21.00  FC Cartagena             0-2 (0-2)  CD Mirandés
 
 
-Jornada 25
-[Dom. 14.2.]
-  AD Alcorcón              -  UD Logroñés
-  CD Castellón             -  CF Fuenlabrada
-  CD Leganés               -  Albacete Balompié
-  CD Mirandés              -  Girona FC
-  CD Tenerife              -  SD Ponferradina
-  FC Cartagena             -  Rayo Vallecano
-  RCD Mallorca             -  RCD Espanyol
-  Real Oviedo              -  CD Lugo
-  CE Sabadell              -  Real Zaragoza
-  Sporting Gijón           -  Málaga CF
-  UD Almería               -  UD Las Palmas
+Matchday 21
+[Tue Jan/26]
+  19.00  AD Alcorcón              1-2 (1-1)  Albacete
 
 
-Jornada 26
-[Dom. 21.2.]
-  Albacete Balompié        -  Sporting Gijón
-  CD Leganés               -  CD Tenerife
-  CD Lugo                  -  UD Logroñés
-  RCD Espanyol             -  CE Sabadell
-  Girona FC                -  CD Castellón
-  Málaga CF                -  Rayo Vallecano
-  CF Fuenlabrada           -  Real Oviedo
-  RCD Mallorca             -  UD Almería
-  Real Zaragoza            -  AD Alcorcón
-  SD Ponferradina          -  CD Mirandés
-  UD Las Palmas            -  FC Cartagena
+Matchday 23
+[Fri Jan/29]
+  21.00  Real Zaragoza            1-0 (1-0)  SD Ponferradina
+[Sat Jan/30]
+  18.15  AD Alcorcón              0-1 (0-0)  Málaga CF
+  16.00  Real Oviedo              0-1 (0-0)  Albacete
+  21.00  UD Almería               3-1 (1-0)  CD Castellón
+  20.30  RCD Mallorca             1-0 (0-0)  Girona FC
+[Sun Jan/31]
+  14.00  Sporting Gijón           0-0  FC Cartagena
+  16.00  Espanyol Barcelona       2-3 (2-0)  Rayo Vallecano
+  18.15  CD Mirandés              2-0 (1-0)  UD Las Palmas
+  20.30  CD Tenerife              1-1 (0-1)  CF Fuenlabrada
+[Mon Feb/1]
+  19.00  CD Leganés               3-2 (2-1)  CD Lugo
+  21.00  CE Sabadell              0-0  UD Logroñés
 
 
-Jornada 27
-[Dom. 28.2.]
-  CD Castellón             -  UD Las Palmas
-  CD Mirandés              -  Málaga CF
-  CD Tenerife              -  AD Alcorcón
-  FC Cartagena             -  CD Leganés
-  CF Fuenlabrada           -  Girona FC
-  Rayo Vallecano           -  SD Ponferradina
-  Real Oviedo              -  Real Zaragoza
-  CE Sabadell              -  Albacete Balompié
-  Sporting Gijón           -  RCD Espanyol
-  UD Almería               -  CD Lugo
-  UD Logroñés              -  RCD Mallorca
+Matchday 24
+[Fri Feb/5]
+  21.00  Albacete                 0-1 (0-0)  RCD Mallorca
+[Sat Feb/6]
+  16.00  FC Cartagena             2-0 (1-0)  Real Oviedo
+  18.15  UD Logroñés              0-4 (0-2)  Sporting Gijón
+  20.30  CF Fuenlabrada           1-1 (0-0)  UD Almería
+[Sun Feb/7]
+  18.15  CD Castellón             0-1 (0-0)  CD Mirandés
+  14.00  Girona FC                0-2 (0-0)  CD Leganés
+  16.00  Málaga CF                1-2 (0-2)  Real Zaragoza
+  20.30  UD Las Palmas            0-1 (0-0)  CE Sabadell
+  18.15  Rayo Vallecano           0-1 (0-0)  CD Tenerife
+[Mon Feb/8]
+  19.00  SD Ponferradina          2-0 (1-0)  AD Alcorcón
+  21.00  CD Lugo                  1-1 (1-0)  Espanyol Barcelona
 
 
-Jornada 28
-[Dom. 7.3.]
-  AD Alcorcón              -  CD Mirandés
-  Albacete Balompié        -  UD Logroñés
-  CD Leganés               -  CD Castellón
-  CD Lugo                  -  CF Fuenlabrada
-  RCD Espanyol             -  Real Oviedo
-  Girona FC                -  UD Almería
-  Málaga CF                -  CE Sabadell
-  RCD Mallorca             -  FC Cartagena
-  Real Zaragoza            -  CD Tenerife
-  SD Ponferradina          -  Sporting Gijón
-  UD Las Palmas            -  Rayo Vallecano
+Matchday 25
+[Fri Feb/12]
+  21.00  CE Sabadell              1-1 (0-1)  Real Zaragoza
+[Sat Feb/13]
+  16.00  FC Cartagena             2-2 (1-1)  Rayo Vallecano
+  18.15  CD Mirandés              3-3 (2-1)  Girona FC
+  20.30  CD Tenerife              1-0 (0-0)  SD Ponferradina
+[Sun Feb/14]
+  14.00  RCD Mallorca             1-2 (0-1)  Espanyol Barcelona
+  18.15  CD Leganés               3-1 (2-0)  Albacete
+  16.00  UD Almería               3-1 (1-0)  UD Las Palmas
+  18.15  AD Alcorcón              1-0 (1-0)  UD Logroñés
+  21.00  Sporting Gijón           1-0 (0-0)  Málaga CF
+[Mon Feb/15]
+  21.00  Real Oviedo              3-1 (1-1)  CD Lugo
+  19.00  CD Castellón             1-2 (1-2)  CF Fuenlabrada
 
 
-Jornada 29
-[Dom. 14.3.]
-  CD Castellón             -  CE Sabadell
-  CD Mirandés              -  RCD Espanyol
-  CD Tenerife              -  Albacete Balompié
-  FC Cartagena             -  SD Ponferradina
-  Girona FC                -  CD Lugo
-  CF Fuenlabrada           -  UD Las Palmas
-  Rayo Vallecano           -  Real Zaragoza
-  Real Oviedo              -  CD Leganés
-  Sporting Gijón           -  RCD Mallorca
-  UD Almería               -  AD Alcorcón
-  UD Logroñés              -  Málaga CF
+Matchday 21
+[Wed Feb/17]
+  19.00  CD Leganés               2-1 (0-1)  UD Almería
 
 
-Jornada 30
-[Dom. 21.3.]
-  AD Alcorcón              -  Rayo Vallecano
-  Albacete Balompié        -  FC Cartagena
-  CD Leganés               -  CF Fuenlabrada
-  CD Lugo                  -  CD Castellón
-  RCD Espanyol             -  UD Logroñés
-  Málaga CF                -  CD Tenerife
-  RCD Mallorca             -  Real Oviedo
-  Real Zaragoza            -  CD Mirandés
-  CE Sabadell              -  Sporting Gijón
-  SD Ponferradina          -  UD Almería
-  UD Las Palmas            -  Girona FC
+Matchday 26
+[Fri Feb/19]
+  21.00  SD Ponferradina          1-0 (0-0)  CD Mirandés
+[Sat Feb/20]
+  18.15  Albacete                 0-1 (0-1)  Sporting Gijón
+  20.30  UD Las Palmas            2-0 (2-0)  FC Cartagena
+  16.00  Espanyol Barcelona       1-0 (0-0)  CE Sabadell
+[Sun Feb/21]
+  14.00  CD Leganés               1-0 (0-0)  CD Tenerife
+  16.00  RCD Mallorca             2-0 (1-0)  UD Almería
+  18.15  Girona FC                2-1 (2-0)  CD Castellón
+  20.30  CD Lugo                  1-1 (0-0)  UD Logroñés
+  21.00  Málaga CF                2-0 (2-0)  Rayo Vallecano
+[Mon Feb/22]
+  21.00  Real Zaragoza            0-1 (0-0)  AD Alcorcón
+  19.00  CF Fuenlabrada           2-2 (0-1)  Real Oviedo
 
 
-Jornada 31
-[Dom. 28.3.]
-  CD Castellón             -  RCD Espanyol
-  CD Lugo                  -  CE Sabadell
-  CD Tenerife              -  UD Las Palmas
-  FC Cartagena             -  Málaga CF
-  Girona FC                -  Albacete Balompié
-  CF Fuenlabrada           -  RCD Mallorca
-  Rayo Vallecano           -  CD Mirandés
-  Real Oviedo              -  SD Ponferradina
-  Sporting Gijón           -  AD Alcorcón
-  UD Almería               -  CD Leganés
-  UD Logroñés              -  Real Zaragoza
+Matchday 27
+[Fri Feb/26]
+  21.00  FC Cartagena             1-0 (0-0)  CD Leganés
+  19.00  CE Sabadell              0-0  Albacete
+[Sat Feb/27]
+  16.00  Rayo Vallecano           1-1 (0-0)  SD Ponferradina
+  18.15  UD Almería               4-1 (1-1)  CD Lugo
+  20.30  CD Castellón             4-0 (1-0)  UD Las Palmas
+  21.00  UD Logroñés              0-1 (0-1)  RCD Mallorca
+[Sun Feb/28]
+  16.00  Sporting Gijón           1-1 (1-1)  Espanyol Barcelona
+  18.15  CD Tenerife              3-1 (0-0)  AD Alcorcón
+  21.00  Real Oviedo              1-0 (0-0)  Real Zaragoza
+  14.00  CF Fuenlabrada           1-1 (0-1)  Girona FC
+[Mon Mar/1]
+  19.00  CD Mirandés              1-0 (0-0)  Málaga CF
 
 
-Jornada 32
-[Mié. 31.3.]
-  AD Alcorcón              -  Real Oviedo
-  Albacete Balompié        -  CD Castellón
-  CD Mirandés              -  CD Tenerife
-  RCD Espanyol             -  CF Fuenlabrada
-  Málaga CF                -  UD Almería
-  Rayo Vallecano           -  Sporting Gijón
-  RCD Mallorca             -  CD Leganés
-  Real Zaragoza            -  FC Cartagena
-  CE Sabadell              -  Girona FC
-  SD Ponferradina          -  UD Logroñés
-  UD Las Palmas            -  CD Lugo
+Matchday 28
+[Fri Mar/5]
+  21.00  Espanyol Barcelona       1-1 (1-0)  Real Oviedo
+[Sat Mar/6]
+  18.15  CD Leganés               0-0  CD Castellón
+         UD Las Palmas            1-1 (0-1)  Rayo Vallecano
+  20.30  Albacete                 1-1 (0-0)  UD Logroñés
+  16.00  Real Zaragoza            1-0 (1-0)  CD Tenerife
+[Sun Mar/7]
+  14.00  Málaga CF                2-0 (0-0)  CE Sabadell
+  16.00  SD Ponferradina          2-2 (0-1)  Sporting Gijón
+  18.15  RCD Mallorca             2-1 (1-0)  FC Cartagena
+  21.00  Girona FC                0-1 (0-0)  UD Almería
+[Mon Mar/8]
+  21.00  CD Lugo                  0-0  CF Fuenlabrada
+  19.00  AD Alcorcón              4-0 (0-0)  CD Mirandés
 
 
-Jornada 33
-[Dom. 4.4.]
-  Albacete Balompié        -  RCD Espanyol
-  CD Castellón             -  Real Oviedo
-  CD Leganés               -  CE Sabadell
-  CD Lugo                  -  Málaga CF
-  FC Cartagena             -  AD Alcorcón
-  Girona FC                -  SD Ponferradina
-  CF Fuenlabrada           -  Real Zaragoza
-  Sporting Gijón           -  CD Mirandés
-  UD Almería               -  Rayo Vallecano
-  UD Las Palmas            -  RCD Mallorca
-  UD Logroñés              -  CD Tenerife
+Matchday 29
+[Fri Mar/12]
+  21.00  Rayo Vallecano           3-2 (1-2)  Real Zaragoza
+  19.00  FC Cartagena             1-1 (1-0)  SD Ponferradina
+[Sat Mar/13]
+  16.00  CF Fuenlabrada           1-2 (1-1)  UD Las Palmas
+  18.15  Girona FC                1-1 (0-1)  CD Lugo
+  20.30  CD Castellón             2-1 (1-0)  CE Sabadell
+  21.00  CD Mirandés              2-2 (1-1)  Espanyol Barcelona
+[Sun Mar/14]
+  16.00  Sporting Gijón           2-0 (1-0)  RCD Mallorca
+  18.15  CD Tenerife              2-0 (0-0)  Albacete
+  20.30  Real Oviedo              1-3 (0-1)  CD Leganés
+  14.00  UD Logroñés              0-1 (0-1)  Málaga CF
+[Mon Mar/15]
+  19.00  UD Almería               0-0  AD Alcorcón
 
 
-Jornada 34
-[Dom. 11.4.]
-  AD Alcorcón              -  CD Castellón
-  CD Mirandés              -  UD Logroñés
-  CD Tenerife              -  Sporting Gijón
-  RCD Espanyol             -  CD Leganés
-  Málaga CF                -  Albacete Balompié
-  Rayo Vallecano           -  Girona FC
-  RCD Mallorca             -  CD Lugo
-  Real Oviedo              -  UD Las Palmas
-  Real Zaragoza            -  UD Almería
-  CE Sabadell              -  FC Cartagena
-  SD Ponferradina          -  CF Fuenlabrada
+Matchday 30
+[Fri Mar/19]
+  21.00  UD Las Palmas            1-2 (1-0)  Girona FC
+[Sat Mar/20]
+  18.15  RCD Mallorca             0-0  Real Oviedo
+  20.30  CD Leganés               0-2 (0-0)  CF Fuenlabrada
+  21.00  Espanyol Barcelona       4-0 (3-0)  UD Logroñés
+  16.00  CE Sabadell              1-1 (1-0)  Sporting Gijón
+[Sun Mar/21]
+  14.00  SD Ponferradina          2-1 (0-1)  UD Almería
+  16.00  Málaga CF                1-1 (1-0)  CD Tenerife
+  18.15  CD Lugo                  0-0  CD Castellón
+  20.30  AD Alcorcón              0-3 (0-2)  Rayo Vallecano
+[Mon Mar/22]
+  21.00  Real Zaragoza            1-0 (1-0)  CD Mirandés
+  19.00  Albacete                 2-0 (1-0)  FC Cartagena
 
 
-Jornada 35
-[Dom. 18.4.]
-  Albacete Balompié        -  CD Mirandés
-  CD Castellón             -  RCD Mallorca
-  CD Leganés               -  SD Ponferradina
-  CD Lugo                  -  AD Alcorcón
-  FC Cartagena             -  CD Tenerife
-  Girona FC                -  Real Zaragoza
-  CF Fuenlabrada           -  CE Sabadell
-  Sporting Gijón           -  Real Oviedo
-  UD Almería               -  RCD Espanyol
-  UD Las Palmas            -  Málaga CF
-  UD Logroñés              -  Rayo Vallecano
+Matchday 31
+[Fri Mar/26]
+  21.00  CD Castellón             1-3 (1-2)  Espanyol Barcelona
+  19.00  Sporting Gijón           0-0  AD Alcorcón
+[Sat Mar/27]
+  16.00  Real Oviedo              1-1 (1-1)  SD Ponferradina
+  18.15  UD Almería               1-1 (0-0)  CD Leganés
+  20.30  FC Cartagena             1-1 (1-0)  Málaga CF
+  21.00  UD Logroñés              1-1 (1-0)  Real Zaragoza
+[Sun Mar/28]
+  16.00  Girona FC                2-1 (0-0)  Albacete
+  21.30  CD Tenerife              1-1 (1-1)  UD Las Palmas
+  14.00  CD Lugo                  0-1 (0-1)  CE Sabadell
+[Mon Mar/29]
+  21.00  CF Fuenlabrada           4-1 (3-0)  RCD Mallorca
 
 
-Jornada 36
-[Dom. 25.4.]
-  AD Alcorcón              -  CD Leganés
-  CD Mirandés              -  UD Almería
-  CD Tenerife              -  CD Castellón
-  RCD Espanyol             -  UD Las Palmas
-  Málaga CF                -  CF Fuenlabrada
-  Rayo Vallecano           -  Albacete Balompié
-  Real Oviedo              -  Girona FC
-  Real Zaragoza            -  Sporting Gijón
-  CE Sabadell              -  RCD Mallorca
-  SD Ponferradina          -  CD Lugo
-  UD Logroñés              -  FC Cartagena
+Matchday 32
+[Tue Mar/30]
+  21.30  Rayo Vallecano           0-1 (0-1)  Sporting Gijón
+  19.00  AD Alcorcón              1-1 (1-0)  Real Oviedo
+  19.30  Málaga CF                0-3 (0-2)  UD Almería
+  21.00  SD Ponferradina          2-2 (0-1)  UD Logroñés
+[Wed Mar/31]
+  19.00  CE Sabadell              2-2 (2-1)  Girona FC
+         Albacete                 0-1 (0-0)  CD Castellón
+[Thu Apr/1]
+  17.00  Espanyol Barcelona       4-0 (3-0)  CF Fuenlabrada
+  19.00  RCD Mallorca             1-0 (1-0)  CD Leganés
+  21.00  UD Las Palmas            6-1 (3-1)  CD Lugo
+  21.30  Real Zaragoza            0-0  FC Cartagena
 
 
-Jornada 37
-[Dom. 2.5.]
-  Albacete Balompié        -  AD Alcorcón
-  CD Castellón             -  UD Logroñés
-  CD Leganés               -  Sporting Gijón
-  CD Lugo                  -  Real Zaragoza
-  RCD Espanyol             -  Málaga CF
-  Girona FC                -  CD Tenerife
-  CF Fuenlabrada           -  FC Cartagena
-  RCD Mallorca             -  CD Mirandés
-  CE Sabadell              -  Rayo Vallecano
-  UD Almería               -  Real Oviedo
-  UD Las Palmas            -  SD Ponferradina
+Matchday 33
+[Fri Apr/2]
+  21.00  UD Almería               0-1 (0-0)  Rayo Vallecano
+[Sat Apr/3]
+  14.00  UD Logroñés              1-0 (0-0)  CD Tenerife
+  18.15  CD Castellón             1-0 (0-0)  Real Oviedo
+  16.00  Girona FC                3-1 (1-0)  SD Ponferradina
+[Sun Apr/4]
+  20.30  UD Las Palmas            1-1 (0-1)  RCD Mallorca
+  18.15  CD Lugo                  0-1 (0-0)  Málaga CF
+  14.00  Sporting Gijón           1-2 (0-0)  CD Mirandés
+  16.00  Albacete                 0-3 (0-1)  Espanyol Barcelona
+  18.15  CD Leganés               2-1 (2-0)  CE Sabadell
+[Mon Apr/5]
+  21.00  CF Fuenlabrada           0-1 (0-0)  Real Zaragoza
+  19.00  FC Cartagena             2-1 (2-0)  AD Alcorcón
 
 
-Jornada 38
-[Dom. 9.5.]
-  AD Alcorcón              -  UD Las Palmas
-  CD Mirandés              -  CF Fuenlabrada
-  CD Tenerife              -  UD Almería
-  FC Cartagena             -  CD Castellón
-  Málaga CF                -  RCD Mallorca
-  Rayo Vallecano           -  CD Leganés
-  Real Oviedo              -  CE Sabadell
-  Real Zaragoza            -  RCD Espanyol
-  SD Ponferradina          -  Albacete Balompié
-  Sporting Gijón           -  CD Lugo
-  UD Logroñés              -  Girona FC
+Matchday 34
+[Fri Apr/9]
+  21.00  CD Tenerife              1-0 (0-0)  Sporting Gijón
+[Sat Apr/10]
+  16.00  Real Oviedo              0-0  UD Las Palmas
+  14.00  SD Ponferradina          0-0  CF Fuenlabrada
+  18.15  Rayo Vallecano           2-1 (1-1)  Girona FC
+[Sun Apr/11]
+  18.15  CE Sabadell              1-1 (1-0)  FC Cartagena
+  21.00  Espanyol Barcelona       2-1 (1-0)  CD Leganés
+  14.00  Málaga CF                2-0 (1-0)  Albacete
+  16.00  Real Zaragoza            2-1 (1-1)  UD Almería
+  18.15  CD Mirandés              0-1 (0-0)  UD Logroñés
+         RCD Mallorca             2-0 (1-0)  CD Lugo
+[Mon Apr/12]
+  21.00  AD Alcorcón              2-1 (1-1)  CD Castellón
 
 
-Jornada 39
-[Dom. 16.5.]
-  CD Castellón             -  SD Ponferradina
-  CD Leganés               -  UD Logroñés
-  CD Lugo                  -  CD Mirandés
-  RCD Espanyol             -  FC Cartagena
-  Girona FC                -  Sporting Gijón
-  CF Fuenlabrada           -  Rayo Vallecano
-  RCD Mallorca             -  AD Alcorcón
-  Real Oviedo              -  Málaga CF
-  CE Sabadell              -  CD Tenerife
-  UD Almería               -  Albacete Balompié
-  UD Las Palmas            -  Real Zaragoza
+Matchday 31
+[Wed Apr/14]
+  19.00  Rayo Vallecano           0-1 (0-0)  CD Mirandés
 
 
-Jornada 40
-[Mié. 19.5.]
-  AD Alcorcón              -  CE Sabadell
-  Albacete Balompié        -  CD Lugo
-  CD Mirandés              -  CD Leganés
-  CD Tenerife              -  RCD Mallorca
-  FC Cartagena             -  UD Almería
-  Málaga CF                -  Girona FC
-  Rayo Vallecano           -  Real Oviedo
-  Real Zaragoza            -  CD Castellón
-  SD Ponferradina          -  RCD Espanyol
-  Sporting Gijón           -  UD Las Palmas
-  UD Logroñés              -  CF Fuenlabrada
+Matchday 35
+[Fri Apr/16]
+  19.00  CF Fuenlabrada           2-2 (0-1)  CE Sabadell
+  21.00  Girona FC                3-0 (1-0)  Real Zaragoza
+[Sat Apr/17]
+  18.15  UD Las Palmas            1-1 (0-0)  Málaga CF
+  14.00  CD Lugo                  1-3 (0-1)  AD Alcorcón
+  16.00  CD Castellón             1-0 (1-0)  RCD Mallorca
+  18.15  Sporting Gijón           0-1 (0-1)  Real Oviedo
+[Sun Apr/18]
+  14.00  Albacete                 1-0 (0-0)  CD Mirandés
+         UD Logroñés              0-0  Rayo Vallecano
+  18.15  FC Cartagena             0-0  CD Tenerife
+[Mon Apr/19]
+  21.00  UD Almería               1-1 (0-0)  Espanyol Barcelona
+  19.00  CD Leganés               1-1 (1-0)  SD Ponferradina
 
 
-Jornada 41
-[Dom. 23.5.]
-  CD Castellón             -  Rayo Vallecano
-  CD Leganés               -  Málaga CF
-  CD Lugo                  -  FC Cartagena
-  RCD Espanyol             -  CD Tenerife
-  Girona FC                -  AD Alcorcón
-  CF Fuenlabrada           -  Sporting Gijón
-  RCD Mallorca             -  Real Zaragoza
-  Real Oviedo              -  CD Mirandés
-  CE Sabadell              -  SD Ponferradina
-  UD Almería               -  UD Logroñés
-  UD Las Palmas            -  Albacete Balompié
+Matchday 32
+[Wed Apr/21]
+  19.00  CD Mirandés              0-0  CD Tenerife
 
 
-Jornada 42
-[Dom. 30.5.]
-  AD Alcorcón              -  RCD Espanyol
-  Albacete Balompié        -  CF Fuenlabrada
-  CD Mirandés              -  CE Sabadell
-  CD Tenerife              -  Real Oviedo
-  FC Cartagena             -  Girona FC
-  Málaga CF                -  CD Castellón
-  Rayo Vallecano           -  CD Lugo
-  Real Zaragoza            -  CD Leganés
-  SD Ponferradina          -  RCD Mallorca
-  Sporting Gijón           -  UD Almería
-  UD Logroñés              -  UD Las Palmas
+Matchday 36
+[Fri Apr/23]
+  21.00  Real Zaragoza            0-0  Sporting Gijón
+[Sat Apr/24]
+  16.00  Málaga CF                0-1 (0-1)  CF Fuenlabrada
+         UD Logroñés              0-1 (0-0)  FC Cartagena
+  18.15  Espanyol Barcelona       4-0 (3-0)  UD Las Palmas
+  20.30  SD Ponferradina          2-0 (1-0)  CD Lugo
+[Sun Apr/25]
+  16.00  CD Mirandés              1-1 (1-1)  UD Almería
+  18.15  AD Alcorcón              1-2 (1-1)  CD Leganés
+  20.30  CD Tenerife              1-1 (1-0)  CD Castellón
+  14.00  Real Oviedo              0-1 (0-0)  Girona FC
+[Mon Apr/26]
+  19.00  Rayo Vallecano           2-2 (1-0)  Albacete
+  21.00  CE Sabadell              1-0 (1-0)  RCD Mallorca
+
+
+Matchday 37
+[Fri Apr/30]
+  21.00  CD Lugo                  2-2 (1-0)  Real Zaragoza
+[Sat May/1]
+  18.15  RCD Mallorca             2-1 (1-0)  CD Mirandés
+         UD Almería               2-2 (2-0)  Real Oviedo
+  16.00  Girona FC                1-0 (1-0)  CD Tenerife
+[Sun May/2]
+  14.00  CF Fuenlabrada           2-1 (1-0)  FC Cartagena
+  16.00  Espanyol Barcelona       3-0 (2-0)  Málaga CF
+  18.15  CD Castellón             0-0  UD Logroñés
+         CD Leganés               0-0  Sporting Gijón
+  20.30  UD Las Palmas            2-0 (1-0)  SD Ponferradina
+[Mon May/3]
+  21.00  Albacete                 0-1 (0-1)  AD Alcorcón
+  18.00  CE Sabadell              2-0 (0-0)  Rayo Vallecano
+
+
+Matchday 38
+[Fri May/7]
+  21.00  CD Tenerife              0-1 (0-0)  UD Almería
+[Sat May/8]
+  18.15  Real Zaragoza            0-0  Espanyol Barcelona
+         SD Ponferradina          0-1 (0-1)  Albacete
+  20.30  AD Alcorcón              0-0  UD Las Palmas
+  21.00  Málaga CF                1-1 (1-1)  RCD Mallorca
+[Sun May/9]
+  16.00  Real Oviedo              2-1 (2-1)  CE Sabadell
+  18.15  FC Cartagena             1-0 (0-0)  CD Castellón
+         UD Logroñés              1-4 (0-2)  Girona FC
+  14.00  CD Mirandés              2-1 (1-1)  CF Fuenlabrada
+[Mon May/10]
+  21.00  Sporting Gijón           1-0 (0-0)  CD Lugo
+  19.00  Rayo Vallecano           1-1 (0-1)  CD Leganés
+
+
+Matchday 39
+[Fri May/14]
+  21.00  Espanyol Barcelona       0-2 (0-1)  FC Cartagena
+[Sat May/15]
+  18.30  CD Lugo                  2-1 (0-1)  CD Mirandés
+  21.00  UD Almería               1-1 (1-1)  Albacete
+         UD Las Palmas            0-2 (0-1)  Real Zaragoza
+  16.00  CD Castellón             0-2 (0-1)  SD Ponferradina
+[Sun May/16]
+  14.00  CE Sabadell              0-2 (0-1)  CD Tenerife
+  16.00  CF Fuenlabrada           1-2 (0-2)  Rayo Vallecano
+  20.45  RCD Mallorca             2-0 (1-0)  AD Alcorcón
+  21.30  CD Leganés               3-0 (1-0)  UD Logroñés
+[Mon May/17]
+  21.00  Girona FC                1-0 (1-0)  Sporting Gijón
+  19.00  Real Oviedo              1-0 (0-0)  Málaga CF
+
+
+Matchday 40
+[Tue May/18]
+  21.30  Albacete                 1-1 (1-1)  CD Lugo
+         SD Ponferradina          1-4 (0-2)  Espanyol Barcelona
+  19.00  FC Cartagena             3-2 (1-1)  UD Almería
+[Wed May/19]
+  19.00  AD Alcorcón              2-0 (1-0)  CE Sabadell
+         UD Logroñés              1-0 (0-0)  CF Fuenlabrada
+  21.30  CD Mirandés              0-0  CD Leganés
+         CD Tenerife              0-1 (0-1)  RCD Mallorca
+[Thu May/20]
+  19.00  Sporting Gijón           1-0 (0-0)  UD Las Palmas
+  21.30  Rayo Vallecano           4-1 (3-1)  Real Oviedo
+         Real Zaragoza            3-0 (1-0)  CD Castellón
+  19.00  Málaga CF                0-1 (0-0)  Girona FC
+
+
+Matchday 41
+[Sun May/23]
+  18.15  RCD Mallorca             2-1 (0-1)  Real Zaragoza
+         Espanyol Barcelona       1-1 (0-1)  CD Tenerife
+[Mon May/24]
+  18.30  Real Oviedo              1-1 (1-0)  CD Mirandés
+  21.00  CD Castellón             0-2 (0-0)  Rayo Vallecano
+         CD Leganés               1-0 (0-0)  Málaga CF
+         CD Lugo                  2-1 (1-0)  FC Cartagena
+         Girona FC                1-0 (0-0)  AD Alcorcón
+         CF Fuenlabrada           0-0  Sporting Gijón
+         CE Sabadell              2-0 (2-0)  SD Ponferradina
+         UD Almería               2-1 (2-0)  UD Logroñés
+         UD Las Palmas            3-2 (2-0)  Albacete
+
+
+Matchday 42
+[Sat May/29]
+  18.30  CD Tenerife              2-2 (0-1)  Real Oviedo
+[Sun May/30]
+  18.30  Albacete                 1-2 (0-1)  CF Fuenlabrada
+  21.00  AD Alcorcón              1-0 (1-0)  Espanyol Barcelona
+         CD Mirandés              0-2 (0-0)  CE Sabadell
+         FC Cartagena             1-1 (0-0)  Girona FC
+         Málaga CF                3-0 (1-0)  CD Castellón
+         Rayo Vallecano           0-1 (0-1)  CD Lugo
+         Real Zaragoza            0-5 (0-3)  CD Leganés
+         SD Ponferradina          2-2 (1-1)  RCD Mallorca
+         Sporting Gijón           0-2 (0-0)  UD Almería
+         UD Logroñés              0-1 (0-0)  UD Las Palmas
