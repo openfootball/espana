@@ -85,12 +85,12 @@ Matchday 5
   18.30  UD Las Palmas            2-3 (0-2)  Athletic Club
   21.00  Club Atlético de Madrid  3-0 (1-0)  Valencia CF
 [Mon Sep/16]
-  21.00  Rayo Vallecano de Madrid  -  CA Osasuna
+  21.00  Rayo Vallecano de Madrid  3-1 (0-1)  CA Osasuna
 
 
 Matchday 7
 [Tue Sep/17]
-  19.00  RCD Mallorca             -  Real Sociedad de Fútbol
+  19.00  RCD Mallorca             1-0 (1-0)  Real Sociedad de Fútbol
 
 
 Matchday 3
@@ -152,31 +152,36 @@ Matchday 8
 
 
 Matchday 9
+[Fri Oct/4]
+  21.00  CD Leganés               -  Valencia CF
+[Sat Oct/5]
+  14.00  RCD Espanyol de Barcelona  -  RCD Mallorca
+  16.15  Getafe CF                -  CA Osasuna
+  18.30  Real Valladolid CF       -  Rayo Vallecano de Madrid
+         UD Las Palmas            -  RC Celta de Vigo
+  21.00  Real Madrid CF           -  Villarreal CF
 [Sun Oct/6]
-  CD Leganés               -  Valencia CF
-  Deportivo Alavés         -  FC Barcelona
-  Getafe CF                -  CA Osasuna
-  Girona FC                -  Athletic Club
-  Sevilla FC               -  Real Betis Balompié
-  Real Madrid CF           -  Villarreal CF
-  Real Sociedad de Fútbol  -  Club Atlético de Madrid
-  Real Valladolid CF       -  Rayo Vallecano de Madrid
-  UD Las Palmas            -  RC Celta de Vigo
-  RCD Espanyol de Barcelona  -  RCD Mallorca
+  14.00  Girona FC                -  Athletic Club
+  16.15  Deportivo Alavés         -  FC Barcelona
+  18.30  Sevilla FC               -  Real Betis Balompié
+  21.00  Real Sociedad de Fútbol  -  Club Atlético de Madrid
 
 
 Matchday 10
+[Fri Oct/18]
+  21.00  Deportivo Alavés         -  Real Valladolid CF
+[Sat Oct/19]
+  14.00  Athletic Club            -  RCD Espanyol de Barcelona
+  16.15  CA Osasuna               -  Real Betis Balompié
+  18.30  Girona FC                -  Real Sociedad de Fútbol
+  21.00  RC Celta de Vigo         -  Real Madrid CF
 [Sun Oct/20]
-  Club Atlético de Madrid  -  CD Leganés
-  CA Osasuna               -  Real Betis Balompié
-  RC Celta de Vigo         -  Real Madrid CF
-  Deportivo Alavés         -  Real Valladolid CF
-  FC Barcelona             -  Sevilla FC
-  Girona FC                -  Real Sociedad de Fútbol
-  Valencia CF              -  UD Las Palmas
-  Villarreal CF            -  Getafe CF
-  RCD Mallorca             -  Rayo Vallecano de Madrid
-  Athletic Club            -  RCD Espanyol de Barcelona
+  14.00  RCD Mallorca             -  Rayo Vallecano de Madrid
+  16.15  Club Atlético de Madrid  -  CD Leganés
+  18.30  Villarreal CF            -  Getafe CF
+  21.00  FC Barcelona             -  Sevilla FC
+[Mon Oct/21]
+  21.00  Valencia CF              -  UD Las Palmas
 
 
 Matchday 11
