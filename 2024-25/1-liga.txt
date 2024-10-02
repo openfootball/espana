@@ -95,60 +95,60 @@ Matchday 7
 
 Matchday 3
 [Wed Sep/18]
-  19.00  Real Betis Balompié      -  Getafe CF
+  19.00  Real Betis Balompié      2-1 (0-0)  Getafe CF
 
 
 Matchday 7
 [Thu Sep/19]
-  19.00  CD Leganés               -  Athletic Club
+  19.00  CD Leganés               0-2 (0-0)  Athletic Club
 
 
 Matchday 6
 [Fri Sep/20]
-  21.00  Deportivo Alavés         -  Sevilla FC
+  21.00  Deportivo Alavés         2-1 (1-0)  Sevilla FC
 [Sat Sep/21]
-  14.00  Real Valladolid CF       -  Real Sociedad de Fútbol
-  16.15  CA Osasuna               -  UD Las Palmas
-  18.30  Valencia CF              -  Girona FC
-  21.00  Real Madrid CF           -  RCD Espanyol de Barcelona
+  14.00  Real Valladolid CF       0-0  Real Sociedad de Fútbol
+  16.15  CA Osasuna               2-1 (1-1)  UD Las Palmas
+  18.30  Valencia CF              2-0 (0-0)  Girona FC
+  21.00  Real Madrid CF           4-1 (0-0)  RCD Espanyol de Barcelona
 [Sun Sep/22]
-  14.00  Getafe CF                -  CD Leganés
-  16.15  Athletic Club            -  RC Celta de Vigo
-  18.30  Villarreal CF            -  FC Barcelona
-  21.00  Rayo Vallecano de Madrid  -  Club Atlético de Madrid
+  14.00  Getafe CF                1-1 (0-0)  CD Leganés
+  16.15  Athletic Club            3-1 (2-1)  RC Celta de Vigo
+  18.30  Villarreal CF            1-5 (1-2)  FC Barcelona
+  21.00  Rayo Vallecano de Madrid  1-1 (1-0)  Club Atlético de Madrid
 [Mon Sep/23]
-  21.00  Real Betis Balompié      -  RCD Mallorca
+  21.00  Real Betis Balompié      1-2 (1-1)  RCD Mallorca
 
 
 Matchday 7
 [Tue Sep/24]
-  19.00  Sevilla FC               -  Real Valladolid CF
-         Valencia CF              -  CA Osasuna
-  21.00  Real Madrid CF           -  Deportivo Alavés
+  19.00  Sevilla FC               2-1 (1-0)  Real Valladolid CF
+         Valencia CF              0-0  CA Osasuna
+  21.00  Real Madrid CF           3-2 (2-0)  Deportivo Alavés
 [Wed Sep/25]
-  19.00  Girona FC                -  Rayo Vallecano de Madrid
-  21.00  FC Barcelona             -  Getafe CF
+  19.00  Girona FC                0-0  Rayo Vallecano de Madrid
+  21.00  FC Barcelona             1-0 (1-0)  Getafe CF
 [Thu Sep/26]
-  19.00  UD Las Palmas            -  Real Betis Balompié
-         RCD Espanyol de Barcelona  -  Villarreal CF
-  21.00  RC Celta de Vigo         -  Club Atlético de Madrid
+  19.00  UD Las Palmas            1-1 (1-1)  Real Betis Balompié
+         RCD Espanyol de Barcelona  1-2 (1-1)  Villarreal CF
+  21.00  RC Celta de Vigo         0-1 (0-0)  Club Atlético de Madrid
 
 
 Matchday 8
 [Fri Sep/27]
-  21.00  Real Valladolid CF       -  RCD Mallorca
+  21.00  Real Valladolid CF       1-2 (0-0)  RCD Mallorca
 [Sat Sep/28]
-  14.00  Getafe CF                -  Deportivo Alavés
-  16.15  Rayo Vallecano de Madrid  -  CD Leganés
-  18.30  Real Sociedad de Fútbol  -  Valencia CF
-  21.00  CA Osasuna               -  FC Barcelona
+  14.00  Getafe CF                2-0 (1-0)  Deportivo Alavés
+  16.15  Rayo Vallecano de Madrid  1-1 (1-0)  CD Leganés
+  18.30  Real Sociedad de Fútbol  3-0 (1-0)  Valencia CF
+  21.00  CA Osasuna               4-2 (2-0)  FC Barcelona
 [Sun Sep/29]
-  14.00  RC Celta de Vigo         -  Girona FC
-  16.15  Athletic Club            -  Sevilla FC
-  18.30  Real Betis Balompié      -  RCD Espanyol de Barcelona
-  21.00  Club Atlético de Madrid  -  Real Madrid CF
+  14.00  RC Celta de Vigo         1-1 (0-1)  Girona FC
+  16.15  Athletic Club            1-1 (1-0)  Sevilla FC
+  18.30  Real Betis Balompié      1-0 (0-0)  RCD Espanyol de Barcelona
+  21.00  Club Atlético de Madrid  1-1 (0-0)  Real Madrid CF
 [Mon Sep/30]
-  21.00  Villarreal CF            -  UD Las Palmas
+  21.00  Villarreal CF            3-1 (1-0)  UD Las Palmas
 
 
 Matchday 9
@@ -185,17 +185,20 @@ Matchday 10
 
 
 Matchday 11
+[Fri Oct/25]
+  21.00  RCD Espanyol de Barcelona  -  Sevilla FC
+[Sat Oct/26]
+  14.00  Real Valladolid CF       -  Villarreal CF
+  16.15  Rayo Vallecano de Madrid  -  Deportivo Alavés
+  18.30  UD Las Palmas            -  Girona FC
+  21.00  Real Madrid CF           -  FC Barcelona
 [Sun Oct/27]
-  Real Betis Balompié      -  Club Atlético de Madrid
-  CD Leganés               -  RC Celta de Vigo
-  Getafe CF                -  Valencia CF
-  Rayo Vallecano de Madrid  -  Deportivo Alavés
-  RCD Mallorca             -  Athletic Club
-  Real Madrid CF           -  FC Barcelona
-  Real Sociedad de Fútbol  -  CA Osasuna
-  Real Valladolid CF       -  Villarreal CF
-  UD Las Palmas            -  Girona FC
-  RCD Espanyol de Barcelona  -  Sevilla FC
+  14.00  CD Leganés               -  RC Celta de Vigo
+  16.15  Getafe CF                -  Valencia CF
+  18.30  Real Betis Balompié      -  Club Atlético de Madrid
+  21.00  Real Sociedad de Fútbol  -  CA Osasuna
+[Mon Oct/28]
+  21.00  RCD Mallorca             -  Athletic Club
 
 
 Matchday 12
