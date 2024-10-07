@@ -94,118 +94,130 @@ Matchday 5
          Cádiz CF                 0-0  Racing Ferrol
   21.00  Elche CF                 2-2 (1-0)  Granada CF
 [Mon Sep/16]
-  20.30  UD Almería               -  CD Castellón
+  20.30  UD Almería               2-5 (0-1)  CD Castellón
 
 
 Matchday 6
 [Fri Sep/20]
-  20.30  Granada CF               -  Málaga CF
+  20.30  Granada CF               2-2 (0-0)  Málaga CF
 [Sat Sep/21]
-  18.30  CD Eldense               -  Real Oviedo
-         Deportivo La Coruña      -  Burgos CF
-  21.00  Real Zaragoza            -  Levante UD
-  16.15  Racing Ferrol            -  Albacete
+  16.15  Racing Ferrol            1-4 (0-0)  Albacete
+  18.30  CD Eldense               1-1 (1-1)  Real Oviedo
+         Deportivo La Coruña      0-2 (0-0)  Burgos CF
+  21.00  Real Zaragoza            2-1 (1-1)  Levante UD
 [Sun Sep/22]
-  14.00  CD Tenerife              -  Sporting Gijón
-  16.15  CD Castellón             -  Racing Santander
-         FC Cartagena             -  Cádiz CF
-  18.30  Elche CF                 -  CD Mirandés
-  21.00  UD Almería               -  SD Eibar
+  16.15  CD Castellón             0-1 (0-0)  Racing Santander
+         FC Cartagena             1-2 (0-1)  Cádiz CF
+  18.30  Elche CF                 1-0 (0-0)  CD Mirandés
+  21.00  UD Almería               2-2 (0-1)  SD Eibar
+  14.00  CD Tenerife              1-1 (0-1)  Sporting Gijón
 [Mon Sep/23]
-  20.30  SD Huesca                -  Córdoba CF
+  20.30  SD Huesca                4-1 (3-1)  Córdoba CF
 
 
 Matchday 7
 [Fri Sep/27]
-  20.30  Albacete                 -  Deportivo La Coruña
+  20.30  Albacete                 2-5 (1-2)  Deportivo La Coruña
 [Sat Sep/28]
-  16.15  CD Mirandés              -  SD Huesca
-  18.30  Sporting Gijón           -  Real Zaragoza
-  21.00  Málaga CF                -  Elche CF
-  16.15  Cádiz CF                 -  CD Eldense
+  16.15  CD Mirandés              1-0 (1-0)  SD Huesca
+  18.30  Sporting Gijón           1-0 (1-0)  Real Zaragoza
+  21.00  Málaga CF                0-3 (0-1)  Elche CF
+  16.15  Cádiz CF                 1-2 (0-1)  CD Eldense
 [Sun Sep/29]
-  14.00  Levante UD               -  UD Almería
-  16.15  Burgos CF                -  Granada CF
-         CD Castellón             -  CD Tenerife
-  18.30  Córdoba CF               -  Racing Ferrol
-         Real Oviedo              -  SD Eibar
+  14.00  Levante UD               4-2 (2-2)  UD Almería
+  16.15  Burgos CF                2-2 (0-0)  Granada CF
+         CD Castellón             2-1 (1-0)  CD Tenerife
+  18.30  Córdoba CF               3-1 (1-0)  Racing Ferrol
+         Real Oviedo              1-0 (0-0)  SD Eibar
 [Mon Sep/30]
-  20.30  Racing Santander         -  FC Cartagena
+  20.30  Racing Santander         1-2 (0-1)  FC Cartagena
 
 
 Matchday 8
+[Fri Oct/4]
+  20.30  SD Huesca                3-1 (1-0)  Cádiz CF
+[Sat Oct/5]
+  16.15  SD Eibar                 1-3 (1-2)  Sporting Gijón
+         CD Mirandés              0-1 (0-1)  Granada CF
+  18.30  UD Almería               2-0 (1-0)  Burgos CF
+         Real Zaragoza            2-3 (0-2)  Racing Santander
+  21.00  CD Tenerife              2-0 (1-0)  FC Cartagena
+  14.00  Racing Ferrol            1-0 (1-0)  Elche CF
 [Sun Oct/6]
-  Albacete                 -  Córdoba CF
-  UD Almería               -  Burgos CF
-  Deportivo La Coruña      -  Málaga CF
-  SD Eibar                 -  Sporting Gijón
-  Levante UD               -  Real Oviedo
-  SD Huesca                -  Cádiz CF
-  CD Tenerife              -  FC Cartagena
-  CD Eldense               -  CD Castellón
-  Racing Ferrol            -  Elche CF
-  CD Mirandés              -  Granada CF
-  Real Zaragoza            -  Racing Santander
+  14.00  Deportivo La Coruña      0-0  Málaga CF
+  16.15  CD Eldense               2-3 (2-3)  CD Castellón
+  18.30  Levante UD               0-0  Real Oviedo
+  21.00  Albacete                 1-1 (1-0)  Córdoba CF
 
 
 Matchday 9
+[Fri Oct/11]
+  20.30  CD Tenerife              -  Real Zaragoza
+[Sat Oct/12]
+  18.30  Cádiz CF                 -  Málaga CF
+         SD Eibar                 -  CD Eldense
+  16.15  FC Cartagena             -  Racing Ferrol
 [Sun Oct/13]
-  Burgos CF                -  CD Mirandés
-  Cádiz CF                 -  Málaga CF
-  FC Cartagena             -  Racing Ferrol
-  SD Eibar                 -  CD Eldense
-  CD Tenerife              -  Real Zaragoza
-  SD Huesca                -  Albacete
-  Real Oviedo              -  UD Almería
-  Sporting Gijón           -  CD Castellón
-  Granada CF               -  Córdoba CF
-  Elche CF                 -  Deportivo La Coruña
-  Racing Santander         -  Levante UD
+  14.00  SD Huesca                -  Albacete
+  16.30  Real Oviedo              -  UD Almería
+         Racing Santander         -  Levante UD
+  18.30  Burgos CF                -  CD Mirandés
+         Granada CF               -  Córdoba CF
+  21.00  Elche CF                 -  Deportivo La Coruña
+[Mon Oct/14]
+  20.30  Sporting Gijón           -  CD Castellón
 
 
 Matchday 10
+[Fri Oct/18]
+  20.30  Córdoba CF               -  FC Cartagena
+[Sat Oct/19]
+  16.15  Deportivo La Coruña      -  CD Eldense
+         Málaga CF                -  Real Oviedo
+  18.30  CD Castellón             -  Levante UD
+         Granada CF               -  CD Tenerife
+  21.00  CD Mirandés              -  SD Eibar
 [Sun Oct/20]
-  Albacete                 -  Burgos CF
-  Cádiz CF                 -  Racing Santander
-  CD Castellón             -  Levante UD
-  Deportivo La Coruña      -  CD Eldense
-  Elche CF                 -  Sporting Gijón
-  Racing Ferrol            -  SD Huesca
-  Granada CF               -  CD Tenerife
-  Málaga CF                -  Real Oviedo
-  Real Zaragoza            -  UD Almería
-  Córdoba CF               -  FC Cartagena
-  CD Mirandés              -  SD Eibar
+  16.15  Racing Ferrol            -  SD Huesca
+  18.30  Elche CF                 -  Sporting Gijón
+         Real Zaragoza            -  UD Almería
+  14.00  Cádiz CF                 -  Racing Santander
+[Mon Oct/21]
+  20.30  Albacete                 -  Burgos CF
 
 
 Matchday 11
+[Tue Oct/22]
+  21.00  CD Castellón             -  Granada CF
+  19.00  Real Oviedo              -  CD Mirandés
 [Wed Oct/23]
-  Burgos CF                -  Racing Ferrol
-  FC Cartagena             -  Elche CF
-  CD Castellón             -  Granada CF
-  CD Eldense               -  Real Zaragoza
-  UD Almería               -  Albacete
-  SD Eibar                 -  Cádiz CF
-  Racing Santander         -  Córdoba CF
-  Levante UD               -  Deportivo La Coruña
-  Sporting Gijón           -  SD Huesca
-  CD Tenerife              -  Málaga CF
-  Real Oviedo              -  CD Mirandés
+  19.00  CD Eldense               -  Real Zaragoza
+         SD Eibar                 -  Cádiz CF
+  21.00  FC Cartagena             -  Elche CF
+         Racing Santander         -  Córdoba CF
+[Thu Oct/24]
+  19.00  Levante UD               -  Deportivo La Coruña
+  21.00  Burgos CF                -  Racing Ferrol
+         Sporting Gijón           -  SD Huesca
+         CD Tenerife              -  Málaga CF
+  19.00  UD Almería               -  Albacete
 
 
 Matchday 12
+[Sat Oct/26]
+  16.15  Cádiz CF                 -  Real Oviedo
+         CD Mirandés              -  FC Cartagena
+  18.30  Córdoba CF               -  CD Eldense
+         Real Zaragoza            -  CD Castellón
 [Sun Oct/27]
-  Albacete                 -  Sporting Gijón
-  Cádiz CF                 -  Real Oviedo
-  Córdoba CF               -  CD Eldense
-  Deportivo La Coruña      -  Racing Santander
-  Racing Ferrol            -  CD Tenerife
-  Granada CF               -  Levante UD
-  SD Huesca                -  UD Almería
-  Elche CF                 -  Burgos CF
-  CD Mirandés              -  FC Cartagena
-  Real Zaragoza            -  CD Castellón
-  Málaga CF                -  SD Eibar
+  16.15  Deportivo La Coruña      -  Racing Santander
+         Elche CF                 -  Burgos CF
+  18.30  Albacete                 -  Sporting Gijón
+         SD Huesca                -  UD Almería
+  21.00  Granada CF               -  Levante UD
+  14.00  Málaga CF                -  SD Eibar
+[Mon Oct/28]
+  20.30  Racing Ferrol            -  CD Tenerife
 
 
 Matchday 13
