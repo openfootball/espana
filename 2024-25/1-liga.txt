@@ -153,18 +153,18 @@ Matchday 8
 
 Matchday 9
 [Fri Oct/4]
-  21.00  CD Leganés               -  Valencia CF
+  21.00  CD Leganés               0-0  Valencia CF
 [Sat Oct/5]
-  14.00  RCD Espanyol de Barcelona  -  RCD Mallorca
-  16.15  Getafe CF                -  CA Osasuna
-  18.30  Real Valladolid CF       -  Rayo Vallecano de Madrid
-         UD Las Palmas            -  RC Celta de Vigo
-  21.00  Real Madrid CF           -  Villarreal CF
+  14.00  RCD Espanyol de Barcelona  2-1 (1-0)  RCD Mallorca
+  16.15  Getafe CF                1-1 (1-0)  CA Osasuna
+  18.30  Real Valladolid CF       1-2 (0-0)  Rayo Vallecano de Madrid
+         UD Las Palmas            0-1 (0-1)  RC Celta de Vigo
+  21.00  Real Madrid CF           2-0 (1-0)  Villarreal CF
 [Sun Oct/6]
-  14.00  Girona FC                -  Athletic Club
-  16.15  Deportivo Alavés         -  FC Barcelona
-  18.30  Sevilla FC               -  Real Betis Balompié
-  21.00  Real Sociedad de Fútbol  -  Club Atlético de Madrid
+  14.00  Girona FC                2-1 (1-1)  Athletic Club
+  16.15  Deportivo Alavés         0-3 (0-3)  FC Barcelona
+  18.30  Sevilla FC               1-0 (0-0)  Real Betis Balompié
+  21.00  Real Sociedad de Fútbol  1-1 (0-1)  Club Atlético de Madrid
 
 
 Matchday 10
@@ -202,17 +202,20 @@ Matchday 11
 
 
 Matchday 12
+[Fri Nov/1]
+  21.00  Deportivo Alavés         -  RCD Mallorca
+[Sat Nov/2]
+  14.00  CA Osasuna               -  Real Valladolid CF
+  16.15  Girona FC                -  CD Leganés
+  18.30  Villarreal CF            -  Rayo Vallecano de Madrid
+  21.00  Valencia CF              -  Real Madrid CF
 [Sun Nov/3]
-  Athletic Club            -  Real Betis Balompié
-  Club Atlético de Madrid  -  UD Las Palmas
-  CA Osasuna               -  Real Valladolid CF
-  RC Celta de Vigo         -  Getafe CF
-  Deportivo Alavés         -  RCD Mallorca
-  Girona FC                -  CD Leganés
-  Sevilla FC               -  Real Sociedad de Fútbol
-  Valencia CF              -  Real Madrid CF
-  Villarreal CF            -  Rayo Vallecano de Madrid
-  FC Barcelona             -  RCD Espanyol de Barcelona
+  14.00  Club Atlético de Madrid  -  UD Las Palmas
+  16.15  FC Barcelona             -  RCD Espanyol de Barcelona
+  18.30  Sevilla FC               -  Real Sociedad de Fútbol
+  21.00  Athletic Club            -  Real Betis Balompié
+[Mon Nov/4]
+  21.00  RC Celta de Vigo         -  Getafe CF
 
 
 Matchday 13
