@@ -219,17 +219,19 @@ Matchday 12
 
 
 Matchday 13
+[Fri Nov/8]
+  21.00  Rayo Vallecano de Madrid  -  UD Las Palmas
+[Sat Nov/9]
+  14.00  Real Madrid CF           -  CA Osasuna
+  16.15  Villarreal CF            -  Deportivo Alavés
+  18.30  RCD Espanyol de Barcelona  -  Valencia CF
+  21.00  Getafe CF                -  Girona FC
 [Sun Nov/10]
-  Real Betis Balompié      -  RC Celta de Vigo
-  CD Leganés               -  Sevilla FC
-  Getafe CF                -  Girona FC
-  Villarreal CF            -  Deportivo Alavés
-  Rayo Vallecano de Madrid  -  UD Las Palmas
-  RCD Mallorca             -  Club Atlético de Madrid
-  Real Madrid CF           -  CA Osasuna
-  Real Sociedad de Fútbol  -  FC Barcelona
-  Real Valladolid CF       -  Athletic Club
-  RCD Espanyol de Barcelona  -  Valencia CF
+  14.00  Real Betis Balompié      -  RC Celta de Vigo
+  16.15  RCD Mallorca             -  Club Atlético de Madrid
+  18.30  CD Leganés               -  Sevilla FC
+         Real Valladolid CF       -  Athletic Club
+  21.00  Real Sociedad de Fútbol  -  FC Barcelona
 
 
 Matchday 14
