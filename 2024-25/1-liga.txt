@@ -205,7 +205,6 @@ Matchday 12
 [Fri Nov/1]
   21.00  Deportivo Alavés         1-0 (0-0)  RCD Mallorca
 [Sat Nov/2]
-         Valencia CF              -  Real Madrid CF           [postponed]
   14.00  CA Osasuna               1-0 (1-0)  Real Valladolid CF
   16.15  Girona FC                4-3 (2-2)  CD Leganés
 [Sun Nov/3]
@@ -234,121 +233,138 @@ Matchday 13
 
 Matchday 14
 [Fri Nov/22]
-  21.00  Getafe CF                -  Real Valladolid CF
+  21.00  Getafe CF                2-0 (0-0)  Real Valladolid CF
 [Sat Nov/23]
-  14.00  Valencia CF              -  Real Betis Balompié
-  16.15  Club Atlético de Madrid  -  Deportivo Alavés
-  18.30  UD Las Palmas            -  RCD Mallorca
-         Girona FC                -  RCD Espanyol de Barcelona
-  21.00  RC Celta de Vigo         -  FC Barcelona
+  14.00  Valencia CF              4-2 (1-1)  Real Betis Balompié
+  16.15  Club Atlético de Madrid  2-1 (0-1)  Deportivo Alavés
+  18.30  UD Las Palmas            2-3 (0-0)  RCD Mallorca
+         Girona FC                4-1 (4-0)  RCD Espanyol de Barcelona
+  21.00  RC Celta de Vigo         2-2 (0-1)  FC Barcelona
 [Sun Nov/24]
-  14.00  CA Osasuna               -  Villarreal CF
-  16.15  Sevilla FC               -  Rayo Vallecano de Madrid
-  18.30  CD Leganés               -  Real Madrid CF
-  21.00  Athletic Club            -  Real Sociedad de Fútbol
+  14.00  CA Osasuna               2-2 (2-0)  Villarreal CF
+  16.15  Sevilla FC               1-0 (1-0)  Rayo Vallecano de Madrid
+  18.30  CD Leganés               0-3 (0-1)  Real Madrid CF
+  21.00  Athletic Club            1-0 (1-0)  Real Sociedad de Fútbol
 
 
 Matchday 15
 [Fri Nov/29]
-  21.00  RCD Mallorca             -  Valencia CF
+  21.00  RCD Mallorca             2-1 (1-1)  Valencia CF
 [Sat Nov/30]
-  14.00  FC Barcelona             -  UD Las Palmas
-  16.15  Deportivo Alavés         -  CD Leganés
-  18.30  RCD Espanyol de Barcelona  -  RC Celta de Vigo
-  21.00  Real Valladolid CF       -  Club Atlético de Madrid
+  14.00  FC Barcelona             1-2 (0-0)  UD Las Palmas
+  16.15  Deportivo Alavés         1-1 (0-0)  CD Leganés
+  18.30  RCD Espanyol de Barcelona  3-1 (1-0)  RC Celta de Vigo
+  21.00  Real Valladolid CF       0-5 (0-3)  Club Atlético de Madrid
 [Sun Dec/1]
-  14.00  Villarreal CF            -  Girona FC
-  16.15  Real Madrid CF           -  Getafe CF
-  18.30  Rayo Vallecano de Madrid  -  Athletic Club
-  21.00  Real Sociedad de Fútbol  -  Real Betis Balompié
+  14.00  Villarreal CF            2-2 (1-0)  Girona FC
+  16.15  Real Madrid CF           2-0 (2-0)  Getafe CF
+  18.30  Rayo Vallecano de Madrid  1-2 (1-0)  Athletic Club
+  21.00  Real Sociedad de Fútbol  2-0 (2-0)  Real Betis Balompié
 [Mon Dec/2]
-  21.00  Sevilla FC               -  CA Osasuna
+  21.00  Sevilla FC               1-1 (0-0)  CA Osasuna
+
+
+Matchday 19
+[Tue Dec/3]
+  19.00  RCD Mallorca             1-5 (1-1)  FC Barcelona
+[Wed Dec/4]
+  21.00  Athletic Club            2-1 (0-0)  Real Madrid CF
 
 
 Matchday 16
 [Fri Dec/6]
-  21.00  RC Celta de Vigo         -  RCD Mallorca
+  21.00  RC Celta de Vigo         2-0 (1-0)  RCD Mallorca
 [Sat Dec/7]
-  14.00  UD Las Palmas            -  Real Valladolid CF
-  16.15  Real Betis Balompié      -  FC Barcelona
-  18.30  Valencia CF              -  Rayo Vallecano de Madrid
-  21.00  Girona FC                -  Real Madrid CF
+  14.00  UD Las Palmas            2-1 (1-1)  Real Valladolid CF
+  16.15  Real Betis Balompié      2-2 (0-1)  FC Barcelona
+  18.30  Valencia CF              0-1 (0-1)  Rayo Vallecano de Madrid
+  21.00  Girona FC                0-3 (0-1)  Real Madrid CF
 [Sun Dec/8]
-  14.00  CD Leganés               -  Real Sociedad de Fútbol
-  16.15  Athletic Club            -  Villarreal CF
-  18.30  CA Osasuna               -  Deportivo Alavés
-  21.00  Club Atlético de Madrid  -  Sevilla FC
+  14.00  CD Leganés               0-3 (0-1)  Real Sociedad de Fútbol
+  16.15  Athletic Club            2-0 (1-0)  Villarreal CF
+  18.30  CA Osasuna               2-2 (0-1)  Deportivo Alavés
+  21.00  Club Atlético de Madrid  4-3 (1-2)  Sevilla FC
 [Mon Dec/9]
-  21.00  Getafe CF                -  RCD Espanyol de Barcelona
+  21.00  Getafe CF                1-0 (1-0)  RCD Espanyol de Barcelona
 
 
 Matchday 17
 [Fri Dec/13]
-  21.00  Real Valladolid CF       -  Valencia CF
+  21.00  Real Valladolid CF       1-0 (1-0)  Valencia CF
 [Sat Dec/14]
-  14.00  RCD Espanyol de Barcelona  -  CA Osasuna
-  16.15  RCD Mallorca             -  Girona FC
-  18.30  Sevilla FC               -  RC Celta de Vigo
-  21.00  Rayo Vallecano de Madrid  -  Real Madrid CF
+  14.00  RCD Espanyol de Barcelona  0-0  CA Osasuna
+  16.15  RCD Mallorca             2-1 (1-1)  Girona FC
+  18.30  Sevilla FC               1-0 (0-0)  RC Celta de Vigo
+  21.00  Rayo Vallecano de Madrid  3-3 (2-2)  Real Madrid CF
 [Sun Dec/15]
-  14.00  Club Atlético de Madrid  -  Getafe CF
-  16.15  Deportivo Alavés         -  Athletic Club
-  18.30  Villarreal CF            -  Real Betis Balompié
-         Real Sociedad de Fútbol  -  UD Las Palmas
-  21.00  FC Barcelona             -  CD Leganés
+  14.00  Club Atlético de Madrid  1-0 (0-0)  Getafe CF
+  16.15  Deportivo Alavés         1-1 (0-1)  Athletic Club
+  18.30  Villarreal CF            1-2 (0-1)  Real Betis Balompié
+         Real Sociedad de Fútbol  0-0  UD Las Palmas
+  21.00  FC Barcelona             0-1 (0-1)  CD Leganés
+
+
+Matchday 12
+[Wed Dec/18]
+  21.30  Villarreal CF            1-1 (1-1)  Rayo Vallecano de Madrid
 
 
 Matchday 13
 [Wed Dec/18]
-  21.30  RCD Espanyol de Barcelona  -  Valencia CF
-
-
-Matchday 12
-[Thu Dec/19]
-         Villarreal CF            -  Rayo Vallecano de Madrid
+  21.30  RCD Espanyol de Barcelona  1-1 (1-0)  Valencia CF
 
 
 Matchday 18
+[Fri Dec/20]
+  21.00  Girona FC                3-0 (2-0)  Real Valladolid CF
+[Sat Dec/21]
+  14.00  Getafe CF                0-1 (0-0)  RCD Mallorca
+  16.15  RC Celta de Vigo         2-0 (2-0)  Real Sociedad de Fútbol
+  18.30  CA Osasuna               1-2 (1-1)  Athletic Club
+  21.00  FC Barcelona             1-2 (1-0)  Club Atlético de Madrid
 [Sun Dec/22]
-         Real Betis Balompié      -  Rayo Vallecano de Madrid
-         CA Osasuna               -  Athletic Club
-         CD Leganés               -  Villarreal CF
-         RC Celta de Vigo         -  Real Sociedad de Fútbol
-         FC Barcelona             -  Club Atlético de Madrid
-         Getafe CF                -  RCD Mallorca
-         Girona FC                -  Real Valladolid CF
-         Valencia CF              -  Deportivo Alavés
-         Real Madrid CF           -  Sevilla FC
-         UD Las Palmas            -  RCD Espanyol de Barcelona
+  14.00  Valencia CF              2-2 (0-1)  Deportivo Alavés
+  16.15  Real Madrid CF           4-2 (3-1)  Sevilla FC
+  18.30  CD Leganés               2-5 (2-2)  Villarreal CF
+         UD Las Palmas            1-0 (0-0)  RCD Espanyol de Barcelona
+  21.00  Real Betis Balompié      1-1 (1-0)  Rayo Vallecano de Madrid
+
+
+Matchday 12
+[Thu Jan/2]
+  20.00  Valencia CF              -  Real Madrid CF
 
 
 Matchday 19
+[Fri Jan/10]
+  21.00  Rayo Vallecano de Madrid  -  RC Celta de Vigo
 [Sat Jan/11]
-         RCD Espanyol de Barcelona  -  CD Leganés
+  14.00  Deportivo Alavés         -  Girona FC
+  16.15  Real Valladolid CF       -  Real Betis Balompié
+  18.30  RCD Espanyol de Barcelona  -  CD Leganés
+  21.00  Sevilla FC               -  Valencia CF
 [Sun Jan/12]
-         Athletic Club            -  Real Madrid CF
-         Club Atlético de Madrid  -  CA Osasuna
-         Deportivo Alavés         -  Girona FC
-         Sevilla FC               -  Valencia CF
-         Rayo Vallecano de Madrid  -  RC Celta de Vigo
-         RCD Mallorca             -  FC Barcelona
-         Real Sociedad de Fútbol  -  Villarreal CF
-         Real Valladolid CF       -  Real Betis Balompié
-         UD Las Palmas            -  Getafe CF
+  14.00  UD Las Palmas            -  Getafe CF
+  16.15  Club Atlético de Madrid  -  CA Osasuna
+[Mon Jan/13]
+  21.00  Real Sociedad de Fútbol  -  Villarreal CF
 
 
 Matchday 20
+[Fri Jan/17]
+  21.00  RCD Espanyol de Barcelona  -  Real Valladolid CF
+[Sat Jan/18]
+  14.00  CA Osasuna               -  Rayo Vallecano de Madrid
+  16.15  CD Leganés               -  Club Atlético de Madrid
+  18.30  RC Celta de Vigo         -  Athletic Club
+  21.00  Getafe CF                -  FC Barcelona
 [Sun Jan/19]
-         Real Betis Balompié      -  Deportivo Alavés
-         CA Osasuna               -  Rayo Vallecano de Madrid
-         CD Leganés               -  Club Atlético de Madrid
-         RC Celta de Vigo         -  Athletic Club
-         Getafe CF                -  FC Barcelona
-         Girona FC                -  Sevilla FC
-         Valencia CF              -  Real Sociedad de Fútbol
-         Villarreal CF            -  RCD Mallorca
-         Real Madrid CF           -  UD Las Palmas
-         RCD Espanyol de Barcelona  -  Real Valladolid CF
+  14.00  Real Betis Balompié      -  Deportivo Alavés
+  16.15  Real Madrid CF           -  UD Las Palmas
+  18.30  Valencia CF              -  Real Sociedad de Fútbol
+  21.00  Girona FC                -  Sevilla FC
+[Mon Jan/20]
+  21.00  Villarreal CF            -  RCD Mallorca
 
 
 Matchday 21
