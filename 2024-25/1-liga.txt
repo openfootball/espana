@@ -6,7 +6,7 @@
 
 
 
-Round 1
+Matchday 1
 [Thu Aug/15]
   19.00  Athletic Club            1-1 (1-0)  Getafe CF
   21.30  Real Betis Balompié      1-1 (1-0)  Girona FC
@@ -24,7 +24,7 @@ Round 1
   21.30  Villarreal CF            2-2 (2-2)  Club Atlético de Madrid
 
 
-Round 2
+Matchday 2
 [Fri Aug/23]
   19.00  RC Celta de Vigo         3-1 (2-1)  Valencia CF
   21.30  Sevilla FC               1-2 (1-1)  Villarreal CF
@@ -40,7 +40,7 @@ Round 2
   21.30  Club Atlético de Madrid  3-0 (1-0)  Girona FC
 
 
-Round 3
+Matchday 3
 [Mon Aug/26]
   21.30  Villarreal CF            4-3 (1-2)  RC Celta de Vigo
 [Tue Aug/27]
@@ -56,7 +56,7 @@ Round 3
   21.30  UD Las Palmas            1-1 (1-0)  Real Madrid CF
 
 
-Round 4
+Matchday 4
 [Sat Aug/31]
   17.00  FC Barcelona             7-0 (3-0)  Real Valladolid CF
   19.00  Athletic Club            0-1 (0-0)  Club Atlético de Madrid
@@ -71,7 +71,7 @@ Round 4
   21.30  Real Madrid CF           2-0 (0-0)  Real Betis Balompié
 
 
-Round 5
+Matchday 5
 [Fri Sep/13]
   21.00  Real Betis Balompié      2-0 (0-0)  CD Leganés
 [Sat Sep/14]
@@ -88,22 +88,22 @@ Round 5
   21.00  Rayo Vallecano de Madrid  3-1 (0-1)  CA Osasuna
 
 
-Round 7
+Matchday 7
 [Tue Sep/17]
   19.00  RCD Mallorca             1-0 (1-0)  Real Sociedad de Fútbol
 
 
-Round 3
+Matchday 3
 [Wed Sep/18]
   19.00  Real Betis Balompié      2-1 (0-0)  Getafe CF
 
 
-Round 7
+Matchday 7
 [Thu Sep/19]
   19.00  CD Leganés               0-2 (0-0)  Athletic Club
 
 
-Round 6
+Matchday 6
 [Fri Sep/20]
   21.00  Deportivo Alavés         2-1 (1-0)  Sevilla FC
 [Sat Sep/21]
@@ -120,7 +120,7 @@ Round 6
   21.00  Real Betis Balompié      1-2 (1-1)  RCD Mallorca
 
 
-Round 7
+Matchday 7
 [Tue Sep/24]
   19.00  Sevilla FC               2-1 (1-0)  Real Valladolid CF
          Valencia CF              0-0  CA Osasuna
@@ -134,7 +134,7 @@ Round 7
   21.00  RC Celta de Vigo         0-1 (0-0)  Club Atlético de Madrid
 
 
-Round 8
+Matchday 8
 [Fri Sep/27]
   21.00  Real Valladolid CF       1-2 (0-0)  RCD Mallorca
 [Sat Sep/28]
@@ -151,7 +151,7 @@ Round 8
   21.00  Villarreal CF            3-1 (1-0)  UD Las Palmas
 
 
-Round 9
+Matchday 9
 [Fri Oct/4]
   21.00  CD Leganés               0-0  Valencia CF
 [Sat Oct/5]
@@ -167,7 +167,7 @@ Round 9
   21.00  Real Sociedad de Fútbol  1-1 (0-1)  Club Atlético de Madrid
 
 
-Round 10
+Matchday 10
 [Fri Oct/18]
   21.00  Deportivo Alavés         2-3 (1-1)  Real Valladolid CF
 [Sat Oct/19]
@@ -184,7 +184,7 @@ Round 10
   21.00  Valencia CF              2-3 (1-1)  UD Las Palmas
 
 
-Round 11
+Matchday 11
 [Fri Oct/25]
   21.00  RCD Espanyol de Barcelona  0-2 (0-2)  Sevilla FC
 [Sat Oct/26]
@@ -201,7 +201,7 @@ Round 11
   21.00  RCD Mallorca             0-0  Athletic Club
 
 
-Round 12
+Matchday 12
 [Fri Nov/1]
   21.00  Deportivo Alavés         1-0 (0-0)  RCD Mallorca
 [Sat Nov/2]
@@ -216,7 +216,7 @@ Round 12
   21.00  RC Celta de Vigo         1-0 (1-0)  Getafe CF
 
 
-Round 13
+Matchday 13
 [Fri Nov/8]
   21.00  Rayo Vallecano de Madrid  1-3 (0-1)  UD Las Palmas
 [Sat Nov/9]
@@ -231,7 +231,7 @@ Round 13
   21.00  Real Sociedad de Fútbol  1-0 (1-0)  FC Barcelona
 
 
-Round 14
+Matchday 14
 [Fri Nov/22]
   21.00  Getafe CF                2-0 (0-0)  Real Valladolid CF
 [Sat Nov/23]
@@ -247,7 +247,7 @@ Round 14
   21.00  Athletic Club            1-0 (1-0)  Real Sociedad de Fútbol
 
 
-Round 15
+Matchday 15
 [Fri Nov/29]
   21.00  RCD Mallorca             2-1 (1-1)  Valencia CF
 [Sat Nov/30]
@@ -264,14 +264,14 @@ Round 15
   21.00  Sevilla FC               1-1 (0-0)  CA Osasuna
 
 
-Round 19
+Matchday 19
 [Tue Dec/3]
   19.00  RCD Mallorca             1-5 (1-1)  FC Barcelona
 [Wed Dec/4]
   21.00  Athletic Club            2-1 (0-0)  Real Madrid CF
 
 
-Round 16
+Matchday 16
 [Fri Dec/6]
   21.00  RC Celta de Vigo         2-0 (1-0)  RCD Mallorca
 [Sat Dec/7]
@@ -288,7 +288,7 @@ Round 16
   21.00  Getafe CF                1-0 (1-0)  RCD Espanyol de Barcelona
 
 
-Round 17
+Matchday 17
 [Fri Dec/13]
   21.00  Real Valladolid CF       1-0 (1-0)  Valencia CF
 [Sat Dec/14]
@@ -304,17 +304,17 @@ Round 17
   21.00  FC Barcelona             0-1 (0-1)  CD Leganés
 
 
-Round 12
+Matchday 12
 [Wed Dec/18]
   21.30  Villarreal CF            1-1 (1-1)  Rayo Vallecano de Madrid
 
 
-Round 13
+Matchday 13
 [Wed Dec/18]
   21.30  RCD Espanyol de Barcelona  1-1 (1-0)  Valencia CF
 
 
-Round 18
+Matchday 18
 [Fri Dec/20]
   21.00  Girona FC                3-0 (2-0)  Real Valladolid CF
 [Sat Dec/21]
@@ -330,12 +330,12 @@ Round 18
   21.00  Real Betis Balompié      1-1 (1-0)  Rayo Vallecano de Madrid
 
 
-Round 12
+Matchday 12
 [Thu Jan/2]
   20.00  Valencia CF              -  Real Madrid CF
 
 
-Round 19
+Matchday 19
 [Fri Jan/10]
   21.00  Rayo Vallecano de Madrid  -  RC Celta de Vigo
 [Sat Jan/11]
@@ -350,7 +350,7 @@ Round 19
   21.00  Real Sociedad de Fútbol  -  Villarreal CF
 
 
-Round 20
+Matchday 20
 [Fri Jan/17]
   21.00  RCD Espanyol de Barcelona  -  Real Valladolid CF
 [Sat Jan/18]
@@ -367,7 +367,7 @@ Round 20
   21.00  Villarreal CF            -  RCD Mallorca
 
 
-Round 21
+Matchday 21
 [Sun Jan/26]
          Athletic Club            -  CD Leganés
          Club Atlético de Madrid  -  Villarreal CF
@@ -381,7 +381,7 @@ Round 21
          Sevilla FC               -  RCD Espanyol de Barcelona
 
 
-Round 22
+Matchday 22
 [Sun Feb/2]
          Club Atlético de Madrid  -  RCD Mallorca
          Real Betis Balompié      -  Athletic Club
@@ -395,7 +395,7 @@ Round 22
          RCD Espanyol de Barcelona  -  Real Madrid CF
 
 
-Round 23
+Matchday 23
 [Sun Feb/9]
          Athletic Club            -  Girona FC
          RC Celta de Vigo         -  Real Betis Balompié
@@ -409,7 +409,7 @@ Round 23
          Real Sociedad de Fútbol  -  RCD Espanyol de Barcelona
 
 
-Round 24
+Matchday 24
 [Sun Feb/16]
          Club Atlético de Madrid  -  RC Celta de Vigo
          Real Betis Balompié      -  Real Sociedad de Fútbol
@@ -423,7 +423,7 @@ Round 24
          RCD Espanyol de Barcelona  -  Athletic Club
 
 
-Round 25
+Matchday 25
 [Sun Feb/23]
          Athletic Club            -  Real Valladolid CF
          RC Celta de Vigo         -  CA Osasuna
@@ -437,7 +437,7 @@ Round 25
          Deportivo Alavés         -  RCD Espanyol de Barcelona
 
 
-Round 26
+Matchday 26
 [Sun Mar/2]
          Club Atlético de Madrid  -  Athletic Club
          Real Betis Balompié      -  Real Madrid CF
@@ -451,7 +451,7 @@ Round 26
          Villarreal CF            -  RCD Espanyol de Barcelona
 
 
-Round 27
+Matchday 27
 [Sun Mar/9]
          Athletic Club            -  RCD Mallorca
          Real Betis Balompié      -  UD Las Palmas
@@ -465,7 +465,7 @@ Round 27
          RCD Espanyol de Barcelona  -  Girona FC
 
 
-Round 28
+Matchday 28
 [Sun Mar/16]
          Club Atlético de Madrid  -  FC Barcelona
          CA Osasuna               -  Getafe CF
@@ -479,7 +479,7 @@ Round 28
          RCD Mallorca             -  RCD Espanyol de Barcelona
 
 
-Round 29
+Matchday 29
 [Sun Mar/30]
          Athletic Club            -  CA Osasuna
          Real Betis Balompié      -  Sevilla FC
@@ -493,7 +493,7 @@ Round 29
          RCD Espanyol de Barcelona  -  Club Atlético de Madrid
 
 
-Round 30
+Matchday 30
 [Sun Apr/6]
          CD Leganés               -  CA Osasuna
          FC Barcelona             -  Real Betis Balompié
@@ -507,7 +507,7 @@ Round 30
          Rayo Vallecano de Madrid  -  RCD Espanyol de Barcelona
 
 
-Round 31
+Matchday 31
 [Sun Apr/13]
          Athletic Club            -  Rayo Vallecano de Madrid
          Club Atlético de Madrid  -  Real Valladolid CF
@@ -521,7 +521,7 @@ Round 31
          RC Celta de Vigo         -  RCD Espanyol de Barcelona
 
 
-Round 32
+Matchday 32
 [Sun Apr/20]
          FC Barcelona             -  RC Celta de Vigo
          Girona FC                -  Real Betis Balompié
@@ -535,7 +535,7 @@ Round 32
          RCD Espanyol de Barcelona  -  Getafe CF
 
 
-Round 33
+Matchday 33
 [Wed Apr/23]
          Athletic Club            -  UD Las Palmas
          Club Atlético de Madrid  -  Rayo Vallecano de Madrid
@@ -549,7 +549,7 @@ Round 33
          Valencia CF              -  RCD Espanyol de Barcelona
 
 
-Round 34
+Matchday 34
 [Sun May/4]
          Girona FC                -  RCD Mallorca
          Sevilla FC               -  CD Leganés
@@ -563,7 +563,7 @@ Round 34
          Deportivo Alavés         -  Club Atlético de Madrid
 
 
-Round 35
+Matchday 35
 [Sun May/11]
          Athletic Club            -  Deportivo Alavés
          Club Atlético de Madrid  -  Real Sociedad de Fútbol
@@ -577,7 +577,7 @@ Round 35
          CD Leganés               -  RCD Espanyol de Barcelona
 
 
-Round 36
+Matchday 36
 [Wed May/14]
          CA Osasuna               -  Club Atlético de Madrid
          Deportivo Alavés         -  Valencia CF
@@ -591,7 +591,7 @@ Round 36
          RCD Espanyol de Barcelona  -  FC Barcelona
 
 
-Round 37
+Matchday 37
 [Sun May/18]
          Club Atlético de Madrid  -  Real Betis Balompié
          RC Celta de Vigo         -  Rayo Vallecano de Madrid
@@ -605,7 +605,7 @@ Round 37
          CA Osasuna               -  RCD Espanyol de Barcelona
 
 
-Round 38
+Matchday 38
 [Sun May/25]
          Athletic Club            -  FC Barcelona
          Real Betis Balompié      -  Valencia CF
