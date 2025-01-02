@@ -10,12 +10,12 @@ Matchday 1
 [Thu Aug/15]
   20.30  Granada CF               1-2 (1-2)  Albacete
 [Fri Aug/16]
-  21.30  Cádiz CF                 0-4 (0-2)  Real Zaragoza
   19.00  CD Mirandés              1-0 (1-0)  Córdoba CF
+  21.30  Cádiz CF                 0-4 (0-2)  Real Zaragoza
 [Sat Aug/17]
-  17.00  SD Eibar                 1-0 (1-0)  CD Castellón
-  19.00  Deportivo La Coruña      0-1 (0-1)  Real Oviedo
   17.00  Racing Ferrol            2-2 (0-1)  Málaga CF
+         SD Eibar                 1-0 (1-0)  CD Castellón
+  19.00  Deportivo La Coruña      0-1 (0-1)  Real Oviedo
 [Sun Aug/18]
   17.00  Racing Santander         2-2 (2-0)  UD Almería
          Sporting Gijón           1-2 (0-2)  Levante UD
@@ -27,8 +27,8 @@ Matchday 1
 
 Matchday 2
 [Fri Aug/23]
-  21.30  SD Huesca                2-1 (1-0)  Deportivo La Coruña
   19.00  Racing Santander         2-2 (0-1)  SD Eibar
+  21.30  SD Huesca                2-1 (1-0)  Deportivo La Coruña
 [Sat Aug/24]
   17.00  Racing Ferrol            0-1 (0-0)  Granada CF
          Sporting Gijón           0-0  CD Eldense
@@ -36,11 +36,11 @@ Matchday 2
   21.30  Málaga CF                1-1 (0-1)  CD Mirandés
          CD Tenerife              0-1 (0-0)  UD Almería
 [Sun Aug/25]
-  21.30  CD Castellón             0-0  Real Oviedo
   19.00  Albacete                 1-0 (0-0)  Elche CF
+  21.30  CD Castellón             0-0  Real Oviedo
 [Mon Aug/26]
-  21.30  Córdoba CF               2-2 (0-0)  Burgos CF
   19.00  FC Cartagena             1-2 (1-0)  Real Zaragoza
+  21.30  Córdoba CF               2-2 (0-0)  Burgos CF
 
 
 Matchday 3
@@ -48,17 +48,17 @@ Matchday 3
   19.00  Granada CF               1-3 (0-1)  SD Huesca
   21.30  Real Oviedo              1-3 (1-2)  Racing Santander
 [Sat Aug/31]
+  19.00  Cádiz CF                 2-2 (0-1)  CD Tenerife
   21.30  UD Almería               1-1 (0-0)  Sporting Gijón
          Málaga CF                2-1 (1-1)  Albacete
-  19.00  Cádiz CF                 2-2 (0-1)  CD Tenerife
 [Sun Sep/1]
   17.00  Burgos CF                0-2 (0-0)  CD Castellón
          Deportivo La Coruña      1-0 (0-0)  Racing Ferrol
   19.00  CD Mirandés              0-0  Real Zaragoza
          CD Eldense               1-2 (1-0)  FC Cartagena
 [Mon Sep/2]
-  21.30  Elche CF                 3-1 (1-0)  Córdoba CF
   19.00  SD Eibar                 2-2 (0-1)  Levante UD
+  21.30  Elche CF                 3-1 (1-0)  Córdoba CF
 
 
 Matchday 4
@@ -70,10 +70,10 @@ Matchday 4
          Sporting Gijón           3-1 (2-0)  Real Oviedo
   21.00  Córdoba CF               0-0  Málaga CF
 [Sun Sep/8]
+  14.00  Racing Ferrol            0-0  CD Mirandés
   16.15  FC Cartagena             0-1 (0-1)  Levante UD
   18.30  CD Eldense               1-0 (0-0)  UD Almería
          Real Zaragoza            3-0 (1-0)  Elche CF
-  14.00  Racing Ferrol            0-0  CD Mirandés
 [Mon Sep/9]
   21.00  Albacete                 0-1 (0-1)  SD Eibar
          CD Castellón             1-3 (0-0)  Cádiz CF
@@ -83,10 +83,10 @@ Matchday 5
 [Fri Sep/13]
   20.30  Córdoba CF               2-0 (1-0)  Deportivo La Coruña
 [Sat Sep/14]
-  16.15  Levante UD               3-1 (1-1)  CD Eldense
+  16.15  SD Eibar                 1-0 (0-0)  CD Tenerife
+         Levante UD               3-1 (1-1)  CD Eldense
   18.30  Racing Santander         1-0 (1-0)  Sporting Gijón
          Málaga CF                1-0 (1-0)  SD Huesca
-  16.15  SD Eibar                 1-0 (0-0)  CD Tenerife
 [Sun Sep/15]
   14.00  CD Mirandés              2-0 (1-0)  Albacete
   16.15  Real Oviedo              1-0 (0-0)  FC Cartagena
@@ -106,11 +106,11 @@ Matchday 6
          Deportivo La Coruña      0-2 (0-0)  Burgos CF
   21.00  Real Zaragoza            2-1 (1-1)  Levante UD
 [Sun Sep/22]
+  14.00  CD Tenerife              1-1 (0-1)  Sporting Gijón
   16.15  CD Castellón             0-1 (0-0)  Racing Santander
          FC Cartagena             1-2 (0-1)  Cádiz CF
   18.30  Elche CF                 1-0 (0-0)  CD Mirandés
   21.00  UD Almería               2-2 (0-1)  SD Eibar
-  14.00  CD Tenerife              1-1 (0-1)  Sporting Gijón
 [Mon Sep/23]
   20.30  SD Huesca                4-1 (3-1)  Córdoba CF
 
@@ -119,10 +119,10 @@ Matchday 7
 [Fri Sep/27]
   20.30  Albacete                 2-5 (1-2)  Deportivo La Coruña
 [Sat Sep/28]
-  16.15  CD Mirandés              1-0 (1-0)  SD Huesca
+  16.15  Cádiz CF                 1-2 (0-1)  CD Eldense
+         CD Mirandés              1-0 (1-0)  SD Huesca
   18.30  Sporting Gijón           1-0 (1-0)  Real Zaragoza
   21.00  Málaga CF                0-3 (0-1)  Elche CF
-  16.15  Cádiz CF                 1-2 (0-1)  CD Eldense
 [Sun Sep/29]
   14.00  Levante UD               4-2 (2-2)  UD Almería
   16.15  Burgos CF                2-2 (0-0)  Granada CF
@@ -137,12 +137,12 @@ Matchday 8
 [Fri Oct/4]
   20.30  SD Huesca                3-1 (1-0)  Cádiz CF
 [Sat Oct/5]
+  14.00  Racing Ferrol            1-0 (1-0)  Elche CF
   16.15  SD Eibar                 1-3 (1-2)  Sporting Gijón
          CD Mirandés              0-1 (0-1)  Granada CF
   18.30  UD Almería               2-0 (1-0)  Burgos CF
          Real Zaragoza            2-3 (0-2)  Racing Santander
   21.00  CD Tenerife              2-0 (1-0)  FC Cartagena
-  14.00  Racing Ferrol            1-0 (1-0)  Elche CF
 [Sun Oct/6]
   14.00  Deportivo La Coruña      0-0  Málaga CF
   16.15  CD Eldense               2-3 (2-3)  CD Castellón
@@ -152,519 +152,548 @@ Matchday 8
 
 Matchday 9
 [Fri Oct/11]
-  20.30  CD Tenerife              -  Real Zaragoza
+  20.30  CD Tenerife              2-3 (1-0)  Real Zaragoza
 [Sat Oct/12]
-  18.30  Cádiz CF                 -  Málaga CF
-         SD Eibar                 -  CD Eldense
-  16.15  FC Cartagena             -  Racing Ferrol
+  16.15  FC Cartagena             0-1 (0-0)  Racing Ferrol
+  18.30  Cádiz CF                 2-2 (2-0)  Málaga CF
+         SD Eibar                 1-0 (1-0)  CD Eldense
 [Sun Oct/13]
-  14.00  SD Huesca                -  Albacete
-  16.30  Real Oviedo              -  UD Almería
-         Racing Santander         -  Levante UD
-  18.30  Burgos CF                -  CD Mirandés
-         Granada CF               -  Córdoba CF
-  21.00  Elche CF                 -  Deportivo La Coruña
+  14.00  SD Huesca                2-2 (1-2)  Albacete
+  16.15  Real Oviedo              3-2 (2-1)  UD Almería
+         Racing Santander         1-0 (0-0)  Levante UD
+  18.30  Burgos CF                0-1 (0-0)  CD Mirandés
+         Granada CF               1-0 (0-0)  Córdoba CF
+  21.00  Elche CF                 0-0  Deportivo La Coruña
 [Mon Oct/14]
-  20.30  Sporting Gijón           -  CD Castellón
+  20.30  Sporting Gijón           2-1 (0-1)  CD Castellón
 
 
 Matchday 10
 [Fri Oct/18]
-  20.30  Córdoba CF               -  FC Cartagena
+  20.30  Córdoba CF               2-1 (0-0)  FC Cartagena
 [Sat Oct/19]
-  16.15  Deportivo La Coruña      -  CD Eldense
-         Málaga CF                -  Real Oviedo
-  18.30  CD Castellón             -  Levante UD
-         Granada CF               -  CD Tenerife
-  21.00  CD Mirandés              -  SD Eibar
+  16.15  Deportivo La Coruña      1-1 (1-1)  CD Eldense
+         Málaga CF                0-0  Real Oviedo
+  18.30  CD Castellón             2-0 (0-0)  Levante UD
+         Granada CF               4-0 (2-0)  CD Tenerife
+  21.00  CD Mirandés              1-0 (1-0)  SD Eibar
 [Sun Oct/20]
-  16.15  Racing Ferrol            -  SD Huesca
-  18.30  Elche CF                 -  Sporting Gijón
-         Real Zaragoza            -  UD Almería
-  14.00  Cádiz CF                 -  Racing Santander
+  14.00  Cádiz CF                 0-1 (0-0)  Racing Santander
+  16.15  Racing Ferrol            0-0  SD Huesca
+  18.30  Elche CF                 2-1 (0-0)  Sporting Gijón
+         Real Zaragoza            1-2 (1-1)  UD Almería
 [Mon Oct/21]
-  20.30  Albacete                 -  Burgos CF
+  20.30  Albacete                 2-0 (2-0)  Burgos CF
 
 
 Matchday 11
 [Tue Oct/22]
-  21.00  CD Castellón             -  Granada CF
-  19.00  Real Oviedo              -  CD Mirandés
+  19.00  Real Oviedo              4-1 (2-0)  CD Mirandés
+  21.00  CD Castellón             2-3 (2-1)  Granada CF
 [Wed Oct/23]
-  19.00  CD Eldense               -  Real Zaragoza
-         SD Eibar                 -  Cádiz CF
-  21.00  FC Cartagena             -  Elche CF
-         Racing Santander         -  Córdoba CF
+  19.00  CD Eldense               2-3 (1-2)  Real Zaragoza
+         SD Eibar                 1-0 (1-0)  Cádiz CF
+  21.00  FC Cartagena             0-0  Elche CF
+         Racing Santander         2-0 (0-0)  Córdoba CF
 [Thu Oct/24]
-  19.00  Levante UD               -  Deportivo La Coruña
-  21.00  Burgos CF                -  Racing Ferrol
-         Sporting Gijón           -  SD Huesca
-         CD Tenerife              -  Málaga CF
-  19.00  UD Almería               -  Albacete
+  19.00  UD Almería               3-1 (1-1)  Albacete
+         Levante UD               2-1 (2-0)  Deportivo La Coruña
+  21.00  Burgos CF                1-1 (1-1)  Racing Ferrol
+         Sporting Gijón           2-1 (1-0)  SD Huesca
+         CD Tenerife              0-0  Málaga CF
 
 
 Matchday 12
 [Sat Oct/26]
-  16.15  Cádiz CF                 -  Real Oviedo
-         CD Mirandés              -  FC Cartagena
-  18.30  Córdoba CF               -  CD Eldense
-         Real Zaragoza            -  CD Castellón
+  16.15  Cádiz CF                 2-0 (1-0)  Real Oviedo
+         CD Mirandés              3-1 (2-0)  FC Cartagena
+  18.30  Córdoba CF               2-0 (1-0)  CD Eldense
+         Real Zaragoza            1-2 (1-1)  CD Castellón
 [Sun Oct/27]
-  16.15  Deportivo La Coruña      -  Racing Santander
-         Elche CF                 -  Burgos CF
-  18.30  Albacete                 -  Sporting Gijón
-         SD Huesca                -  UD Almería
-  21.00  Granada CF               -  Levante UD
-  14.00  Málaga CF                -  SD Eibar
+  14.00  Málaga CF                1-0 (1-0)  SD Eibar
+  16.15  Deportivo La Coruña      1-2 (0-2)  Racing Santander
+         Elche CF                 1-0 (1-0)  Burgos CF
+  18.30  Albacete                 3-3 (1-2)  Sporting Gijón
+         SD Huesca                2-2 (1-0)  UD Almería
+  21.00  Granada CF               1-2 (0-2)  Levante UD
 [Mon Oct/28]
-  20.30  Racing Ferrol            -  CD Tenerife
+  20.30  Racing Ferrol            1-1 (1-1)  CD Tenerife
 
 
 Matchday 13
+[Sat Nov/2]
+  14.00  SD Eibar                 0-2 (0-2)  Elche CF
+  16.15  FC Cartagena             1-5 (0-2)  Deportivo La Coruña
+         Sporting Gijón           2-0 (1-0)  Cádiz CF
+  18.30  Racing Santander         1-1 (1-0)  Albacete
+         Real Zaragoza            2-1 (1-0)  Granada CF
 [Sun Nov/3]
-  UD Almería               -  Córdoba CF
-  FC Cartagena             -  Deportivo La Coruña
-  CD Castellón             -  Racing Ferrol
-  SD Eibar                 -  Elche CF
-  CD Eldense               -  SD Huesca
-  Levante UD               -  Málaga CF
-  Racing Santander         -  Albacete
-  Real Oviedo              -  Burgos CF
-  Sporting Gijón           -  Cádiz CF
-  Real Zaragoza            -  Granada CF
-  CD Tenerife              -  CD Mirandés
+  14.00  Real Oviedo              3-1 (1-1)  Burgos CF
+  18.30  CD Tenerife              1-0 (1-0)  CD Mirandés
+[Wed Nov/20]
+  20.00  CD Eldense               2-1 (1-0)  SD Huesca
+[Tue Nov/26]
+  20.30  UD Almería               4-0 (0-0)  Córdoba CF
+[Wed Nov/27]
+  19.00  CD Castellón             0-0  Racing Ferrol
+         Levante UD               4-2 (2-2)  Málaga CF
 
 
 Matchday 14
+[Fri Nov/8]
+  20.30  Elche CF                 1-2 (1-1)  UD Almería
+[Sat Nov/9]
+  16.15  CD Mirandés              2-2 (1-1)  Cádiz CF
+  18.30  SD Huesca                1-1 (1-0)  Real Zaragoza
+         Granada CF               3-2 (2-0)  CD Eldense
+  21.00  Málaga CF                1-0 (1-0)  FC Cartagena
 [Sun Nov/10]
-  Albacete                 -  Real Oviedo
-  Burgos CF                -  Sporting Gijón
-  Deportivo La Coruña      -  SD Eibar
-  Racing Ferrol            -  Racing Santander
-  SD Huesca                -  Real Zaragoza
-  Elche CF                 -  UD Almería
-  CD Mirandés              -  Cádiz CF
-  Málaga CF                -  FC Cartagena
-  Córdoba CF               -  CD Castellón
-  Granada CF               -  CD Eldense
-  CD Tenerife              -  Levante UD
+  14.00  Córdoba CF               2-2 (0-2)  CD Castellón
+  16.15  Burgos CF                0-2 (0-1)  Sporting Gijón
+         Racing Ferrol            1-2 (0-2)  Racing Santander
+  18.30  Albacete                 2-2 (1-1)  Real Oviedo
+[Mon Nov/11]
+  20.30  Deportivo La Coruña      1-0 (0-0)  SD Eibar
+[Tue Jan/7]
+  21.30  CD Tenerife              -  Levante UD
 
 
 Matchday 15
+[Sat Nov/16]
+  14.00  SD Eibar                 2-0 (0-0)  Racing Ferrol
+  16.15  CD Castellón             1-3 (0-3)  CD Mirandés
+         CD Eldense               2-0 (1-0)  Albacete
+  18.30  Racing Santander         2-0 (2-0)  Burgos CF
+         Levante UD               1-1 (0-1)  Elche CF
+  21.00  Sporting Gijón           1-2 (0-0)  Granada CF
 [Sun Nov/17]
-  UD Almería               -  Deportivo La Coruña
-  Cádiz CF                 -  Córdoba CF
-  FC Cartagena             -  SD Huesca
-  CD Castellón             -  CD Mirandés
-  SD Eibar                 -  Racing Ferrol
-  Real Oviedo              -  CD Tenerife
-  CD Eldense               -  Albacete
-  Racing Santander         -  Burgos CF
-  Levante UD               -  Elche CF
-  Sporting Gijón           -  Granada CF
-  Real Zaragoza            -  Málaga CF
+  16.15  Cádiz CF                 2-0 (2-0)  Córdoba CF
+         Real Oviedo              3-1 (2-0)  CD Tenerife
+  18.30  UD Almería               2-1 (2-1)  Deportivo La Coruña
+         FC Cartagena             1-0 (1-0)  SD Huesca
+  21.00  Real Zaragoza            0-0  Málaga CF
 
 
 Matchday 16
+[Fri Nov/22]
+  20.30  Racing Ferrol            0-0  Levante UD
+[Sat Nov/23]
+  14.00  FC Cartagena             1-2 (1-1)  UD Almería
+  16.15  Granada CF               0-0  Cádiz CF
+  18.30  Burgos CF                1-0 (0-0)  SD Eibar
+         Córdoba CF               2-2 (1-1)  Real Zaragoza
+  21.00  Málaga CF                0-0  Racing Santander
 [Sun Nov/24]
-  Albacete                 -  CD Tenerife
-  Burgos CF                -  SD Eibar
-  Córdoba CF               -  Real Zaragoza
-  Deportivo La Coruña      -  Sporting Gijón
-  Elche CF                 -  Real Oviedo
-  Racing Ferrol            -  Levante UD
-  Málaga CF                -  Racing Santander
-  FC Cartagena             -  UD Almería
-  Granada CF               -  Cádiz CF
-  SD Huesca                -  CD Castellón
-  CD Mirandés              -  CD Eldense
+  14.00  Albacete                 2-1 (1-0)  CD Tenerife
+  16.15  Deportivo La Coruña      1-1 (0-0)  Sporting Gijón
+         CD Mirandés              1-0 (0-0)  CD Eldense
+  18.30  SD Huesca                1-1 (0-0)  CD Castellón
+  21.00  Elche CF                 4-0 (2-0)  Real Oviedo
 
 
 Matchday 17
+[Fri Nov/29]
+  20.30  Real Oviedo              0-3 (0-1)  SD Huesca
+[Sat Nov/30]
+  16.15  UD Almería               2-1 (0-1)  Granada CF
+         Real Zaragoza            0-1 (0-0)  Albacete
+  18.30  Cádiz CF                 2-4 (1-1)  Deportivo La Coruña
+         Racing Santander         0-1 (0-0)  CD Mirandés
+  21.00  CD Tenerife              1-1 (1-0)  Elche CF
 [Sun Dec/1]
-  UD Almería               -  Granada CF
-  Cádiz CF                 -  Deportivo La Coruña
-  CD Castellón             -  Málaga CF
-  CD Eldense               -  Racing Ferrol
-  Real Zaragoza            -  Albacete
-  Levante UD               -  Burgos CF
-  SD Eibar                 -  FC Cartagena
-  Sporting Gijón           -  Córdoba CF
-  CD Tenerife              -  Elche CF
-  Real Oviedo              -  SD Huesca
-  Racing Santander         -  CD Mirandés
+  14.00  CD Castellón             2-0 (1-0)  Málaga CF
+  18.30  CD Eldense               0-0  Racing Ferrol
+         Levante UD               3-1 (1-1)  Burgos CF
+  21.00  Sporting Gijón           2-0 (1-0)  Córdoba CF
+[Mon Dec/2]
+  20.30  SD Eibar                 1-0 (1-0)  FC Cartagena
 
 
 Matchday 18
+[Fri Dec/6]
+  20.30  CD Mirandés              2-1 (0-0)  Levante UD
+[Sat Dec/7]
+  14.00  Elche CF                 2-1 (0-1)  Cádiz CF
+  16.15  Granada CF               3-0 (1-0)  Racing Santander
+  18.30  Deportivo La Coruña      1-1 (1-0)  Real Zaragoza
+  21.00  SD Huesca                2-1 (1-1)  SD Eibar
 [Sun Dec/8]
-  Albacete                 -  CD Castellón
-  Burgos CF                -  CD Eldense
-  FC Cartagena             -  Sporting Gijón
-  Córdoba CF               -  CD Tenerife
-  Deportivo La Coruña      -  Real Zaragoza
-  Racing Ferrol            -  Real Oviedo
-  Granada CF               -  Racing Santander
-  Málaga CF                -  UD Almería
-  Elche CF                 -  Cádiz CF
-  SD Huesca                -  SD Eibar
-  CD Mirandés              -  Levante UD
+  14.00  Racing Ferrol            1-5 (0-1)  Real Oviedo
+  16.15  Málaga CF                1-1 (1-0)  UD Almería
+  18.30  Albacete                 0-0  CD Castellón
+         Burgos CF                1-0 (0-0)  CD Eldense
+  21.00  Córdoba CF               3-0 (1-0)  CD Tenerife
+[Mon Dec/9]
+  20.30  FC Cartagena             1-0 (0-0)  Sporting Gijón
 
 
 Matchday 19
+[Fri Dec/13]
+  20.30  UD Almería               1-0 (1-0)  CD Mirandés
+[Sat Dec/14]
+  14.00  Levante UD               2-2 (0-0)  Córdoba CF
+  16.15  Cádiz CF                 1-0 (0-0)  Albacete
+         CD Castellón             4-1 (2-0)  FC Cartagena
+  18.30  SD Eibar                 2-1 (1-0)  Real Zaragoza
+         CD Eldense               0-0  Elche CF
+  21.00  Real Oviedo              2-0 (0-0)  Granada CF
 [Sun Dec/15]
-  UD Almería               -  CD Mirandés
-  Burgos CF                -  Málaga CF
-  SD Eibar                 -  Real Zaragoza
-  Cádiz CF                 -  Albacete
-  CD Castellón             -  FC Cartagena
-  Levante UD               -  Córdoba CF
-  CD Tenerife              -  Deportivo La Coruña
-  CD Eldense               -  Elche CF
-  Sporting Gijón           -  Racing Ferrol
-  Real Oviedo              -  Granada CF
-  Racing Santander         -  SD Huesca
+         CD Tenerife              -  Deportivo La Coruña      [postponed]
+  14.00  Sporting Gijón           1-3 (1-3)  Racing Ferrol
+  16.15  Burgos CF                0-0  Málaga CF
+  18.30  Racing Santander         0-1 (0-0)  SD Huesca
 
 
 Matchday 20
+[Tue Dec/17]
+  19.00  Albacete                 0-0  Levante UD
+         Granada CF               4-1 (3-1)  FC Cartagena
+  21.15  Córdoba CF               2-1 (1-1)  SD Eibar
+         Real Zaragoza            2-3 (2-0)  Real Oviedo
 [Wed Dec/18]
-  Albacete                 -  Levante UD
-  Córdoba CF               -  SD Eibar
-  Elche CF                 -  Racing Santander
-  SD Huesca                -  CD Tenerife
-  CD Mirandés              -  Sporting Gijón
-  Racing Ferrol            -  UD Almería
-  Cádiz CF                 -  Burgos CF
-  Granada CF               -  FC Cartagena
-  Deportivo La Coruña      -  CD Castellón
-  Málaga CF                -  CD Eldense
-  Real Zaragoza            -  Real Oviedo
+  19.00  Racing Ferrol            1-4 (0-1)  UD Almería
+  21.15  CD Mirandés              1-1 (1-0)  Sporting Gijón
+         Málaga CF                3-0 (2-0)  CD Eldense
+[Thu Dec/19]
+  19.00  Elche CF                 3-0 (1-0)  Racing Santander
+         Cádiz CF                 1-1 (0-0)  Burgos CF
+  21.15  SD Huesca                1-0 (1-0)  CD Tenerife
+         Deportivo La Coruña      5-1 (3-1)  CD Castellón
 
 
 Matchday 21
+[Fri Dec/20]
+  20.30  FC Cartagena             0-0  Albacete
+[Sat Dec/21]
+  14.00  SD Eibar                 1-1 (1-0)  Granada CF
+  16.15  Real Oviedo              2-3 (1-3)  Córdoba CF
+  18.30  Real Zaragoza            1-0 (0-0)  Racing Ferrol
+         Sporting Gijón           1-3 (0-0)  Málaga CF
 [Sun Dec/22]
-  UD Almería               -  Cádiz CF
-  Burgos CF                -  CD Tenerife
-  CD Castellón             -  Elche CF
-  Deportivo La Coruña      -  CD Mirandés
-  SD Eibar                 -  Granada CF
-  FC Cartagena             -  Albacete
-  Real Oviedo              -  Córdoba CF
-  Racing Santander         -  CD Eldense
-  Real Zaragoza            -  Racing Ferrol
-  Levante UD               -  SD Huesca
-  Sporting Gijón           -  Málaga CF
+  14.00  Burgos CF                1-0 (0-0)  CD Tenerife
+  16.15  CD Castellón             0-2 (0-2)  Elche CF
+  18.30  UD Almería               1-1 (0-1)  Cádiz CF
+         Racing Santander         2-2 (0-0)  CD Eldense
+  21.00  Deportivo La Coruña      0-4 (0-2)  CD Mirandés
+         Levante UD               1-1 (0-1)  SD Huesca
 
 
 Matchday 22
+[Fri Jan/10]
+  20.30  Granada CF               -  Burgos CF
 [Sat Jan/11]
-  Albacete                 -  Racing Santander
-  Cádiz CF                 -  Levante UD
-  Elche CF                 -  Real Zaragoza
-  SD Huesca                -  CD Mirandés
-  Real Oviedo              -  Sporting Gijón
-  Córdoba CF               -  UD Almería
-  Granada CF               -  Burgos CF
-  Racing Ferrol            -  FC Cartagena
-  CD Tenerife              -  CD Castellón
-  Málaga CF                -  Deportivo La Coruña
-  CD Eldense               -  SD Eibar
+  14.00  Racing Ferrol            -  FC Cartagena
+  16.15  Albacete                 -  Racing Santander
+         SD Huesca                -  CD Mirandés
+  18.30  CD Tenerife              -  CD Castellón
+         Málaga CF                -  Deportivo La Coruña
+  21.00  Real Oviedo              -  Sporting Gijón
+[Sun Jan/12]
+  14.00  Córdoba CF               -  UD Almería
+  16.15  Cádiz CF                 -  Levante UD
+         Elche CF                 -  Real Zaragoza
+[Mon Jan/13]
+  20.30  CD Eldense               -  SD Eibar
 
 
 Matchday 23
+[Fri Jan/17]
+  20.30  FC Cartagena             -  Real Oviedo
+[Sat Jan/18]
+  16.15  CD Eldense               -  Cádiz CF
+  18.30  SD Eibar                 -  Albacete
+         Sporting Gijón           -  Elche CF
+  21.00  Levante UD               -  Granada CF
 [Sun Jan/19]
-  UD Almería               -  SD Huesca
-  Burgos CF                -  Deportivo La Coruña
-  FC Cartagena             -  Real Oviedo
-  CD Castellón             -  Córdoba CF
-  SD Eibar                 -  Albacete
-  CD Eldense               -  Cádiz CF
-  Sporting Gijón           -  Elche CF
-  Racing Santander         -  Racing Ferrol
-  Levante UD               -  Granada CF
-  CD Mirandés              -  Málaga CF
-  Real Zaragoza            -  CD Tenerife
+  14.00  Burgos CF                -  Deportivo La Coruña
+  16.15  Racing Santander         -  Racing Ferrol
+  18.30  CD Castellón             -  Córdoba CF
+         Real Zaragoza            -  CD Tenerife
+  21.00  UD Almería               -  SD Huesca
+[Mon Jan/20]
+  20.30  CD Mirandés              -  Málaga CF
 
 
 Matchday 24
 [Sun Jan/26]
-  Albacete                 -  UD Almería
-  Cádiz CF                 -  CD Mirandés
-  Córdoba CF               -  Racing Santander
-  Deportivo La Coruña      -  Levante UD
-  Granada CF               -  Sporting Gijón
-  Málaga CF                -  Real Zaragoza
-  Racing Ferrol            -  Burgos CF
-  SD Huesca                -  FC Cartagena
-  Real Oviedo              -  CD Castellón
-  Elche CF                 -  SD Eibar
-  CD Tenerife              -  CD Eldense
+         Albacete                 -  UD Almería
+         Cádiz CF                 -  CD Mirandés
+         Córdoba CF               -  Racing Santander
+         Deportivo La Coruña      -  Levante UD
+         Granada CF               -  Sporting Gijón
+         Málaga CF                -  Real Zaragoza
+         Racing Ferrol            -  Burgos CF
+         SD Huesca                -  FC Cartagena
+         Real Oviedo              -  CD Castellón
+         Elche CF                 -  SD Eibar
+         CD Tenerife              -  CD Eldense
 
 
 Matchday 25
 [Sun Feb/2]
-  UD Almería               -  Real Oviedo
-  FC Cartagena             -  Córdoba CF
-  CD Castellón             -  SD Huesca
-  CD Eldense               -  Granada CF
-  CD Tenerife              -  Albacete
-  Sporting Gijón           -  Burgos CF
-  Real Zaragoza            -  Cádiz CF
-  SD Eibar                 -  Deportivo La Coruña
-  CD Mirandés              -  Elche CF
-  Levante UD               -  Racing Ferrol
-  Racing Santander         -  Málaga CF
+         UD Almería               -  Real Oviedo
+         FC Cartagena             -  Córdoba CF
+         CD Castellón             -  SD Huesca
+         CD Eldense               -  Granada CF
+         CD Tenerife              -  Albacete
+         Sporting Gijón           -  Burgos CF
+         Real Zaragoza            -  Cádiz CF
+         SD Eibar                 -  Deportivo La Coruña
+         CD Mirandés              -  Elche CF
+         Levante UD               -  Racing Ferrol
+         Racing Santander         -  Málaga CF
 
 
 Matchday 26
 [Sun Feb/9]
-  Albacete                 -  Real Zaragoza
-  Burgos CF                -  Racing Santander
-  Cádiz CF                 -  FC Cartagena
-  Córdoba CF               -  SD Huesca
-  Elche CF                 -  CD Tenerife
-  Granada CF               -  CD Mirandés
-  Deportivo La Coruña      -  UD Almería
-  Racing Ferrol            -  CD Castellón
-  Sporting Gijón           -  SD Eibar
-  Real Oviedo              -  CD Eldense
-  Málaga CF                -  Levante UD
+         Albacete                 -  Real Zaragoza
+         Burgos CF                -  Racing Santander
+         Cádiz CF                 -  FC Cartagena
+         Córdoba CF               -  SD Huesca
+         Elche CF                 -  CD Tenerife
+         Granada CF               -  CD Mirandés
+         Deportivo La Coruña      -  UD Almería
+         Racing Ferrol            -  CD Castellón
+         Sporting Gijón           -  SD Eibar
+         Real Oviedo              -  CD Eldense
+         Málaga CF                -  Levante UD
 
 
 Matchday 27
 [Sun Feb/16]
-  UD Almería               -  Elche CF
-  FC Cartagena             -  Málaga CF
-  CD Castellón             -  SD Eibar
-  Levante UD               -  Sporting Gijón
-  Real Oviedo              -  Albacete
-  Real Zaragoza            -  Burgos CF
-  Racing Santander         -  Cádiz CF
-  CD Tenerife              -  Córdoba CF
-  CD Eldense               -  Deportivo La Coruña
-  CD Mirandés              -  Racing Ferrol
-  SD Huesca                -  Granada CF
+         UD Almería               -  Elche CF
+         FC Cartagena             -  Málaga CF
+         CD Castellón             -  SD Eibar
+         Levante UD               -  Sporting Gijón
+         Real Oviedo              -  Albacete
+         Real Zaragoza            -  Burgos CF
+         Racing Santander         -  Cádiz CF
+         CD Tenerife              -  Córdoba CF
+         CD Eldense               -  Deportivo La Coruña
+         CD Mirandés              -  Racing Ferrol
+         SD Huesca                -  Granada CF
 
 
 Matchday 28
 [Sun Feb/23]
-  Albacete                 -  CD Eldense
-  Burgos CF                -  Real Oviedo
-  Cádiz CF                 -  CD Castellón
-  Deportivo La Coruña      -  SD Huesca
-  SD Eibar                 -  Racing Santander
-  Granada CF               -  Real Zaragoza
-  Levante UD               -  CD Mirandés
-  Málaga CF                -  CD Tenerife
-  Sporting Gijón           -  UD Almería
-  Elche CF                 -  FC Cartagena
-  Racing Ferrol            -  Córdoba CF
+         Albacete                 -  CD Eldense
+         Burgos CF                -  Real Oviedo
+         Cádiz CF                 -  CD Castellón
+         Deportivo La Coruña      -  SD Huesca
+         SD Eibar                 -  Racing Santander
+         Granada CF               -  Real Zaragoza
+         Levante UD               -  CD Mirandés
+         Málaga CF                -  CD Tenerife
+         Sporting Gijón           -  UD Almería
+         Elche CF                 -  FC Cartagena
+         Racing Ferrol            -  Córdoba CF
 
 
 Matchday 29
 [Sun Mar/2]
-  Albacete                 -  Cádiz CF
-  UD Almería               -  Málaga CF
-  FC Cartagena             -  SD Eibar
-  Córdoba CF               -  Granada CF
-  CD Eldense               -  Levante UD
-  CD Mirandés              -  CD Tenerife
-  CD Castellón             -  Burgos CF
-  Real Oviedo              -  Deportivo La Coruña
-  Racing Santander         -  Elche CF
-  SD Huesca                -  Racing Ferrol
-  Real Zaragoza            -  Sporting Gijón
+         Albacete                 -  Cádiz CF
+         UD Almería               -  Málaga CF
+         FC Cartagena             -  SD Eibar
+         Córdoba CF               -  Granada CF
+         CD Eldense               -  Levante UD
+         CD Mirandés              -  CD Tenerife
+         CD Castellón             -  Burgos CF
+         Real Oviedo              -  Deportivo La Coruña
+         Racing Santander         -  Elche CF
+         SD Huesca                -  Racing Ferrol
+         Real Zaragoza            -  Sporting Gijón
 
 
 Matchday 30
 [Sun Mar/9]
-  CD Mirandés              -  Real Oviedo
-  Burgos CF                -  Albacete
-  SD Eibar                 -  UD Almería
-  Málaga CF                -  Cádiz CF
-  Levante UD               -  FC Cartagena
-  Elche CF                 -  CD Castellón
-  Deportivo La Coruña      -  Córdoba CF
-  Real Zaragoza            -  CD Eldense
-  Granada CF               -  Racing Ferrol
-  CD Tenerife              -  SD Huesca
-  Sporting Gijón           -  Racing Santander
+         CD Mirandés              -  Real Oviedo
+         Burgos CF                -  Albacete
+         SD Eibar                 -  UD Almería
+         Málaga CF                -  Cádiz CF
+         Levante UD               -  FC Cartagena
+         Elche CF                 -  CD Castellón
+         Deportivo La Coruña      -  Córdoba CF
+         Real Zaragoza            -  CD Eldense
+         Granada CF               -  Racing Ferrol
+         CD Tenerife              -  SD Huesca
+         Sporting Gijón           -  Racing Santander
 
 
 Matchday 31
 [Sun Mar/16]
-  Albacete                 -  Málaga CF
-  UD Almería               -  Real Zaragoza
-  Cádiz CF                 -  Granada CF
-  CD Castellón             -  Deportivo La Coruña
-  Córdoba CF               -  Sporting Gijón
-  CD Eldense               -  CD Mirandés
-  SD Huesca                -  Levante UD
-  Racing Santander         -  CD Tenerife
-  FC Cartagena             -  Burgos CF
-  Racing Ferrol            -  SD Eibar
-  Real Oviedo              -  Elche CF
+         Albacete                 -  Málaga CF
+         UD Almería               -  Real Zaragoza
+         Cádiz CF                 -  Granada CF
+         CD Castellón             -  Deportivo La Coruña
+         Córdoba CF               -  Sporting Gijón
+         CD Eldense               -  CD Mirandés
+         SD Huesca                -  Levante UD
+         Racing Santander         -  CD Tenerife
+         FC Cartagena             -  Burgos CF
+         Racing Ferrol            -  SD Eibar
+         Real Oviedo              -  Elche CF
 
 
 Matchday 32
 [Sun Mar/23]
-  SD Eibar                 -  SD Huesca
-  Elche CF                 -  CD Eldense
-  Granada CF               -  Real Oviedo
-  CD Mirandés              -  Racing Santander
-  Sporting Gijón           -  Albacete
-  Burgos CF                -  UD Almería
-  CD Tenerife              -  Cádiz CF
-  Deportivo La Coruña      -  FC Cartagena
-  Levante UD               -  CD Castellón
-  Real Zaragoza            -  Córdoba CF
-  Málaga CF                -  Racing Ferrol
+         SD Eibar                 -  SD Huesca
+         Elche CF                 -  CD Eldense
+         Granada CF               -  Real Oviedo
+         CD Mirandés              -  Racing Santander
+         Sporting Gijón           -  Albacete
+         Burgos CF                -  UD Almería
+         CD Tenerife              -  Cádiz CF
+         Deportivo La Coruña      -  FC Cartagena
+         Levante UD               -  CD Castellón
+         Real Zaragoza            -  Córdoba CF
+         Málaga CF                -  Racing Ferrol
 
 
 Matchday 33
 [Sun Mar/30]
-  Albacete                 -  CD Mirandés
-  UD Almería               -  Levante UD
-  Cádiz CF                 -  SD Eibar
-  FC Cartagena             -  CD Castellón
-  Córdoba CF               -  Elche CF
-  SD Huesca                -  Sporting Gijón
-  Racing Santander         -  Real Zaragoza
-  CD Eldense               -  Burgos CF
-  Racing Ferrol            -  Deportivo La Coruña
-  CD Tenerife              -  Granada CF
-  Real Oviedo              -  Málaga CF
+         Albacete                 -  CD Mirandés
+         UD Almería               -  Levante UD
+         Cádiz CF                 -  SD Eibar
+         FC Cartagena             -  CD Castellón
+         Córdoba CF               -  Elche CF
+         SD Huesca                -  Sporting Gijón
+         Racing Santander         -  Real Zaragoza
+         CD Eldense               -  Burgos CF
+         Racing Ferrol            -  Deportivo La Coruña
+         CD Tenerife              -  Granada CF
+         Real Oviedo              -  Málaga CF
 
 
 Matchday 34
 [Sun Apr/6]
-  Burgos CF                -  SD Huesca
-  FC Cartagena             -  CD Eldense
-  SD Eibar                 -  Real Oviedo
-  Elche CF                 -  Racing Ferrol
-  Levante UD               -  Racing Santander
-  Sporting Gijón           -  CD Tenerife
-  CD Castellón             -  Albacete
-  Granada CF               -  UD Almería
-  Deportivo La Coruña      -  Cádiz CF
-  Málaga CF                -  Córdoba CF
-  Real Zaragoza            -  CD Mirandés
+         Burgos CF                -  SD Huesca
+         FC Cartagena             -  CD Eldense
+         SD Eibar                 -  Real Oviedo
+         Elche CF                 -  Racing Ferrol
+         Levante UD               -  Racing Santander
+         Sporting Gijón           -  CD Tenerife
+         CD Castellón             -  Albacete
+         Granada CF               -  UD Almería
+         Deportivo La Coruña      -  Cádiz CF
+         Málaga CF                -  Córdoba CF
+         Real Zaragoza            -  CD Mirandés
 
 
 Matchday 35
 [Sun Apr/13]
-  Albacete                 -  Granada CF
-  UD Almería               -  FC Cartagena
-  Cádiz CF                 -  Elche CF
-  Córdoba CF               -  Levante UD
-  CD Eldense               -  Sporting Gijón
-  SD Huesca                -  Málaga CF
-  CD Tenerife              -  Burgos CF
-  Racing Santander         -  CD Castellón
-  CD Mirandés              -  Deportivo La Coruña
-  Real Zaragoza            -  SD Eibar
-  Real Oviedo              -  Racing Ferrol
+         Albacete                 -  Granada CF
+         UD Almería               -  FC Cartagena
+         Cádiz CF                 -  Elche CF
+         Córdoba CF               -  Levante UD
+         CD Eldense               -  Sporting Gijón
+         SD Huesca                -  Málaga CF
+         CD Tenerife              -  Burgos CF
+         Racing Santander         -  CD Castellón
+         CD Mirandés              -  Deportivo La Coruña
+         Real Zaragoza            -  SD Eibar
+         Real Oviedo              -  Racing Ferrol
 
 
 Matchday 36
 [Sun Apr/20]
-  Burgos CF                -  Cádiz CF
-  FC Cartagena             -  Granada CF
-  Córdoba CF               -  Real Oviedo
-  Deportivo La Coruña      -  CD Tenerife
-  SD Eibar                 -  Málaga CF
-  SD Huesca                -  Racing Santander
-  Levante UD               -  Real Zaragoza
-  Elche CF                 -  Albacete
-  CD Castellón             -  UD Almería
-  Racing Ferrol            -  CD Eldense
-  Sporting Gijón           -  CD Mirandés
+         Burgos CF                -  Cádiz CF
+         FC Cartagena             -  Granada CF
+         Córdoba CF               -  Real Oviedo
+         Deportivo La Coruña      -  CD Tenerife
+         SD Eibar                 -  Málaga CF
+         SD Huesca                -  Racing Santander
+         Levante UD               -  Real Zaragoza
+         Elche CF                 -  Albacete
+         CD Castellón             -  UD Almería
+         Racing Ferrol            -  CD Eldense
+         Sporting Gijón           -  CD Mirandés
 
 
 Matchday 37
 [Sun Apr/27]
-  Albacete                 -  FC Cartagena
-  UD Almería               -  Racing Ferrol
-  Cádiz CF                 -  Sporting Gijón
-  CD Mirandés              -  Burgos CF
-  Málaga CF                -  CD Castellón
-  CD Eldense               -  Córdoba CF
-  Racing Santander         -  Deportivo La Coruña
-  CD Tenerife              -  SD Eibar
-  Granada CF               -  Elche CF
-  Real Zaragoza            -  SD Huesca
-  Real Oviedo              -  Levante UD
+         Albacete                 -  FC Cartagena
+         UD Almería               -  Racing Ferrol
+         Cádiz CF                 -  Sporting Gijón
+         CD Mirandés              -  Burgos CF
+         Málaga CF                -  CD Castellón
+         CD Eldense               -  Córdoba CF
+         Racing Santander         -  Deportivo La Coruña
+         CD Tenerife              -  SD Eibar
+         Granada CF               -  Elche CF
+         Real Zaragoza            -  SD Huesca
+         Real Oviedo              -  Levante UD
 
 
 Matchday 38
 [Sun May/4]
-  UD Almería               -  CD Eldense
-  Burgos CF                -  Elche CF
-  FC Cartagena             -  Racing Santander
-  CD Castellón             -  Sporting Gijón
-  SD Eibar                 -  CD Mirandés
-  Racing Ferrol            -  Real Zaragoza
-  SD Huesca                -  Real Oviedo
-  Levante UD               -  CD Tenerife
-  Deportivo La Coruña      -  Albacete
-  Córdoba CF               -  Cádiz CF
-  Málaga CF                -  Granada CF
+         UD Almería               -  CD Eldense
+         Burgos CF                -  Elche CF
+         FC Cartagena             -  Racing Santander
+         CD Castellón             -  Sporting Gijón
+         SD Eibar                 -  CD Mirandés
+         Racing Ferrol            -  Real Zaragoza
+         SD Huesca                -  Real Oviedo
+         Levante UD               -  CD Tenerife
+         Deportivo La Coruña      -  Albacete
+         Córdoba CF               -  Cádiz CF
+         Málaga CF                -  Granada CF
 
 
 Matchday 39
 [Sun May/11]
-  Albacete                 -  SD Huesca
-  Burgos CF                -  Córdoba CF
-  Elche CF                 -  Levante UD
-  CD Eldense               -  Málaga CF
-  Cádiz CF                 -  UD Almería
-  Real Zaragoza            -  FC Cartagena
-  CD Mirandés              -  CD Castellón
-  Sporting Gijón           -  Deportivo La Coruña
-  Granada CF               -  SD Eibar
-  CD Tenerife              -  Racing Ferrol
-  Racing Santander         -  Real Oviedo
+         Albacete                 -  SD Huesca
+         Burgos CF                -  Córdoba CF
+         Elche CF                 -  Levante UD
+         CD Eldense               -  Málaga CF
+         Cádiz CF                 -  UD Almería
+         Real Zaragoza            -  FC Cartagena
+         CD Mirandés              -  CD Castellón
+         Sporting Gijón           -  Deportivo La Coruña
+         Granada CF               -  SD Eibar
+         CD Tenerife              -  Racing Ferrol
+         Racing Santander         -  Real Oviedo
 
 
 Matchday 40
 [Sun May/18]
-  UD Almería               -  Racing Santander
-  FC Cartagena             -  CD Tenerife
-  CD Castellón             -  CD Eldense
-  Córdoba CF               -  CD Mirandés
-  Deportivo La Coruña      -  Granada CF
-  Málaga CF                -  Sporting Gijón
-  Real Oviedo              -  Real Zaragoza
-  Levante UD               -  Albacete
-  SD Eibar                 -  Burgos CF
-  Racing Ferrol            -  Cádiz CF
-  SD Huesca                -  Elche CF
+         UD Almería               -  Racing Santander
+         FC Cartagena             -  CD Tenerife
+         CD Castellón             -  CD Eldense
+         Córdoba CF               -  CD Mirandés
+         Deportivo La Coruña      -  Granada CF
+         Málaga CF                -  Sporting Gijón
+         Real Oviedo              -  Real Zaragoza
+         Levante UD               -  Albacete
+         SD Eibar                 -  Burgos CF
+         Racing Ferrol            -  Cádiz CF
+         SD Huesca                -  Elche CF
 
 
 Matchday 41
 [Sun May/25]
-  Albacete                 -  Racing Ferrol
-  Burgos CF                -  Levante UD
-  Cádiz CF                 -  SD Huesca
-  Elche CF                 -  Málaga CF
-  CD Eldense               -  Racing Santander
-  CD Mirandés              -  UD Almería
-  Sporting Gijón           -  FC Cartagena
-  Granada CF               -  CD Castellón
-  SD Eibar                 -  Córdoba CF
-  Real Zaragoza            -  Deportivo La Coruña
-  CD Tenerife              -  Real Oviedo
+         Albacete                 -  Racing Ferrol
+         Burgos CF                -  Levante UD
+         Cádiz CF                 -  SD Huesca
+         Elche CF                 -  Málaga CF
+         CD Eldense               -  Racing Santander
+         CD Mirandés              -  UD Almería
+         Sporting Gijón           -  FC Cartagena
+         Granada CF               -  CD Castellón
+         SD Eibar                 -  Córdoba CF
+         Real Zaragoza            -  Deportivo La Coruña
+         CD Tenerife              -  Real Oviedo
 
 
 Matchday 42
 [Sun Jun/1]
-  UD Almería               -  CD Tenerife
-  FC Cartagena             -  CD Mirandés
-  CD Castellón             -  Real Zaragoza
-  Deportivo La Coruña      -  Elche CF
-  Racing Ferrol            -  Sporting Gijón
-  Córdoba CF               -  Albacete
-  Málaga CF                -  Burgos CF
-  Real Oviedo              -  Cádiz CF
-  Levante UD               -  SD Eibar
-  SD Huesca                -  CD Eldense
-  Racing Santander         -  Granada CF
+         UD Almería               -  CD Tenerife
+         FC Cartagena             -  CD Mirandés
+         CD Castellón             -  Real Zaragoza
+         Deportivo La Coruña      -  Elche CF
+         Racing Ferrol            -  Sporting Gijón
+         Córdoba CF               -  Albacete
+         Málaga CF                -  Burgos CF
+         Real Oviedo              -  Cádiz CF
+         Levante UD               -  SD Eibar
+         SD Huesca                -  CD Eldense
+         Racing Santander         -  Granada CF
