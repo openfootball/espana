@@ -331,8 +331,8 @@ Matchday 18
 
 
 Matchday 12
-[Thu Jan/2]
-  20.00  Valencia CF              -  Real Madrid CF
+[Fri Jan/3]
+  21.00  Valencia CF              -  Real Madrid CF
 
 
 Matchday 19
@@ -368,17 +368,20 @@ Matchday 20
 
 
 Matchday 21
+[Fri Jan/24]
+  21.00  UD Las Palmas            -  CA Osasuna
+[Sat Jan/25]
+  14.00  RCD Mallorca             -  Real Betis Balompié
+  16.15  Club Atlético de Madrid  -  Villarreal CF
+  18.30  Sevilla FC               -  RCD Espanyol de Barcelona
+  21.00  Real Valladolid CF       -  Real Madrid CF
 [Sun Jan/26]
-         Athletic Club            -  CD Leganés
-         Club Atlético de Madrid  -  Villarreal CF
-         Deportivo Alavés         -  RC Celta de Vigo
-         FC Barcelona             -  Valencia CF
-         Rayo Vallecano de Madrid  -  Girona FC
-         RCD Mallorca             -  Real Betis Balompié
-         Real Sociedad de Fútbol  -  Getafe CF
-         Real Valladolid CF       -  Real Madrid CF
-         UD Las Palmas            -  CA Osasuna
-         Sevilla FC               -  RCD Espanyol de Barcelona
+  14.00  Rayo Vallecano de Madrid  -  Girona FC
+  16.15  Real Sociedad de Fútbol  -  Getafe CF
+  18.30  Athletic Club            -  CD Leganés
+  21.00  FC Barcelona             -  Valencia CF
+[Mon Jan/27]
+  21.00  Deportivo Alavés         -  RC Celta de Vigo
 
 
 Matchday 22
