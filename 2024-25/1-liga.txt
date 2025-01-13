@@ -337,15 +337,15 @@ Matchday 12
 
 Matchday 19
 [Fri Jan/10]
-  21.00  Rayo Vallecano de Madrid  -  RC Celta de Vigo
+  21.00  Rayo Vallecano de Madrid  2-1 (1-1)  RC Celta de Vigo
 [Sat Jan/11]
-  14.00  Deportivo Alavés         -  Girona FC
-  16.15  Real Valladolid CF       -  Real Betis Balompié
-  18.30  RCD Espanyol de Barcelona  -  CD Leganés
-  21.00  Sevilla FC               -  Valencia CF
+  14.00  Deportivo Alavés         0-1 (0-0)  Girona FC
+  16.15  Real Valladolid CF       1-0 (0-0)  Real Betis Balompié
+  18.30  RCD Espanyol de Barcelona  1-1 (1-1)  CD Leganés
+  21.00  Sevilla FC               1-1 (0-0)  Valencia CF
 [Sun Jan/12]
-  14.00  UD Las Palmas            -  Getafe CF
-  16.15  Club Atlético de Madrid  -  CA Osasuna
+  14.00  UD Las Palmas            1-2 (0-0)  Getafe CF
+  16.15  Club Atlético de Madrid  1-0 (0-0)  CA Osasuna
 [Mon Jan/13]
   21.00  Real Sociedad de Fútbol  -  Villarreal CF
 
@@ -354,15 +354,15 @@ Matchday 20
 [Fri Jan/17]
   21.00  RCD Espanyol de Barcelona  -  Real Valladolid CF
 [Sat Jan/18]
-  14.00  CA Osasuna               -  Rayo Vallecano de Madrid
+  14.00  Girona FC                -  Sevilla FC
   16.15  CD Leganés               -  Club Atlético de Madrid
-  18.30  RC Celta de Vigo         -  Athletic Club
+  18.30  Real Betis Balompié      -  Deportivo Alavés
   21.00  Getafe CF                -  FC Barcelona
 [Sun Jan/19]
-  14.00  Real Betis Balompié      -  Deportivo Alavés
+  14.00  RC Celta de Vigo         -  Athletic Club
   16.15  Real Madrid CF           -  UD Las Palmas
-  18.30  Valencia CF              -  Real Sociedad de Fútbol
-  21.00  Girona FC                -  Sevilla FC
+  18.30  CA Osasuna               -  Rayo Vallecano de Madrid
+  21.00  Valencia CF              -  Real Sociedad de Fútbol
 [Mon Jan/20]
   21.00  Villarreal CF            -  RCD Mallorca
 
