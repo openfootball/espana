@@ -347,15 +347,15 @@ Matchday 19
   14.00  UD Las Palmas            1-2 (0-0)  Getafe CF
   16.15  Club Atlético de Madrid  1-0 (0-0)  CA Osasuna
 [Mon Jan/13]
-  21.00  Real Sociedad de Fútbol  -  Villarreal CF
+  21.00  Real Sociedad de Fútbol  1-0 (0-0)  Villarreal CF
 
 
 Matchday 20
 [Fri Jan/17]
-  21.00  RCD Espanyol de Barcelona  -  Real Valladolid CF
+  21.00  RCD Espanyol de Barcelona  2-1 (1-0)  Real Valladolid CF
 [Sat Jan/18]
-  14.00  Girona FC                -  Sevilla FC
-  16.15  CD Leganés               -  Club Atlético de Madrid
+  14.00  Girona FC                1-2 (1-0)  Sevilla FC
+  16.15  CD Leganés               1-0 (0-0)  Club Atlético de Madrid
   18.30  Real Betis Balompié      -  Deportivo Alavés
   21.00  Getafe CF                -  FC Barcelona
 [Sun Jan/19]
@@ -385,17 +385,20 @@ Matchday 21
 
 
 Matchday 22
+[Fri Jan/31]
+  21.00  CD Leganés               -  Rayo Vallecano de Madrid
+[Sat Feb/1]
+  14.00  Getafe CF                -  Sevilla FC
+  16.15  Villarreal CF            -  Real Valladolid CF
+  18.30  Club Atlético de Madrid  -  RCD Mallorca
+  21.00  RCD Espanyol de Barcelona  -  Real Madrid CF
 [Sun Feb/2]
-         Club Atlético de Madrid  -  RCD Mallorca
-         Real Betis Balompié      -  Athletic Club
-         CA Osasuna               -  Real Sociedad de Fútbol
-         CD Leganés               -  Rayo Vallecano de Madrid
-         FC Barcelona             -  Deportivo Alavés
-         Getafe CF                -  Sevilla FC
-         Girona FC                -  UD Las Palmas
-         Valencia CF              -  RC Celta de Vigo
-         Villarreal CF            -  Real Valladolid CF
-         RCD Espanyol de Barcelona  -  Real Madrid CF
+  14.00  FC Barcelona             -  Deportivo Alavés
+  16.15  Valencia CF              -  RC Celta de Vigo
+  18.30  CA Osasuna               -  Real Sociedad de Fútbol
+  21.00  Real Betis Balompié      -  Athletic Club
+[Mon Feb/3]
+  21.00  Girona FC                -  UD Las Palmas
 
 
 Matchday 23
