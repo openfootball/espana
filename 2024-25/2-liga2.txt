@@ -255,7 +255,7 @@ Matchday 14
 [Mon Nov/11]
   20.30  Deportivo La Coruña      1-0 (0-0)  SD Eibar
 [Tue Jan/7]
-  21.30  CD Tenerife              -  Levante UD
+  21.30  CD Tenerife              0-3 (0-0)  Levante UD
 
 
 Matchday 15
@@ -338,10 +338,11 @@ Matchday 19
          CD Eldense               0-0  Elche CF
   21.00  Real Oviedo              2-0 (0-0)  Granada CF
 [Sun Dec/15]
-         CD Tenerife              -  Deportivo La Coruña      [postponed]
   14.00  Sporting Gijón           1-3 (1-3)  Racing Ferrol
   16.15  Burgos CF                0-0  Málaga CF
   18.30  Racing Santander         0-1 (0-0)  SD Huesca
+[Wed Jan/29]
+  21.00  CD Tenerife              -  Deportivo La Coruña
 
 
 Matchday 20
@@ -380,83 +381,92 @@ Matchday 21
 
 Matchday 22
 [Fri Jan/10]
-  20.30  Granada CF               -  Burgos CF
+  20.30  Granada CF               0-0  Burgos CF
 [Sat Jan/11]
-  14.00  Racing Ferrol            -  FC Cartagena
-  16.15  Albacete                 -  Racing Santander
-         SD Huesca                -  CD Mirandés
-  18.30  CD Tenerife              -  CD Castellón
-         Málaga CF                -  Deportivo La Coruña
-  21.00  Real Oviedo              -  Sporting Gijón
+  14.00  Racing Ferrol            0-0  FC Cartagena
+  16.15  Albacete                 2-2 (1-0)  Racing Santander
+         SD Huesca                1-0 (1-0)  CD Mirandés
+  18.30  CD Tenerife              2-0 (1-0)  CD Castellón
+         Málaga CF                1-1 (0-0)  Deportivo La Coruña
+  21.00  Real Oviedo              1-1 (0-0)  Sporting Gijón
 [Sun Jan/12]
-  14.00  Córdoba CF               -  UD Almería
-  16.15  Cádiz CF                 -  Levante UD
-         Elche CF                 -  Real Zaragoza
+  14.00  Córdoba CF               0-3 (0-1)  UD Almería
+  16.15  Cádiz CF                 0-0  Levante UD
+         Elche CF                 1-0 (0-0)  Real Zaragoza
 [Mon Jan/13]
-  20.30  CD Eldense               -  SD Eibar
+  20.30  CD Eldense               1-3 (1-0)  SD Eibar
 
 
 Matchday 23
 [Fri Jan/17]
-  20.30  FC Cartagena             -  Real Oviedo
+  20.30  FC Cartagena             0-1 (0-1)  Real Oviedo
 [Sat Jan/18]
-  16.15  CD Eldense               -  Cádiz CF
-  18.30  SD Eibar                 -  Albacete
-         Sporting Gijón           -  Elche CF
-  21.00  Levante UD               -  Granada CF
+  16.15  CD Eldense               1-4 (0-3)  Cádiz CF
+  18.30  SD Eibar                 1-1 (1-0)  Albacete
+         Sporting Gijón           1-1 (1-0)  Elche CF
+  21.00  Levante UD               3-1 (1-0)  Granada CF
 [Sun Jan/19]
-  14.00  Burgos CF                -  Deportivo La Coruña
-  16.15  Racing Santander         -  Racing Ferrol
-  18.30  CD Castellón             -  Córdoba CF
-         Real Zaragoza            -  CD Tenerife
-  21.00  UD Almería               -  SD Huesca
+  14.00  Burgos CF                0-1 (0-0)  Deportivo La Coruña
+  16.15  Racing Santander         6-0 (3-0)  Racing Ferrol
+  18.30  CD Castellón             1-2 (1-0)  Córdoba CF
+         Real Zaragoza            2-2 (0-1)  CD Tenerife
+  21.00  UD Almería               0-0  SD Huesca
 [Mon Jan/20]
-  20.30  CD Mirandés              -  Málaga CF
+  20.30  CD Mirandés              3-2 (0-1)  Málaga CF
 
 
 Matchday 24
-[Sun Jan/26]
-         Albacete                 -  UD Almería
-         Cádiz CF                 -  CD Mirandés
-         Córdoba CF               -  Racing Santander
-         Deportivo La Coruña      -  Levante UD
-         Granada CF               -  Sporting Gijón
-         Málaga CF                -  Real Zaragoza
-         Racing Ferrol            -  Burgos CF
+[Fri Jan/24]
+  20.30  Elche CF                 -  SD Eibar
+[Sat Jan/25]
+  16.15  Córdoba CF               -  Racing Santander
+  18.30  Deportivo La Coruña      -  Levante UD
          SD Huesca                -  FC Cartagena
+  21.00  CD Tenerife              -  CD Eldense
+[Sun Jan/26]
+  14.00  Granada CF               -  Sporting Gijón
+  16.15  Albacete                 -  UD Almería
          Real Oviedo              -  CD Castellón
-         Elche CF                 -  SD Eibar
-         CD Tenerife              -  CD Eldense
+  18.30  Málaga CF                -  Real Zaragoza
+         Racing Ferrol            -  Burgos CF
+[Mon Jan/27]
+  20.30  Cádiz CF                 -  CD Mirandés
 
 
 Matchday 25
+[Fri Jan/31]
+  20.30  CD Eldense               -  Granada CF
+[Sat Feb/1]
+  14.00  CD Mirandés              -  Elche CF
+  16.15  Sporting Gijón           -  Burgos CF
+  18.30  UD Almería               -  Real Oviedo
+  21.00  Racing Santander         -  Málaga CF
 [Sun Feb/2]
-         UD Almería               -  Real Oviedo
-         FC Cartagena             -  Córdoba CF
-         CD Castellón             -  SD Huesca
-         CD Eldense               -  Granada CF
-         CD Tenerife              -  Albacete
-         Sporting Gijón           -  Burgos CF
+  14.00  CD Castellón             -  SD Huesca
+  16.15  SD Eibar                 -  Deportivo La Coruña
+  18.30  FC Cartagena             -  Córdoba CF
          Real Zaragoza            -  Cádiz CF
-         SD Eibar                 -  Deportivo La Coruña
-         CD Mirandés              -  Elche CF
-         Levante UD               -  Racing Ferrol
-         Racing Santander         -  Málaga CF
+  21.00  CD Tenerife              -  Albacete
+[Mon Feb/3]
+  20.30  Levante UD               -  Racing Ferrol
 
 
 Matchday 26
-[Sun Feb/9]
-         Albacete                 -  Real Zaragoza
-         Burgos CF                -  Racing Santander
-         Cádiz CF                 -  FC Cartagena
-         Córdoba CF               -  SD Huesca
-         Elche CF                 -  CD Tenerife
-         Granada CF               -  CD Mirandés
-         Deportivo La Coruña      -  UD Almería
-         Racing Ferrol            -  CD Castellón
-         Sporting Gijón           -  SD Eibar
-         Real Oviedo              -  CD Eldense
+[Fri Feb/7]
+  20.30  Albacete                 -  Real Zaragoza
+[Sat Feb/8]
+  14.00  Racing Ferrol            -  CD Castellón
+  16.15  Granada CF               -  CD Mirandés
+  18.30  Sporting Gijón           -  SD Eibar
          Málaga CF                -  Levante UD
+[Sun Feb/9]
+  14.00  Elche CF                 -  CD Tenerife
+  16.15  Burgos CF                -  Racing Santander
+         Córdoba CF               -  SD Huesca
+  18.30  Cádiz CF                 -  FC Cartagena
+         Deportivo La Coruña      -  UD Almería
+[Mon Feb/10]
+  20.30  Real Oviedo              -  CD Eldense
 
 
 Matchday 27
