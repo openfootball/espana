@@ -356,15 +356,15 @@ Matchday 20
 [Sat Jan/18]
   14.00  Girona FC                1-2 (1-0)  Sevilla FC
   16.15  CD Leganés               1-0 (0-0)  Club Atlético de Madrid
-  18.30  Real Betis Balompié      -  Deportivo Alavés
-  21.00  Getafe CF                -  FC Barcelona
+  18.30  Real Betis Balompié      1-3 (1-1)  Deportivo Alavés
+  21.00  Getafe CF                1-1 (1-1)  FC Barcelona
 [Sun Jan/19]
-  14.00  RC Celta de Vigo         -  Athletic Club
-  16.15  Real Madrid CF           -  UD Las Palmas
-  18.30  CA Osasuna               -  Rayo Vallecano de Madrid
-  21.00  Valencia CF              -  Real Sociedad de Fútbol
+  14.00  RC Celta de Vigo         1-2 (0-0)  Athletic Club
+  16.15  Real Madrid CF           4-1 (3-1)  UD Las Palmas
+  18.30  CA Osasuna               1-1 (0-1)  Rayo Vallecano de Madrid
+  21.00  Valencia CF              1-0 (1-0)  Real Sociedad de Fútbol
 [Mon Jan/20]
-  21.00  Villarreal CF            -  RCD Mallorca
+  21.00  Villarreal CF            4-0 (4-0)  RCD Mallorca
 
 
 Matchday 21
