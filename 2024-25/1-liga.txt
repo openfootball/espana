@@ -369,19 +369,19 @@ Matchday 20
 
 Matchday 21
 [Fri Jan/24]
-  21.00  UD Las Palmas            -  CA Osasuna
+  21.00  UD Las Palmas            1-1 (0-0)  CA Osasuna
 [Sat Jan/25]
-  14.00  RCD Mallorca             -  Real Betis Balompié
-  16.15  Club Atlético de Madrid  -  Villarreal CF
-  18.30  Sevilla FC               -  RCD Espanyol de Barcelona
-  21.00  Real Valladolid CF       -  Real Madrid CF
+  14.00  RCD Mallorca             0-1 (0-0)  Real Betis Balompié
+  16.15  Club Atlético de Madrid  1-1 (0-1)  Villarreal CF
+  18.30  Sevilla FC               1-1 (0-1)  RCD Espanyol de Barcelona
+  21.00  Real Valladolid CF       0-3 (0-1)  Real Madrid CF
 [Sun Jan/26]
-  14.00  Rayo Vallecano de Madrid  -  Girona FC
-  16.15  Real Sociedad de Fútbol  -  Getafe CF
-  18.30  Athletic Club            -  CD Leganés
-  21.00  FC Barcelona             -  Valencia CF
+  14.00  Rayo Vallecano de Madrid  2-1 (0-0)  Girona FC
+  16.15  Real Sociedad de Fútbol  0-3 (0-0)  Getafe CF
+  18.30  Athletic Club            0-0  CD Leganés
+  21.00  FC Barcelona             7-1 (5-0)  Valencia CF
 [Mon Jan/27]
-  21.00  Deportivo Alavés         -  RC Celta de Vigo
+  21.00  Deportivo Alavés         1-1 (1-0)  RC Celta de Vigo
 
 
 Matchday 22
@@ -402,17 +402,20 @@ Matchday 22
 
 
 Matchday 23
+[Fri Feb/7]
+  21.00  Rayo Vallecano de Madrid  -  Real Valladolid CF
+[Sat Feb/8]
+  14.00  RC Celta de Vigo         -  Real Betis Balompié
+  16.15  Athletic Club            -  Girona FC
+  18.30  UD Las Palmas            -  Villarreal CF
+  21.00  Real Madrid CF           -  Club Atlético de Madrid
 [Sun Feb/9]
-         Athletic Club            -  Girona FC
-         RC Celta de Vigo         -  Real Betis Balompié
-         Deportivo Alavés         -  Getafe CF
-         Sevilla FC               -  FC Barcelona
-         Valencia CF              -  CD Leganés
-         Rayo Vallecano de Madrid  -  Real Valladolid CF
-         RCD Mallorca             -  CA Osasuna
-         Real Madrid CF           -  Club Atlético de Madrid
-         UD Las Palmas            -  Villarreal CF
-         Real Sociedad de Fútbol  -  RCD Espanyol de Barcelona
+  14.00  Deportivo Alavés         -  Getafe CF
+  16.15  Valencia CF              -  CD Leganés
+  18.30  Real Sociedad de Fútbol  -  RCD Espanyol de Barcelona
+  21.00  Sevilla FC               -  FC Barcelona
+[Mon Feb/10]
+  21.00  RCD Mallorca             -  CA Osasuna
 
 
 Matchday 24
