@@ -386,17 +386,17 @@ Matchday 21
 
 Matchday 22
 [Fri Jan/31]
-  21.00  CD Leganés               -  Rayo Vallecano de Madrid
+  21.00  CD Leganés               0-1 (0-0)  Rayo Vallecano de Madrid
 [Sat Feb/1]
-  14.00  Getafe CF                -  Sevilla FC
-  16.15  Villarreal CF            -  Real Valladolid CF
-  18.30  Club Atlético de Madrid  -  RCD Mallorca
-  21.00  RCD Espanyol de Barcelona  -  Real Madrid CF
+  14.00  Getafe CF                0-0  Sevilla FC
+  16.15  Villarreal CF            5-1 (1-0)  Real Valladolid CF
+  18.30  Club Atlético de Madrid  2-0 (1-0)  RCD Mallorca
+  21.00  RCD Espanyol de Barcelona  1-0 (0-0)  Real Madrid CF
 [Sun Feb/2]
-  14.00  FC Barcelona             -  Deportivo Alavés
-  16.15  Valencia CF              -  RC Celta de Vigo
-  18.30  CA Osasuna               -  Real Sociedad de Fútbol
-  21.00  Real Betis Balompié      -  Athletic Club
+  14.00  FC Barcelona             1-0 (0-0)  Deportivo Alavés
+  16.15  Valencia CF              2-1 (1-0)  RC Celta de Vigo
+  18.30  CA Osasuna               2-1 (1-0)  Real Sociedad de Fútbol
+  21.00  Real Betis Balompié      2-2 (2-1)  Athletic Club
 [Mon Feb/3]
   21.00  Girona FC                -  UD Las Palmas
 
@@ -419,31 +419,37 @@ Matchday 23
 
 
 Matchday 24
+[Fri Feb/14]
+  21.00  Girona FC                -  Getafe CF
+[Sat Feb/15]
+  14.00  CD Leganés               -  Deportivo Alavés
+  16.15  CA Osasuna               -  Real Madrid CF
+  18.30  Club Atlético de Madrid  -  RC Celta de Vigo
+  21.00  Villarreal CF            -  Valencia CF
 [Sun Feb/16]
-         Club Atlético de Madrid  -  RC Celta de Vigo
-         Real Betis Balompié      -  Real Sociedad de Fútbol
-         CA Osasuna               -  Real Madrid CF
-         CD Leganés               -  Deportivo Alavés
-         FC Barcelona             -  Rayo Vallecano de Madrid
-         Girona FC                -  Getafe CF
-         Villarreal CF            -  Valencia CF
-         RCD Mallorca             -  UD Las Palmas
-         Real Valladolid CF       -  Sevilla FC
-         RCD Espanyol de Barcelona  -  Athletic Club
+  14.00  RCD Espanyol de Barcelona  -  Athletic Club
+  16.15  Real Valladolid CF       -  Sevilla FC
+  18.30  RCD Mallorca             -  UD Las Palmas
+  21.00  Real Betis Balompié      -  Real Sociedad de Fútbol
+[Mon Feb/17]
+  21.00  FC Barcelona             -  Rayo Vallecano de Madrid
 
 
 Matchday 25
+[Fri Feb/21]
+  21.00  RC Celta de Vigo         -  CA Osasuna
+[Sat Feb/22]
+  14.00  Deportivo Alavés         -  RCD Espanyol de Barcelona
+  16.15  Rayo Vallecano de Madrid  -  Villarreal CF
+  18.30  Valencia CF              -  Club Atlético de Madrid
+  21.00  UD Las Palmas            -  FC Barcelona
 [Sun Feb/23]
-         Athletic Club            -  Real Valladolid CF
-         RC Celta de Vigo         -  CA Osasuna
-         Getafe CF                -  Real Betis Balompié
-         Sevilla FC               -  RCD Mallorca
-         Valencia CF              -  Club Atlético de Madrid
-         Rayo Vallecano de Madrid  -  Villarreal CF
-         Real Madrid CF           -  Girona FC
-         Real Sociedad de Fútbol  -  CD Leganés
-         UD Las Palmas            -  FC Barcelona
-         Deportivo Alavés         -  RCD Espanyol de Barcelona
+  14.00  Athletic Club            -  Real Valladolid CF
+  16.15  Real Madrid CF           -  Girona FC
+  18.30  Getafe CF                -  Real Betis Balompié
+  21.00  Real Sociedad de Fútbol  -  CD Leganés
+[Mon Feb/24]
+  21.00  Sevilla FC               -  RCD Mallorca
 
 
 Matchday 26
