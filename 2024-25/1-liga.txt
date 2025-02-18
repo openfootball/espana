@@ -420,19 +420,19 @@ Matchday 23
 
 Matchday 24
 [Fri Feb/14]
-  21.00  Girona FC                -  Getafe CF
+  21.00  Girona FC                1-2 (0-1)  Getafe CF
 [Sat Feb/15]
-  14.00  CD Leganés               -  Deportivo Alavés
-  16.15  CA Osasuna               -  Real Madrid CF
-  18.30  Club Atlético de Madrid  -  RC Celta de Vigo
-  21.00  Villarreal CF            -  Valencia CF
+  14.00  CD Leganés               3-3 (2-1)  Deportivo Alavés
+  16.15  CA Osasuna               1-1 (0-1)  Real Madrid CF
+  18.30  Club Atlético de Madrid  1-1 (0-0)  RC Celta de Vigo
+  21.00  Villarreal CF            1-1 (1-0)  Valencia CF
 [Sun Feb/16]
-  14.00  RCD Espanyol de Barcelona  -  Athletic Club
-  16.15  Real Valladolid CF       -  Sevilla FC
-  18.30  RCD Mallorca             -  UD Las Palmas
-  21.00  Real Betis Balompié      -  Real Sociedad de Fútbol
+  14.00  RCD Espanyol de Barcelona  1-1 (0-0)  Athletic Club
+  16.15  Real Valladolid CF       0-4 (0-2)  Sevilla FC
+  18.30  RCD Mallorca             3-1 (3-0)  UD Las Palmas
+  21.00  Real Betis Balompié      3-0 (0-0)  Real Sociedad de Fútbol
 [Mon Feb/17]
-  21.00  FC Barcelona             -  Rayo Vallecano de Madrid
+  21.00  FC Barcelona             1-0 (1-0)  Rayo Vallecano de Madrid
 
 
 Matchday 25
