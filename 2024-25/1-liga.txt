@@ -437,24 +437,24 @@ Matchday 24
 
 Matchday 25
 [Fri Feb/21]
-  21.00  RC Celta de Vigo         -  CA Osasuna
+  21.00  RC Celta de Vigo         1-0 (0-0)  CA Osasuna
 [Sat Feb/22]
-  14.00  Deportivo Alavés         -  RCD Espanyol de Barcelona
-  16.15  Rayo Vallecano de Madrid  -  Villarreal CF
-  18.30  Valencia CF              -  Club Atlético de Madrid
-  21.00  UD Las Palmas            -  FC Barcelona
+  14.00  Deportivo Alavés         0-1 (0-0)  RCD Espanyol de Barcelona
+  16.15  Rayo Vallecano de Madrid  0-1 (0-0)  Villarreal CF
+  18.30  Valencia CF              0-3 (0-2)  Club Atlético de Madrid
+  21.00  UD Las Palmas            0-2 (0-0)  FC Barcelona
 [Sun Feb/23]
-  14.00  Athletic Club            -  Real Valladolid CF
-  16.15  Real Madrid CF           -  Girona FC
-  18.30  Getafe CF                -  Real Betis Balompié
-  21.00  Real Sociedad de Fútbol  -  CD Leganés
+  14.00  Athletic Club            7-1 (4-0)  Real Valladolid CF
+  16.15  Real Madrid CF           2-0 (1-0)  Girona FC
+  18.30  Getafe CF                1-2 (0-1)  Real Betis Balompié
+  21.00  Real Sociedad de Fútbol  3-0 (1-0)  CD Leganés
 [Mon Feb/24]
-  21.00  Sevilla FC               -  RCD Mallorca
+  21.00  Sevilla FC               1-1 (1-0)  RCD Mallorca
 
 
 Matchday 26
 [Sun Mar/2]
-         Club Atlético de Madrid  -  Athletic Club
+  01.00  Club Atlético de Madrid  -  Athletic Club
          Real Betis Balompié      -  Real Madrid CF
          CA Osasuna               -  Valencia CF
          CD Leganés               -  Getafe CF
@@ -468,7 +468,7 @@ Matchday 26
 
 Matchday 27
 [Sun Mar/9]
-         Athletic Club            -  RCD Mallorca
+  01.00  Athletic Club            -  RCD Mallorca
          Real Betis Balompié      -  UD Las Palmas
          RC Celta de Vigo         -  CD Leganés
          Deportivo Alavés         -  Villarreal CF
