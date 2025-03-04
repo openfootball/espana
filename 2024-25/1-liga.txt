@@ -453,50 +453,57 @@ Matchday 25
 
 
 Matchday 26
+[Fri Feb/28]
+  21.00  Real Valladolid CF       1-1 (0-1)  UD Las Palmas
+[Sat Mar/1]
+  14.00  Girona FC                2-2 (1-1)  RC Celta de Vigo
+  16.15  Rayo Vallecano de Madrid  1-1 (0-0)  Sevilla FC
+  18.30  Real Betis Balompié      2-1 (1-1)  Real Madrid CF
+  21.00  Club Atlético de Madrid  1-0 (0-0)  Athletic Club
 [Sun Mar/2]
-  01.00  Club Atlético de Madrid  -  Athletic Club
-         Real Betis Balompié      -  Real Madrid CF
-         CA Osasuna               -  Valencia CF
-         CD Leganés               -  Getafe CF
-         FC Barcelona             -  Real Sociedad de Fútbol
-         Girona FC                -  RC Celta de Vigo
-         Rayo Vallecano de Madrid  -  Sevilla FC
-         RCD Mallorca             -  Deportivo Alavés
-         Real Valladolid CF       -  UD Las Palmas
-         Villarreal CF            -  RCD Espanyol de Barcelona
+  14.00  CD Leganés               1-0 (0-0)  Getafe CF
+  16.15  FC Barcelona             4-0 (2-0)  Real Sociedad de Fútbol
+  18.30  RCD Mallorca             1-1 (1-0)  Deportivo Alavés
+  21.00  CA Osasuna               3-3 (3-2)  Valencia CF
+[Mon Mar/3]
+         Villarreal CF            -  RCD Espanyol de Barcelona  [postponed]
 
 
 Matchday 27
+[Sat Mar/8]
+  14.00  RC Celta de Vigo         -  CD Leganés
+  16.15  Deportivo Alavés         -  Villarreal CF
+  18.30  Valencia CF              -  Real Valladolid CF
+  21.00  FC Barcelona             -  CA Osasuna
 [Sun Mar/9]
-  01.00  Athletic Club            -  RCD Mallorca
+  14.00  Getafe CF                -  Club Atlético de Madrid
+  16.15  Real Madrid CF           -  Rayo Vallecano de Madrid
+  18.30  Athletic Club            -  RCD Mallorca
          Real Betis Balompié      -  UD Las Palmas
-         RC Celta de Vigo         -  CD Leganés
-         Deportivo Alavés         -  Villarreal CF
-         FC Barcelona             -  CA Osasuna
-         Getafe CF                -  Club Atlético de Madrid
-         Valencia CF              -  Real Valladolid CF
-         Real Madrid CF           -  Rayo Vallecano de Madrid
-         Real Sociedad de Fútbol  -  Sevilla FC
-         RCD Espanyol de Barcelona  -  Girona FC
+  21.00  Real Sociedad de Fútbol  -  Sevilla FC
+[Mon Mar/10]
+  21.00  RCD Espanyol de Barcelona  -  Girona FC
 
 
 Matchday 28
+[Fri Mar/14]
+  21.00  UD Las Palmas            -  Deportivo Alavés
+[Sat Mar/15]
+  14.00  Real Valladolid CF       -  RC Celta de Vigo
+  16.15  RCD Mallorca             -  RCD Espanyol de Barcelona
+  18.30  Villarreal CF            -  Real Madrid CF
+  21.00  Girona FC                -  Valencia CF
 [Sun Mar/16]
-         Club Atlético de Madrid  -  FC Barcelona
-         CA Osasuna               -  Getafe CF
-         CD Leganés               -  Real Betis Balompié
-         Girona FC                -  Valencia CF
-         Sevilla FC               -  Athletic Club
-         Villarreal CF            -  Real Madrid CF
+  14.00  CD Leganés               -  Real Betis Balompié
+  16.15  Sevilla FC               -  Athletic Club
+  18.30  CA Osasuna               -  Getafe CF
          Rayo Vallecano de Madrid  -  Real Sociedad de Fútbol
-         Real Valladolid CF       -  RC Celta de Vigo
-         UD Las Palmas            -  Deportivo Alavés
-         RCD Mallorca             -  RCD Espanyol de Barcelona
+  21.00  Club Atlético de Madrid  -  FC Barcelona
 
 
 Matchday 29
 [Sun Mar/30]
-         Athletic Club            -  CA Osasuna
+  01.00  Athletic Club            -  CA Osasuna
          Real Betis Balompié      -  Sevilla FC
          RC Celta de Vigo         -  UD Las Palmas
          Deportivo Alavés         -  Rayo Vallecano de Madrid
