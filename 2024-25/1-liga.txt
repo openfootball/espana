@@ -471,16 +471,16 @@ Matchday 26
 
 Matchday 27
 [Sat Mar/8]
-  14.00  RC Celta de Vigo         -  CD Leganés
-  16.15  Deportivo Alavés         -  Villarreal CF
-  18.30  Valencia CF              -  Real Valladolid CF
-  21.00  FC Barcelona             -  CA Osasuna
+         FC Barcelona             -  CA Osasuna               [postponed]
+  14.00  RC Celta de Vigo         2-1 (2-1)  CD Leganés
+  16.15  Deportivo Alavés         1-0 (1-0)  Villarreal CF
+  18.30  Valencia CF              2-1 (1-1)  Real Valladolid CF
 [Sun Mar/9]
-  14.00  Getafe CF                -  Club Atlético de Madrid
-  16.15  Real Madrid CF           -  Rayo Vallecano de Madrid
-  18.30  Athletic Club            -  RCD Mallorca
-         Real Betis Balompié      -  UD Las Palmas
-  21.00  Real Sociedad de Fútbol  -  Sevilla FC
+  14.00  Getafe CF                2-1 (0-0)  Club Atlético de Madrid
+  16.15  Real Madrid CF           2-1 (2-1)  Rayo Vallecano de Madrid
+  18.30  Athletic Club            1-1 (0-0)  RCD Mallorca
+         Real Betis Balompié      1-0 (0-0)  UD Las Palmas
+  21.00  Real Sociedad de Fútbol  0-1 (0-0)  Sevilla FC
 [Mon Mar/10]
   21.00  RCD Espanyol de Barcelona  -  Girona FC
 
@@ -502,17 +502,20 @@ Matchday 28
 
 
 Matchday 29
+[Fri Mar/28]
+  21.00  Athletic Club            -  CA Osasuna
+[Sat Mar/29]
+  14.00  Real Sociedad de Fútbol  -  Real Valladolid CF
+  16.15  RCD Espanyol de Barcelona  -  Club Atlético de Madrid
+  18.30  Deportivo Alavés         -  Rayo Vallecano de Madrid
+  21.00  Real Madrid CF           -  CD Leganés
 [Sun Mar/30]
-  01.00  Athletic Club            -  CA Osasuna
-         Real Betis Balompié      -  Sevilla FC
-         RC Celta de Vigo         -  UD Las Palmas
-         Deportivo Alavés         -  Rayo Vallecano de Madrid
-         FC Barcelona             -  Girona FC
-         Getafe CF                -  Villarreal CF
-         Valencia CF              -  RCD Mallorca
-         Real Madrid CF           -  CD Leganés
-         Real Sociedad de Fútbol  -  Real Valladolid CF
-         RCD Espanyol de Barcelona  -  Club Atlético de Madrid
+  14.00  Getafe CF                -  Villarreal CF
+  16.15  FC Barcelona             -  Girona FC
+  18.30  Valencia CF              -  RCD Mallorca
+  21.00  Real Betis Balompié      -  Sevilla FC
+[Mon Mar/31]
+  21.00  RC Celta de Vigo         -  UD Las Palmas
 
 
 Matchday 30
