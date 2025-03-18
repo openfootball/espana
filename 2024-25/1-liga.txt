@@ -465,13 +465,11 @@ Matchday 26
   16.15  FC Barcelona             4-0 (2-0)  Real Sociedad de Fútbol
   18.30  RCD Mallorca             1-1 (1-0)  Deportivo Alavés
   21.00  CA Osasuna               3-3 (3-2)  Valencia CF
-[Mon Mar/3]
-         Villarreal CF            -  RCD Espanyol de Barcelona  [postponed]
 
 
 Matchday 27
 [Sat Mar/8]
-         FC Barcelona             -  CA Osasuna               [postponed]
+         FC Barcelona             -  CA Osasuna
   14.00  RC Celta de Vigo         2-1 (2-1)  CD Leganés
   16.15  Deportivo Alavés         1-0 (1-0)  Villarreal CF
   18.30  Valencia CF              2-1 (1-1)  Real Valladolid CF
@@ -482,23 +480,23 @@ Matchday 27
          Real Betis Balompié      1-0 (0-0)  UD Las Palmas
   21.00  Real Sociedad de Fútbol  0-1 (0-0)  Sevilla FC
 [Mon Mar/10]
-  21.00  RCD Espanyol de Barcelona  -  Girona FC
+  21.00  RCD Espanyol de Barcelona  1-1 (0-0)  Girona FC
 
 
 Matchday 28
 [Fri Mar/14]
-  21.00  UD Las Palmas            -  Deportivo Alavés
+  21.00  UD Las Palmas            2-2 (0-1)  Deportivo Alavés
 [Sat Mar/15]
-  14.00  Real Valladolid CF       -  RC Celta de Vigo
-  16.15  RCD Mallorca             -  RCD Espanyol de Barcelona
-  18.30  Villarreal CF            -  Real Madrid CF
-  21.00  Girona FC                -  Valencia CF
+  14.00  Real Valladolid CF       0-1 (0-0)  RC Celta de Vigo
+  16.15  RCD Mallorca             2-1 (0-0)  RCD Espanyol de Barcelona
+  18.30  Villarreal CF            1-2 (1-2)  Real Madrid CF
+  21.00  Girona FC                1-1 (0-0)  Valencia CF
 [Sun Mar/16]
-  14.00  CD Leganés               -  Real Betis Balompié
-  16.15  Sevilla FC               -  Athletic Club
-  18.30  CA Osasuna               -  Getafe CF
-         Rayo Vallecano de Madrid  -  Real Sociedad de Fútbol
-  21.00  Club Atlético de Madrid  -  FC Barcelona
+  14.00  CD Leganés               2-3 (2-0)  Real Betis Balompié
+  16.15  Sevilla FC               0-1 (0-0)  Athletic Club
+  18.30  CA Osasuna               1-2 (1-0)  Getafe CF
+         Rayo Vallecano de Madrid  2-2 (0-1)  Real Sociedad de Fútbol
+  21.00  Club Atlético de Madrid  2-4 (1-0)  FC Barcelona
 
 
 Matchday 29
@@ -519,17 +517,25 @@ Matchday 29
 
 
 Matchday 30
+[Fri Apr/4]
+  21.00  Rayo Vallecano de Madrid  -  RCD Espanyol de Barcelona
+[Sat Apr/5]
+  14.00  Girona FC                -  Deportivo Alavés
+  16.15  Real Madrid CF           -  Valencia CF
+  18.30  RCD Mallorca             -  RC Celta de Vigo
+  21.00  FC Barcelona             -  Real Betis Balompié
 [Sun Apr/6]
-         CD Leganés               -  CA Osasuna
-         FC Barcelona             -  Real Betis Balompié
-         Girona FC                -  Deportivo Alavés
-         Sevilla FC               -  Club Atlético de Madrid
-         Villarreal CF            -  Athletic Club
-         RCD Mallorca             -  RC Celta de Vigo
-         Real Madrid CF           -  Valencia CF
-         Real Valladolid CF       -  Getafe CF
-         UD Las Palmas            -  Real Sociedad de Fútbol
-         Rayo Vallecano de Madrid  -  RCD Espanyol de Barcelona
+  14.00  UD Las Palmas            -  Real Sociedad de Fútbol
+  16.15  Sevilla FC               -  Club Atlético de Madrid
+  18.30  Real Valladolid CF       -  Getafe CF
+  21.00  Villarreal CF            -  Athletic Club
+[Mon Apr/7]
+  21.00  CD Leganés               -  CA Osasuna
+
+
+Matchday 26
+[Wed Apr/9]
+         Villarreal CF            -  RCD Espanyol de Barcelona
 
 
 Matchday 31
