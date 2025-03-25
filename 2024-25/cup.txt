@@ -1,20 +1,180 @@
 = Copa del Rey de España 2024/25
 
-# Date       Wed Oct/9 - Wed Oct/9 2024 (0d)
-# Teams      20
-# Matches    10
+# Date       Wed Oct/9 2024 - Wed Apr/2 2025 (175d)
+# Teams      125
+# Matches    125
 
 
 
-Preliminary round
-[Wed Oct/9]
-  21.00  Astur CF                 -  EDF Logroño
-         CD Villamuriel           -  CD Aurrerá de Vitoria
-         San Tirso SD             -  Selaya FC
-         CD Baztán                -  Ontiñena CF
-         UE Vic                   -  CF Sporting Mahonés
-         UD San Pedro             -  Ceuta 6 de Junio
-         EF Dolorense             -  Manises CF
-         Chiclana CF              -  Melilla CD
-         CD Sonseca               -  Parla Escuela
-         CD Gévora                -  Playas de Sotavento
+» Preliminary round
+  Wed Oct/9 2024
+    17.30  San Tirso SD            v Selaya FC                5-3 pen. 1-1 a.e.t. (1-1, 0-1)
+    18.30  CD Sonseca              v Parla Escuela            0-1 a.e.t. (0-0)
+    19.00  Astur CF                v EDF Logroño              2-0 (0-0)
+           CD Baztán               v Ontiñena CF              2-4 pen. 1-1 a.e.t. (1-1, 1-1)
+           UD San Pedro            v Ceuta 6 de Junio         4-2 (2-1)
+    19.30  CD Villamuriel          v CD Aurrerá de Vitoria    1-0 (0-0)
+    20.00  EF Dolorense            v Manises CF               1-3 (0-1)
+    20.30  UE Vic                  v CF Sporting Mahonés      4-0 (2-0)
+           CD Gévora               v Playas de Sotavento      4-2 pen. 1-1 a.e.t. (1-1, 0-1)
+    21.00  Chiclana CF             v Melilla CD               4-0 (2-0)
+
+
+» Round 1
+  Tue Oct/29
+    19.00  CD Villamuriel          v Rayo Vallecano           0-5 (0-2)
+           SD Compostela           v CD Alavés                0-1 (0-1)
+    20.00  CD Guijuelo             v Ourense CF               1-2 (0-0)
+    21.00  Astur CF                v Real Valladolid          1-4 (0-2)
+           UD Poblense             v Villarreal CF            1-6 (0-5)
+           Real Jaén               v Cádiz CF                 0-3 (0-1)
+           CE L'Hospitalet         v Real Zaragoza            1-5 (1-2)
+           UD Lanzarote            v Racing Santander         3-4 (1-2)
+  Wed Oct/30
+    18.30  CE Europa               v Albacete                 2-1 (1-0)
+    19.00  Las Rozas CF            v Sevilla FC               0-3 (0-1)
+           Ciudad de Lucena        v CD Leganés               1-2 (1-1)
+           UE Olot                 v Córdoba CF               4-3 pen. 1-1 a.e.t. (1-1, 0-1)
+           CD Ibiza                v Gimnàstic de Tarragona   1-2 (0-2)
+    19.30  SD Beasain              v FC Cartagena             0-1 (0-0)
+           CD Móstoles URJC        v Burgos CF                2-5 (1-2)
+           Bergantiños FC          v Marbella FC              1-2 (0-2)
+           UP Langreo              v Orihuela CF              1-2 a.e.t. (1-1, 0-0)
+    20.00  CD Cortes               v Granada CF               0-2 (0-1)
+           UE Sant Andreu          v CD Mirandés              2-1 (1-1)
+           CF Badalona Futur       v SD Huesca                0-2 (0-1)
+           UD Logroñés             v SD Eibar                 1-0 a.e.t. (0-0)
+           CD Numancia             v Sporting Gijón           0-1 (0-0)
+           Utebo FC                v Unionistas CF            0-4 (0-4)
+           CD Laredo               v Yeclano Deportivo        0-6 (0-3)
+           Juventud Torremolinos   v Zamora CF                1-2 (1-1)
+           UM Escobedo             v SD Ponferradina          4-5 pen. 0-0 a.e.t. (0-0)
+           Lleida Esportiu         v Barakaldo CF             1-3 (0-1)
+           Salamanca CF UDS        v AD Alcorcón              1-0 (0-0)
+    20.30  CD Coria                v Elche CF                 0-3 (0-2)
+           CP Cacereño             v Gimnástica Segoviana     2-1 a.e.t. (1-1, 1-0)
+           UB Conquense            v UD Ibiza                 1-0 (0-0)
+    21.00  UD San Pedro            v RC Celta                 1-5 (1-3)
+           CD Extremadura          v Girona FC                0-4 (0-1)
+           UD SS Reyes             v UD Almería               1-2 (1-2)
+           Águilas FC              v CD Castellón             0-1 (0-0)
+    21.30  CD Atlético Paso        v CD Eldense               0-1 (0-1)
+  Thu Oct/31
+    19.00  UE Vic                  v Atlético Madrid          0-2 (0-0)
+           San Tirso SD            v Espanyol Barcelona       0-4 (0-0)
+           UD Barbastro            v SD Amorebieta            4-0 (0-0)
+    20.00  Real Ávila CF           v Real Oviedo              3-0 pen. 0-0 a.e.t. (0-0)
+           CD Tudelano             v Deportiva Minera         0-5 (0-2)
+    20.30  Don Benito              v FC Andorra               1-2 (1-1)
+    21.00  CD Gévora               v Real Betis               1-6 (0-3)
+           Ontiñena CF             v UD Las Palmas            0-7 (0-1)
+           CD Cuarte               v Racing Ferrol            1-3 (0-2)
+           CD Estepona             v Málaga CF                3-2 a.e.t. (1-1, 0-1)
+           CD Alfaro               v CD Tenerife              0-2 a.e.t. (0-0)
+           UD Llanera              v Cultural Leonesa         0-2 a.e.t. (0-0)
+  Tue Nov/5
+    19.00  Chiclana CF             v CA Osasuna               0-5 (0-0)
+  Wed Nov/6
+    19.00  Xerez CD                v AD Ceuta FC              0-1 (0-1)
+  Thu Nov/14
+    18.00  SD Ejea                 v Hércules CF              1-0 (0-0)
+  Tue Nov/19
+    20.00  Pontevedra CF           v Levante UD               4-1 (1-0)
+  Thu Nov/21
+    21.00  Jove Español            v Real Sociedad            0-5 (0-4)
+  Tue Nov/26
+    19.00  Parla Escuela           v Valencia CF              0-1 (0-1)
+           Manises CF              v Getafe CF                0-3 (0-3)
+
+
+» Round 2
+  Tue Dec/3
+    19.00  Real Ávila CF           v Real Valladolid          2-4 a.e.t. (2-2, 0-1)
+    20.00  Yeclano Deportivo       v Elche CF                 0-1 (0-0)
+    21.00  Salamanca CF UDS        v RC Celta                 0-7 (0-3)
+           UD Barbastro            v Espanyol Barcelona       2-0 (0-0)
+           Real Zaragoza           v Granada CF               4-5 pen. 2-2 a.e.t. (2-2, 2-2)
+    21.15  CE Europa               v UD Las Palmas            1-2 (0-0)
+  Wed Dec/4
+    19.00  UE Sant Andreu          v Real Betis               1-3 (1-1)
+           Unionistas CF           v Rayo Vallecano           2-3 (2-1)
+           Gimnàstic de Tarragona  v SD Huesca                0-1 (0-0)
+    20.00  Ourense CF              v Deportivo La Coruña      1-0 (0-0)
+           Cultural Leonesa        v UD Almería               1-2 (1-1)
+           Cádiz CF                v CD Eldense               0-1 (0-0)
+    20.30  Racing Santander        v Sporting Gijón           1-0 (0-0)
+    21.00  UD Logroñés             v Girona FC                4-3 pen. 0-0 a.e.t. (0-0)
+           SD Ejea                 v Valencia CF              1-3 (0-0)
+           Pontevedra CF           v Villarreal CF            1-0 (0-0)
+           CD Estepona             v CD Leganés               4-5 pen. 2-2 a.e.t. (2-2, 1-0)
+           Zamora CF               v CD Tenerife              1-3 pen. 0-0 a.e.t. (0-0)
+  Thu Dec/5
+    19.00  CP Cacereño             v Atlético Madrid          1-3 (1-0)
+           Orihuela CF             v Getafe CF                0-3 pen. 0-0 a.e.t. (0-0)
+           AD Ceuta FC             v CA Osasuna               2-3 (1-0)
+    20.00  SD Ponferradina         v CD Castellón             4-3 pen. 1-1 a.e.t. (1-1, 0-1)
+           Barakaldo CF            v Racing Ferrol            1-2 (1-1)
+           Marbella FC             v Burgos CF                1-0 (0-0)
+           FC Andorra              v FC Cartagena             0-1 (0-1)
+    21.00  UE Olot                 v Sevilla FC               1-3 (0-1)
+           Deportiva Minera        v CD Alavés                4-2 pen. 2-2 a.e.t. (1-1, 1-0)
+           UB Conquense            v Real Sociedad            0-1 a.e.t. (0-0)
+
+
+» Round 3
+  Fri Jan/3 2025
+    19.00  Pontevedra CF           v RCD Mallorca             3-0 (1-0)
+           Granada CF              v Getafe CF                0-1 a.e.t. (0-0)
+           Racing Ferrol           v Rayo Vallecano           1-3 (0-2)
+  Sat Jan/4
+    15.30  SD Huesca               v Real Betis               0-1 (0-1)
+    16.30  CD Tenerife             v CA Osasuna               1-2 (1-2)
+    17.30  UD Almería              v Sevilla FC               4-1 (0-1)
+    19.00  UD Barbastro            v FC Barcelona             0-4 (0-2)
+    21.30  UD Logroñés             v Athletic Club            3-4 pen. 0-0 a.e.t. (0-0)
+           Marbella FC             v Atlético Madrid          0-1 (0-1)
+  Sun Jan/5
+    12.00  Ourense CF              v Real Valladolid          3-2 (2-2)
+           Elche CF                v UD Las Palmas            4-0 (1-0)
+    15.30  SD Ponferradina         v Real Sociedad            0-2 (0-0)
+           Racing Santander        v RC Celta                 2-3 (1-1)
+           FC Cartagena            v CD Leganés               1-2 (1-1)
+  Mon Jan/6
+    19.00  Deportiva Minera        v Real Madrid              0-5 (0-3)
+  Tue Jan/7
+    21.00  CD Eldense              v Valencia CF              0-2 (0-2)
+
+
+» Round of 16
+  Tue Jan/14
+    21.00  Ourense CF              v Valencia CF              0-2 (0-0)
+  Wed Jan/15
+    19.30  Pontevedra CF           v Getafe CF                0-1 (0-1)
+           UD Almería              v CD Leganés               2-3 (1-1)
+    21.00  FC Barcelona            v Real Betis               5-1 (2-0)
+    21.30  Elche CF                v Atlético Madrid          0-4 (0-2)
+  Thu Jan/16
+    19.30  Real Sociedad           v Rayo Vallecano           3-1 (2-1)
+           Athletic Club           v CA Osasuna               2-3 (1-2)
+    21.30  Real Madrid             v RC Celta                 5-2 a.e.t. (2-2, 1-0)
+
+
+» Quarterfinals
+  Tue Feb/4
+    21.30  Atlético Madrid         v Getafe CF                5-0 (3-0)
+  Wed Feb/5
+    21.00  CD Leganés              v Real Madrid              2-3 (1-2)
+  Thu Feb/6
+    19.30  Real Sociedad           v CA Osasuna               2-0 (2-0)
+    21.30  Valencia CF             v FC Barcelona             0-5 (0-4)
+
+
+» Semifinals
+  Tue Feb/25
+    21.30  FC Barcelona            v Atlético Madrid          4-4 (3-2)
+  Wed Feb/26
+    21.30  Real Sociedad           v Real Madrid              0-1 (0-1)
+  Tue Apr/1
+    21.30  Real Madrid             v Real Sociedad
+  Wed Apr/2
+    21.30  Atlético Madrid         v FC Barcelona
