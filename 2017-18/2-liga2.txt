@@ -1,0 +1,734 @@
+= Segunda División de España 2017/18
+
+# Date       Fri Aug/18 2017 - Sat Jun/2 2018 (288d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Fri Aug/18 2017
+    20.00  Lorca FC                v Cultural Leonesa         2-0 (1-0)
+    22.00  CD Tenerife             v Real Zaragoza            1-0 (0-0)
+  Sat Aug/19
+    19.00  AD Alcorcón             v Sporting Gijón           0-0
+           CA Osasuna              v Sevilla Atlético         1-1 (0-0)
+    20.30  Córdoba CF              v Cádiz CF                 1-2 (0-2)
+           CD Numancia             v SD Huesca                1-0 (0-0)
+    22.00  Real Valladolid         v FC Barcelona B           1-2 (0-2)
+  Sun Aug/20
+    19.00  Real Oviedo             v Rayo Vallecano           2-3 (1-2)
+    20.30  Gimnàstic de Tarragona  v UD Almería               0-1 (0-1)
+    22.00  Granada CF              v Albacete                 0-0
+  Mon Aug/21
+    20.00  CD Lugo                 v CF Reus Deportiu         0-0
+
+
+» Matchday 2
+  Fri Aug/25
+    20.00  Albacete                v Córdoba CF               0-3 (0-1)
+  Sat Aug/26
+    19.00  SD Huesca               v Lorca FC                 2-0 (2-0)
+           Cultural Leonesa        v CA Osasuna               2-1 (0-1)
+    20.30  Rayo Vallecano          v CD Numancia              2-2 (2-0)
+           Sevilla Atlético        v Real Valladolid          1-2 (0-2)
+    22.00  UD Almería              v Real Oviedo              1-1 (0-0)
+  Sun Aug/27
+    19.00  Sporting Gijón          v CD Lugo                  2-0 (0-0)
+           Real Zaragoza           v Granada CF               1-1 (0-1)
+    20.30  Cádiz CF                v AD Alcorcón              0-0
+           CF Reus Deportiu        v Gimnàstic de Tarragona   1-1 (1-0)
+  Mon Aug/28
+    21.00  FC Barcelona B          v CD Tenerife              0-3 (0-2)
+
+
+» Matchday 3
+  Fri Sep/1
+    21.30  Granada CF              v FC Barcelona B           2-2 (1-1)
+  Sat Sep/2
+    16.00  CD Lugo                 v Cádiz CF                 0-1 (0-0)
+           CD Numancia             v UD Almería               1-0 (0-0)
+    18.00  Gimnàstic de Tarragona  v Sporting Gijón           0-4 (0-3)
+           Lorca FC                v Rayo Vallecano           0-0
+           CA Osasuna              v SD Huesca                1-1 (0-0)
+  Sun Sep/3
+    18.00  Real Oviedo             v CF Reus Deportiu         3-0 (1-0)
+    20.00  Sevilla Atlético        v Cultural Leonesa         1-2 (0-0)
+    20.30  Real Valladolid         v CD Tenerife              2-0 (1-0)
+    21.30  Córdoba CF              v Real Zaragoza            1-2 (1-1)
+  Mon Sep/4
+    20.30  AD Alcorcón             v Albacete                 1-0 (0-0)
+
+
+» Matchday 4
+  Fri Sep/8
+    21.00  Cádiz CF                v Gimnàstic de Tarragona   2-0 (0-0)
+  Sat Sep/9
+    16.00  SD Huesca               v Sevilla Atlético         0-0
+    18.00  FC Barcelona B          v Córdoba CF               4-0 (3-0)
+           Sporting Gijón          v Real Oviedo              1-1 (1-0)
+    20.00  UD Almería              v Lorca FC                 2-1 (0-0)
+  Sun Sep/10
+    13.00  CD Tenerife             v Granada CF               2-2 (0-1)
+    16.00  Real Zaragoza           v AD Alcorcón              0-1 (0-1)
+    18.00  Cultural Leonesa        v Real Valladolid          4-4 (1-1)
+    20.00  Albacete                v CD Lugo                  0-1 (0-0)
+    20.30  Rayo Vallecano          v CA Osasuna               0-3 (0-1)
+  Mon Sep/11
+    20.30  CF Reus Deportiu        v CD Numancia              1-0 (1-0)
+
+
+» Matchday 5
+  Fri Sep/15
+    21.00  CD Lugo                 v Real Zaragoza            2-1 (0-1)
+  Sat Sep/16
+    16.00  Real Valladolid         v Granada CF               2-1 (1-0)
+    18.00  Lorca FC                v CF Reus Deportiu         1-1 (1-0)
+           Sevilla Atlético        v Rayo Vallecano           0-0
+    20.00  CA Osasuna              v UD Almería               2-1 (0-1)
+    20.30  CD Numancia             v Sporting Gijón           3-0 (2-0)
+  Sun Sep/17
+    12.00  Cultural Leonesa        v SD Huesca                3-2 (2-1)
+    16.00  AD Alcorcón             v FC Barcelona B           1-1 (0-0)
+    18.00  Gimnàstic de Tarragona  v Albacete                 3-1 (2-1)
+           Real Oviedo             v Cádiz CF                 1-0 (0-0)
+    20.00  Córdoba CF              v CD Tenerife              2-0 (0-0)
+
+
+» Matchday 6
+  Fri Sep/22
+    21.00  UD Almería              v Sevilla Atlético         3-0 (1-0)
+  Sat Sep/23
+    16.00  CF Reus Deportiu        v CA Osasuna               0-0
+    18.00  Sporting Gijón          v Lorca FC                 1-0 (1-0)
+           Granada CF              v Córdoba CF               3-1 (1-0)
+    20.00  CD Tenerife             v AD Alcorcón              4-0 (2-0)
+  Sun Sep/24
+    12.00  SD Huesca               v Real Valladolid          1-0 (1-0)
+    16.00  Rayo Vallecano          v Cultural Leonesa         3-1 (1-1)
+    18.00  Albacete                v Real Oviedo              2-1 (0-0)
+    20.00  Cádiz CF                v CD Numancia              0-0
+    20.30  Real Zaragoza           v Gimnàstic de Tarragona   1-1 (1-0)
+  Mon Sep/25
+    20.30  FC Barcelona B          v CD Lugo                  1-2 (1-1)
+
+
+» Matchday 7
+  Fri Sep/29
+    20.30  Cultural Leonesa        v UD Almería               0-0
+  Sat Sep/30
+    16.00  Real Valladolid         v Córdoba CF               4-1 (3-0)
+    18.00  CD Numancia             v Albacete                 5-1 (1-1)
+    20.00  Lorca FC                v Cádiz CF                 3-0 (1-0)
+  Sun Oct/1
+    12.00  AD Alcorcón             v Granada CF               1-2 (1-1)
+    16.00  SD Huesca               v Rayo Vallecano           2-1 (1-1)
+    18.00  CA Osasuna              v Sporting Gijón           2-0 (1-0)
+           CD Lugo                 v CD Tenerife              1-0 (0-0)
+    20.00  Sevilla Atlético        v CF Reus Deportiu         0-1 (0-1)
+  Mon Oct/2
+    21.00  Real Oviedo             v Real Zaragoza            2-2 (2-2)
+  Wed Nov/1
+    18.00  Gimnàstic de Tarragona  v FC Barcelona B           0-0
+
+
+» Matchday 8
+  Sat Oct/7
+    16.00  Sporting Gijón          v Sevilla Atlético         3-0 (1-0)
+    18.00  UD Almería              v SD Huesca                0-3 (0-2)
+           CF Reus Deportiu        v Cultural Leonesa         1-1 (1-1)
+    20.00  CD Tenerife             v Gimnàstic de Tarragona   2-0 (0-0)
+    20.30  Cádiz CF                v CA Osasuna               0-2 (0-0)
+  Sun Oct/8
+    12.00  Albacete                v Lorca FC                 2-1 (1-0)
+    16.00  Rayo Vallecano          v Real Valladolid          4-1 (3-0)
+    18.00  FC Barcelona B          v Real Oviedo              1-1 (1-0)
+           Córdoba CF              v AD Alcorcón              3-0 (0-0)
+    20.00  Granada CF              v CD Lugo                  2-0 (1-0)
+    20.30  Real Zaragoza           v CD Numancia              3-0 (1-0)
+
+
+» Matchday 9
+  Tue Oct/10
+    20.00  SD Huesca               v CF Reus Deportiu         1-1 (0-0)
+    21.00  Cultural Leonesa        v Sporting Gijón           0-2 (0-0)
+  Wed Oct/11
+    20.00  Gimnàstic de Tarragona  v Granada CF               2-0 (2-0)
+           CD Numancia             v FC Barcelona B           1-0 (0-0)
+    21.00  Real Oviedo             v CD Tenerife              1-1 (1-0)
+    22.00  Lorca FC                v Real Zaragoza            0-2 (0-0)
+           Sevilla Atlético        v Cádiz CF                 0-0
+  Thu Oct/12
+    16.00  CD Lugo                 v Córdoba CF               2-0 (0-0)
+    18.00  Real Valladolid         v AD Alcorcón              4-0 (1-0)
+    20.00  CA Osasuna              v Albacete                 1-0 (1-0)
+    21.00  Rayo Vallecano          v UD Almería               1-0 (0-0)
+
+
+» Matchday 10
+  Fri Oct/13
+    21.00  Sporting Gijón          v SD Huesca                1-1 (0-0)
+  Sat Oct/14
+    16.00  Cádiz CF                v Cultural Leonesa         2-2 (2-0)
+    18.00  Granada CF              v Real Oviedo              2-0 (1-0)
+           FC Barcelona B          v Lorca FC                 1-0 (0-0)
+    20.00  CD Tenerife             v CD Numancia              1-1 (1-1)
+  Sun Oct/15
+    12.00  CF Reus Deportiu        v Rayo Vallecano           0-2 (0-1)
+    16.00  Albacete                v Sevilla Atlético         2-1 (2-0)
+    18.00  UD Almería              v Real Valladolid          1-1 (1-1)
+    20.00  Córdoba CF              v Gimnàstic de Tarragona   1-5 (1-2)
+    20.30  Real Zaragoza           v CA Osasuna               1-1 (1-0)
+  Mon Oct/16
+    21.00  AD Alcorcón             v CD Lugo                  0-1 (0-0)
+
+
+» Matchday 11
+  Fri Oct/20
+    21.00  CA Osasuna              v FC Barcelona B           2-2 (1-2)
+  Sat Oct/21
+    16.00  SD Huesca               v Cádiz CF                 1-0 (1-0)
+    18.00  CD Numancia             v Granada CF               1-3 (0-2)
+    20.00  Lorca FC                v CD Tenerife              2-2 (2-1)
+    20.30  Sevilla Atlético        v Real Zaragoza            2-2 (1-1)
+  Sun Oct/22
+    12.00  Real Oviedo             v Córdoba CF               2-0 (0-0)
+    16.00  Real Valladolid         v CD Lugo                  2-2 (0-2)
+    18.00  Rayo Vallecano          v Sporting Gijón           1-1 (1-1)
+           Gimnàstic de Tarragona  v AD Alcorcón              0-3 (0-2)
+    20.00  UD Almería              v CF Reus Deportiu         0-1 (0-1)
+  Mon Oct/23
+    20.30  Cultural Leonesa        v Albacete                 0-0
+
+
+» Matchday 12
+  Fri Oct/27
+    21.00  Real Zaragoza           v Cultural Leonesa         0-0
+  Sat Oct/28
+    16.00  CD Lugo                 v Gimnàstic de Tarragona   1-0 (1-0)
+    18.00  Albacete                v SD Huesca                0-0
+           Cádiz CF                v Rayo Vallecano           0-0
+    20.00  Sporting Gijón          v UD Almería               2-0 (2-0)
+  Sun Oct/29
+    12.00  FC Barcelona B          v Sevilla Atlético         1-1 (1-0)
+    16.00  Córdoba CF              v CD Numancia              1-1 (1-1)
+    18.00  AD Alcorcón             v Real Oviedo              2-0 (1-0)
+    20.00  CF Reus Deportiu        v Real Valladolid          2-2 (1-1)
+    20.30  CD Tenerife             v CA Osasuna               0-0
+  Mon Oct/30
+    20.30  Granada CF              v Lorca FC                 4-1 (2-0)
+
+
+» Matchday 13
+  Fri Nov/3
+    20.30  CD Numancia             v AD Alcorcón              1-0 (0-0)
+  Sat Nov/4
+    16.00  Rayo Vallecano          v Albacete                 1-1 (0-0)
+    18.00  Sevilla Atlético        v CD Tenerife              1-1 (0-1)
+    20.00  Lorca FC                v Córdoba CF               1-0 (0-0)
+    20.30  CF Reus Deportiu        v Sporting Gijón           1-0 (0-0)
+  Sun Nov/5
+    12.00  Real Oviedo             v CD Lugo                  3-2 (0-1)
+    16.00  Cultural Leonesa        v FC Barcelona B           1-1 (0-1)
+    18.00  CA Osasuna              v Granada CF               0-0
+           Real Valladolid         v Gimnàstic de Tarragona   0-3 (0-1)
+    20.00  UD Almería              v Cádiz CF                 0-2 (0-1)
+  Mon Nov/6
+    21.00  SD Huesca               v Real Zaragoza            3-1 (1-0)
+
+
+» Matchday 14
+  Fri Nov/10
+    21.00  Córdoba CF              v CA Osasuna               0-1 (0-0)
+  Sat Nov/11
+    13.00  AD Alcorcón             v Lorca FC                 1-1 (1-0)
+    16.00  Albacete                v UD Almería               2-0 (1-0)
+    18.00  CD Tenerife             v Cultural Leonesa         2-0 (2-0)
+           Real Zaragoza           v Rayo Vallecano           3-2 (2-0)
+    19.30  FC Barcelona B          v SD Huesca                0-2 (0-0)
+  Sun Nov/12
+    12.00  Granada CF              v Sevilla Atlético         1-2 (0-1)
+    16.00  Gimnàstic de Tarragona  v Real Oviedo              1-2 (1-0)
+    18.00  CD Lugo                 v CD Numancia              0-1 (0-1)
+    20.30  Sporting Gijón          v Real Valladolid          1-1 (1-0)
+  Mon Nov/13
+    21.00  Cádiz CF                v CF Reus Deportiu         1-0 (1-0)
+
+
+» Matchday 15
+  Fri Nov/17
+    21.00  UD Almería              v Real Zaragoza            3-0 (1-0)
+  Sat Nov/18
+    16.00  SD Huesca               v CD Tenerife              3-0 (2-0)
+    18.00  Lorca FC                v CD Lugo                  1-2 (1-1)
+           Real Valladolid         v Real Oviedo              3-1 (1-0)
+    20.00  CF Reus Deportiu        v Albacete                 1-1 (0-1)
+  Sun Nov/19
+    12.00  CD Numancia             v Gimnàstic de Tarragona   1-2 (1-1)
+    16.00  Rayo Vallecano          v FC Barcelona B           1-0 (0-0)
+    18.00  Sevilla Atlético        v Córdoba CF               1-1 (0-0)
+           CA Osasuna              v AD Alcorcón              2-3 (1-0)
+    20.00  Cultural Leonesa        v Granada CF               1-1 (1-0)
+    20.30  Sporting Gijón          v Cádiz CF                 0-3 (0-1)
+
+
+» Matchday 16
+  Fri Nov/24
+    21.00  CD Tenerife             v Rayo Vallecano           2-2 (0-1)
+  Sat Nov/25
+    16.00  Cádiz CF                v Real Valladolid          1-0 (1-0)
+    18.00  Real Oviedo             v CD Numancia              3-1 (1-1)
+           Gimnàstic de Tarragona  v Lorca FC                 0-2 (0-0)
+    20.00  AD Alcorcón             v Sevilla Atlético         0-0
+    20.30  Real Zaragoza           v CF Reus Deportiu         0-0
+  Sun Nov/26
+    12.00  FC Barcelona B          v UD Almería               1-1 (0-0)
+    16.00  Granada CF              v SD Huesca                2-0 (2-0)
+    18.00  Córdoba CF              v Cultural Leonesa         2-2 (2-0)
+           CD Lugo                 v CA Osasuna               1-0 (0-0)
+    20.00  Albacete                v Sporting Gijón           2-2 (1-0)
+
+
+» Matchday 17
+  Sat Dec/2
+    16.00  SD Huesca               v Córdoba CF               3-1 (2-0)
+    18.00  Rayo Vallecano          v Granada CF               1-0 (0-0)
+           CF Reus Deportiu        v FC Barcelona B           2-1 (1-1)
+    20.00  Lorca FC                v Real Oviedo              0-2 (0-2)
+  Sun Dec/3
+    12.00  Cultural Leonesa        v AD Alcorcón              2-2 (1-1)
+    16.00  Real Valladolid         v CD Numancia              2-3 (2-0)
+    18.00  Sevilla Atlético        v CD Lugo                  1-1 (1-0)
+           Cádiz CF                v Albacete                 2-0 (1-0)
+    20.00  UD Almería              v CD Tenerife              2-1 (1-0)
+    20.30  Sporting Gijón          v Real Zaragoza            0-1 (0-0)
+  Thu Jan/18 2018
+    19.00  CA Osasuna              v Gimnàstic de Tarragona   0-2 (0-1)
+
+
+» Matchday 18
+  Fri Dec/8 2017
+    18.00  Granada CF              v UD Almería               3-2 (1-0)
+    21.00  FC Barcelona B          v Sporting Gijón           2-1 (2-0)
+  Sat Dec/9
+    16.00  Albacete                v Real Valladolid          2-1 (1-0)
+    18.00  AD Alcorcón             v SD Huesca                1-1 (1-1)
+    20.00  CD Numancia             v Lorca FC                 1-0 (1-0)
+    20.30  Real Zaragoza           v Cádiz CF                 0-2 (0-0)
+  Sun Dec/10
+    12.00  Córdoba CF              v Rayo Vallecano           2-2 (2-0)
+    16.00  CD Lugo                 v Cultural Leonesa         3-1 (0-0)
+    18.00  Gimnàstic de Tarragona  v Sevilla Atlético         2-1 (2-0)
+           Real Oviedo             v CA Osasuna               1-0 (1-0)
+    20.00  CD Tenerife             v CF Reus Deportiu         3-0 (1-0)
+
+
+» Matchday 19
+  Fri Dec/15
+    21.00  Cádiz CF                v FC Barcelona B           3-1 (0-0)
+  Sat Dec/16
+    16.00  CA Osasuna              v CD Numancia              2-2 (2-1)
+    18.00  CF Reus Deportiu        v Granada CF               0-0
+           Real Valladolid         v Lorca FC                 3-0 (1-0)
+    20.00  UD Almería              v Córdoba CF               1-0 (0-0)
+    20.30  Albacete                v Real Zaragoza            0-0
+  Sun Dec/17
+    12.00  Sevilla Atlético        v Real Oviedo              0-1 (0-1)
+    16.00  SD Huesca               v CD Lugo                  3-0 (2-0)
+    18.00  Sporting Gijón          v CD Tenerife              3-0 (2-0)
+           Cultural Leonesa        v Gimnàstic de Tarragona   2-0 (0-0)
+    20.00  Rayo Vallecano          v AD Alcorcón              2-1 (0-0)
+
+
+» Matchday 20
+  Tue Dec/19
+    20.00  FC Barcelona B          v Albacete                 0-1 (0-1)
+    21.00  Real Valladolid         v Real Zaragoza            3-2 (3-1)
+  Wed Dec/20
+    20.00  Lorca FC                v CA Osasuna               0-1 (0-1)
+    21.00  Granada CF              v Sporting Gijón           2-1 (0-0)
+           Córdoba CF              v CF Reus Deportiu         5-0 (2-0)
+  Thu Dec/21
+    20.00  CD Numancia             v Sevilla Atlético         3-0 (0-0)
+    21.00  CD Tenerife             v Cádiz CF                 1-1 (0-1)
+  Fri Dec/22
+    20.00  CD Lugo                 v Rayo Vallecano           1-2 (0-1)
+    21.00  AD Alcorcón             v UD Almería               2-0 (1-0)
+  Sat Dec/23
+    16.00  Gimnàstic de Tarragona  v SD Huesca                1-2 (0-1)
+    18.00  Real Oviedo             v Cultural Leonesa         3-0 (1-0)
+
+
+» Matchday 21
+  Sat Jan/6 2018
+    16.00  Sporting Gijón          v Córdoba CF               3-2 (2-0)
+    18.00  Rayo Vallecano          v Gimnàstic de Tarragona   2-3 (1-2)
+           Cádiz CF                v Granada CF               1-0 (1-0)
+    20.00  CF Reus Deportiu        v AD Alcorcón              1-1 (0-1)
+    20.30  Real Zaragoza           v FC Barcelona B           1-1 (0-0)
+  Sun Jan/7
+    12.00  Sevilla Atlético        v Lorca FC                 3-2 (2-2)
+           CA Osasuna              v Real Valladolid          4-2 (1-2)
+    16.00  Albacete                v CD Tenerife              1-2 (0-0)
+    18.00  SD Huesca               v Real Oviedo              1-1 (1-0)
+           Cultural Leonesa        v CD Numancia              2-2 (0-0)
+    20.00  UD Almería              v CD Lugo                  1-0 (0-0)
+
+
+» Matchday 22
+  Fri Jan/12
+    21.00  Rayo Vallecano          v Real Oviedo              2-2 (1-1)
+  Sat Jan/13
+    16.00  FC Barcelona B          v Real Valladolid          0-1 (0-0)
+    18.00  Sporting Gijón          v AD Alcorcón              3-0 (1-0)
+           UD Almería              v Gimnàstic de Tarragona   1-1 (0-0)
+    20.00  CF Reus Deportiu        v CD Lugo                  0-1 (0-1)
+    20.30  Real Zaragoza           v CD Tenerife              1-0 (1-0)
+  Sun Jan/14
+    12.00  SD Huesca               v CD Numancia              2-1 (0-0)
+    16.00  Cádiz CF                v Córdoba CF               2-0 (1-0)
+    18.00  Cultural Leonesa        v Lorca FC                 2-1 (0-0)
+           Albacete                v Granada CF               2-1 (1-0)
+    20.00  Sevilla Atlético        v CA Osasuna               0-1 (0-0)
+
+
+» Matchday 23
+  Fri Jan/19
+    21.00  Granada CF              v Real Zaragoza            2-1 (2-1)
+  Sat Jan/20
+    16.00  Real Valladolid         v Sevilla Atlético         1-0 (0-0)
+    18.00  Real Oviedo             v UD Almería               2-1 (0-0)
+           Córdoba CF              v Albacete                 1-0 (0-0)
+    20.00  Lorca FC                v SD Huesca                2-3 (2-1)
+    20.30  CD Lugo                 v Sporting Gijón           3-1 (1-0)
+  Sun Jan/21
+    12.00  AD Alcorcón             v Cádiz CF                 1-0 (1-0)
+    16.00  CA Osasuna              v Cultural Leonesa         2-1 (1-0)
+    18.00  Gimnàstic de Tarragona  v CF Reus Deportiu         1-2 (0-1)
+           CD Numancia             v Rayo Vallecano           0-0
+    20.00  CD Tenerife             v FC Barcelona B           1-3 (0-3)
+
+
+» Matchday 24
+  Fri Jan/26
+    21.00  Real Zaragoza           v Córdoba CF               1-0 (1-0)
+  Sat Jan/27
+    16.00  FC Barcelona B          v Granada CF               3-0 (1-0)
+    18.00  CF Reus Deportiu        v Real Oviedo              0-0
+           Rayo Vallecano          v Lorca FC                 5-1 (2-0)
+    20.00  Albacete                v AD Alcorcón              2-0 (1-0)
+    20.30  Cádiz CF                v CD Lugo                  1-1 (0-0)
+  Sun Jan/28
+    12.00  Cultural Leonesa        v Sevilla Atlético         2-1 (0-1)
+    16.00  Sporting Gijón          v Gimnàstic de Tarragona   2-0 (1-0)
+    18.00  UD Almería              v CD Numancia              0-0
+           SD Huesca               v CA Osasuna               1-0 (1-0)
+    20.00  CD Tenerife             v Real Valladolid          0-0
+
+
+» Matchday 25
+  Fri Feb/2
+    21.00  CA Osasuna              v Rayo Vallecano           1-1 (0-1)
+  Sat Feb/3
+    16.00  Gimnàstic de Tarragona  v Cádiz CF                 0-0
+    18.00  Real Valladolid         v Cultural Leonesa         3-2 (2-2)
+           AD Alcorcón             v Real Zaragoza            1-1 (1-1)
+    20.00  Lorca FC                v UD Almería               1-2 (1-0)
+    20.30  Granada CF              v CD Tenerife              2-1 (2-0)
+  Sun Feb/4
+    12.00  CD Lugo                 v Albacete                 1-1 (0-0)
+    16.00  Sevilla Atlético        v SD Huesca                0-1 (0-0)
+    18.00  CD Numancia             v CF Reus Deportiu         1-0 (0-0)
+           Real Oviedo             v Sporting Gijón           2-1 (1-1)
+    20.00  Córdoba CF              v FC Barcelona B           1-2 (1-0)
+
+
+» Matchday 26
+  Fri Feb/9
+    21.00  Granada CF              v Real Valladolid          1-0 (1-0)
+  Sat Feb/10
+    16.00  Sporting Gijón          v CD Numancia              2-0 (0-0)
+    18.00  FC Barcelona B          v AD Alcorcón              0-1 (0-0)
+           Cádiz CF                v Real Oviedo              2-1 (0-0)
+    20.00  UD Almería              v CA Osasuna               0-1 (0-0)
+  Sun Feb/11
+    12.00  Albacete                v Gimnàstic de Tarragona   0-1 (0-1)
+    16.00  SD Huesca               v Cultural Leonesa         1-0 (0-0)
+    18.00  CF Reus Deportiu        v Lorca FC                 3-0 (0-0)
+           Rayo Vallecano          v Sevilla Atlético         2-0 (0-0)
+    20.00  CD Tenerife             v Córdoba CF               5-1 (2-1)
+    20.30  Real Zaragoza           v CD Lugo                  2-0 (1-0)
+
+
+» Matchday 27
+  Fri Feb/16
+    21.00  Real Valladolid         v SD Huesca                3-2 (2-0)
+  Sat Feb/17
+    16.00  CA Osasuna              v CF Reus Deportiu         0-0
+    18.00  Real Oviedo             v Albacete                 0-0
+           AD Alcorcón             v CD Tenerife              1-1 (1-1)
+    20.00  Lorca FC                v Sporting Gijón           0-0
+    20.30  Gimnàstic de Tarragona  v Real Zaragoza            0-2 (0-1)
+  Sun Feb/18
+    12.00  Sevilla Atlético        v UD Almería               0-3 (0-1)
+    16.00  Córdoba CF              v Granada CF               1-2 (1-0)
+    18.00  CD Numancia             v Cádiz CF                 1-0 (0-0)
+           Cultural Leonesa        v Rayo Vallecano           2-3 (0-2)
+    20.00  CD Lugo                 v FC Barcelona B           1-2 (1-0)
+
+
+» Matchday 28
+  Fri Feb/23
+    21.00  Sporting Gijón          v CA Osasuna               2-0 (1-0)
+  Sat Feb/24
+    16.00  FC Barcelona B          v Gimnàstic de Tarragona   1-1 (0-0)
+    18.00  UD Almería              v Cultural Leonesa         2-1 (2-0)
+           Rayo Vallecano          v SD Huesca                3-0 (3-0)
+    20.00  Cádiz CF                v Lorca FC                 0-0
+  Sun Feb/25
+    12.00  Córdoba CF              v Real Valladolid          2-1 (0-1)
+    16.00  Real Zaragoza           v Real Oviedo              2-1 (0-0)
+    18.00  Albacete                v CD Numancia              1-0 (1-0)
+           CF Reus Deportiu        v Sevilla Atlético         2-0 (0-0)
+           Granada CF              v AD Alcorcón              2-0 (0-0)
+  Mon Feb/26
+    20.00  CD Tenerife             v CD Lugo                  3-1 (2-1)
+
+
+» Matchday 29
+  Fri Mar/2
+    21.00  Real Oviedo             v FC Barcelona B           0-0
+  Sat Mar/3
+    16.00  CD Numancia             v Real Zaragoza            1-2 (1-1)
+    18.00  CA Osasuna              v Cádiz CF                 1-0 (1-0)
+           Cultural Leonesa        v CF Reus Deportiu         2-0 (2-0)
+    20.00  CD Lugo                 v Granada CF               2-1 (1-1)
+  Sun Mar/4
+    12.00  Lorca FC                v Albacete                 1-2 (1-0)
+    16.00  Gimnàstic de Tarragona  v CD Tenerife              1-2 (1-2)
+    18.00  Sevilla Atlético        v Sporting Gijón           0-1 (0-1)
+           AD Alcorcón             v Córdoba CF               1-2 (1-1)
+           Real Valladolid         v Rayo Vallecano           1-1 (0-0)
+    20.00  SD Huesca               v UD Almería               2-2 (1-1)
+
+
+» Matchday 30
+  Fri Mar/9
+    21.00  CD Tenerife             v Real Oviedo              3-1 (2-0)
+  Sat Mar/10
+    16.00  Granada CF              v Gimnàstic de Tarragona   0-1 (0-1)
+    18.00  AD Alcorcón             v Real Valladolid          0-0
+           UD Almería              v Rayo Vallecano           0-1 (0-1)
+    20.00  Cádiz CF                v Sevilla Atlético         4-1 (2-0)
+  Sun Mar/11
+    12.00  Real Zaragoza           v Lorca FC                 3-1 (2-0)
+    16.00  FC Barcelona B          v CD Numancia              2-2 (1-0)
+    18.00  Albacete                v CA Osasuna               0-0
+           Córdoba CF              v CD Lugo                  1-0 (0-0)
+           Sporting Gijón          v Cultural Leonesa         4-0 (1-0)
+    20.00  CF Reus Deportiu        v SD Huesca                0-0
+
+
+» Matchday 31
+  Fri Mar/16
+    21.00  Sevilla Atlético        v Albacete                 1-2 (1-1)
+  Sat Mar/17
+    16.00  CA Osasuna              v Real Zaragoza            1-2 (0-0)
+    18.00  CD Lugo                 v AD Alcorcón              2-1 (0-1)
+           Lorca FC                v FC Barcelona B           1-1 (1-0)
+    20.00  Cultural Leonesa        v Cádiz CF                 0-1 (0-0)
+  Sun Mar/18
+    12.00  Real Valladolid         v UD Almería               2-1 (0-1)
+    16.00  Rayo Vallecano          v CF Reus Deportiu         3-2 (2-1)
+    18.00  Real Oviedo             v Granada CF               2-1 (1-1)
+           Gimnàstic de Tarragona  v Córdoba CF               0-2 (0-1)
+    20.00  CD Numancia             v CD Tenerife              2-0 (0-0)
+  Mon Mar/19
+    21.00  SD Huesca               v Sporting Gijón           0-2 (0-1)
+
+
+» Matchday 32
+  Sat Mar/24
+    13.00  Albacete                v Cultural Leonesa         0-0
+    16.00  CD Lugo                 v Real Valladolid          0-0
+    18.00  Córdoba CF              v Real Oviedo              1-1 (0-1)
+    20.00  CF Reus Deportiu        v UD Almería               1-0 (1-0)
+    20.45  Sporting Gijón          v Rayo Vallecano           1-0 (0-0)
+  Sun Mar/25
+    12.00  AD Alcorcón             v Gimnàstic de Tarragona   1-0 (1-0)
+    16.00  Real Zaragoza           v Sevilla Atlético         0-1 (0-1)
+    18.00  FC Barcelona B          v CA Osasuna               0-2 (0-1)
+    20.00  CD Tenerife             v Lorca FC                 2-0 (1-0)
+    20.30  Granada CF              v CD Numancia              1-0 (0-0)
+  Mon Mar/26
+    21.00  Cádiz CF                v SD Huesca                1-1 (0-1)
+
+
+» Matchday 33
+  Sat Mar/31
+    16.00  CD Numancia             v Córdoba CF               2-1 (2-1)
+           Cultural Leonesa        v Real Zaragoza            0-1 (0-1)
+    18.00  Real Oviedo             v AD Alcorcón              0-1 (0-0)
+           Real Valladolid         v CF Reus Deportiu         1-0 (1-0)
+  Sun Apr/1
+    12.00  Sevilla Atlético        v FC Barcelona B           3-1 (0-0)
+    16.00  Lorca FC                v Granada CF               3-2 (1-0)
+           CA Osasuna              v CD Tenerife              0-1 (0-0)
+    18.00  UD Almería              v Sporting Gijón           1-3 (0-1)
+           Rayo Vallecano          v Cádiz CF                 1-1 (1-1)
+    20.00  Gimnàstic de Tarragona  v CD Lugo                  3-0 (1-0)
+  Thu Apr/12
+    20.00  SD Huesca               v Albacete                 0-0
+
+
+» Matchday 34
+  Fri Apr/6
+    21.00  Cádiz CF                v UD Almería               0-0
+  Sat Apr/7
+    16.00  FC Barcelona B          v Cultural Leonesa         0-1 (0-1)
+           Granada CF              v CA Osasuna               1-1 (0-0)
+    18.00  AD Alcorcón             v CD Numancia              0-1 (0-0)
+           Real Zaragoza           v SD Huesca                1-0 (0-0)
+    20.00  Albacete                v Rayo Vallecano           0-1 (0-0)
+  Sun Apr/8
+    12.00  Gimnàstic de Tarragona  v Real Valladolid          1-0 (0-0)
+    16.00  CD Lugo                 v Real Oviedo              0-1 (0-0)
+    18.00  Córdoba CF              v Lorca FC                 1-0 (0-0)
+           Sporting Gijón          v CF Reus Deportiu         2-1 (2-0)
+    20.00  CD Tenerife             v Sevilla Atlético         2-0 (0-0)
+
+
+» Matchday 35
+  Sat Apr/14
+    16.00  CF Reus Deportiu        v Cádiz CF                 1-0 (0-0)
+    18.00  CD Numancia             v CD Lugo                  2-0 (0-0)
+           Lorca FC                v AD Alcorcón              1-1 (1-1)
+    20.00  Cultural Leonesa        v CD Tenerife              3-2 (3-1)
+  Sun Apr/15
+    12.00  CA Osasuna              v Córdoba CF               1-1 (0-1)
+    16.00  Real Valladolid         v Sporting Gijón           0-1 (0-1)
+           UD Almería              v Albacete                 1-1 (0-1)
+    18.00  Rayo Vallecano          v Real Zaragoza            2-1 (0-0)
+           Sevilla Atlético        v Granada CF               0-0
+    20.00  Real Oviedo             v Gimnàstic de Tarragona   1-0 (1-0)
+  Mon Apr/16
+    21.00  SD Huesca               v FC Barcelona B           2-1 (0-0)
+
+
+» Matchday 36
+  Fri Apr/20
+    21.00  Real Oviedo             v Real Valladolid          1-2 (0-0)
+           Córdoba CF              v Sevilla Atlético         3-0 (2-0)
+  Sat Apr/21
+    16.00  Real Zaragoza           v UD Almería               2-1 (0-0)
+           Gimnàstic de Tarragona  v CD Numancia              0-0
+    18.00  Albacete                v CF Reus Deportiu         0-1 (0-0)
+           CD Tenerife             v SD Huesca                2-4 (2-1)
+  Sun Apr/22
+    12.00  AD Alcorcón             v CA Osasuna               0-0
+    16.00  FC Barcelona B          v Rayo Vallecano           2-3 (0-1)
+    18.00  Cádiz CF                v Sporting Gijón           0-0
+           CD Lugo                 v Lorca FC                 1-1 (0-0)
+    20.00  Granada CF              v Cultural Leonesa         3-3 (1-0)
+
+
+» Matchday 37
+  Fri Apr/27
+    21.00  CF Reus Deportiu        v Real Zaragoza            1-1 (0-1)
+  Sat Apr/28
+    16.00  Real Valladolid         v Cádiz CF                 1-1 (0-0)
+           UD Almería              v FC Barcelona B           1-0 (0-0)
+    18.00  CA Osasuna              v CD Lugo                  1-1 (0-0)
+           Sevilla Atlético        v AD Alcorcón              1-0 (0-0)
+    20.00  SD Huesca               v Granada CF               2-1 (2-1)
+  Sun Apr/29
+    12.00  CD Numancia             v Real Oviedo              3-0 (2-0)
+    16.00  Sporting Gijón          v Albacete                 2-1 (1-1)
+    18.00  Cultural Leonesa        v Córdoba CF               2-1 (1-0)
+           Rayo Vallecano          v CD Tenerife              3-1 (1-1)
+    20.00  Lorca FC                v Gimnàstic de Tarragona   1-0 (0-0)
+
+
+» Matchday 38
+  Fri May/4
+    21.00  AD Alcorcón             v Cultural Leonesa         0-0
+  Sat May/5
+    16.00  Córdoba CF              v SD Huesca                2-4 (0-2)
+           CD Numancia             v Real Valladolid          0-1 (0-0)
+    18.00  FC Barcelona B          v CF Reus Deportiu         0-1 (0-1)
+           Real Zaragoza           v Sporting Gijón           2-1 (2-0)
+    20.00  CD Tenerife             v UD Almería               0-0
+  Sun May/6
+    12.00  Gimnàstic de Tarragona  v CA Osasuna               0-2 (0-2)
+    16.00  Real Oviedo             v Lorca FC                 2-0 (1-0)
+    18.00  Albacete                v Cádiz CF                 1-1 (1-1)
+           CD Lugo                 v Sevilla Atlético         1-0 (1-0)
+  Mon May/7
+    21.00  Granada CF              v Rayo Vallecano           0-2 (0-0)
+
+
+» Matchday 39
+  Fri May/11
+    21.00  Lorca FC                v CD Numancia              2-1 (1-0)
+  Sat May/12
+    16.00  Real Valladolid         v Albacete                 3-2 (1-1)
+           Sporting Gijón          v FC Barcelona B           2-3 (1-2)
+    20.30  CF Reus Deportiu        v CD Tenerife              1-1 (1-1)
+           CA Osasuna              v Real Oviedo              2-1 (0-1)
+  Sun May/13
+    12.00  Cultural Leonesa        v CD Lugo                  1-1 (1-0)
+    16.00  SD Huesca               v AD Alcorcón              1-1 (0-1)
+    18.00  Sevilla Atlético        v Gimnàstic de Tarragona   1-0 (0-0)
+           Rayo Vallecano          v Córdoba CF               1-2 (1-0)
+    20.00  UD Almería              v Granada CF               2-0 (1-0)
+  Mon May/14
+    21.00  Cádiz CF                v Real Zaragoza            2-0 (1-0)
+
+
+» Matchday 40
+  Fri May/18
+    21.00  CD Tenerife             v Sporting Gijón           1-0 (0-0)
+  Sat May/19
+    16.00  Gimnàstic de Tarragona  v Cultural Leonesa         5-3 (0-2)
+           Real Oviedo             v Sevilla Atlético         2-1 (1-0)
+    20.30  Lorca FC                v Real Valladolid          1-5 (1-1)
+           Granada CF              v CF Reus Deportiu         1-0 (1-0)
+  Sun May/20
+    12.00  FC Barcelona B          v Cádiz CF                 3-1 (3-0)
+    16.00  CD Numancia             v CA Osasuna               1-1 (0-0)
+    18.00  AD Alcorcón             v Rayo Vallecano           4-0 (1-0)
+           Real Zaragoza           v Albacete                 4-1 (3-1)
+    20.00  Córdoba CF              v UD Almería               2-0 (1-0)
+  Mon May/21
+    21.00  CD Lugo                 v SD Huesca                0-2 (0-2)
+
+
+» Matchday 41
+  Sun May/27
+    20.30  CF Reus Deportiu        v Córdoba CF               1-2 (0-1)
+           CA Osasuna              v Lorca FC                 1-0 (0-0)
+           Real Zaragoza           v Real Valladolid          3-2 (1-0)
+           Cultural Leonesa        v Real Oviedo              2-0 (1-0)
+           Rayo Vallecano          v CD Lugo                  1-0 (1-0)
+           Sevilla Atlético        v CD Numancia              2-1 (1-0)
+           Albacete                v FC Barcelona B           0-0
+           UD Almería              v AD Alcorcón              0-0
+           Cádiz CF                v CD Tenerife              1-1 (0-0)
+           SD Huesca               v Gimnàstic de Tarragona   0-1 (0-0)
+           Sporting Gijón          v Granada CF               2-1 (1-0)
+
+
+» Matchday 42
+  Fri Jun/1
+    21.00  Lorca FC                v Sevilla Atlético         2-1 (1-0)
+  Sat Jun/2
+    20.30  Granada CF              v Cádiz CF                 2-1 (1-0)
+           Córdoba CF              v Sporting Gijón           3-0 (2-0)
+           CD Tenerife             v Albacete                 1-1 (0-1)
+           CD Lugo                 v UD Almería               1-1 (0-0)
+           Gimnàstic de Tarragona  v Rayo Vallecano           2-0 (2-0)
+           Real Valladolid         v CA Osasuna               2-0 (1-0)
+           Real Oviedo             v SD Huesca                2-1 (1-0)
+           AD Alcorcón             v CF Reus Deportiu         3-0 (2-0)
+           CD Numancia             v Cultural Leonesa         2-1 (1-0)
+           FC Barcelona B          v Real Zaragoza            0-2 (0-1)

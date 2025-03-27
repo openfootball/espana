@@ -1,0 +1,680 @@
+= Segunda División de España 2013/14
+
+# Date       Fri Aug/16 2013 - Sun Jun/8 2014 (296d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Fri Aug/16 2013
+    21.00  Girona FC               v CD Alavés                1-0 (0-0)
+  Sat Aug/17
+    19.00  CD Mirandés             v FC Barcelona B           2-1 (1-0)
+           Hércules CF             v Real Zaragoza            1-1 (0-0)
+           UD Las Palmas           v Deportivo La Coruña      0-1 (0-0)
+    21.00  Córdoba CF              v SD Ponferradina          1-0 (0-0)
+           CD Lugo                 v CD Numancia              0-0
+  Sun Aug/18
+    19.00  AD Alcorcón             v CD Tenerife              1-0 (0-0)
+           Sporting Gijón          v Real Madrid Castilla     1-0 (1-0)
+           CE Sabadell             v RCD Mallorca             4-0 (2-0)
+           Real Jaén               v SD Eibar                 1-2 (0-1)
+    21.00  Real Murcia             v Recreativo Huelva        2-3 (0-1)
+
+
+» Matchday 2
+  Sat Aug/24
+    19.00  Real Zaragoza           v CD Mirandés              0-0
+           Deportivo La Coruña     v Córdoba CF               0-1 (0-0)
+           CD Alavés               v UD Las Palmas            1-1 (0-1)
+           SD Eibar                v Girona FC                0-3 (0-0)
+    21.00  FC Barcelona B          v CD Lugo                  2-1 (1-1)
+           Real Madrid Castilla    v AD Alcorcón              0-1 (0-1)
+  Sun Aug/25
+    19.00  CD Tenerife             v Hércules CF              0-0
+           Recreativo Huelva       v Sporting Gijón           1-1 (0-0)
+           SD Ponferradina         v CE Sabadell              2-0 (0-0)
+    21.00  CD Numancia             v Real Jaén                4-2 (3-1)
+           RCD Mallorca            v Real Murcia              2-4 (0-2)
+
+
+» Matchday 3
+  Sat Aug/31
+    19.00  Hércules CF             v Real Madrid Castilla     2-1 (1-1)
+           UD Las Palmas           v SD Eibar                 1-1 (0-1)
+           Girona FC               v CD Numancia              2-2 (0-1)
+    21.00  FC Barcelona B          v Real Zaragoza            1-0 (0-0)
+  Sun Sep/1
+    12.00  Sporting Gijón          v RCD Mallorca             3-0 (1-0)
+    17.00  CE Sabadell             v Deportivo La Coruña      0-3 (0-0)
+    18.00  CD Mirandés             v CD Tenerife              2-0 (0-0)
+           Córdoba CF              v CD Alavés                1-1 (0-1)
+           CD Lugo                 v Real Jaén                4-2 (4-1)
+           Real Murcia             v SD Ponferradina          2-2 (1-1)
+    22.00  AD Alcorcón             v Recreativo Huelva        3-0 (1-0)
+
+
+» Matchday 4
+  Sat Sep/7
+    18.00  Real Zaragoza           v CD Lugo                  0-1 (0-0)
+           RCD Mallorca            v AD Alcorcón              2-1 (1-0)
+           CD Alavés               v CE Sabadell              1-1 (1-0)
+    20.00  CD Numancia             v UD Las Palmas            1-1 (0-0)
+  Sun Sep/8
+    12.00  Deportivo La Coruña     v Real Murcia              0-1 (0-1)
+    17.00  SD Ponferradina         v Sporting Gijón           2-2 (1-1)
+    18.00  CD Tenerife             v FC Barcelona B           2-2 (1-0)
+           Real Madrid Castilla    v CD Mirandés              0-1 (0-1)
+           SD Eibar                v Córdoba CF               1-0 (0-0)
+           Real Jaén               v Girona FC                3-1 (1-0)
+    21.00  Recreativo Huelva       v Hércules CF              2-0 (1-0)
+
+
+» Matchday 5
+  Sat Sep/14
+    18.00  Real Zaragoza           v CD Tenerife              3-0 (0-0)
+           CD Mirandés             v Recreativo Huelva        0-3 (0-1)
+           Córdoba CF              v CD Numancia              3-1 (1-1)
+           CD Lugo                 v Girona FC                1-2 (1-0)
+    20.00  CE Sabadell             v SD Eibar                 1-0 (0-0)
+  Sun Sep/15
+    12.00  FC Barcelona B          v Real Madrid Castilla     2-0 (2-0)
+    17.00  Sporting Gijón          v Deportivo La Coruña      2-0 (0-0)
+    18.00  Hércules CF             v RCD Mallorca             2-2 (0-1)
+           UD Las Palmas           v Real Jaén                1-0 (1-0)
+           Real Murcia             v CD Alavés                2-1 (0-0)
+    21.00  AD Alcorcón             v SD Ponferradina          0-1 (0-1)
+
+
+» Matchday 6
+  Fri Sep/20
+    21.00  Recreativo Huelva       v FC Barcelona B           3-0 (0-0)
+  Sat Sep/21
+    18.00  CD Tenerife             v CD Lugo                  0-1 (0-0)
+           CD Numancia             v CE Sabadell              3-1 (1-1)
+           SD Eibar                v Real Murcia              0-0
+    18.15  Real Madrid Castilla    v Real Zaragoza            1-2 (0-1)
+  Sun Sep/22
+    12.00  CD Alavés               v Sporting Gijón           3-0 (2-0)
+    17.00  RCD Mallorca            v CD Mirandés              1-0 (1-0)
+           SD Ponferradina         v Hércules CF              5-1 (3-0)
+           Girona FC               v UD Las Palmas            0-2 (0-0)
+    18.15  Deportivo La Coruña     v AD Alcorcón              1-0 (1-0)
+    21.00  Real Jaén               v Córdoba CF               0-0
+
+
+» Matchday 7
+  Sat Sep/28
+    18.00  Sporting Gijón          v SD Eibar                 3-2 (1-1)
+           CE Sabadell             v Real Jaén                3-0 (1-0)
+           CD Lugo                 v UD Las Palmas            3-0 (2-0)
+    18.15  AD Alcorcón             v CD Alavés                2-0 (1-0)
+  Sun Sep/29
+    12.00  Hércules CF             v Deportivo La Coruña      0-2 (0-2)
+    17.00  FC Barcelona B          v RCD Mallorca             0-1 (0-0)
+           CD Mirandés             v SD Ponferradina          1-0 (0-0)
+           Córdoba CF              v Girona FC                2-0 (0-0)
+    18.00  CD Tenerife             v Real Madrid Castilla     1-0 (0-0)
+    18.15  Real Zaragoza           v Recreativo Huelva        1-2 (0-1)
+    21.00  Real Murcia             v CD Numancia              2-1 (1-0)
+
+
+» Matchday 8
+  Sat Oct/5
+    18.00  CD Numancia             v Sporting Gijón           0-0
+           UD Las Palmas           v Córdoba CF               2-0 (0-0)
+    18.15  Deportivo La Coruña     v CD Mirandés              0-0
+  Sun Oct/6
+    12.00  RCD Mallorca            v Real Zaragoza            2-4 (1-3)
+    17.00  Recreativo Huelva       v CD Tenerife              2-1 (0-0)
+           SD Ponferradina         v FC Barcelona B           1-0 (0-0)
+           SD Eibar                v AD Alcorcón              0-0
+           Girona FC               v CE Sabadell              1-1 (0-0)
+           Real Jaén               v Real Murcia              3-2 (2-0)
+    18.15  Real Madrid Castilla    v CD Lugo                  2-0 (2-0)
+    21.00  CD Alavés               v Hércules CF              3-1 (1-1)
+
+
+» Matchday 9
+  Sat Oct/12
+    18.00  CD Mirandés             v CD Alavés                2-3 (1-3)
+           CD Lugo                 v Córdoba CF               1-0 (0-0)
+           Real Murcia             v Girona FC                1-0 (0-0)
+    18.15  Real Madrid Castilla    v Recreativo Huelva        1-2 (1-2)
+    20.00  CE Sabadell             v UD Las Palmas            0-0
+  Sun Oct/13
+    12.00  FC Barcelona B          v Deportivo La Coruña      0-1 (0-1)
+    17.00  Sporting Gijón          v Real Jaén                1-1 (1-0)
+    18.00  CD Tenerife             v RCD Mallorca             0-1 (0-0)
+           Hércules CF             v SD Eibar                 0-0
+    18.15  Real Zaragoza           v SD Ponferradina          2-1 (1-1)
+    21.00  AD Alcorcón             v CD Numancia              0-1 (0-0)
+
+
+» Matchday 10
+  Sat Oct/19
+    18.00  SD Ponferradina         v CD Tenerife              0-1 (0-0)
+           CD Alavés               v FC Barcelona B           2-3 (1-2)
+           Córdoba CF              v CE Sabadell              1-0 (1-0)
+    18.15  Recreativo Huelva       v CD Lugo                  3-3 (0-3)
+  Sun Oct/20
+    12.00  Deportivo La Coruña     v Real Zaragoza            1-1 (0-0)
+    17.00  SD Eibar                v CD Mirandés              1-0 (0-0)
+           Real Jaén               v AD Alcorcón              1-0 (0-0)
+    18.15  RCD Mallorca            v Real Madrid Castilla     2-0 (2-0)
+    19.00  Girona FC               v Sporting Gijón           2-1 (0-1)
+           UD Las Palmas           v Real Murcia              0-0
+    21.00  CD Numancia             v Hércules CF              1-1 (0-1)
+
+
+» Matchday 11
+  Sat Oct/26
+    18.15  Real Zaragoza           v CD Alavés                2-2 (2-0)
+    20.00  CD Tenerife             v Deportivo La Coruña      2-0 (0-0)
+  Sun Oct/27
+    12.00  Recreativo Huelva       v RCD Mallorca             3-1 (1-1)
+    17.00  FC Barcelona B          v SD Eibar                 0-2 (0-0)
+           CD Mirandés             v CD Numancia              0-0
+           Hércules CF             v Real Jaén                0-1 (0-0)
+           Sporting Gijón          v UD Las Palmas            2-3 (2-2)
+           CD Lugo                 v CE Sabadell              1-0 (1-0)
+           Real Murcia             v Córdoba CF               2-2 (0-0)
+    18.15  Real Madrid Castilla    v SD Ponferradina          1-1 (1-0)
+    21.00  AD Alcorcón             v Girona FC                0-0
+
+
+» Matchday 12
+  Sat Nov/2
+    18.00  SD Eibar                v Real Zaragoza            3-2 (2-0)
+           CD Numancia             v FC Barcelona B           1-0 (0-0)
+    18.15  RCD Mallorca            v CD Lugo                  0-0
+    20.00  Girona FC               v Hércules CF              2-2 (1-1)
+           UD Las Palmas           v AD Alcorcón              1-0 (0-0)
+  Sun Nov/3
+    12.00  Córdoba CF              v Sporting Gijón           2-2 (1-0)
+    17.00  Real Jaén               v CD Mirandés              1-2 (0-1)
+           CE Sabadell             v Real Murcia              2-1 (1-1)
+    18.00  CD Alavés               v CD Tenerife              2-2 (2-0)
+    18.15  Deportivo La Coruña     v Real Madrid Castilla     2-0 (1-0)
+    21.00  SD Ponferradina         v Recreativo Huelva        3-1 (1-0)
+
+
+» Matchday 13
+  Sat Nov/9
+    18.00  FC Barcelona B          v Real Jaén                0-3 (0-2)
+           CD Lugo                 v Real Murcia              1-1 (0-0)
+    18.15  Real Zaragoza           v CD Numancia              1-2 (0-0)
+    19.00  AD Alcorcón             v Córdoba CF               0-0
+    20.00  Hércules CF             v UD Las Palmas            2-1 (1-1)
+  Sun Nov/10
+    12.00  Recreativo Huelva       v Deportivo La Coruña      0-1 (0-0)
+    17.00  RCD Mallorca            v SD Ponferradina          2-2 (2-1)
+           CD Mirandés             v Girona FC                1-2 (0-2)
+           Sporting Gijón          v CE Sabadell              3-1 (0-0)
+    18.00  CD Tenerife             v SD Eibar                 2-0 (1-0)
+    18.15  Real Madrid Castilla    v CD Alavés                1-0 (1-0)
+
+
+» Matchday 14
+  Sat Nov/16
+    18.00  SD Ponferradina         v CD Lugo                  0-2 (0-0)
+           CD Alavés               v Recreativo Huelva        3-3 (2-1)
+           Girona FC               v FC Barcelona B           1-2 (1-1)
+           Real Murcia             v Sporting Gijón           1-1 (1-1)
+    18.15  Real Jaén               v Real Zaragoza            3-0 (2-0)
+    20.00  UD Las Palmas           v CD Mirandés              3-1 (1-0)
+           CE Sabadell             v AD Alcorcón              1-2 (0-1)
+  Sun Nov/17
+    12.00  Deportivo La Coruña     v RCD Mallorca             3-1 (2-0)
+    18.00  CD Numancia             v CD Tenerife              0-0
+    18.15  SD Eibar                v Real Madrid Castilla     6-0 (1-0)
+    21.00  Córdoba CF              v Hércules CF              4-2 (2-0)
+
+
+» Matchday 15
+  Sat Nov/23
+    18.00  RCD Mallorca            v CD Alavés                2-1 (0-0)
+    18.15  Real Madrid Castilla    v CD Numancia              0-0
+    18.30  FC Barcelona B          v UD Las Palmas            1-2 (1-0)
+  Sun Nov/24
+    12.00  CD Lugo                 v Sporting Gijón           1-3 (1-2)
+    17.00  Recreativo Huelva       v SD Eibar                 1-2 (0-0)
+           Real Zaragoza           v Girona FC                1-0 (0-0)
+           CD Mirandés             v Córdoba CF               3-1 (2-1)
+           Hércules CF             v CE Sabadell              3-0 (0-0)
+    18.00  CD Tenerife             v Real Jaén                2-1 (1-0)
+    18.15  SD Ponferradina         v Deportivo La Coruña      0-1 (0-1)
+    21.00  AD Alcorcón             v Real Murcia              0-0
+
+
+» Matchday 16
+  Sat Nov/30
+    18.00  SD Eibar                v RCD Mallorca             0-1 (0-0)
+           Córdoba CF              v FC Barcelona B           1-2 (0-1)
+    18.15  Deportivo La Coruña     v CD Lugo                  0-0
+    20.00  UD Las Palmas           v Real Zaragoza            0-1 (0-0)
+  Sun Dec/1
+    12.00  Real Murcia             v Hércules CF              1-2 (0-2)
+    17.00  CD Alavés               v SD Ponferradina          2-2 (1-0)
+           Girona FC               v CD Tenerife              2-2 (0-1)
+           CE Sabadell             v CD Mirandés              3-1 (2-0)
+           Sporting Gijón          v AD Alcorcón              2-2 (1-2)
+    18.15  Real Jaén               v Real Madrid Castilla     0-1 (0-0)
+    21.00  CD Numancia             v Recreativo Huelva        2-3 (2-1)
+
+
+» Matchday 17
+  Wed Dec/4
+    20.00  Real Madrid Castilla    v Girona FC                3-2 (1-1)
+           CD Lugo                 v AD Alcorcón              1-2 (0-0)
+    21.00  Recreativo Huelva       v Real Jaén                1-1 (1-1)
+           CD Tenerife             v UD Las Palmas            3-0 (1-0)
+  Sat Dec/7
+    18.00  FC Barcelona B          v CE Sabadell              2-0 (0-0)
+           Hércules CF             v Sporting Gijón           0-1 (0-1)
+    18.15  Deportivo La Coruña     v CD Alavés                2-1 (1-0)
+  Sun Dec/8
+    17.00  RCD Mallorca            v CD Numancia              0-0
+           CD Mirandés             v Real Murcia              1-1 (0-1)
+    18.15  Real Zaragoza           v Córdoba CF               2-1 (1-0)
+    21.00  SD Ponferradina         v SD Eibar                 2-1 (1-1)
+
+
+» Matchday 18
+  Sat Dec/14
+    18.00  CD Alavés               v CD Lugo                  2-1 (1-0)
+           CE Sabadell             v Real Zaragoza            1-0 (0-0)
+    18.15  AD Alcorcón             v Hércules CF              0-2 (0-0)
+    20.00  Girona FC               v Recreativo Huelva        1-1 (1-0)
+           UD Las Palmas           v Real Madrid Castilla     0-2 (0-1)
+    21.00  CD Numancia             v SD Ponferradina          2-0 (1-0)
+  Sun Dec/15
+    12.00  SD Eibar                v Deportivo La Coruña      2-1 (1-0)
+    17.00  Real Murcia             v FC Barcelona B           3-1 (0-1)
+           Sporting Gijón          v CD Mirandés              3-2 (3-1)
+    18.00  Córdoba CF              v CD Tenerife              1-0 (0-0)
+    18.15  Real Jaén               v RCD Mallorca             2-1 (2-0)
+
+
+» Matchday 19
+  Sat Dec/21
+    17.00  CD Lugo                 v Hércules CF              1-3 (0-2)
+    18.00  CD Alavés               v SD Eibar                 0-2 (0-1)
+           Deportivo La Coruña     v CD Numancia              3-3 (2-1)
+           FC Barcelona B          v Sporting Gijón           2-2 (1-1)
+    18.15  Real Madrid Castilla    v Córdoba CF               3-1 (1-0)
+    20.00  CD Tenerife             v CE Sabadell              0-3 (0-1)
+  Sun Dec/22
+    12.00  Recreativo Huelva       v UD Las Palmas            1-3 (1-2)
+    17.00  SD Ponferradina         v Real Jaén                1-0 (1-0)
+           RCD Mallorca            v Girona FC                2-0 (1-0)
+    18.15  Real Zaragoza           v Real Murcia              0-0
+    21.00  CD Mirandés             v AD Alcorcón              1-1 (0-0)
+
+
+» Matchday 20
+  Sat Jan/4 2014
+    18.00  CD Lugo                 v SD Eibar                 0-0
+           CD Numancia             v CD Alavés                0-2 (0-0)
+           CE Sabadell             v Real Madrid Castilla     3-2 (2-1)
+           Real Murcia             v CD Tenerife              1-2 (1-2)
+           Hércules CF             v CD Mirandés              1-0 (1-0)
+    18.15  Córdoba CF              v Recreativo Huelva        2-0 (1-0)
+    20.00  UD Las Palmas           v RCD Mallorca             2-2 (1-0)
+  Sun Jan/5
+    12.00  Sporting Gijón          v Real Zaragoza            2-3 (1-1)
+    16.00  Girona FC               v SD Ponferradina          1-1 (0-0)
+    18.00  AD Alcorcón             v FC Barcelona B           2-2 (0-1)
+    18.15  Real Jaén               v Deportivo La Coruña      0-0
+
+
+» Matchday 21
+  Sat Jan/11
+    18.00  CD Alavés               v Real Jaén                1-2 (0-0)
+           Deportivo La Coruña     v Girona FC                0-0
+    18.15  Real Madrid Castilla    v Real Murcia              2-2 (2-1)
+    20.00  SD Ponferradina         v UD Las Palmas            0-0
+  Sun Jan/12
+    12.00  RCD Mallorca            v Córdoba CF               2-2 (0-1)
+    17.00  SD Eibar                v CD Numancia              1-2 (0-1)
+           Recreativo Huelva       v CE Sabadell              1-2 (1-0)
+           FC Barcelona B          v Hércules CF              5-0 (2-0)
+    18.00  CD Tenerife             v Sporting Gijón           0-0
+    18.15  Real Zaragoza           v AD Alcorcón              3-1 (2-0)
+    21.00  CD Mirandés             v CD Lugo                  2-0 (0-0)
+
+
+» Matchday 22
+  Sat Jan/18
+    18.00  Real Madrid Castilla    v Sporting Gijón           1-2 (0-1)
+           CD Alavés               v Girona FC                1-1 (1-0)
+    18.15  Recreativo Huelva       v Real Murcia              0-0
+    20.00  CD Tenerife             v AD Alcorcón              0-4 (0-2)
+  Sun Jan/19
+    12.00  Deportivo La Coruña     v UD Las Palmas            1-2 (1-1)
+    17.00  FC Barcelona B          v CD Mirandés              1-1 (1-1)
+           RCD Mallorca            v CE Sabadell              4-1 (2-0)
+           SD Eibar                v Real Jaén                2-0 (1-0)
+           CD Numancia             v CD Lugo                  0-1 (0-0)
+    18.15  Real Zaragoza           v Hércules CF              0-0
+    21.00  SD Ponferradina         v Córdoba CF               0-1 (0-0)
+
+
+» Matchday 23
+  Sat Jan/25
+    18.00  CD Mirandés             v Real Zaragoza            0-1 (0-0)
+           Girona FC               v SD Eibar                 1-1 (0-0)
+    18.15  Córdoba CF              v Deportivo La Coruña      0-1 (0-0)
+    20.00  CD Lugo                 v FC Barcelona B           1-0 (0-0)
+           UD Las Palmas           v CD Alavés                0-2 (0-1)
+  Sun Jan/26
+    12.00  Sporting Gijón          v Recreativo Huelva        0-0
+    17.00  CE Sabadell             v SD Ponferradina          1-1 (1-1)
+           Real Jaén               v CD Numancia              0-0
+    18.00  Hércules CF             v CD Tenerife              2-3 (1-2)
+    18.15  AD Alcorcón             v Real Madrid Castilla     0-2 (0-0)
+    21.00  Real Murcia             v RCD Mallorca             2-2 (1-1)
+
+
+» Matchday 24
+  Sat Feb/1
+    18.15  Real Madrid Castilla    v Hércules CF              4-0 (2-0)
+    20.00  Deportivo La Coruña     v CE Sabadell              2-1 (0-0)
+           SD Eibar                v UD Las Palmas            1-0 (1-0)
+    21.00  SD Ponferradina         v Real Murcia              2-0 (1-0)
+  Sun Feb/2
+    12.00  RCD Mallorca            v Sporting Gijón           1-3 (0-1)
+    17.00  Real Zaragoza           v FC Barcelona B           0-2 (0-1)
+           CD Alavés               v Córdoba CF               1-1 (1-1)
+           CD Numancia             v Girona FC                0-0
+           Real Jaén               v CD Lugo                  0-0
+    18.00  CD Tenerife             v CD Mirandés              3-0 (1-0)
+    18.15  Recreativo Huelva       v AD Alcorcón              2-1 (1-0)
+
+
+» Matchday 25
+  Sat Feb/8
+    18.00  CE Sabadell             v CD Alavés                0-4 (0-2)
+    18.15  CD Lugo                 v Real Zaragoza            1-0 (0-0)
+    19.00  UD Las Palmas           v CD Numancia              0-0
+    20.00  Girona FC               v Real Jaén                1-1 (1-0)
+  Sun Feb/9
+    12.00  Hércules CF             v Recreativo Huelva        1-2 (0-0)
+    17.00  FC Barcelona B          v CD Tenerife              2-0 (1-0)
+           CD Mirandés             v Real Madrid Castilla     2-1 (0-0)
+           Sporting Gijón          v SD Ponferradina          1-1 (0-1)
+           Córdoba CF              v SD Eibar                 0-2 (0-1)
+    18.15  Real Murcia             v Deportivo La Coruña      1-0 (1-0)
+    21.00  AD Alcorcón             v RCD Mallorca             1-1 (1-0)
+
+
+» Matchday 26
+  Sat Feb/15
+    18.00  CD Tenerife             v Real Zaragoza            1-1 (1-0)
+           Real Madrid Castilla    v FC Barcelona B           3-1 (2-1)
+           SD Eibar                v CE Sabadell              1-0 (0-0)
+    18.15  RCD Mallorca            v Hércules CF              0-1 (0-1)
+    20.00  Real Jaén               v UD Las Palmas            3-0 (2-0)
+  Sun Feb/16
+    12.00  Deportivo La Coruña     v Sporting Gijón           1-1 (0-1)
+    17.00  CD Alavés               v Real Murcia              0-1 (0-1)
+           SD Ponferradina         v AD Alcorcón              0-2 (0-1)
+           Girona FC               v CD Lugo                  6-0 (2-0)
+    18.15  Recreativo Huelva       v CD Mirandés              1-0 (1-0)
+    21.00  CD Numancia             v Córdoba CF               3-0 (0-0)
+
+
+» Matchday 27
+  Sat Feb/22
+    18.00  FC Barcelona B          v Recreativo Huelva        0-1 (0-1)
+           Sporting Gijón          v CD Alavés                2-0 (0-0)
+    18.15  CD Mirandés             v RCD Mallorca             0-0
+    20.00  UD Las Palmas           v Girona FC                2-1 (0-0)
+  Sun Feb/23
+    12.00  AD Alcorcón             v Deportivo La Coruña      1-2 (1-1)
+    16.00  CE Sabadell             v CD Numancia              0-0
+    17.00  Hércules CF             v SD Ponferradina          1-0 (0-0)
+           Córdoba CF              v Real Jaén                0-0
+    18.00  CD Lugo                 v CD Tenerife              1-3 (1-1)
+    18.15  Real Zaragoza           v Real Madrid Castilla     0-2 (0-1)
+    21.00  Real Murcia             v SD Eibar                 0-0
+
+
+» Matchday 28
+  Sat Mar/1
+    18.00  CD Alavés               v AD Alcorcón              1-0 (0-0)
+    18.15  Recreativo Huelva       v Real Zaragoza            2-2 (1-1)
+    20.00  Real Madrid Castilla    v CD Tenerife              2-2 (0-1)
+           RCD Mallorca            v FC Barcelona B           1-2 (0-2)
+  Sun Mar/2
+    12.00  SD Eibar                v Sporting Gijón           3-0 (1-0)
+    17.00  Real Jaén               v CE Sabadell              0-1 (0-0)
+           Girona FC               v Córdoba CF               0-1 (0-0)
+           UD Las Palmas           v CD Lugo                  0-0
+    18.15  Deportivo La Coruña     v Hércules CF              3-2 (2-0)
+    19.00  SD Ponferradina         v CD Mirandés              1-1 (0-0)
+    21.00  CD Numancia             v Real Murcia              1-0 (0-0)
+
+
+» Matchday 29
+  Sat Mar/8
+    18.00  AD Alcorcón             v SD Eibar                 0-0
+    18.15  CD Mirandés             v Deportivo La Coruña      1-0 (0-0)
+    20.00  CE Sabadell             v Girona FC                4-0 (1-0)
+           Córdoba CF              v UD Las Palmas            0-1 (0-1)
+  Sun Mar/9
+    12.00  Real Zaragoza           v RCD Mallorca             1-1 (1-1)
+    17.00  FC Barcelona B          v SD Ponferradina          1-0 (0-0)
+           Hércules CF             v CD Alavés                2-0 (2-0)
+           Sporting Gijón          v CD Numancia              2-2 (1-1)
+    18.00  CD Tenerife             v Recreativo Huelva        1-0 (1-0)
+    18.15  CD Lugo                 v Real Madrid Castilla     1-1 (1-0)
+    21.00  Real Murcia             v Real Jaén                2-0 (0-0)
+
+
+» Matchday 30
+  Sat Mar/15
+    18.00  CD Alavés               v CD Mirandés              0-2 (0-1)
+           Real Jaén               v Sporting Gijón           3-2 (1-1)
+    18.15  Recreativo Huelva       v Real Madrid Castilla     2-3 (1-2)
+    20.00  Deportivo La Coruña     v FC Barcelona B           0-0
+           UD Las Palmas           v CE Sabadell              5-0 (3-0)
+  Sun Mar/16
+    12.00  SD Ponferradina         v Real Zaragoza            4-2 (1-1)
+    17.00  Girona FC               v Real Murcia              0-1 (0-0)
+           Córdoba CF              v CD Lugo                  1-1 (0-0)
+    18.00  RCD Mallorca            v CD Tenerife              2-0 (1-0)
+    18.15  SD Eibar                v Hércules CF              1-1 (0-0)
+    20.00  CD Numancia             v AD Alcorcón              0-1 (0-1)
+
+
+» Matchday 31
+  Sat Mar/22
+    18.00  FC Barcelona B          v CD Alavés                2-1 (0-0)
+           CD Mirandés             v SD Eibar                 1-4 (0-1)
+           AD Alcorcón             v Real Jaén                0-0
+    18.15  CD Lugo                 v Recreativo Huelva        2-0 (0-0)
+    20.00  Real Murcia             v UD Las Palmas            1-3 (0-1)
+           CE Sabadell             v Córdoba CF               3-2 (1-1)
+  Sun Mar/23
+    12.00  Real Zaragoza           v Deportivo La Coruña      0-1 (0-1)
+    17.00  Hércules CF             v CD Numancia              0-0
+           Sporting Gijón          v Girona FC                3-1 (3-1)
+    18.00  CD Tenerife             v SD Ponferradina          5-0 (3-0)
+    18.15  Real Madrid Castilla    v RCD Mallorca             1-2 (0-0)
+
+
+» Matchday 32
+  Sat Mar/29
+    18.00  SD Ponferradina         v Real Madrid Castilla     0-0
+           Córdoba CF              v Real Murcia              1-1 (0-0)
+    18.15  RCD Mallorca            v Recreativo Huelva        0-0
+    18.30  SD Eibar                v FC Barcelona B           0-0
+    21.00  Deportivo La Coruña     v CD Tenerife              1-1 (1-0)
+    22.00  CD Numancia             v CD Mirandés              0-1 (0-0)
+  Sun Mar/30
+    12.00  UD Las Palmas           v Sporting Gijón           2-1 (0-0)
+    17.00  Real Jaén               v Hércules CF              1-1 (1-1)
+           Girona FC               v AD Alcorcón              3-1 (1-0)
+           CE Sabadell             v CD Lugo                  1-0 (1-0)
+    18.15  CD Alavés               v Real Zaragoza            2-2 (1-1)
+
+
+» Matchday 33
+  Sat Apr/5
+    18.00  Real Murcia             v CE Sabadell              2-0 (1-0)
+    18.15  Real Madrid Castilla    v Deportivo La Coruña      0-2 (0-1)
+    20.00  AD Alcorcón             v UD Las Palmas            2-0 (1-0)
+  Sun Apr/6
+    12.00  Real Zaragoza           v SD Eibar                 1-0 (0-0)
+    17.00  CD Lugo                 v RCD Mallorca             2-1 (1-1)
+           FC Barcelona B          v CD Numancia              3-0 (0-0)
+           Hércules CF             v Girona FC                0-0
+           Sporting Gijón          v Córdoba CF               1-2 (0-1)
+    18.00  CD Tenerife             v CD Alavés                2-0 (2-0)
+    18.15  Recreativo Huelva       v SD Ponferradina          1-0 (1-0)
+    21.00  CD Mirandés             v Real Jaén                2-1 (0-1)
+
+
+» Matchday 34
+  Sat Apr/12
+    18.00  Girona FC               v CD Mirandés              4-0 (1-0)
+    18.15  CD Numancia             v Real Zaragoza            2-2 (1-2)
+    20.00  UD Las Palmas           v Hércules CF              2-1 (0-1)
+           CE Sabadell             v Sporting Gijón           2-0 (0-0)
+  Sun Apr/13
+    12.00  Deportivo La Coruña     v Recreativo Huelva        2-0 (1-0)
+    17.00  Real Murcia             v CD Lugo                  3-1 (0-0)
+           Real Jaén               v FC Barcelona B           0-3 (0-1)
+           Córdoba CF              v AD Alcorcón              3-1 (1-1)
+    18.00  SD Eibar                v CD Tenerife              1-2 (1-0)
+    18.15  CD Alavés               v Real Madrid Castilla     2-2 (1-2)
+    21.00  SD Ponferradina         v RCD Mallorca             2-0 (1-0)
+
+
+» Matchday 35
+  Sat Apr/19
+    18.00  CD Lugo                 v SD Ponferradina          3-0 (1-0)
+           Hércules CF             v Córdoba CF               0-1 (0-1)
+    18.15  Real Madrid Castilla    v SD Eibar                 0-1 (0-1)
+    19.00  FC Barcelona B          v Girona FC                2-1 (0-1)
+    20.00  CD Mirandés             v UD Las Palmas            2-1 (1-1)
+  Sun Apr/20
+    12.00  RCD Mallorca            v Deportivo La Coruña      0-3 (0-1)
+    17.00  Sporting Gijón          v Real Murcia              0-0
+           Recreativo Huelva       v CD Alavés                0-2 (0-1)
+    18.00  CD Tenerife             v CD Numancia              3-2 (1-0)
+    18.15  Real Zaragoza           v Real Jaén                1-0 (0-0)
+    21.00  AD Alcorcón             v CE Sabadell              3-1 (2-1)
+
+
+» Matchday 36
+  Sat Apr/26
+    18.00  CD Alavés               v RCD Mallorca             1-0 (0-0)
+           Sporting Gijón          v CD Lugo                  2-0 (1-0)
+    18.15  Deportivo La Coruña     v SD Ponferradina          0-3 (0-1)
+    20.00  Córdoba CF              v CD Mirandés              1-1 (1-0)
+    22.00  UD Las Palmas           v FC Barcelona B           0-2 (0-0)
+  Sun Apr/27
+    12.00  SD Eibar                v Recreativo Huelva        0-0
+    17.00  CE Sabadell             v Hércules CF              2-1 (1-0)
+    18.00  Real Jaén               v CD Tenerife              1-0 (0-0)
+    18.15  CD Numancia             v Real Madrid Castilla     0-0
+    19.00  Girona FC               v Real Zaragoza            2-0 (1-0)
+    21.00  Real Murcia             v AD Alcorcón              1-1 (1-0)
+
+
+» Matchday 37
+  Sat May/3
+    18.00  SD Ponferradina         v CD Alavés                2-1 (0-1)
+           AD Alcorcón             v Sporting Gijón           1-0 (1-0)
+    18.15  CD Lugo                 v Deportivo La Coruña      2-2 (0-2)
+    20.00  Hércules CF             v Real Murcia              2-3 (1-1)
+           FC Barcelona B          v Córdoba CF               0-1 (0-0)
+  Sun May/4
+    12.00  Real Zaragoza           v UD Las Palmas            1-2 (1-2)
+    17.00  Real Madrid Castilla    v Real Jaén                1-1 (0-0)
+    18.15  RCD Mallorca            v SD Eibar                 0-2 (0-0)
+    19.00  Recreativo Huelva       v CD Numancia              0-0
+           CD Tenerife             v Girona FC                0-1 (0-0)
+    21.00  CD Mirandés             v CE Sabadell              2-2 (2-1)
+
+
+» Matchday 38
+  Sat May/10
+    18.00  Girona FC               v Real Madrid Castilla     1-1 (0-0)
+           Sporting Gijón          v Hércules CF              2-1 (1-1)
+    18.15  CD Numancia             v RCD Mallorca             1-1 (0-1)
+    20.00  CE Sabadell             v FC Barcelona B           2-1 (1-0)
+           AD Alcorcón             v CD Lugo                  1-0 (0-0)
+    20.15  SD Eibar                v SD Ponferradina          0-0
+    22.00  UD Las Palmas           v CD Tenerife              1-0 (0-0)
+  Sun May/11
+    12.00  Córdoba CF              v Real Zaragoza            1-2 (1-0)
+    17.00  Real Murcia             v CD Mirandés              5-0 (3-0)
+    18.15  CD Alavés               v Deportivo La Coruña      1-1 (0-0)
+    19.00  Real Jaén               v Recreativo Huelva        3-1 (2-0)
+
+
+» Matchday 39
+  Sat May/17
+    18.15  RCD Mallorca            v Real Jaén                0-0
+    20.00  Real Zaragoza           v CE Sabadell              2-2 (2-0)
+           CD Mirandés             v Sporting Gijón           1-1 (0-1)
+           Hércules CF             v AD Alcorcón              1-2 (0-0)
+    21.00  CD Tenerife             v Córdoba CF               0-1 (0-1)
+    21.30  FC Barcelona B          v Real Murcia              4-0 (3-0)
+  Sun May/18
+    12.00  Deportivo La Coruña     v SD Eibar                 1-1 (1-0)
+    18.15  CD Lugo                 v CD Alavés                0-1 (0-1)
+    20.00  Recreativo Huelva       v Girona FC                1-0 (1-0)
+           Real Madrid Castilla    v UD Las Palmas            3-2 (3-1)
+    21.15  SD Ponferradina         v CD Numancia              0-1 (0-0)
+
+
+» Matchday 40
+  Sat May/24
+    16.00  Sporting Gijón          v FC Barcelona B           1-0 (1-0)
+  Sun May/25
+    16.00  Córdoba CF              v Real Madrid Castilla     2-0 (0-0)
+    17.00  Girona FC               v RCD Mallorca             1-1 (1-0)
+           Hércules CF             v CD Lugo                  1-1 (0-0)
+    18.00  Real Murcia             v Real Zaragoza            1-1 (1-0)
+    19.00  Real Jaén               v SD Ponferradina          0-1 (0-1)
+           CE Sabadell             v CD Tenerife              1-0 (1-0)
+    20.00  CD Numancia             v Deportivo La Coruña      2-1 (1-1)
+    20.15  SD Eibar                v CD Alavés                1-0 (0-0)
+    21.00  UD Las Palmas           v Recreativo Huelva        2-3 (1-0)
+           AD Alcorcón             v CD Mirandés              2-0 (0-0)
+
+
+» Matchday 41
+  Sat May/31
+    19.00  SD Eibar                v CD Lugo                  1-0 (1-0)
+           CD Tenerife             v Real Murcia              0-1 (0-1)
+           CD Alavés               v CD Numancia              3-1 (1-0)
+           Deportivo La Coruña     v Real Jaén                1-0 (1-0)
+           SD Ponferradina         v Girona FC                1-2 (0-1)
+           RCD Mallorca            v UD Las Palmas            2-0 (0-0)
+           Recreativo Huelva       v Córdoba CF               1-1 (0-1)
+           Real Madrid Castilla    v CE Sabadell              2-1 (0-0)
+           Real Zaragoza           v Sporting Gijón           1-1 (1-0)
+           FC Barcelona B          v AD Alcorcón              4-3 (0-2)
+           CD Mirandés             v Hércules CF              0-1 (0-0)
+
+
+» Matchday 42
+  Sat Jun/7
+    18.30  Real Murcia             v Real Madrid Castilla     1-0 (1-0)
+           Real Jaén               v CD Alavés                2-3 (0-0)
+           Girona FC               v Deportivo La Coruña      3-1 (1-0)
+           UD Las Palmas           v SD Ponferradina          3-2 (1-1)
+           Córdoba CF              v RCD Mallorca             0-0
+           CE Sabadell             v Recreativo Huelva        0-0
+           Sporting Gijón          v CD Tenerife              3-0 (3-0)
+           Hércules CF             v FC Barcelona B           1-2 (0-2)
+           CD Lugo                 v CD Mirandés              1-0 (0-0)
+  Sun Jun/8
+    18.00  CD Numancia             v SD Eibar                 1-1 (1-0)
+    18.15  AD Alcorcón             v Real Zaragoza            1-0 (0-0)

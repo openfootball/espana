@@ -1,0 +1,683 @@
+= Segunda División de España 2014/15
+
+# Date       Sat Aug/23 2014 - Sun Jun/7 2015 (288d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Sat Aug/23 2014
+    19.00  CA Osasuna              v FC Barcelona B           2-0 (1-0)
+           Recreativo Huelva       v Real Zaragoza            0-0
+           Real Valladolid         v RCD Mallorca             2-1 (1-0)
+    21.00  UD Las Palmas           v UE Llagostera            2-0 (1-0)
+           CD Numancia             v Sporting Gijón           1-2 (0-0)
+  Sun Aug/24
+    19.00  CD Leganés              v CD Alavés                1-1 (1-0)
+           CD Mirandés             v CD Lugo                  0-0
+           CE Sabadell             v Real Betis               2-3 (0-2)
+    21.00  Girona FC               v Racing Santander         1-0 (1-0)
+           Albacete                v AD Alcorcón              2-3 (1-1)
+           SD Ponferradina         v CD Tenerife              1-0 (1-0)
+
+
+» Matchday 2
+  Sat Aug/30
+    19.00  FC Barcelona B          v CE Sabadell              3-1 (1-1)
+           Real Zaragoza           v CA Osasuna               1-1 (1-0)
+           CD Lugo                 v Real Valladolid          1-0 (0-0)
+    21.00  AD Alcorcón             v Girona FC                1-2 (0-0)
+    23.00  Racing Santander        v CD Mirandés              1-2 (0-1)
+           CD Tenerife             v Albacete                 1-1 (0-1)
+  Sun Aug/31
+    19.00  UE Llagostera           v CD Leganés               2-0 (1-0)
+           Sporting Gijón          v SD Ponferradina          2-1 (0-0)
+           Real Betis              v CD Numancia              2-1 (1-1)
+    21.00  CD Alavés               v Recreativo Huelva        0-0
+           RCD Mallorca            v UD Las Palmas            1-1 (1-1)
+
+
+» Matchday 3
+  Sat Sep/6
+    16.00  Recreativo Huelva       v UE Llagostera            2-0 (1-0)
+    18.00  Albacete                v Sporting Gijón           1-1 (1-0)
+    18.15  CA Osasuna              v CD Alavés                1-3 (0-1)
+    19.00  CE Sabadell             v CD Numancia              0-3 (0-2)
+    21.00  Girona FC               v CD Tenerife              2-0 (1-0)
+  Sun Sep/7
+    12.00  SD Ponferradina         v Real Betis               4-1 (0-1)
+    17.00  CD Mirandés             v AD Alcorcón              1-2 (0-2)
+    18.15  Real Valladolid         v Racing Santander         3-1 (1-0)
+    19.00  FC Barcelona B          v Real Zaragoza            4-1 (1-1)
+    21.00  CD Leganés              v RCD Mallorca             3-1 (0-1)
+           UD Las Palmas           v CD Lugo                  3-0 (0-0)
+
+
+» Matchday 4
+  Sat Sep/13
+    16.00  CD Numancia             v SD Ponferradina          1-3 (1-1)
+    18.15  RCD Mallorca            v Recreativo Huelva        1-2 (0-1)
+    18.30  CD Alavés               v FC Barcelona B           2-3 (0-3)
+    20.00  Racing Santander        v UD Las Palmas            1-2 (1-0)
+    20.30  UE Llagostera           v CA Osasuna               0-0
+  Sun Sep/14
+    12.00  Sporting Gijón          v Girona FC                1-1 (1-0)
+    17.00  Real Zaragoza           v CE Sabadell              1-1 (1-0)
+           CD Lugo                 v CD Leganés               0-0
+    18.15  Real Betis              v Albacete                 0-1 (0-0)
+    21.00  AD Alcorcón             v Real Valladolid          0-1 (0-1)
+           CD Tenerife             v CD Mirandés              1-0 (1-0)
+
+
+» Matchday 5
+  Sat Sep/20
+    16.00  Recreativo Huelva       v CD Lugo                  0-0
+    18.00  FC Barcelona B          v UE Llagostera            0-1 (0-1)
+           CD Mirandés             v Sporting Gijón           0-2 (0-1)
+    18.15  Real Zaragoza           v CD Alavés                1-0 (1-0)
+    20.00  UD Las Palmas           v AD Alcorcón              4-1 (1-0)
+           CE Sabadell             v SD Ponferradina          1-0 (0-0)
+  Sun Sep/21
+    12.00  CA Osasuna              v RCD Mallorca             6-4 (1-1)
+    17.00  Girona FC               v Real Betis               1-3 (1-2)
+    18.15  CD Leganés              v Racing Santander         2-2 (0-2)
+    20.00  Real Valladolid         v CD Tenerife              2-1 (1-0)
+    21.00  Albacete                v CD Numancia              0-1 (0-1)
+
+
+» Matchday 6
+  Sat Sep/27
+    16.00  UE Llagostera           v Real Zaragoza            0-1 (0-1)
+           CD Lugo                 v CA Osasuna               4-3 (2-2)
+    18.00  CD Alavés               v CE Sabadell              3-1 (2-0)
+    18.15  Racing Santander        v Recreativo Huelva        3-0 (2-0)
+  Sun Sep/28
+    12.00  CD Tenerife             v UD Las Palmas            2-1 (1-1)
+    17.00  RCD Mallorca            v FC Barcelona B           3-3 (2-2)
+           Sporting Gijón          v Real Valladolid          1-1 (0-0)
+           CD Numancia             v Girona FC                2-2 (1-0)
+    18.00  AD Alcorcón             v CD Leganés               1-0 (0-0)
+    18.15  Real Betis              v CD Mirandés              2-0 (1-0)
+  Mon Sep/29
+    20.30  SD Ponferradina         v Albacete                 1-0 (1-0)
+
+
+» Matchday 7
+  Sat Oct/4
+    16.00  CD Alavés               v UE Llagostera            0-0
+           FC Barcelona B          v CD Lugo                  0-1 (0-0)
+    18.00  Girona FC               v SD Ponferradina          3-0 (1-0)
+    18.15  CA Osasuna              v Racing Santander         0-2 (0-1)
+    20.00  UD Las Palmas           v Sporting Gijón           1-1 (0-1)
+  Sun Oct/5
+    12.00  Real Valladolid         v Real Betis               0-0
+    17.00  Recreativo Huelva       v AD Alcorcón              2-1 (2-0)
+           CE Sabadell             v Albacete                 6-1 (2-0)
+    18.15  Real Zaragoza           v RCD Mallorca             2-0 (0-0)
+    19.00  CD Leganés              v CD Tenerife              2-0 (1-0)
+    21.00  CD Mirandés             v CD Numancia              2-0 (1-0)
+
+
+» Matchday 8
+  Sat Oct/11
+    16.00  RCD Mallorca            v CD Alavés                2-0 (0-0)
+           SD Ponferradina         v CD Mirandés              1-0 (0-0)
+    18.00  Racing Santander        v FC Barcelona B           0-0
+    18.15  AD Alcorcón             v CA Osasuna               2-0 (2-0)
+    20.00  Albacete                v Girona FC                0-1 (0-1)
+    21.00  CD Tenerife             v Recreativo Huelva        0-2 (0-1)
+           CD Numancia             v Real Valladolid          0-1 (0-1)
+  Sun Oct/12
+    12.00  Real Betis              v UD Las Palmas            0-0
+    17.00  Sporting Gijón          v CD Leganés               2-1 (0-0)
+    18.15  CD Lugo                 v Real Zaragoza            3-3 (1-2)
+    18.45  UE Llagostera           v CE Sabadell              0-1 (0-0)
+
+
+» Matchday 9
+  Sat Oct/18
+    16.00  Real Valladolid         v SD Ponferradina          0-0
+    18.00  CD Alavés               v CD Lugo                  1-0 (0-0)
+           CD Mirandés             v Albacete                 3-2 (1-2)
+    18.15  Real Zaragoza           v Racing Santander         2-1 (1-1)
+    20.00  CA Osasuna              v CD Tenerife              3-2 (1-1)
+           CE Sabadell             v Girona FC                0-2 (0-2)
+  Sun Oct/19
+    12.00  Recreativo Huelva       v Sporting Gijón           1-1 (1-1)
+    17.00  UE Llagostera           v RCD Mallorca             1-4 (0-1)
+    18.15  CD Leganés              v Real Betis               1-0 (0-0)
+    19.00  UD Las Palmas           v CD Numancia              2-0 (1-0)
+    21.00  FC Barcelona B          v AD Alcorcón              4-1 (3-1)
+
+
+» Matchday 10
+  Sat Oct/25
+    16.00  RCD Mallorca            v CE Sabadell              1-0 (0-0)
+    18.00  Racing Santander        v CD Alavés                1-1 (1-0)
+    18.15  Real Betis              v Recreativo Huelva        3-2 (2-1)
+    20.00  SD Ponferradina         v UD Las Palmas            2-2 (1-0)
+  Sun Oct/26
+    12.00  Albacete                v Real Valladolid          3-4 (1-3)
+    17.00  CD Lugo                 v UE Llagostera            1-1 (0-0)
+           Sporting Gijón          v CA Osasuna               2-0 (1-0)
+           Girona FC               v CD Mirandés              3-0 (1-0)
+    18.15  AD Alcorcón             v Real Zaragoza            1-3 (1-1)
+    19.00  CD Tenerife             v FC Barcelona B           2-0 (1-0)
+    21.00  CD Numancia             v CD Leganés               1-1 (1-1)
+
+
+» Matchday 11
+  Sat Nov/1
+    16.00  RCD Mallorca            v CD Lugo                  2-1 (0-0)
+    18.00  CD Alavés               v AD Alcorcón              1-1 (0-0)
+           FC Barcelona B          v Sporting Gijón           0-0
+    18.15  UE Llagostera           v Racing Santander         0-2 (0-1)
+    20.00  UD Las Palmas           v Albacete                 2-1 (1-0)
+           CE Sabadell             v CD Mirandés              3-2 (1-2)
+  Sun Nov/2
+    12.00  CA Osasuna              v Real Betis               3-2 (0-2)
+    17.00  Real Valladolid         v Girona FC                2-1 (1-0)
+    18.15  Recreativo Huelva       v CD Numancia              0-3 (0-2)
+    21.00  CD Leganés              v SD Ponferradina          1-1 (1-1)
+  Mon Nov/3
+    21.00  Real Zaragoza           v CD Tenerife              2-3 (1-1)
+
+
+» Matchday 12
+  Sat Nov/8
+    16.00  CD Mirandés             v Real Valladolid          0-0
+    18.00  Real Betis              v FC Barcelona B           1-0 (0-0)
+           Albacete                v CD Leganés               1-0 (0-0)
+    18.15  CD Numancia             v CA Osasuna               0-0
+    20.00  Girona FC               v UD Las Palmas            1-2 (1-2)
+    21.00  AD Alcorcón             v UE Llagostera            2-0 (1-0)
+  Sun Nov/9
+    12.00  Sporting Gijón          v Real Zaragoza            3-1 (1-1)
+    17.00  CD Lugo                 v CE Sabadell              2-1 (1-0)
+           SD Ponferradina         v Recreativo Huelva        3-3 (1-1)
+    18.15  Racing Santander        v RCD Mallorca             0-1 (0-1)
+    19.00  CD Tenerife             v CD Alavés                1-1 (0-1)
+
+
+» Matchday 13
+  Sat Nov/15
+    16.00  RCD Mallorca            v AD Alcorcón              1-1 (1-1)
+           CD Leganés              v Girona FC                1-2 (1-1)
+    18.00  CD Alavés               v Sporting Gijón           0-0
+           FC Barcelona B          v CD Numancia              1-1 (0-0)
+           CE Sabadell             v Real Valladolid          0-0
+    18.15  CA Osasuna              v SD Ponferradina          0-1 (0-1)
+    18.30  UD Las Palmas           v CD Mirandés              0-0
+  Sun Nov/16
+    17.00  CD Lugo                 v Racing Santander         0-0
+    18.15  Recreativo Huelva       v Albacete                 4-1 (2-1)
+    19.00  UE Llagostera           v CD Tenerife              2-0 (0-0)
+    20.00  Real Zaragoza           v Real Betis               2-2 (0-1)
+
+
+» Matchday 14
+  Sat Nov/22
+    16.00  Racing Santander        v CE Sabadell              3-1 (2-1)
+           SD Ponferradina         v FC Barcelona B           4-4 (1-3)
+    18.00  Sporting Gijón          v UE Llagostera            0-0
+    18.15  CD Numancia             v Real Zaragoza            2-0 (1-0)
+    20.00  CD Tenerife             v RCD Mallorca             0-0
+  Sun Nov/23
+    12.00  Real Valladolid         v UD Las Palmas            1-2 (1-0)
+    17.00  Girona FC               v Recreativo Huelva        2-0 (2-0)
+           CD Mirandés             v CD Leganés               1-0 (0-0)
+    18.15  Real Betis              v CD Alavés                1-2 (0-2)
+    19.00  Albacete                v CA Osasuna               2-0 (1-0)
+    21.00  AD Alcorcón             v CD Lugo                  1-0 (0-0)
+
+
+» Matchday 15
+  Sat Nov/29
+    18.00  CD Alavés               v CD Numancia              0-2 (0-0)
+           CA Osasuna              v Girona FC                0-0
+    18.15  UE Llagostera           v Real Betis               0-2 (0-0)
+    21.30  CD Leganés              v Real Valladolid          1-0 (0-0)
+  Sun Nov/30
+    12.00  RCD Mallorca            v Sporting Gijón           0-1 (0-0)
+    12.15  Racing Santander        v AD Alcorcón              0-1 (0-1)
+    17.00  FC Barcelona B          v Albacete                 1-2 (1-0)
+           Recreativo Huelva       v CD Mirandés              0-1 (0-0)
+    18.15  Real Zaragoza           v SD Ponferradina          4-1 (3-0)
+    19.00  CD Lugo                 v CD Tenerife              1-0 (0-0)
+  Wed Dec/10
+    20.00  CE Sabadell             v UD Las Palmas            2-2 (1-1)
+
+
+» Matchday 16
+  Sat Dec/6
+    16.00  CD Numancia             v UE Llagostera            3-2 (0-0)
+    18.00  CD Mirandés             v CA Osasuna               1-0 (0-0)
+    20.00  SD Ponferradina         v CD Alavés                2-1 (0-1)
+           UD Las Palmas           v CD Leganés               1-0 (0-0)
+  Sun Dec/7
+    12.00  Girona FC               v FC Barcelona B           0-1 (0-0)
+    17.00  AD Alcorcón             v CE Sabadell              3-2 (3-1)
+           Sporting Gijón          v CD Lugo                  2-1 (1-1)
+    18.15  Real Valladolid         v Recreativo Huelva        1-0 (1-0)
+    19.00  CD Tenerife             v Racing Santander         1-0 (0-0)
+  Mon Dec/8
+    18.15  Real Betis              v RCD Mallorca             1-0 (0-0)
+    20.30  Albacete                v Real Zaragoza            2-2 (1-1)
+
+
+» Matchday 17
+  Sat Dec/13
+    18.00  Racing Santander        v Sporting Gijón           1-1 (0-1)
+           FC Barcelona B          v CD Mirandés              1-3 (0-1)
+    18.15  CD Lugo                 v Real Betis               0-1 (0-0)
+    20.00  Recreativo Huelva       v UD Las Palmas            2-4 (0-3)
+  Sun Dec/14
+    12.00  CA Osasuna              v Real Valladolid          2-1 (2-1)
+    12.15  RCD Mallorca            v CD Numancia              1-1 (0-1)
+    17.00  UE Llagostera           v SD Ponferradina          3-1 (0-0)
+           Real Zaragoza           v Girona FC                2-1 (0-1)
+    18.15  CD Alavés               v Albacete                 2-1 (1-1)
+    19.00  AD Alcorcón             v CD Tenerife              0-0
+    21.00  CE Sabadell             v CD Leganés               1-2 (0-2)
+
+
+» Matchday 18
+  Sat Dec/20
+    16.00  Girona FC               v CD Alavés                2-2 (1-1)
+    17.00  SD Ponferradina         v RCD Mallorca             3-1 (1-0)
+    18.15  CD Mirandés             v Real Zaragoza            1-1 (0-0)
+    20.00  CD Tenerife             v CE Sabadell              1-0 (1-0)
+    21.00  CD Numancia             v CD Lugo                  6-6 (1-1)
+  Sun Dec/21
+    12.00  Real Betis              v Racing Santander         2-0 (1-0)
+    12.15  Albacete                v UE Llagostera            0-2 (0-1)
+    17.00  Sporting Gijón          v AD Alcorcón              2-1 (2-0)
+    18.15  CD Leganés              v Recreativo Huelva        2-0 (1-0)
+    19.00  Real Valladolid         v FC Barcelona B           7-0 (4-0)
+           UD Las Palmas           v CA Osasuna               1-2 (1-0)
+
+
+» Matchday 19
+  Sat Jan/3 2015
+    16.00  CD Alavés               v CD Mirandés              1-3 (0-2)
+    18.00  RCD Mallorca            v Albacete                 2-0 (0-0)
+           UE Llagostera           v Girona FC                1-2 (1-2)
+    18.15  CA Osasuna              v CD Leganés               2-1 (0-0)
+    20.00  FC Barcelona B          v UD Las Palmas            0-2 (0-1)
+  Sun Jan/4
+    12.00  Real Zaragoza           v Real Valladolid          0-2 (0-2)
+    12.15  CD Lugo                 v SD Ponferradina          0-0
+    17.00  CE Sabadell             v Recreativo Huelva        1-0 (0-0)
+    18.15  AD Alcorcón             v Real Betis               0-0
+    19.00  CD Tenerife             v Sporting Gijón           1-1 (1-0)
+    21.00  Racing Santander        v CD Numancia              1-1 (0-1)
+
+
+» Matchday 20
+  Sat Jan/10
+    16.00  CD Leganés              v FC Barcelona B           2-0 (1-0)
+    18.00  Albacete                v CD Lugo                  3-0 (1-0)
+           Girona FC               v RCD Mallorca             0-0
+    18.15  Recreativo Huelva       v CA Osasuna               1-1 (0-0)
+    20.00  Real Betis              v CD Tenerife              3-1 (1-0)
+  Sun Jan/11
+    12.00  UD Las Palmas           v Real Zaragoza            5-3 (1-1)
+    12.15  CD Numancia             v AD Alcorcón              2-2 (1-1)
+    17.00  CE Sabadell             v Sporting Gijón           2-2 (1-2)
+           CD Mirandés             v UE Llagostera            1-0 (0-0)
+    18.15  Real Valladolid         v CD Alavés                2-0 (1-0)
+    21.00  SD Ponferradina         v Racing Santander         1-1 (0-0)
+
+
+» Matchday 21
+  Sat Jan/17
+    16.00  CA Osasuna              v CE Sabadell              0-0
+    18.00  CD Lugo                 v Girona FC                1-2 (1-2)
+    18.15  Racing Santander        v Albacete                 1-0 (1-0)
+    20.00  CD Alavés               v UD Las Palmas            1-1 (0-0)
+  Sun Jan/18
+    12.00  Sporting Gijón          v Real Betis               1-2 (1-0)
+    17.00  RCD Mallorca            v CD Mirandés              2-0 (0-0)
+           UE Llagostera           v Real Valladolid          2-0 (0-0)
+           FC Barcelona B          v Recreativo Huelva        3-1 (0-0)
+    18.15  Real Zaragoza           v CD Leganés               2-0 (1-0)
+    19.00  CD Tenerife             v CD Numancia              0-0
+    21.00  AD Alcorcón             v SD Ponferradina          1-1 (1-1)
+
+
+» Matchday 22
+  Sat Jan/24
+    16.00  CD Alavés               v CD Leganés               2-0 (1-0)
+    18.00  Real Betis              v CE Sabadell              2-0 (2-0)
+    18.15  Real Zaragoza           v Recreativo Huelva        2-0 (0-0)
+    20.00  CD Tenerife             v SD Ponferradina          0-1 (0-1)
+  Sun Jan/25
+    12.00  RCD Mallorca            v Real Valladolid          1-5 (1-3)
+    17.00  FC Barcelona B          v CA Osasuna               0-1 (0-1)
+           Sporting Gijón          v CD Numancia              3-0 (0-0)
+    18.00  AD Alcorcón             v Albacete                 2-3 (1-2)
+    18.15  Racing Santander        v Girona FC                0-1 (0-1)
+    19.00  UE Llagostera           v UD Las Palmas            0-0
+    21.00  CD Lugo                 v CD Mirandés              1-1 (0-1)
+
+
+» Matchday 23
+  Sat Jan/31
+    18.00  CE Sabadell             v FC Barcelona B           1-4 (1-3)
+           Albacete                v CD Tenerife              3-2 (1-1)
+           SD Ponferradina         v Sporting Gijón           0-2 (0-1)
+    18.15  CD Numancia             v Real Betis               1-1 (1-1)
+    20.00  CD Leganés              v UE Llagostera            2-0 (0-0)
+           CD Mirandés             v Racing Santander         0-2 (0-0)
+    21.00  UD Las Palmas           v RCD Mallorca             2-1 (0-1)
+  Sun Feb/1
+    17.00  Recreativo Huelva       v CD Alavés                0-0
+           Girona FC               v AD Alcorcón              3-0 (0-0)
+    18.15  Real Valladolid         v CD Lugo                  0-0
+  Tue Feb/10
+    19.00  CA Osasuna              v Real Zaragoza            0-1 (0-1)
+
+
+» Matchday 24
+  Sat Feb/7
+    18.00  Real Zaragoza           v FC Barcelona B           4-0 (3-0)
+    18.15  Racing Santander        v Real Valladolid          1-4 (0-1)
+    20.00  UE Llagostera           v Recreativo Huelva        1-0 (0-0)
+    21.00  AD Alcorcón             v CD Mirandés              2-2 (0-1)
+  Sun Feb/8
+    12.00  CD Lugo                 v UD Las Palmas            2-1 (0-1)
+    17.00  RCD Mallorca            v CD Leganés               0-2 (0-2)
+           Sporting Gijón          v Albacete                 2-1 (0-0)
+           CD Numancia             v CE Sabadell              3-0 (1-0)
+    18.15  Real Betis              v SD Ponferradina          1-1 (1-0)
+    19.00  CD Tenerife             v Girona FC                0-1 (0-1)
+  Wed Mar/18
+    21.00  CD Alavés               v CA Osasuna               3-0 (1-0)
+
+
+» Matchday 25
+  Sat Feb/14
+    18.00  CA Osasuna              v UE Llagostera            0-1 (0-0)
+    18.15  Recreativo Huelva       v RCD Mallorca             0-0
+    20.00  FC Barcelona B          v CD Alavés                0-0
+    21.00  CD Mirandés             v CD Tenerife              1-1 (0-1)
+  Sun Feb/15
+    12.00  Girona FC               v Sporting Gijón           0-0
+    16.00  Real Valladolid         v AD Alcorcón              1-0 (1-0)
+           SD Ponferradina         v CD Numancia              1-2 (1-0)
+    17.00  CE Sabadell             v Real Zaragoza            0-0
+    18.15  Albacete                v Real Betis               0-0
+    19.00  UD Las Palmas           v Racing Santander         1-0 (1-0)
+    21.00  CD Leganés              v CD Lugo                  2-0 (0-0)
+
+
+» Matchday 26
+  Sat Feb/21
+    18.00  Racing Santander        v CD Leganés               1-2 (1-1)
+    18.15  RCD Mallorca            v CA Osasuna               3-0 (2-0)
+    19.00  AD Alcorcón             v UD Las Palmas            0-0
+    20.00  Real Betis              v Girona FC                2-1 (0-0)
+  Sun Feb/22
+    16.00  CD Lugo                 v Recreativo Huelva        2-1 (1-0)
+           SD Ponferradina         v CE Sabadell              3-0 (1-0)
+    17.00  UE Llagostera           v FC Barcelona B           1-0 (1-0)
+           Sporting Gijón          v CD Mirandés              4-1 (2-0)
+    18.15  CD Alavés               v Real Zaragoza            4-0 (1-0)
+    19.00  CD Tenerife             v Real Valladolid          2-0 (0-0)
+    21.00  CD Numancia             v Albacete                 1-1 (0-0)
+
+
+» Matchday 27
+  Sat Feb/28
+    16.00  CA Osasuna              v CD Lugo                  0-2 (0-2)
+    18.00  CE Sabadell             v CD Alavés                2-1 (1-0)
+           Real Valladolid         v Sporting Gijón           3-0 (2-0)
+    18.15  FC Barcelona B          v RCD Mallorca             2-4 (1-2)
+  Sun Mar/1
+    13.00  UD Las Palmas           v CD Tenerife              1-1 (0-0)
+    16.00  Recreativo Huelva       v Racing Santander         1-0 (0-0)
+           Albacete                v SD Ponferradina          2-1 (1-1)
+    17.00  Girona FC               v CD Numancia              2-1 (1-1)
+    18.15  CD Mirandés             v Real Betis               0-0
+    19.00  Real Zaragoza           v UE Llagostera            2-2 (1-1)
+    21.00  CD Leganés              v AD Alcorcón              1-2 (0-1)
+
+
+» Matchday 28
+  Sat Mar/7
+    16.00  CD Numancia             v CD Mirandés              1-0 (0-0)
+    18.00  CD Lugo                 v FC Barcelona B           3-2 (1-1)
+    18.15  Racing Santander        v CA Osasuna               2-0 (1-0)
+    20.00  CD Tenerife             v CD Leganés               1-0 (1-0)
+           Albacete                v CE Sabadell              0-0
+  Sun Mar/8
+    12.00  Real Betis              v Real Valladolid          4-0 (1-0)
+    16.00  UE Llagostera           v CD Alavés                3-1 (3-0)
+    17.00  SD Ponferradina         v Girona FC                3-0 (2-0)
+    18.15  RCD Mallorca            v Real Zaragoza            3-2 (2-2)
+    19.00  Sporting Gijón          v UD Las Palmas            1-1 (0-0)
+    21.00  AD Alcorcón             v Recreativo Huelva        1-1 (1-0)
+
+
+» Matchday 29
+  Sat Mar/14
+    16.00  CA Osasuna              v AD Alcorcón              1-1 (1-0)
+    18.00  CE Sabadell             v UE Llagostera            1-1 (0-1)
+           CD Alavés               v RCD Mallorca             2-0 (1-0)
+           CD Leganés              v Sporting Gijón           0-1 (0-1)
+    18.15  Real Zaragoza           v CD Lugo                  0-0
+    20.00  Recreativo Huelva       v CD Tenerife              1-1 (1-1)
+    21.30  Real Valladolid         v CD Numancia              4-0 (3-0)
+  Sun Mar/15
+    12.00  UD Las Palmas           v Real Betis               0-3 (0-0)
+    16.00  CD Mirandés             v SD Ponferradina          2-1 (0-0)
+    18.00  Girona FC               v Albacete                 2-2 (1-0)
+    18.15  FC Barcelona B          v Racing Santander         1-1 (0-0)
+
+
+» Matchday 30
+  Sat Mar/21
+    16.00  RCD Mallorca            v UE Llagostera            0-1 (0-0)
+    18.00  AD Alcorcón             v FC Barcelona B           3-1 (2-1)
+    18.15  Real Betis              v CD Leganés               1-3 (0-2)
+    20.00  CD Numancia             v UD Las Palmas            4-2 (3-1)
+           Albacete                v CD Mirandés              0-0
+  Sun Mar/22
+    12.00  Racing Santander        v Real Zaragoza            0-2 (0-0)
+    16.00  CD Lugo                 v CD Alavés                3-2 (1-0)
+    17.00  Sporting Gijón          v Recreativo Huelva        1-1 (1-1)
+           Girona FC               v CE Sabadell              0-0
+    18.00  SD Ponferradina         v Real Valladolid          2-0 (1-0)
+    19.00  CD Tenerife             v CA Osasuna               2-1 (1-0)
+
+
+» Matchday 31
+  Sat Mar/28
+    16.00  CD Leganés              v CD Numancia              0-0
+    18.00  UE Llagostera           v CD Lugo                  3-2 (2-1)
+           CD Alavés               v Racing Santander         2-1 (1-1)
+           Real Valladolid         v Albacete                 0-1 (0-1)
+    18.15  Recreativo Huelva       v Real Betis               0-1 (0-0)
+    21.00  UD Las Palmas           v SD Ponferradina          4-2 (2-1)
+  Sun Mar/29
+    12.00  CA Osasuna              v Sporting Gijón           0-0
+    17.00  CD Mirandés             v Girona FC                0-1 (0-1)
+    18.15  Real Zaragoza           v AD Alcorcón              1-1 (1-0)
+    19.00  FC Barcelona B          v CD Tenerife              2-2 (2-1)
+    21.00  CE Sabadell             v RCD Mallorca             1-1 (1-0)
+
+
+» Matchday 32
+  Sat Apr/4
+    16.00  CD Mirandés             v CE Sabadell              0-0
+    18.00  Girona FC               v Real Valladolid          2-1 (1-1)
+    18.15  CD Lugo                 v RCD Mallorca             4-0 (3-0)
+    21.30  Albacete                v UD Las Palmas            1-0 (0-0)
+  Sun Apr/5
+    12.00  Real Betis              v CA Osasuna               3-0 (0-0)
+    16.00  SD Ponferradina         v CD Leganés               1-1 (0-1)
+    17.00  Sporting Gijón          v FC Barcelona B           0-0
+    18.15  CD Numancia             v Recreativo Huelva        1-2 (1-1)
+    19.00  Racing Santander        v UE Llagostera            0-2 (0-1)
+           CD Tenerife             v Real Zaragoza            1-1 (1-0)
+    21.00  AD Alcorcón             v CD Alavés                0-1 (0-0)
+
+
+» Matchday 33
+  Sat Apr/11
+    16.00  RCD Mallorca            v Racing Santander         2-3 (0-1)
+    18.00  CE Sabadell             v CD Lugo                  2-1 (1-1)
+           Real Zaragoza           v Sporting Gijón           1-1 (0-0)
+    18.15  Real Valladolid         v CD Mirandés              2-1 (2-0)
+    20.00  UE Llagostera           v AD Alcorcón              0-0
+           CD Alavés               v CD Tenerife              1-0 (1-0)
+  Sun Apr/12
+    12.00  UD Las Palmas           v Girona FC                2-0 (1-0)
+    16.00  Recreativo Huelva       v SD Ponferradina          0-1 (0-0)
+    17.00  FC Barcelona B          v Real Betis               1-2 (1-1)
+    18.15  CA Osasuna              v CD Numancia              1-1 (0-1)
+    21.00  CD Leganés              v Albacete                 2-0 (2-0)
+
+
+» Matchday 34
+  Sat Apr/18
+    16.00  Girona FC               v CD Leganés               2-1 (0-0)
+    18.00  Sporting Gijón          v CD Alavés                1-0 (0-0)
+    18.15  SD Ponferradina         v CA Osasuna               1-0 (1-0)
+    20.00  CD Mirandés             v UD Las Palmas            2-1 (1-0)
+    21.30  Racing Santander        v CD Lugo                  1-0 (0-0)
+           Albacete                v Recreativo Huelva        3-1 (2-0)
+  Sun Apr/19
+    12.00  Real Betis              v Real Zaragoza            4-0 (1-0)
+    16.00  AD Alcorcón             v RCD Mallorca             0-0
+    17.00  CD Numancia             v FC Barcelona B           1-0 (1-0)
+    18.15  Real Valladolid         v CE Sabadell              0-0
+    19.00  CD Tenerife             v UE Llagostera            0-0
+
+
+» Matchday 35
+  Sat Apr/25
+    16.00  CD Lugo                 v AD Alcorcón              0-0
+    18.00  CA Osasuna              v Albacete                 2-1 (1-0)
+    18.15  CD Alavés               v Real Betis               1-2 (0-1)
+    18.30  FC Barcelona B          v SD Ponferradina          2-1 (0-0)
+    20.00  RCD Mallorca            v CD Tenerife              2-1 (0-1)
+  Sun Apr/26
+    12.00  UD Las Palmas           v Real Valladolid          1-1 (0-0)
+    16.00  CE Sabadell             v Racing Santander         3-2 (1-1)
+    16.30  UE Llagostera           v Sporting Gijón           0-0
+    18.00  Recreativo Huelva       v Girona FC                0-3 (0-2)
+    18.15  Real Zaragoza           v CD Numancia              1-0 (1-0)
+    21.00  CD Leganés              v CD Mirandés              0-0
+
+
+» Matchday 36
+  Sat May/2
+    16.00  AD Alcorcón             v Racing Santander         2-0 (1-0)
+           CD Numancia             v CD Alavés                1-0 (0-0)
+    18.15  Real Betis              v UE Llagostera            2-2 (0-1)
+    18.30  Girona FC               v CA Osasuna               3-0 (1-0)
+    20.00  UD Las Palmas           v CE Sabadell              2-0 (0-0)
+  Sun May/3
+    12.00  SD Ponferradina         v Real Zaragoza            1-1 (0-0)
+    17.00  Sporting Gijón          v RCD Mallorca             1-0 (1-0)
+    18.15  Real Valladolid         v CD Leganés               2-0 (1-0)
+    19.00  CD Tenerife             v CD Lugo                  1-1 (0-0)
+           Albacete                v FC Barcelona B           2-1 (0-0)
+    21.00  CD Mirandés             v Recreativo Huelva        2-1 (1-0)
+
+
+» Matchday 37
+  Sat May/9
+    16.00  FC Barcelona B          v Girona FC                2-4 (1-1)
+    18.00  CE Sabadell             v AD Alcorcón              0-1 (0-1)
+           CD Lugo                 v Sporting Gijón           1-2 (0-2)
+           Recreativo Huelva       v Real Valladolid          0-3 (0-3)
+    20.00  CD Leganés              v UD Las Palmas            2-1 (0-0)
+  Sun May/10
+    12.00  RCD Mallorca            v Real Betis               1-2 (1-2)
+    16.00  UE Llagostera           v CD Numancia              0-0
+    18.00  CA Osasuna              v CD Mirandés              2-0 (1-0)
+    18.15  Real Zaragoza           v Albacete                 3-1 (2-0)
+    19.00  Racing Santander        v CD Tenerife              1-0 (1-0)
+    21.00  CD Alavés               v SD Ponferradina          2-1 (1-1)
+
+
+» Matchday 38
+  Sat May/16
+    16.00  Albacete                v CD Alavés                2-3 (1-1)
+           CD Leganés              v CE Sabadell              1-1 (1-0)
+    18.00  Sporting Gijón          v Racing Santander         3-1 (1-1)
+    18.15  Real Valladolid         v CA Osasuna               1-1 (0-0)
+    20.00  CD Numancia             v RCD Mallorca             1-2 (1-1)
+           CD Mirandés             v FC Barcelona B           2-3 (1-1)
+           UD Las Palmas           v Recreativo Huelva        3-0 (2-0)
+  Sun May/17
+    12.00  Girona FC               v Real Zaragoza            1-1 (0-1)
+    16.00  SD Ponferradina         v UE Llagostera            0-1 (0-0)
+    18.15  Real Betis              v CD Lugo                  5-1 (2-1)
+    21.00  CD Tenerife             v AD Alcorcón              1-1 (1-1)
+
+
+» Matchday 39
+  Tue May/19
+    21.00  FC Barcelona B          v Real Valladolid          1-3 (0-1)
+    22.00  CA Osasuna              v UD Las Palmas            1-2 (1-2)
+  Wed May/20
+    20.00  AD Alcorcón             v Sporting Gijón           0-0
+           RCD Mallorca            v SD Ponferradina          1-0 (0-0)
+           Recreativo Huelva       v CD Leganés               1-0 (0-0)
+    21.00  CD Lugo                 v CD Numancia              1-1 (0-1)
+           CD Alavés               v Girona FC                0-3 (0-1)
+    22.00  CE Sabadell             v CD Tenerife              1-3 (0-3)
+           Real Zaragoza           v CD Mirandés              0-1 (0-1)
+  Thu May/21
+    20.00  Racing Santander        v Real Betis               2-4 (1-2)
+    21.00  UE Llagostera           v Albacete                 2-3 (1-2)
+
+
+» Matchday 40
+  Sat May/23
+    16.00  CD Mirandés             v CD Alavés                3-0 (2-0)
+           Recreativo Huelva       v CE Sabadell              3-1 (1-0)
+    18.00  SD Ponferradina         v CD Lugo                  1-0 (1-0)
+    18.15  CD Leganés              v CA Osasuna               1-1 (0-1)
+    21.30  UD Las Palmas           v FC Barcelona B           4-3 (2-0)
+  Sun May/24
+    16.15  Girona FC               v UE Llagostera            1-0 (0-0)
+    18.00  Sporting Gijón          v CD Tenerife              2-0 (1-0)
+           CD Numancia             v Racing Santander         0-2 (0-1)
+           Real Valladolid         v Real Zaragoza            1-3 (1-0)
+    20.00  Real Betis              v AD Alcorcón              3-0 (1-0)
+    21.00  Albacete                v RCD Mallorca             4-2 (2-2)
+
+
+» Matchday 41
+  Sun May/31
+    18.00  Sporting Gijón          v CE Sabadell              2-0 (2-0)
+           CD Tenerife             v Real Betis               2-0 (0-0)
+           AD Alcorcón             v CD Numancia              1-1 (1-0)
+           Racing Santander        v SD Ponferradina          0-1 (0-0)
+           CD Lugo                 v Albacete                 1-1 (1-0)
+           RCD Mallorca            v Girona FC                0-1 (0-0)
+           UE Llagostera           v CD Mirandés              0-1 (0-0)
+           CD Alavés               v Real Valladolid          0-2 (0-0)
+           Real Zaragoza           v UD Las Palmas            0-2 (0-2)
+           FC Barcelona B          v CD Leganés               2-5 (1-1)
+           CA Osasuna              v Recreativo Huelva        2-0 (2-0)
+
+
+» Matchday 42
+  Sun Jun/7
+    18.00  Real Betis              v Sporting Gijón           0-3 (0-1)
+           SD Ponferradina         v AD Alcorcón              1-1 (1-1)
+           Albacete                v Racing Santander         0-1 (0-1)
+           Girona FC               v CD Lugo                  1-1 (1-0)
+           CD Mirandés             v RCD Mallorca             2-0 (1-0)
+           Real Valladolid         v UE Llagostera            2-4 (1-2)
+           UD Las Palmas           v CD Alavés                3-2 (2-0)
+           CD Leganés              v Real Zaragoza            2-2 (2-2)
+           Recreativo Huelva       v FC Barcelona B           2-0 (2-0)
+           CE Sabadell             v CA Osasuna               2-2 (2-0)
+    20.00  CD Numancia             v CD Tenerife              3-3 (1-1)

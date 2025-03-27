@@ -1,0 +1,713 @@
+= Segunda División de España 2016/17
+
+# Date       Fri Aug/19 2016 - Sun Jun/11 2017 (296d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Fri Aug/19 2016
+    20.00  CD Mirandés             v Getafe CF                1-1 (0-0)
+    22.00  UD Almería              v Cádiz CF                 1-1 (0-0)
+  Sat Aug/20
+    19.00  RCD Mallorca            v CF Reus Deportiu         0-1 (0-0)
+           Elche CF                v Rayo Vallecano           2-1 (2-1)
+           AD Alcorcón             v SD Huesca                0-0
+    21.00  Córdoba CF              v CD Tenerife              1-0 (1-0)
+  Sun Aug/21
+    19.00  Gimnàstic de Tarragona  v CD Lugo                  2-2 (0-2)
+           CD Numancia             v Levante UD               0-1 (0-0)
+    21.00  Sevilla Atlético        v Girona FC                3-3 (1-0)
+    22.30  Real Valladolid         v Real Oviedo              1-0 (1-0)
+  Mon Aug/22
+    20.00  Real Zaragoza           v UCAM Murcia CF           3-1 (3-0)
+
+
+» Matchday 2
+  Fri Aug/26
+    20.00  Getafe CF               v CD Numancia              0-0
+    22.00  CD Tenerife             v Sevilla Atlético         1-1 (0-1)
+  Sat Aug/27
+    19.00  CF Reus Deportiu        v CD Mirandés              1-1 (1-1)
+           Real Oviedo             v UD Almería               2-0 (0-0)
+           Girona FC               v Elche CF                 3-1 (2-0)
+    21.00  CD Lugo                 v Real Zaragoza            3-3 (1-1)
+  Sun Aug/28
+    19.00  UCAM Murcia CF          v Córdoba CF               1-1 (0-0)
+           SD Huesca               v Gimnàstic de Tarragona   1-1 (0-0)
+           Levante UD              v AD Alcorcón              2-0 (2-0)
+    21.00  Rayo Vallecano          v Real Valladolid          0-0
+    22.30  Cádiz CF                v RCD Mallorca             1-1 (1-0)
+
+
+» Matchday 3
+  Fri Sep/2
+    20.00  Sevilla Atlético        v UCAM Murcia CF           1-1 (0-0)
+    21.00  Córdoba CF              v CD Lugo                  3-3 (1-1)
+  Sat Sep/3
+    16.00  CD Mirandés             v Cádiz CF                 3-2 (0-2)
+    18.00  Getafe CF               v CF Reus Deportiu         1-1 (0-0)
+           UD Almería              v Rayo Vallecano           3-0 (2-0)
+           Real Valladolid         v Girona FC                2-1 (2-0)
+    20.00  Elche CF                v CD Tenerife              3-1 (1-0)
+  Sun Sep/4
+    16.00  CD Numancia             v AD Alcorcón              1-1 (1-1)
+    18.00  Gimnàstic de Tarragona  v Levante UD               1-1 (0-0)
+    20.00  RCD Mallorca            v Real Oviedo              0-0
+    20.30  Real Zaragoza           v SD Huesca                1-0 (0-0)
+
+
+» Matchday 4
+  Sat Sep/10
+    16.00  CD Lugo                 v Sevilla Atlético         1-0 (0-0)
+    18.00  CF Reus Deportiu        v CD Numancia              1-1 (0-0)
+           CD Tenerife             v Real Valladolid          1-0 (1-0)
+    20.00  Levante UD              v Real Zaragoza            4-2 (3-1)
+  Sun Sep/11
+    12.00  Rayo Vallecano          v RCD Mallorca             1-0 (0-0)
+    16.00  Real Oviedo             v CD Mirandés              0-0
+    18.00  Cádiz CF                v Getafe CF                3-0 (1-0)
+           UCAM Murcia CF          v Elche CF                 1-1 (0-1)
+           SD Huesca               v Córdoba CF               3-0 (2-0)
+           AD Alcorcón             v Gimnàstic de Tarragona   1-0 (0-0)
+    20.00  Girona FC               v UD Almería               3-3 (2-1)
+
+
+» Matchday 5
+  Sat Sep/17
+    16.00  CD Numancia             v Gimnàstic de Tarragona   1-0 (1-0)
+    18.00  CF Reus Deportiu        v Cádiz CF                 1-0 (0-0)
+           Real Valladolid         v UCAM Murcia CF           0-1 (0-0)
+           Elche CF                v CD Lugo                  0-3 (0-2)
+           Córdoba CF              v Levante UD               1-0 (1-0)
+    20.00  Real Zaragoza           v AD Alcorcón              2-0 (1-0)
+  Sun Sep/18
+    12.00  UD Almería              v CD Tenerife              0-1 (0-0)
+    16.00  CD Mirandés             v Rayo Vallecano           2-1 (1-1)
+    18.00  Getafe CF               v Real Oviedo              2-1 (0-1)
+           Sevilla Atlético        v SD Huesca                2-0 (0-0)
+    20.00  RCD Mallorca            v Girona FC                1-0 (1-0)
+
+
+» Matchday 6
+  Tue Sep/20
+    20.00  CD Lugo                 v Real Valladolid          1-0 (1-0)
+           AD Alcorcón             v Córdoba CF               0-1 (0-0)
+    22.00  Cádiz CF                v CD Numancia              1-0 (0-0)
+           Gimnàstic de Tarragona  v Real Zaragoza            0-0
+  Wed Sep/21
+    20.00  SD Huesca               v Elche CF                 0-3 (0-0)
+           Levante UD              v Sevilla Atlético         1-0 (0-0)
+    22.00  UCAM Murcia CF          v UD Almería               4-0 (1-0)
+  Thu Sep/22
+    20.00  Real Oviedo             v CF Reus Deportiu         0-1 (0-0)
+           Rayo Vallecano          v Getafe CF                2-0 (1-0)
+           Girona FC               v CD Mirandés              1-1 (0-0)
+    22.00  CD Tenerife             v RCD Mallorca             0-0
+
+
+» Matchday 7
+  Sat Sep/24
+    16.00  Sevilla Atlético        v AD Alcorcón              1-1 (1-0)
+    18.00  UD Almería              v CD Lugo                  0-0
+           Real Valladolid         v SD Huesca                1-2 (0-0)
+           Córdoba CF              v Gimnàstic de Tarragona   2-0 (1-0)
+    20.00  Elche CF                v Levante UD               0-1 (0-0)
+  Sun Sep/25
+    12.00  Cádiz CF                v Real Oviedo              0-2 (0-2)
+    16.00  CD Mirandés             v CD Tenerife              3-2 (2-0)
+    18.00  Getafe CF               v Girona FC                0-2 (0-1)
+           RCD Mallorca            v UCAM Murcia CF           0-0
+           CD Numancia             v Real Zaragoza            2-1 (1-1)
+    20.00  CF Reus Deportiu        v Rayo Vallecano           1-1 (1-0)
+
+
+» Matchday 8
+  Sat Oct/1
+    16.00  SD Huesca               v UD Almería               2-0 (1-0)
+    18.00  CD Lugo                 v RCD Mallorca             3-1 (2-1)
+           AD Alcorcón             v Elche CF                 1-0 (0-0)
+           Gimnàstic de Tarragona  v Sevilla Atlético         1-1 (1-1)
+    19.30  Real Zaragoza           v Córdoba CF               1-1 (1-1)
+  Sun Oct/2
+    12.00  UCAM Murcia CF          v CD Mirandés              2-2 (1-2)
+    16.00  Girona FC               v CF Reus Deportiu         1-0 (0-0)
+    17.45  Levante UD              v Real Valladolid          3-2 (1-1)
+    18.00  Real Oviedo             v CD Numancia              2-2 (1-1)
+           CD Tenerife             v Getafe CF                0-0
+    20.00  Rayo Vallecano          v Cádiz CF                 3-0 (1-0)
+
+
+» Matchday 9
+  Sat Oct/8
+    16.00  CF Reus Deportiu        v CD Tenerife              0-0
+    18.00  Getafe CF               v UCAM Murcia CF           2-0 (0-0)
+           Real Valladolid         v AD Alcorcón              2-0 (2-0)
+           Elche CF                v Gimnàstic de Tarragona   4-4 (2-1)
+           CD Numancia             v Córdoba CF               1-1 (1-0)
+    20.00  Sevilla Atlético        v Real Zaragoza            2-1 (0-0)
+  Sun Oct/9
+    12.00  Real Oviedo             v Rayo Vallecano           2-0 (1-0)
+    16.00  CD Mirandés             v CD Lugo                  2-2 (0-2)
+    18.00  Cádiz CF                v Girona FC                0-0
+           RCD Mallorca            v SD Huesca                3-0 (2-0)
+           UD Almería              v Levante UD               2-2 (1-0)
+
+
+» Matchday 10
+  Sat Oct/15
+    16.00  CD Lugo                 v Getafe CF                0-1 (0-0)
+    18.00  Girona FC               v Real Oviedo              0-0
+           SD Huesca               v CD Mirandés              3-0 (1-0)
+           AD Alcorcón             v UD Almería               0-0
+    20.00  Levante UD              v RCD Mallorca             2-1 (1-1)
+  Sun Oct/16
+    12.00  Real Zaragoza           v Elche CF                 1-3 (0-3)
+    16.00  Córdoba CF              v Sevilla Atlético         0-1 (0-0)
+    18.00  Rayo Vallecano          v CD Numancia              3-3 (1-1)
+           UCAM Murcia CF          v CF Reus Deportiu         0-2 (0-2)
+           Gimnàstic de Tarragona  v Real Valladolid          1-2 (1-1)
+    20.00  CD Tenerife             v Cádiz CF                 1-1 (0-0)
+
+
+» Matchday 11
+  Sat Oct/22
+    16.00  Elche CF                v Córdoba CF               1-1 (1-0)
+    18.00  CF Reus Deportiu        v CD Lugo                  2-1 (2-0)
+           Getafe CF               v SD Huesca                1-1 (0-0)
+           CD Numancia             v Sevilla Atlético         1-2 (1-1)
+    20.00  Rayo Vallecano          v Girona FC                1-0 (0-0)
+  Sun Oct/23
+    12.00  RCD Mallorca            v AD Alcorcón              1-0 (0-0)
+           Real Valladolid         v Real Zaragoza            0-0
+    16.00  UD Almería              v Gimnàstic de Tarragona   3-0 (1-0)
+    18.00  Cádiz CF                v UCAM Murcia CF           2-2 (2-0)
+           CD Mirandés             v Levante UD               0-3 (0-1)
+    20.00  Real Oviedo             v CD Tenerife              2-0 (1-0)
+
+
+» Matchday 12
+  Sat Oct/29
+    16.00  SD Huesca               v CF Reus Deportiu         2-1 (0-1)
+    18.00  CD Tenerife             v Rayo Vallecano           3-2 (2-1)
+           Real Zaragoza           v UD Almería               2-1 (1-0)
+    20.00  Córdoba CF              v Real Valladolid          1-1 (1-1)
+  Sun Oct/30
+    12.00  Girona FC               v CD Numancia              3-0 (3-0)
+           Sevilla Atlético        v Elche CF                 2-0 (0-0)
+    16.00  CD Lugo                 v Cádiz CF                 0-1 (0-0)
+    18.00  UCAM Murcia CF          v Real Oviedo              0-1 (0-1)
+           AD Alcorcón             v CD Mirandés              1-0 (0-0)
+           Gimnàstic de Tarragona  v RCD Mallorca             2-2 (1-0)
+    20.00  Levante UD              v Getafe CF                1-1 (1-1)
+
+
+» Matchday 13
+  Sat Nov/5
+    16.00  Cádiz CF                v SD Huesca                1-0 (0-0)
+    18.00  Girona FC               v CD Tenerife              1-1 (1-1)
+           Rayo Vallecano          v UCAM Murcia CF           0-1 (0-0)
+           Real Valladolid         v Sevilla Atlético         2-0 (0-0)
+    20.00  RCD Mallorca            v Real Zaragoza            2-2 (0-1)
+  Sun Nov/6
+    12.00  CD Mirandés             v Gimnàstic de Tarragona   0-1 (0-0)
+    16.00  CD Numancia             v Elche CF                 2-2 (2-0)
+    18.00  Real Oviedo             v CD Lugo                  1-1 (0-1)
+           Getafe CF               v AD Alcorcón              1-0 (0-0)
+           UD Almería              v Córdoba CF               3-1 (3-1)
+    20.00  CF Reus Deportiu        v Levante UD               0-1 (0-0)
+
+
+» Matchday 14
+  Fri Nov/11
+    20.00  Córdoba CF              v RCD Mallorca             0-2 (0-0)
+  Sat Nov/12
+    13.00  Elche CF                v Real Valladolid          2-0 (1-0)
+    16.00  SD Huesca               v Real Oviedo              4-0 (3-0)
+           Gimnàstic de Tarragona  v Getafe CF                1-0 (1-0)
+    18.00  CD Tenerife             v CD Numancia              1-1 (1-0)
+           AD Alcorcón             v CF Reus Deportiu         1-0 (0-0)
+    18.30  Levante UD              v Cádiz CF                 0-0
+  Sun Nov/13
+    12.00  CD Lugo                 v Rayo Vallecano           1-0 (1-0)
+    16.00  Sevilla Atlético        v UD Almería               1-0 (1-0)
+    18.00  UCAM Murcia CF          v Girona FC                0-1 (0-0)
+    20.00  Real Zaragoza           v CD Mirandés              2-0 (2-0)
+
+
+» Matchday 15
+  Fri Nov/18
+    20.00  UD Almería              v Elche CF                 2-1 (1-1)
+  Sat Nov/19
+    16.00  CD Numancia             v Real Valladolid          2-1 (1-0)
+    18.00  Real Oviedo             v Levante UD               2-0 (0-0)
+           RCD Mallorca            v Sevilla Atlético         2-2 (0-2)
+    20.00  Girona FC               v CD Lugo                  3-1 (2-1)
+  Sun Nov/20
+    12.00  CF Reus Deportiu        v Gimnàstic de Tarragona   1-0 (0-0)
+    16.00  Getafe CF               v Real Zaragoza            1-0 (0-0)
+    18.00  CD Tenerife             v UCAM Murcia CF           2-1 (2-1)
+           Rayo Vallecano          v SD Huesca                2-2 (1-1)
+           Cádiz CF                v AD Alcorcón              4-1 (0-1)
+    20.00  CD Mirandés             v Córdoba CF               1-1 (1-0)
+
+
+» Matchday 16
+  Fri Nov/25
+    20.00  Gimnàstic de Tarragona  v Cádiz CF                 1-0 (0-0)
+  Sat Nov/26
+    16.00  CD Lugo                 v CD Tenerife              1-3 (1-1)
+    18.00  UCAM Murcia CF          v CD Numancia              3-2 (0-1)
+           AD Alcorcón             v Real Oviedo              5-1 (2-0)
+           Real Valladolid         v UD Almería               0-0
+    20.00  Real Zaragoza           v CF Reus Deportiu         2-2 (1-0)
+  Sun Nov/27
+    12.00  Elche CF                v RCD Mallorca             1-0 (0-0)
+    16.00  SD Huesca               v Girona FC                1-2 (1-2)
+    18.00  Córdoba CF              v Getafe CF                1-3 (0-1)
+           Sevilla Atlético        v CD Mirandés              1-0 (1-0)
+  Wed Dec/14
+    20.00  Levante UD              v Rayo Vallecano           1-0 (1-0)
+
+
+» Matchday 17
+  Fri Dec/2
+    20.00  Getafe CF               v Sevilla Atlético         2-0 (1-0)
+  Sat Dec/3
+    18.15  UCAM Murcia CF          v CD Lugo                  1-2 (1-1)
+           CD Mirandés             v Elche CF                 1-0 (1-0)
+           CD Numancia             v UD Almería               1-0 (1-0)
+    20.00  Cádiz CF                v Real Zaragoza            3-0 (1-0)
+  Sun Dec/4
+    12.00  Girona FC               v Levante UD               2-1 (1-0)
+           Rayo Vallecano          v AD Alcorcón              2-0 (0-0)
+    16.00  Real Oviedo             v Gimnàstic de Tarragona   1-0 (1-0)
+    18.00  CD Tenerife             v SD Huesca                1-1 (1-0)
+           RCD Mallorca            v Real Valladolid          0-3 (0-0)
+    20.00  CF Reus Deportiu        v Córdoba CF               1-2 (0-1)
+
+
+» Matchday 18
+  Fri Dec/9
+    20.00  Sevilla Atlético        v CF Reus Deportiu         0-1 (0-0)
+  Sat Dec/10
+    16.00  Gimnàstic de Tarragona  v Rayo Vallecano           0-1 (0-0)
+    18.00  SD Huesca               v UCAM Murcia CF           5-2 (2-1)
+           Elche CF                v Getafe CF                2-2 (0-2)
+    20.00  Levante UD              v CD Tenerife              1-0 (0-0)
+  Sun Dec/11
+    12.00  UD Almería              v RCD Mallorca             2-1 (1-0)
+    16.00  Córdoba CF              v Cádiz CF                 1-3 (0-0)
+    18.00  CD Lugo                 v CD Numancia              3-1 (1-1)
+           AD Alcorcón             v Girona FC                2-1 (2-0)
+           Real Valladolid         v CD Mirandés              5-0 (2-0)
+    20.00  Real Zaragoza           v Real Oviedo              2-1 (1-0)
+
+
+» Matchday 19
+  Fri Dec/16
+    20.00  CF Reus Deportiu        v Elche CF                 0-1 (0-0)
+  Sat Dec/17
+    16.00  Getafe CF               v Real Valladolid          3-1 (0-0)
+    18.00  CD Lugo                 v SD Huesca                1-1 (0-1)
+           CD Tenerife             v AD Alcorcón              2-0 (1-0)
+           Real Oviedo             v Córdoba CF               1-2 (0-1)
+    20.00  Girona FC               v Gimnàstic de Tarragona   4-2 (1-2)
+  Sun Dec/18
+    18.00  Rayo Vallecano          v Real Zaragoza            1-2 (0-0)
+           CD Mirandés             v UD Almería               2-1 (0-0)
+           CD Numancia             v RCD Mallorca             3-1 (2-1)
+    20.00  Cádiz CF                v Sevilla Atlético         4-1 (1-0)
+  Wed Jan/11 2017
+    20.00  UCAM Murcia CF          v Levante UD               0-2 (0-1)
+
+
+» Matchday 20
+  Fri Jan/6
+    16.00  Real Valladolid         v CF Reus Deportiu         1-0 (0-0)
+           UD Almería              v Getafe CF                0-1 (0-0)
+    18.00  CD Numancia             v SD Huesca                0-0
+           RCD Mallorca            v CD Mirandés              2-0 (0-0)
+  Sat Jan/7
+    18.00  Levante UD              v CD Lugo                  1-0 (0-0)
+    20.00  Córdoba CF              v Rayo Vallecano           0-0
+  Sun Jan/8
+    12.00  AD Alcorcón             v UCAM Murcia CF           0-0
+    16.00  Gimnàstic de Tarragona  v CD Tenerife              1-1 (0-1)
+    18.00  Real Zaragoza           v Girona FC                0-2 (0-0)
+           Elche CF                v Cádiz CF                 2-3 (1-1)
+    20.00  Sevilla Atlético        v Real Oviedo              5-3 (3-0)
+
+
+» Matchday 21
+  Fri Jan/13
+    20.00  Cádiz CF                v Real Valladolid          0-1 (0-1)
+  Sat Jan/14
+    16.00  Rayo Vallecano          v Sevilla Atlético         1-1 (0-1)
+    18.00  UCAM Murcia CF          v Gimnàstic de Tarragona   1-1 (0-1)
+           Real Oviedo             v Elche CF                 2-1 (0-0)
+           CD Mirandés             v CD Numancia              0-3 (0-1)
+    20.00  CD Tenerife             v Real Zaragoza            1-0 (0-0)
+  Sun Jan/15
+    12.00  Getafe CF               v RCD Mallorca             1-1 (0-1)
+    16.00  CF Reus Deportiu        v UD Almería               1-0 (1-0)
+    18.00  SD Huesca               v Levante UD               0-2 (0-1)
+           CD Lugo                 v AD Alcorcón              1-0 (0-0)
+    20.00  Girona FC               v Córdoba CF               2-0 (1-0)
+
+
+» Matchday 22
+  Sat Jan/21
+    16.00  Real Oviedo             v Real Valladolid          1-0 (1-0)
+    18.00  Rayo Vallecano          v Elche CF                 1-1 (0-1)
+           CD Tenerife             v Córdoba CF               2-0 (0-0)
+           CD Lugo                 v Gimnàstic de Tarragona   2-3 (1-0)
+           SD Huesca               v AD Alcorcón              0-1 (0-0)
+    20.00  UCAM Murcia CF          v Real Zaragoza            1-0 (1-0)
+  Sun Jan/22
+    12.00  Levante UD              v CD Numancia              1-0 (1-0)
+    16.00  CF Reus Deportiu        v RCD Mallorca             1-1 (0-1)
+    18.00  Getafe CF               v CD Mirandés              1-1 (1-0)
+           Girona FC               v Sevilla Atlético         2-0 (0-0)
+    20.00  Cádiz CF                v UD Almería               1-0 (0-0)
+
+
+» Matchday 23
+  Fri Jan/27
+    20.00  Elche CF                v Girona FC                1-0 (0-0)
+  Sat Jan/28
+    16.00  Sevilla Atlético        v CD Tenerife              0-0
+    18.00  CD Mirandés             v CF Reus Deportiu         1-1 (1-0)
+           Gimnàstic de Tarragona  v SD Huesca                0-0
+           AD Alcorcón             v Levante UD               2-0 (2-0)
+    20.00  Real Valladolid         v Rayo Vallecano           2-1 (0-1)
+  Sun Jan/29
+    12.00  CD Numancia             v Getafe CF                2-0 (1-0)
+    16.00  Córdoba CF              v UCAM Murcia CF           1-1 (1-0)
+    18.00  RCD Mallorca            v Cádiz CF                 0-0
+           UD Almería              v Real Oviedo              3-0 (0-0)
+    20.00  Real Zaragoza           v CD Lugo                  1-1 (0-0)
+
+
+» Matchday 24
+  Fri Feb/3
+    20.00  UCAM Murcia CF          v Sevilla Atlético         1-0 (0-0)
+  Sat Feb/4
+    16.00  AD Alcorcón             v CD Numancia              2-3 (1-1)
+    18.00  Cádiz CF                v CD Mirandés              2-1 (1-1)
+           CD Tenerife             v Elche CF                 2-0 (1-0)
+           CD Lugo                 v Córdoba CF               1-0 (1-0)
+    20.00  SD Huesca               v Real Zaragoza            2-3 (0-0)
+  Sun Feb/5
+    12.00  Real Oviedo             v RCD Mallorca             2-1 (1-1)
+    16.00  Rayo Vallecano          v UD Almería               1-0 (1-0)
+    18.00  CF Reus Deportiu        v Getafe CF                1-1 (0-1)
+           Levante UD              v Gimnàstic de Tarragona   2-1 (0-0)
+    20.00  Girona FC               v Real Valladolid          2-1 (1-0)
+
+
+» Matchday 25
+  Fri Feb/10
+    20.00  Sevilla Atlético        v CD Lugo                  1-1 (0-0)
+  Sat Feb/11
+    16.00  UD Almería              v Girona FC                0-0
+    18.00  Real Zaragoza           v Levante UD               0-1 (0-1)
+           Gimnàstic de Tarragona  v AD Alcorcón              1-1 (1-1)
+    20.00  Getafe CF               v Cádiz CF                 3-2 (2-1)
+  Sun Feb/12
+    12.00  Córdoba CF              v SD Huesca                0-2 (0-0)
+    16.00  Real Valladolid         v CD Tenerife              0-0
+    18.00  CD Numancia             v CF Reus Deportiu         1-0 (1-0)
+           CD Mirandés             v Real Oviedo              0-2 (0-1)
+           Elche CF                v UCAM Murcia CF           1-1 (1-0)
+    20.00  RCD Mallorca            v Rayo Vallecano           2-1 (2-0)
+
+
+» Matchday 26
+  Fri Feb/17
+    20.00  CD Lugo                 v Elche CF                 1-2 (1-2)
+  Sat Feb/18
+    16.00  UCAM Murcia CF          v Real Valladolid          1-3 (0-2)
+    18.00  CD Tenerife             v UD Almería               1-0 (1-0)
+           Levante UD              v Córdoba CF               3-1 (1-1)
+           Gimnàstic de Tarragona  v CD Numancia              2-0 (0-0)
+    20.00  Girona FC               v RCD Mallorca             1-0 (0-0)
+  Sun Feb/19
+    12.00  SD Huesca               v Sevilla Atlético         2-1 (2-0)
+    16.00  Cádiz CF                v CF Reus Deportiu         0-0
+    18.00  Real Oviedo             v Getafe CF                2-1 (1-0)
+           Rayo Vallecano          v CD Mirandés              1-2 (0-0)
+    20.00  AD Alcorcón             v Real Zaragoza            1-1 (0-0)
+
+
+» Matchday 27
+  Fri Feb/24
+    20.00  CF Reus Deportiu        v Real Oviedo              1-1 (1-0)
+  Sat Feb/25
+    16.00  Córdoba CF              v AD Alcorcón              1-0 (0-0)
+    18.00  CD Mirandés             v Girona FC                0-2 (0-0)
+           RCD Mallorca            v CD Tenerife              1-4 (1-0)
+           Elche CF                v SD Huesca                1-1 (0-1)
+    20.00  Getafe CF               v Rayo Vallecano           1-0 (0-0)
+  Sun Feb/26
+    12.00  CD Numancia             v Cádiz CF                 0-3 (0-0)
+    16.00  UD Almería              v UCAM Murcia CF           2-3 (1-1)
+    18.00  Real Valladolid         v CD Lugo                  1-1 (1-1)
+           Sevilla Atlético        v Levante UD               1-1 (0-1)
+    20.00  Real Zaragoza           v Gimnàstic de Tarragona   1-2 (1-1)
+
+
+» Matchday 28
+  Fri Mar/3
+    21.00  CD Tenerife             v CD Mirandés              1-1 (1-1)
+  Sat Mar/4
+    16.00  AD Alcorcón             v Sevilla Atlético         0-0
+    18.00  Rayo Vallecano          v CF Reus Deportiu         0-0
+           Girona FC               v Getafe CF                5-1 (3-0)
+    20.00  Real Oviedo             v Cádiz CF                 2-1 (1-1)
+  Sun Mar/5
+    12.00  UCAM Murcia CF          v RCD Mallorca             1-1 (0-1)
+    16.00  SD Huesca               v Real Valladolid          1-0 (0-0)
+    18.00  CD Lugo                 v UD Almería               1-2 (0-1)
+           Levante UD              v Elche CF                 2-1 (0-1)
+           Gimnàstic de Tarragona  v Córdoba CF               2-1 (1-1)
+    20.00  Real Zaragoza           v CD Numancia              3-0 (2-0)
+
+
+» Matchday 29
+  Fri Mar/10
+    20.00  Elche CF                v AD Alcorcón              0-0
+  Sat Mar/11
+    16.00  RCD Mallorca            v CD Lugo                  1-1 (0-1)
+    18.00  CD Numancia             v Real Oviedo              0-0
+           CD Mirandés             v UCAM Murcia CF           1-1 (0-0)
+           Real Valladolid         v Levante UD               0-4 (0-2)
+    20.30  Córdoba CF              v Real Zaragoza            2-1 (0-1)
+  Sun Mar/12
+    12.00  UD Almería              v SD Huesca                0-0
+    16.00  Sevilla Atlético        v Gimnàstic de Tarragona   2-2 (0-1)
+    18.00  Cádiz CF                v Rayo Vallecano           1-0 (1-0)
+           CF Reus Deportiu        v Girona FC                1-2 (0-0)
+    20.30  Getafe CF               v CD Tenerife              2-2 (1-0)
+
+
+» Matchday 30
+  Fri Mar/17
+    20.00  Gimnàstic de Tarragona  v Elche CF                 1-3 (0-3)
+  Sat Mar/18
+    16.00  Córdoba CF              v CD Numancia              0-0
+    18.00  UCAM Murcia CF          v Getafe CF                2-0 (2-0)
+           CD Lugo                 v CD Mirandés              2-1 (0-0)
+           SD Huesca               v RCD Mallorca             2-1 (0-0)
+    20.30  Real Zaragoza           v Sevilla Atlético         1-2 (0-1)
+  Sun Mar/19
+    12.00  Levante UD              v UD Almería               1-0 (1-0)
+    16.00  AD Alcorcón             v Real Valladolid          1-2 (1-2)
+    17.00  CD Tenerife             v CF Reus Deportiu         0-1 (0-1)
+    18.00  Girona FC               v Cádiz CF                 1-2 (0-2)
+    20.30  Rayo Vallecano          v Real Oviedo              2-0 (1-0)
+
+
+» Matchday 31
+  Sat Mar/25
+    16.00  Real Valladolid         v Gimnàstic de Tarragona   1-2 (0-1)
+    18.00  CD Numancia             v Rayo Vallecano           0-0
+           UD Almería              v AD Alcorcón              3-1 (1-0)
+    20.30  RCD Mallorca            v Levante UD               1-1 (0-1)
+    20.45  Real Oviedo             v Girona FC                2-0 (0-0)
+  Sun Mar/26
+    12.00  Getafe CF               v CD Lugo                  2-0 (1-0)
+    16.00  Cádiz CF                v CD Tenerife              0-1 (0-0)
+    18.00  CF Reus Deportiu        v UCAM Murcia CF           0-0
+           CD Mirandés             v SD Huesca                1-3 (1-2)
+           Sevilla Atlético        v Córdoba CF               1-0 (1-0)
+    20.30  Elche CF                v Real Zaragoza            0-3 (0-3)
+
+
+» Matchday 32
+  Fri Mar/31
+    20.00  AD Alcorcón             v RCD Mallorca             1-0 (0-0)
+  Sat Apr/1
+    16.00  Levante UD              v CD Mirandés              2-1 (1-0)
+    18.00  UCAM Murcia CF          v Cádiz CF                 1-1 (1-1)
+           SD Huesca               v Getafe CF                0-0
+    20.30  Girona FC               v Rayo Vallecano           1-3 (1-2)
+  Sun Apr/2
+    12.00  Gimnàstic de Tarragona  v UD Almería               0-1 (0-0)
+    16.00  CD Lugo                 v CF Reus Deportiu         1-0 (0-0)
+    18.00  CD Tenerife             v Real Oviedo              1-0 (1-0)
+           Córdoba CF              v Elche CF                 1-0 (0-0)
+    20.30  Real Zaragoza           v Real Valladolid          1-1 (1-1)
+  Mon Apr/3
+    20.00  Sevilla Atlético        v CD Numancia              1-1 (1-1)
+
+
+» Matchday 33
+  Fri Apr/7
+    20.00  CD Mirandés             v AD Alcorcón              2-0 (0-0)
+  Sat Apr/8
+    16.00  RCD Mallorca            v Gimnàstic de Tarragona   0-0
+    18.00  Cádiz CF                v CD Lugo                  1-1 (1-1)
+           Getafe CF               v Levante UD               2-0 (2-0)
+    20.30  Rayo Vallecano          v CD Tenerife              1-1 (1-1)
+  Sun Apr/9
+    12.00  Real Valladolid         v Córdoba CF               2-1 (1-0)
+    16.00  Elche CF                v Sevilla Atlético         3-2 (1-1)
+    18.00  CD Numancia             v Girona FC                0-2 (0-0)
+           Real Oviedo             v UCAM Murcia CF           2-0 (1-0)
+           CF Reus Deportiu        v SD Huesca                0-1 (0-0)
+    20.30  UD Almería              v Real Zaragoza            2-2 (2-2)
+
+
+» Matchday 34
+  Sat Apr/15
+    16.00  Elche CF                v CD Numancia              1-3 (0-1)
+    18.00  CD Tenerife             v Girona FC                3-3 (1-2)
+           Gimnàstic de Tarragona  v CD Mirandés              4-1 (1-1)
+    20.30  SD Huesca               v Cádiz CF                 1-1 (0-0)
+  Sun Apr/16
+    12.00  Sevilla Atlético        v Real Valladolid          6-2 (4-0)
+    16.00  AD Alcorcón             v Getafe CF                0-3 (0-2)
+    18.00  UCAM Murcia CF          v Rayo Vallecano           0-1 (0-1)
+           CD Lugo                 v Real Oviedo              2-1 (1-1)
+           Córdoba CF              v UD Almería               1-0 (1-0)
+    20.30  Real Zaragoza           v RCD Mallorca             1-0 (1-0)
+  Mon Apr/17
+    20.00  Levante UD              v CF Reus Deportiu         0-0
+
+
+» Matchday 35
+  Fri Apr/21
+    20.00  Real Oviedo             v SD Huesca                1-1 (1-0)
+  Sat Apr/22
+    16.00  Real Valladolid         v Elche CF                 2-1 (1-1)
+    18.00  Rayo Vallecano          v CD Lugo                  2-0 (0-0)
+           Cádiz CF                v Levante UD               1-1 (0-1)
+           Getafe CF               v Gimnàstic de Tarragona   1-1 (1-0)
+    20.30  Girona FC               v UCAM Murcia CF           1-2 (1-1)
+  Sun Apr/23
+    12.00  CD Numancia             v CD Tenerife              1-1 (0-0)
+    16.00  CD Mirandés             v Real Zaragoza            0-1 (0-1)
+           RCD Mallorca            v Córdoba CF               1-1 (1-1)
+    18.00  CF Reus Deportiu        v AD Alcorcón              0-0
+           UD Almería              v Sevilla Atlético         2-1 (1-0)
+
+
+» Matchday 36
+  Fri Apr/28
+    20.00  Elche CF                v UD Almería               2-3 (0-1)
+  Sat Apr/29
+    16.00  UCAM Murcia CF          v CD Tenerife              1-0 (1-0)
+    18.00  Levante UD              v Real Oviedo              1-0 (0-0)
+           Real Valladolid         v CD Numancia              1-1 (0-0)
+    20.30  Real Zaragoza           v Getafe CF                1-2 (1-0)
+  Sun Apr/30
+    12.00  AD Alcorcón             v Cádiz CF                 0-2 (0-1)
+    16.00  CD Lugo                 v Girona FC                1-2 (0-2)
+    18.00  Córdoba CF              v CD Mirandés              1-1 (0-0)
+    20.00  Sevilla Atlético        v RCD Mallorca             2-3 (0-1)
+  Mon May/1
+    17.00  SD Huesca               v Rayo Vallecano           2-0 (0-0)
+    19.00  Gimnàstic de Tarragona  v CF Reus Deportiu         0-1 (0-0)
+
+
+» Matchday 37
+  Fri May/5
+    20.00  Real Oviedo             v AD Alcorcón              0-1 (0-0)
+  Sat May/6
+    16.00  RCD Mallorca            v Elche CF                 1-0 (0-0)
+    18.00  CD Numancia             v UCAM Murcia CF           1-0 (1-0)
+           Rayo Vallecano          v Levante UD               2-1 (1-1)
+    20.30  Girona FC               v SD Huesca                3-1 (2-1)
+  Sun May/7
+    13.00  CD Tenerife             v CD Lugo                  2-1 (1-0)
+    16.00  CD Mirandés             v Sevilla Atlético         0-1 (0-0)
+    18.00  Cádiz CF                v Gimnàstic de Tarragona   0-0
+           Getafe CF               v Córdoba CF               2-0 (1-0)
+           UD Almería              v Real Valladolid          0-3 (0-1)
+    20.30  CF Reus Deportiu        v Real Zaragoza            1-0 (1-0)
+
+
+» Matchday 38
+  Fri May/12
+    20.00  Sevilla Atlético        v Getafe CF                2-1 (1-0)
+    21.00  Real Zaragoza           v Cádiz CF                 1-1 (1-0)
+  Sat May/13
+    13.00  Real Valladolid         v RCD Mallorca             2-1 (1-0)
+    16.15  SD Huesca               v CD Tenerife              2-2 (0-2)
+           Elche CF                v CD Mirandés              0-1 (0-0)
+    18.00  Levante UD              v Girona FC                2-1 (1-0)
+    18.30  AD Alcorcón             v Rayo Vallecano           2-0 (0-0)
+           Córdoba CF              v CF Reus Deportiu         1-0 (0-0)
+           UD Almería              v CD Numancia              2-0 (2-0)
+    20.45  Gimnàstic de Tarragona  v Real Oviedo              2-2 (0-2)
+  Sun May/14
+    12.00  CD Lugo                 v UCAM Murcia CF           0-0
+
+
+» Matchday 39
+  Fri May/19
+    20.00  Rayo Vallecano          v Gimnàstic de Tarragona   2-0 (0-0)
+    21.00  Getafe CF               v Elche CF                 2-0 (1-0)
+  Sat May/20
+    19.00  UCAM Murcia CF          v SD Huesca                3-1 (2-0)
+           CD Tenerife             v Levante UD               0-0
+           Girona FC               v AD Alcorcón              0-0
+           CF Reus Deportiu        v Sevilla Atlético         2-1 (1-0)
+           RCD Mallorca            v UD Almería               1-0 (1-0)
+    21.00  Real Oviedo             v Real Zaragoza            0-0
+           Cádiz CF                v Córdoba CF               1-1 (0-0)
+  Sun May/21
+    12.00  CD Mirandés             v Real Valladolid          2-2 (0-2)
+    17.00  CD Numancia             v CD Lugo                  0-1 (0-0)
+
+
+» Matchday 40
+  Fri May/26
+    20.00  Levante UD              v UCAM Murcia CF           3-1 (1-1)
+  Sat May/27
+    16.00  SD Huesca               v CD Lugo                  1-0 (1-0)
+    18.00  Sevilla Atlético        v Cádiz CF                 3-3 (2-0)
+           Real Valladolid         v Getafe CF                1-0 (0-0)
+           UD Almería              v CD Mirandés              2-0 (1-0)
+  Sun May/28
+    12.00  AD Alcorcón             v CD Tenerife              1-3 (0-2)
+    16.00  Real Zaragoza           v Rayo Vallecano           1-1 (1-0)
+    18.00  Gimnàstic de Tarragona  v Girona FC                3-1 (0-1)
+           Elche CF                v CF Reus Deportiu         1-1 (0-0)
+           RCD Mallorca            v CD Numancia              0-0
+    20.30  Córdoba CF              v Real Oviedo              4-2 (3-0)
+
+
+» Matchday 41
+  Fri Jun/2
+    21.00  CD Lugo                 v Levante UD               1-0 (0-0)
+  Sun Jun/4
+    20.00  SD Huesca               v CD Numancia              0-0
+           UCAM Murcia CF          v AD Alcorcón              0-1 (0-1)
+           CD Tenerife             v Gimnàstic de Tarragona   0-1 (0-0)
+           Girona FC               v Real Zaragoza            0-0
+           Rayo Vallecano          v Córdoba CF               1-2 (1-1)
+           Real Oviedo             v Sevilla Atlético         1-0 (1-0)
+           Cádiz CF                v Elche CF                 2-1 (0-0)
+           CF Reus Deportiu        v Real Valladolid          2-0 (2-0)
+           Getafe CF               v UD Almería               4-0 (2-0)
+           CD Mirandés             v RCD Mallorca             2-2 (2-1)
+
+
+» Matchday 42
+  Fri Jun/9
+    21.00  Sevilla Atlético        v Rayo Vallecano           1-2 (0-1)
+  Sat Jun/10
+    20.30  Levante UD              v SD Huesca                1-2 (0-0)
+           AD Alcorcón             v CD Lugo                  3-0 (1-0)
+           Gimnàstic de Tarragona  v UCAM Murcia CF           1-0 (0-0)
+           Real Zaragoza           v CD Tenerife              1-2 (0-1)
+           Córdoba CF              v Girona FC                2-1 (0-0)
+           Elche CF                v Real Oviedo              0-2 (0-0)
+           Real Valladolid         v Cádiz CF                 1-0 (0-0)
+           UD Almería              v CF Reus Deportiu         1-0 (1-0)
+           RCD Mallorca            v Getafe CF                3-3 (1-1)
+  Sun Jun/11
+    18.00  CD Numancia             v CD Mirandés              0-2 (0-0)

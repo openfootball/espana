@@ -1,0 +1,686 @@
+= Segunda División de España 2015/16
+
+# Date       Sat Aug/22 2015 - Sat Jun/4 2016 (287d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Sat Aug/22 2015
+    20.30  AD Alcorcón             v RCD Mallorca             2-0 (1-0)
+           SD Huesca               v CD Alavés                2-3 (0-1)
+           UE Llagostera           v CA Osasuna               0-2 (0-0)
+    22.30  Córdoba CF              v Real Valladolid          1-0 (0-0)
+  Sun Aug/23
+    18.30  Real Oviedo             v CD Lugo                  2-2 (1-1)
+           CD Mirandés             v Real Zaragoza            1-1 (0-0)
+    20.30  UD Almería              v CD Leganés               3-2 (3-0)
+           SD Ponferradina         v Elche CF                 2-0 (0-0)
+           CD Numancia             v CD Tenerife              6-3 (1-2)
+           Gimnàstic de Tarragona  v Albacete                 2-2 (0-0)
+  Mon Aug/24
+    21.00  Athletic Club B         v Girona FC                0-1 (0-0)
+
+
+» Matchday 2
+  Sat Aug/29
+    18.30  CD Lugo                 v UE Llagostera            1-0 (0-0)
+    20.30  CD Leganés              v Córdoba CF               3-1 (2-0)
+           Albacete                v SD Huesca                1-1 (1-1)
+           Girona FC               v CD Numancia              2-3 (1-1)
+    22.30  Real Zaragoza           v UD Almería               3-2 (1-1)
+  Sun Aug/30
+    18.30  CA Osasuna              v CD Mirandés              1-0 (0-0)
+           CD Alavés               v Real Oviedo              2-0 (2-0)
+    20.30  CD Tenerife             v Gimnàstic de Tarragona   1-2 (0-0)
+           Elche CF                v Athletic Club B          2-1 (0-0)
+           RCD Mallorca            v SD Ponferradina          1-0 (1-0)
+           Real Valladolid         v AD Alcorcón              2-0 (0-0)
+
+
+» Matchday 3
+  Sat Sep/5
+    18.00  CD Mirandés             v CD Lugo                  1-1 (0-1)
+           SD Huesca               v CD Tenerife              1-1 (1-1)
+           Gimnàstic de Tarragona  v Girona FC                1-0 (0-0)
+           CD Numancia             v Elche CF                 0-0
+  Sun Sep/6
+    12.00  Athletic Club B         v RCD Mallorca             3-1 (1-1)
+    17.00  UE Llagostera           v CD Alavés                3-0 (1-0)
+           Real Oviedo             v Albacete                 3-1 (2-1)
+           SD Ponferradina         v Real Valladolid          3-0 (1-0)
+           Córdoba CF              v AD Alcorcón              1-3 (1-1)
+    19.15  CD Leganés              v Real Zaragoza            1-1 (1-0)
+           UD Almería              v CA Osasuna               2-1 (0-1)
+
+
+» Matchday 4
+  Sat Sep/12
+    18.00  CA Osasuna              v CD Leganés               2-1 (1-0)
+           CD Alavés               v CD Mirandés              2-3 (0-2)
+           Elche CF                v Gimnàstic de Tarragona   1-0 (1-0)
+           Real Valladolid         v Athletic Club B          1-0 (1-0)
+    20.15  Real Zaragoza           v Córdoba CF               0-1 (0-1)
+  Sun Sep/13
+    12.00  Girona FC               v SD Huesca                0-0
+    17.00  CD Lugo                 v UD Almería               1-0 (0-0)
+           Albacete                v UE Llagostera            1-0 (1-0)
+           RCD Mallorca            v CD Numancia              0-0
+           AD Alcorcón             v SD Ponferradina          1-0 (0-0)
+    19.15  CD Tenerife             v Real Oviedo              0-2 (0-1)
+
+
+» Matchday 5
+  Sat Sep/19
+    16.00  Real Oviedo             v Girona FC                1-2 (1-1)
+    18.15  CD Leganés              v CD Lugo                  0-0
+           CD Mirandés             v Albacete                 1-1 (1-0)
+           UE Llagostera           v CD Tenerife              0-2 (0-0)
+           Athletic Club B         v AD Alcorcón              1-0 (0-0)
+  Sun Sep/20
+    12.00  Real Zaragoza           v CA Osasuna               0-1 (0-1)
+    17.00  UD Almería              v CD Alavés                0-2 (0-1)
+           SD Huesca               v Elche CF                 1-3 (0-1)
+           Gimnàstic de Tarragona  v RCD Mallorca             1-0 (1-0)
+           CD Numancia             v Real Valladolid          2-2 (0-1)
+    19.15  Córdoba CF              v SD Ponferradina          1-0 (1-0)
+
+
+» Matchday 6
+  Sat Sep/26
+    18.00  CD Lugo                 v Real Zaragoza            0-0
+           RCD Mallorca            v SD Huesca                0-1 (0-0)
+           AD Alcorcón             v CD Numancia              1-1 (1-1)
+           SD Ponferradina         v Athletic Club B          1-0 (0-0)
+    20.15  CA Osasuna              v Córdoba CF               0-0
+  Sun Sep/27
+    12.00  Elche CF                v Real Oviedo              1-1 (1-0)
+    17.00  CD Alavés               v CD Leganés               0-0
+           CD Tenerife             v CD Mirandés              3-0 (1-0)
+           Girona FC               v UE Llagostera            2-2 (1-0)
+           Real Valladolid         v Gimnàstic de Tarragona   0-0
+    19.15  Albacete                v UD Almería               3-0 (2-0)
+
+
+» Matchday 7
+  Sat Oct/3
+    18.00  UD Almería              v CD Tenerife              2-2 (0-1)
+           Gimnàstic de Tarragona  v AD Alcorcón              0-2 (0-0)
+           CD Numancia             v SD Ponferradina          1-0 (1-0)
+           Córdoba CF              v Athletic Club B          1-0 (1-0)
+    20.15  Real Zaragoza           v CD Alavés                1-0 (1-0)
+  Sun Oct/4
+    12.00  Real Oviedo             v RCD Mallorca             1-1 (1-1)
+    17.00  CA Osasuna              v CD Lugo                  4-0 (3-0)
+           CD Leganés              v Albacete                 3-2 (0-1)
+           CD Mirandés             v Girona FC                1-0 (0-0)
+           UE Llagostera           v Elche CF                 4-1 (2-0)
+    19.15  SD Huesca               v Real Valladolid          1-1 (0-1)
+
+
+» Matchday 8
+  Sat Oct/10
+    18.00  CD Tenerife             v CD Leganés               0-0
+           Elche CF                v CD Mirandés              1-4 (0-0)
+           SD Ponferradina         v Gimnàstic de Tarragona   2-2 (0-0)
+           Athletic Club B         v CD Numancia              0-0
+    20.15  CD Alavés               v CA Osasuna               3-0 (1-0)
+  Sun Oct/11
+    12.00  Real Valladolid         v Real Oviedo              2-3 (1-2)
+    17.00  CD Lugo                 v Córdoba CF               1-2 (1-1)
+           Albacete                v Real Zaragoza            1-3 (0-3)
+           RCD Mallorca            v UE Llagostera            1-0 (0-0)
+           AD Alcorcón             v SD Huesca                0-1 (0-0)
+    19.15  Girona FC               v UD Almería               1-1 (1-1)
+
+
+» Matchday 9
+  Sat Oct/17
+    18.00  CD Leganés              v Girona FC                2-2 (1-0)
+           CD Mirandés             v RCD Mallorca             2-2 (2-0)
+           Real Oviedo             v AD Alcorcón              3-2 (1-0)
+           Gimnàstic de Tarragona  v Athletic Club B          2-1 (1-0)
+    20.15  CA Osasuna              v Albacete                 1-0 (1-0)
+  Sun Oct/18
+    12.00  UD Almería              v Elche CF                 2-3 (1-1)
+    17.00  CD Lugo                 v CD Alavés                1-0 (1-0)
+           UE Llagostera           v Real Valladolid          3-1 (1-0)
+           SD Huesca               v SD Ponferradina          1-1 (1-0)
+           Córdoba CF              v CD Numancia              3-2 (2-1)
+    19.15  Real Zaragoza           v CD Tenerife              2-0 (1-0)
+
+
+» Matchday 10
+  Sat Oct/24
+    18.00  CD Alavés               v Córdoba CF               3-2 (1-2)
+           Elche CF                v CD Leganés               0-0
+           AD Alcorcón             v UE Llagostera            6-1 (5-0)
+           Athletic Club B         v SD Huesca                0-0
+    20.15  Girona FC               v Real Zaragoza            0-0
+  Sun Oct/25
+    12.00  RCD Mallorca            v UD Almería               1-0 (0-0)
+    17.00  Albacete                v CD Lugo                  2-0 (1-0)
+           Real Valladolid         v CD Mirandés              2-1 (2-0)
+           SD Ponferradina         v Real Oviedo              4-2 (2-1)
+           CD Numancia             v Gimnàstic de Tarragona   1-1 (0-0)
+    19.15  CD Tenerife             v CA Osasuna               2-2 (1-1)
+
+
+» Matchday 11
+  Sat Oct/31
+    18.00  CD Lugo                 v CD Tenerife              2-0 (2-0)
+           UE Llagostera           v SD Ponferradina          0-1 (0-0)
+           SD Huesca               v CD Numancia              2-0 (1-0)
+           Córdoba CF              v Gimnàstic de Tarragona   2-0 (2-0)
+    20.15  CD Mirandés             v AD Alcorcón              3-0 (2-0)
+  Sun Nov/1
+    12.00  Real Zaragoza           v Elche CF                 2-0 (0-0)
+    17.00  CD Alavés               v Albacete                 1-1 (1-1)
+           CA Osasuna              v Girona FC                0-1 (0-1)
+           CD Leganés              v RCD Mallorca             0-0
+           Real Oviedo             v Athletic Club B          0-0
+    19.15  UD Almería              v Real Valladolid          1-1 (0-0)
+
+
+» Matchday 12
+  Sat Nov/7
+    18.00  CD Tenerife             v CD Alavés                2-0 (0-0)
+           Real Valladolid         v CD Leganés               1-1 (1-0)
+           SD Ponferradina         v CD Mirandés              2-2 (1-1)
+    20.15  RCD Mallorca            v Real Zaragoza            0-0
+  Sun Nov/8
+    12.00  Elche CF                v CA Osasuna               2-1 (1-1)
+    17.00  Albacete                v Córdoba CF               2-0 (0-0)
+           Girona FC               v CD Lugo                  0-1 (0-0)
+           CD Numancia             v Real Oviedo              1-0 (0-0)
+           Gimnàstic de Tarragona  v SD Huesca                2-0 (2-0)
+    19.15  AD Alcorcón             v UD Almería               0-0
+  Mon Nov/9
+    20.30  Athletic Club B         v UE Llagostera            2-0 (1-0)
+
+
+» Matchday 13
+  Sat Nov/14
+    18.00  Albacete                v CD Tenerife              1-2 (1-1)
+           CD Alavés               v Girona FC                1-0 (1-0)
+           CD Leganés              v AD Alcorcón              3-0 (2-0)
+           CD Mirandés             v Athletic Club B          3-0 (2-0)
+    20.15  CD Lugo                 v Elche CF                 1-1 (1-0)
+  Sun Nov/15
+    12.00  Real Zaragoza           v Real Valladolid          0-2 (0-1)
+    17.00  UD Almería              v SD Ponferradina          1-1 (1-1)
+           UE Llagostera           v CD Numancia              2-1 (2-0)
+           Real Oviedo             v Gimnàstic de Tarragona   2-0 (2-0)
+           Córdoba CF              v SD Huesca                1-1 (0-0)
+    19.15  CA Osasuna              v RCD Mallorca             2-1 (2-1)
+
+
+» Matchday 14
+  Sat Nov/21
+    16.00  RCD Mallorca            v CD Lugo                  1-1 (0-0)
+           Athletic Club B         v UD Almería               0-0
+           CD Numancia             v CD Mirandés              2-2 (0-1)
+           SD Huesca               v Real Oviedo              0-1 (0-0)
+    20.15  Elche CF                v CD Alavés                0-1 (0-0)
+  Sun Nov/22
+    12.00  Real Valladolid         v CA Osasuna               0-1 (0-0)
+    17.00  CD Tenerife             v Córdoba CF               1-1 (0-0)
+           Girona FC               v Albacete                 3-0 (2-0)
+           SD Ponferradina         v CD Leganés               1-0 (0-0)
+           Gimnàstic de Tarragona  v UE Llagostera            2-0 (1-0)
+    19.15  AD Alcorcón             v Real Zaragoza            1-0 (1-0)
+
+
+» Matchday 15
+  Sat Nov/28
+    18.00  CA Osasuna              v AD Alcorcón              1-2 (0-1)
+           CD Leganés              v Athletic Club B          1-0 (1-0)
+           UD Almería              v CD Numancia              1-1 (1-0)
+           UE Llagostera           v SD Huesca                2-0 (1-0)
+    20.15  CD Alavés               v RCD Mallorca             1-0 (1-0)
+  Sun Nov/29
+    12.00  CD Lugo                 v Real Valladolid          1-1 (0-0)
+    17.00  CD Tenerife             v Girona FC                1-1 (1-1)
+           Albacete                v Elche CF                 1-0 (0-0)
+           Real Zaragoza           v SD Ponferradina          2-0 (2-0)
+           CD Mirandés             v Gimnàstic de Tarragona   0-1 (0-0)
+    19.15  Córdoba CF              v Real Oviedo              2-1 (2-1)
+
+
+» Matchday 16
+  Sat Dec/5
+    18.00  Elche CF                v CD Tenerife              0-0
+           Real Valladolid         v CD Alavés                1-2 (0-1)
+           AD Alcorcón             v CD Lugo                  1-1 (0-1)
+    20.15  Gimnàstic de Tarragona  v UD Almería               2-2 (2-1)
+  Sun Dec/6
+    12.00  SD Ponferradina         v CA Osasuna               3-0 (2-0)
+    17.00  RCD Mallorca            v Albacete                 2-0 (0-0)
+           CD Numancia             v CD Leganés               1-2 (0-1)
+           SD Huesca               v CD Mirandés              1-2 (0-1)
+           Real Oviedo             v UE Llagostera            2-1 (2-1)
+    19.15  Girona FC               v Córdoba CF               1-2 (0-0)
+  Mon Dec/7
+    20.30  Athletic Club B         v Real Zaragoza            0-1 (0-1)
+
+
+» Matchday 17
+  Sat Dec/12
+    18.00  Girona FC               v Elche CF                 0-1 (0-1)
+           CD Alavés               v AD Alcorcón              1-1 (0-0)
+           CD Lugo                 v SD Ponferradina          3-1 (1-1)
+           Córdoba CF              v UE Llagostera            2-0 (1-0)
+    20.15  CD Tenerife             v RCD Mallorca             2-1 (0-1)
+  Sun Dec/13
+    12.00  Real Zaragoza           v CD Numancia              2-2 (1-0)
+    17.00  Albacete                v Real Valladolid          0-1 (0-1)
+           CA Osasuna              v Athletic Club B          1-1 (0-1)
+           CD Leganés              v Gimnàstic de Tarragona   1-0 (1-0)
+           UD Almería              v SD Huesca                1-2 (0-2)
+    19.15  CD Mirandés             v Real Oviedo              1-2 (1-0)
+
+
+» Matchday 18
+  Fri Dec/18
+    20.30  Elche CF                v Córdoba CF               2-1 (2-1)
+  Sat Dec/19
+    18.00  RCD Mallorca            v Girona FC                1-1 (1-0)
+           SD Ponferradina         v CD Alavés                0-1 (0-0)
+           Gimnàstic de Tarragona  v Real Zaragoza            3-1 (1-0)
+    20.15  CD Numancia             v CA Osasuna               1-3 (0-0)
+  Sun Dec/20
+    17.00  Real Valladolid         v CD Tenerife              4-1 (2-1)
+           AD Alcorcón             v Albacete                 1-0 (1-0)
+           SD Huesca               v CD Leganés               1-1 (0-0)
+           UE Llagostera           v CD Mirandés              0-0
+    19.15  Real Oviedo             v UD Almería               1-0 (1-0)
+  Mon Dec/21
+    20.30  Athletic Club B         v CD Lugo                  1-1 (1-1)
+
+
+» Matchday 19
+  Sat Jan/2 2016
+    18.00  CD Alavés               v Athletic Club B          3-0 (2-0)
+           CA Osasuna              v Gimnàstic de Tarragona   1-1 (0-0)
+    20.15  Elche CF                v RCD Mallorca             1-1 (1-0)
+  Sun Jan/3
+    12.00  Córdoba CF              v CD Mirandés              1-2 (0-1)
+    17.00  Albacete                v SD Ponferradina          2-2 (1-0)
+           CD Lugo                 v CD Numancia              2-3 (1-1)
+           CD Leganés              v Real Oviedo              1-1 (1-0)
+           UD Almería              v UE Llagostera            2-1 (0-0)
+    19.15  Real Zaragoza           v SD Huesca                3-3 (1-0)
+  Mon Jan/4
+    20.30  Girona FC               v Real Valladolid          1-0 (0-0)
+           CD Tenerife             v AD Alcorcón              1-2 (0-2)
+
+
+» Matchday 20
+  Sat Jan/9
+    18.00  Real Valladolid         v Elche CF                 1-1 (0-0)
+           AD Alcorcón             v Girona FC                1-0 (1-0)
+           Gimnàstic de Tarragona  v CD Lugo                  1-2 (0-0)
+           CD Mirandés             v UD Almería               1-1 (0-0)
+    20.15  CD Numancia             v CD Alavés                0-1 (0-0)
+  Sun Jan/10
+    12.00  Real Oviedo             v Real Zaragoza            1-0 (1-0)
+    17.00  SD Ponferradina         v CD Tenerife              0-1 (0-0)
+           Athletic Club B         v Albacete                 0-1 (0-0)
+           SD Huesca               v CA Osasuna               0-1 (0-1)
+           UE Llagostera           v CD Leganés               0-1 (0-1)
+    19.15  Córdoba CF              v RCD Mallorca             3-1 (2-0)
+
+
+» Matchday 21
+  Sat Jan/16
+    18.00  Elche CF                v AD Alcorcón              2-0 (1-0)
+           CD Tenerife             v Athletic Club B          2-0 (2-0)
+           Albacete                v CD Numancia              0-2 (0-1)
+           Real Zaragoza           v UE Llagostera            1-0 (1-0)
+    20.15  CA Osasuna              v Real Oviedo              0-0
+  Sun Jan/17
+    12.00  RCD Mallorca            v Real Valladolid          0-1 (0-0)
+    17.00  Girona FC               v SD Ponferradina          4-0 (1-0)
+           CD Alavés               v Gimnàstic de Tarragona   1-3 (0-1)
+           CD Lugo                 v SD Huesca                1-1 (1-0)
+           CD Leganés              v CD Mirandés              4-0 (3-0)
+    19.15  UD Almería              v Córdoba CF               0-1 (0-0)
+
+
+» Matchday 22
+  Sat Jan/23
+    18.00  RCD Mallorca            v AD Alcorcón              1-0 (0-0)
+           Girona FC               v Athletic Club B          2-1 (1-1)
+           CD Alavés               v SD Huesca                1-0 (1-0)
+           CD Lugo                 v Real Oviedo              2-2 (2-2)
+    20.15  CD Leganés              v UD Almería               2-1 (2-0)
+  Sun Jan/24
+    12.00  Real Valladolid         v Córdoba CF               2-0 (2-0)
+    17.00  CD Tenerife             v CD Numancia              0-0
+           Albacete                v Gimnàstic de Tarragona   1-1 (0-0)
+           CA Osasuna              v UE Llagostera            3-0 (1-0)
+           Real Zaragoza           v CD Mirandés              1-2 (1-1)
+    19.15  Elche CF                v SD Ponferradina          1-0 (0-0)
+
+
+» Matchday 23
+  Sat Jan/30
+    18.00  Córdoba CF              v CD Leganés               2-3 (1-0)
+           UE Llagostera           v CD Lugo                  0-0
+           SD Huesca               v Albacete                 3-1 (1-0)
+           AD Alcorcón             v Real Valladolid          0-0
+    20.15  Real Oviedo             v CD Alavés                1-1 (1-0)
+  Sun Jan/31
+    12.00  UD Almería              v Real Zaragoza            2-1 (0-0)
+    17.00  Gimnàstic de Tarragona  v CD Tenerife              2-1 (2-0)
+           CD Numancia             v Girona FC                1-1 (1-0)
+           Athletic Club B         v Elche CF                 0-1 (0-0)
+           SD Ponferradina         v RCD Mallorca             0-2 (0-0)
+    19.15  CD Mirandés             v CA Osasuna               4-0 (0-0)
+
+
+» Matchday 24
+  Sat Feb/6
+    18.00  Real Zaragoza           v CD Leganés               1-0 (0-0)
+           Albacete                v Real Oviedo              2-2 (2-0)
+           CD Tenerife             v SD Huesca                1-1 (1-0)
+           Real Valladolid         v SD Ponferradina          0-0
+    20.15  Elche CF                v CD Numancia              0-0
+  Sun Feb/7
+    12.00  AD Alcorcón             v Córdoba CF               3-3 (2-2)
+    17.00  CD Lugo                 v CD Mirandés              1-4 (0-1)
+           CD Alavés               v UE Llagostera            1-0 (0-0)
+           Girona FC               v Gimnàstic de Tarragona   1-1 (0-1)
+           RCD Mallorca            v Athletic Club B          2-3 (1-1)
+    19.15  CA Osasuna              v UD Almería               0-0
+
+
+» Matchday 25
+  Sat Feb/13
+    18.00  UD Almería              v CD Lugo                  0-2 (0-0)
+           Gimnàstic de Tarragona  v Elche CF                 1-0 (1-0)
+           Athletic Club B         v Real Valladolid          0-1 (0-1)
+           SD Ponferradina         v AD Alcorcón              0-0
+    20.15  CD Mirandés             v CD Alavés                0-0
+  Sun Feb/14
+    12.00  Córdoba CF              v Real Zaragoza            0-2 (0-1)
+    17.00  CD Leganés              v CA Osasuna               2-0 (1-0)
+           UE Llagostera           v Albacete                 2-0 (0-0)
+           Real Oviedo             v CD Tenerife              1-0 (1-0)
+           SD Huesca               v Girona FC                0-1 (0-1)
+    19.15  CD Numancia             v RCD Mallorca             2-0 (1-0)
+
+
+» Matchday 26
+  Sat Feb/20
+    18.00  CD Lugo                 v CD Leganés               1-2 (1-1)
+           Albacete                v CD Mirandés              1-1 (1-0)
+           RCD Mallorca            v Gimnàstic de Tarragona   2-2 (0-2)
+           AD Alcorcón             v Athletic Club B          1-0 (0-0)
+    20.15  SD Ponferradina         v Córdoba CF               1-3 (0-2)
+  Sun Feb/21
+    12.00  CD Alavés               v UD Almería               1-1 (0-1)
+    17.00  CD Tenerife             v UE Llagostera            3-1 (2-1)
+           Girona FC               v Real Oviedo              1-1 (0-0)
+           Elche CF                v SD Huesca                1-1 (0-1)
+           Real Valladolid         v CD Numancia              2-2 (1-1)
+    19.15  CA Osasuna              v Real Zaragoza            1-1 (0-1)
+
+
+» Matchday 27
+  Sat Feb/27
+    18.00  UE Llagostera           v Girona FC                0-1 (0-0)
+           CD Numancia             v AD Alcorcón              1-1 (1-0)
+           Athletic Club B         v SD Ponferradina          4-2 (2-1)
+    20.15  Córdoba CF              v CA Osasuna               0-1 (0-0)
+  Sun Feb/28
+    12.00  CD Leganés              v CD Alavés                2-0 (1-0)
+    17.00  Real Zaragoza           v CD Lugo                  3-1 (0-0)
+           UD Almería              v Albacete                 1-0 (0-0)
+           CD Mirandés             v CD Tenerife              1-2 (0-1)
+           Gimnàstic de Tarragona  v Real Valladolid          1-1 (1-1)
+    19.15  Real Oviedo             v Elche CF                 3-0 (0-0)
+  Wed Mar/16
+    18.30  SD Huesca               v RCD Mallorca             1-2 (0-2)
+
+
+» Matchday 28
+  Sat Mar/5
+    18.00  Girona FC               v CD Mirandés              2-0 (0-0)
+           Elche CF                v UE Llagostera            1-1 (0-0)
+           RCD Mallorca            v Real Oviedo              1-0 (0-0)
+           Athletic Club B         v Córdoba CF               1-2 (0-1)
+    20.15  CD Lugo                 v CA Osasuna               2-0 (0-0)
+  Sun Mar/6
+    12.00  CD Alavés               v Real Zaragoza            0-0
+    17.00  CD Tenerife             v UD Almería               0-0
+           Real Valladolid         v SD Huesca                0-1 (0-1)
+           AD Alcorcón             v Gimnàstic de Tarragona   1-1 (0-0)
+           SD Ponferradina         v CD Numancia              1-0 (0-0)
+    19.15  Albacete                v CD Leganés               0-3 (0-2)
+
+
+» Matchday 29
+  Sat Mar/12
+    18.00  Real Zaragoza           v Albacete                 1-0 (0-0)
+           UD Almería              v Girona FC                1-0 (1-0)
+           CD Mirandés             v Elche CF                 1-2 (1-0)
+           CD Numancia             v Athletic Club B          3-2 (1-1)
+    20.15  Real Oviedo             v Real Valladolid          2-4 (1-3)
+  Sun Mar/13
+    12.00  CA Osasuna              v CD Alavés                3-1 (3-1)
+    17.00  Córdoba CF              v CD Lugo                  1-2 (0-2)
+           UE Llagostera           v RCD Mallorca             3-0 (1-0)
+           SD Huesca               v AD Alcorcón              1-0 (1-0)
+           Gimnàstic de Tarragona  v SD Ponferradina          1-1 (0-1)
+    19.15  CD Leganés              v CD Tenerife              0-1 (0-0)
+
+
+» Matchday 30
+  Sat Mar/19
+    18.00  CD Alavés               v CD Lugo                  0-0
+           Albacete                v CA Osasuna               3-1 (2-1)
+           Real Valladolid         v UE Llagostera            3-0 (1-0)
+           AD Alcorcón             v Real Oviedo              1-0 (0-0)
+    20.15  Elche CF                v UD Almería               0-0
+  Sun Mar/20
+    12.00  CD Tenerife             v Real Zaragoza            0-0
+    17.00  Girona FC               v CD Leganés               1-1 (0-0)
+           RCD Mallorca            v CD Mirandés              1-1 (1-1)
+           SD Ponferradina         v SD Huesca                2-1 (1-0)
+           Athletic Club B         v Gimnàstic de Tarragona   0-4 (0-1)
+    19.15  CD Numancia             v Córdoba CF               1-1 (1-1)
+
+
+» Matchday 31
+  Sat Mar/26
+    18.00  CA Osasuna              v CD Tenerife              0-0
+           CD Leganés              v Elche CF                 0-0
+           SD Huesca               v Athletic Club B          1-2 (0-0)
+           Gimnàstic de Tarragona  v CD Numancia              1-0 (0-0)
+    20.15  Real Oviedo             v SD Ponferradina          3-0 (2-0)
+  Sun Mar/27
+    12.00  Córdoba CF              v CD Alavés                1-2 (0-0)
+    17.00  CD Lugo                 v Albacete                 2-1 (1-0)
+           Real Zaragoza           v Girona FC                0-3 (0-2)
+           UD Almería              v RCD Mallorca             1-1 (0-0)
+           CD Mirandés             v Real Valladolid          4-1 (2-0)
+           UE Llagostera           v AD Alcorcón              4-0 (3-0)
+
+
+» Matchday 32
+  Sat Apr/2
+    18.00  Elche CF                v Real Zaragoza            2-1 (1-1)
+           RCD Mallorca            v CD Leganés               3-0 (0-0)
+           AD Alcorcón             v CD Mirandés              1-0 (0-0)
+           SD Ponferradina         v UE Llagostera            1-0 (0-0)
+  Sun Apr/3
+    12.00  Gimnàstic de Tarragona  v Córdoba CF               4-4 (2-3)
+    17.00  CD Tenerife             v CD Lugo                  1-0 (0-0)
+           Girona FC               v CA Osasuna               0-0
+           Real Valladolid         v UD Almería               1-1 (0-0)
+           CD Numancia             v SD Huesca                3-2 (1-1)
+    19.15  Albacete                v CD Alavés                0-1 (0-0)
+  Mon Apr/4
+    20.30  Athletic Club B         v Real Oviedo              2-1 (1-1)
+
+
+» Matchday 33
+  Sat Apr/9
+    18.00  CD Lugo                 v Girona FC                1-1 (1-1)
+           UD Almería              v AD Alcorcón              1-1 (1-1)
+           CD Mirandés             v SD Ponferradina          1-0 (1-0)
+           UE Llagostera           v Athletic Club B          2-1 (0-0)
+    20.15  CD Leganés              v Real Valladolid          4-0 (2-0)
+  Sun Apr/10
+    12.00  Real Zaragoza           v RCD Mallorca             2-1 (1-1)
+    17.00  Córdoba CF              v Albacete                 2-3 (0-1)
+           CD Alavés               v CD Tenerife              2-2 (1-1)
+           Real Oviedo             v CD Numancia              1-0 (0-0)
+           SD Huesca               v Gimnàstic de Tarragona   2-0 (1-0)
+    19.15  CA Osasuna              v Elche CF                 0-0
+
+
+» Matchday 34
+  Sat Apr/16
+    18.00  Girona FC               v CD Alavés                1-0 (1-0)
+           Elche CF                v CD Lugo                  2-0 (1-0)
+           Athletic Club B         v CD Mirandés              1-1 (0-0)
+           CD Numancia             v UE Llagostera            1-1 (0-0)
+    20.15  Real Valladolid         v Real Zaragoza            1-2 (1-1)
+  Sun Apr/17
+    12.00  Gimnàstic de Tarragona  v Real Oviedo              0-0
+    17.00  CD Tenerife             v Albacete                 1-0 (0-0)
+           AD Alcorcón             v CD Leganés               2-0 (1-0)
+           SD Ponferradina         v UD Almería               1-3 (0-2)
+           SD Huesca               v Córdoba CF               0-2 (0-1)
+    19.15  RCD Mallorca            v CA Osasuna               1-1 (1-0)
+
+
+» Matchday 35
+  Sat Apr/23
+    18.00  Albacete                v Girona FC                0-3 (0-1)
+           CD Leganés              v SD Ponferradina          3-0 (1-0)
+           UE Llagostera           v Gimnàstic de Tarragona   1-1 (0-0)
+           Real Oviedo             v SD Huesca                0-1 (0-0)
+    20.15  CD Alavés               v Elche CF                 0-0
+  Sun Apr/24
+    12.00  CA Osasuna              v Real Valladolid          1-0 (1-0)
+    17.00  Córdoba CF              v CD Tenerife              0-0
+           CD Lugo                 v RCD Mallorca             2-1 (1-0)
+           UD Almería              v Athletic Club B          3-2 (1-1)
+           CD Mirandés             v CD Numancia              0-2 (0-2)
+    19.15  Real Zaragoza           v AD Alcorcón              3-1 (2-1)
+
+
+» Matchday 36
+  Sat Apr/30
+    18.00  AD Alcorcón             v CA Osasuna               0-1 (0-1)
+           CD Numancia             v UD Almería               2-0 (1-0)
+           SD Huesca               v UE Llagostera            3-1 (3-0)
+    20.15  RCD Mallorca            v CD Alavés                0-0
+  Sun May/1
+    12.00  Real Oviedo             v Córdoba CF               1-0 (1-0)
+    17.00  Girona FC               v CD Tenerife              1-0 (0-0)
+           Elche CF                v Albacete                 1-1 (0-0)
+           Real Valladolid         v CD Lugo                  1-1 (0-0)
+           Gimnàstic de Tarragona  v CD Mirandés              3-2 (0-1)
+    19.15  SD Ponferradina         v Real Zaragoza            1-1 (0-0)
+  Mon May/2
+    20.30  Athletic Club B         v CD Leganés               1-2 (1-0)
+
+
+» Matchday 37
+  Sat May/7
+    18.00  CD Lugo                 v AD Alcorcón              1-2 (1-1)
+           CA Osasuna              v SD Ponferradina          0-0
+           UD Almería              v Gimnàstic de Tarragona   1-2 (1-1)
+           UE Llagostera           v Real Oviedo              2-0 (1-0)
+    20.15  CD Tenerife             v Elche CF                 1-1 (0-0)
+  Sun May/8
+    12.00  CD Alavés               v Real Valladolid          2-1 (0-0)
+    20.00  Córdoba CF              v Girona FC                1-0 (0-0)
+           Albacete                v RCD Mallorca             1-0 (0-0)
+           Real Zaragoza           v Athletic Club B          2-0 (1-0)
+           CD Leganés              v CD Numancia              2-2 (0-1)
+           CD Mirandés             v SD Huesca                1-0 (1-0)
+
+
+» Matchday 38
+  Sat May/14
+    19.00  RCD Mallorca            v CD Tenerife              1-0 (0-0)
+           Real Valladolid         v Albacete                 1-0 (1-0)
+           CD Numancia             v Real Zaragoza            2-2 (1-2)
+           Real Oviedo             v CD Mirandés              4-1 (1-0)
+  Sun May/15
+    12.00  Gimnàstic de Tarragona  v CD Leganés               0-0
+    17.00  Elche CF                v Girona FC                1-1 (0-1)
+           AD Alcorcón             v CD Alavés                0-1 (0-0)
+           SD Ponferradina         v CD Lugo                  2-1 (1-0)
+    19.00  Athletic Club B         v CA Osasuna               0-0
+           SD Huesca               v UD Almería               2-1 (0-1)
+           UE Llagostera           v Córdoba CF               1-0 (1-0)
+
+
+» Matchday 39
+  Sat May/21
+    18.00  Córdoba CF              v Elche CF                 3-1 (1-0)
+           Girona FC               v RCD Mallorca             1-0 (0-0)
+           CD Tenerife             v Real Valladolid          3-1 (2-0)
+           Albacete                v AD Alcorcón              0-2 (0-0)
+    20.15  CD Leganés              v SD Huesca                2-3 (1-1)
+  Sun May/22
+    12.00  Real Zaragoza           v Gimnàstic de Tarragona   0-1 (0-0)
+    17.00  CD Alavés               v SD Ponferradina          2-0 (2-0)
+           CD Lugo                 v Athletic Club B          2-0 (1-0)
+           CA Osasuna              v CD Numancia              3-2 (1-2)
+           CD Mirandés             v UE Llagostera            0-0
+    19.15  UD Almería              v Real Oviedo              3-1 (0-0)
+
+
+» Matchday 40
+  Tue May/24
+    20.30  RCD Mallorca            v Elche CF                 2-1 (1-0)
+           Real Valladolid         v Girona FC                0-0
+           AD Alcorcón             v CD Tenerife              2-1 (1-0)
+  Wed May/25
+    20.30  SD Ponferradina         v Albacete                 2-1 (0-0)
+           CD Numancia             v CD Lugo                  1-0 (1-0)
+           Gimnàstic de Tarragona  v CA Osasuna               1-0 (0-0)
+           UE Llagostera           v UD Almería               0-0
+           CD Mirandés             v Córdoba CF               0-3 (0-0)
+  Thu May/26
+    20.00  Athletic Club B         v CD Alavés                2-3 (0-2)
+           SD Huesca               v Real Zaragoza            1-1 (0-1)
+    21.00  Real Oviedo             v CD Leganés               0-1 (0-0)
+
+
+» Matchday 41
+  Sun May/29
+    20.00  RCD Mallorca            v Córdoba CF               0-1 (0-1)
+           Elche CF                v Real Valladolid          2-2 (1-1)
+           Girona FC               v AD Alcorcón              2-0 (1-0)
+           CD Tenerife             v SD Ponferradina          1-1 (0-0)
+           Albacete                v Athletic Club B          2-1 (0-0)
+           CD Alavés               v CD Numancia              2-0 (2-0)
+           CD Lugo                 v Gimnàstic de Tarragona   0-3 (0-2)
+           CA Osasuna              v SD Huesca                2-3 (1-2)
+           Real Zaragoza           v Real Oviedo              1-0 (1-0)
+           CD Leganés              v UE Llagostera            2-0 (1-0)
+           UD Almería              v CD Mirandés              2-1 (1-0)
+
+
+» Matchday 42
+  Sat Jun/4
+    17.30  Athletic Club B         v CD Tenerife              2-0 (1-0)
+           CD Numancia             v Albacete                 2-0 (0-0)
+           SD Huesca               v CD Lugo                  1-0 (0-0)
+    20.30  Real Valladolid         v RCD Mallorca             1-3 (1-2)
+           AD Alcorcón             v Elche CF                 4-1 (2-0)
+           SD Ponferradina         v Girona FC                0-1 (0-0)
+           Gimnàstic de Tarragona  v CD Alavés                1-1 (0-0)
+           Real Oviedo             v CA Osasuna               0-5 (0-1)
+           UE Llagostera           v Real Zaragoza            6-2 (2-0)
+           CD Mirandés             v CD Leganés               0-1 (0-0)
+           Córdoba CF              v UD Almería               1-1 (0-1)

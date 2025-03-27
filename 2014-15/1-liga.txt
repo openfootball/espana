@@ -1,0 +1,631 @@
+= Primera División de España 2014/15
+
+# Date       Sat Aug/23 2014 - Sat May/23 2015 (273d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Sat Aug/23 2014
+    19.00  Málaga CF               v Athletic Club            1-0 (1-0)
+    21.00  Sevilla FC              v Valencia CF              1-1 (1-0)
+           Granada CF              v Deportivo La Coruña      2-1 (0-1)
+    23.00  UD Almería              v Espanyol Barcelona       1-1 (0-0)
+  Sun Aug/24
+    19.00  SD Eibar                v Real Sociedad            1-0 (1-0)
+    21.00  RC Celta                v Getafe CF                3-1 (1-0)
+           FC Barcelona            v Elche CF                 3-0 (1-0)
+    23.00  Levante UD              v Villarreal CF            0-2 (0-0)
+  Mon Aug/25
+    20.00  Real Madrid             v Córdoba CF               2-0 (1-0)
+    22.00  Rayo Vallecano          v Atlético Madrid          0-0
+
+
+» Matchday 2
+  Fri Aug/29
+    20.00  Getafe CF               v UD Almería               1-0 (1-0)
+    22.00  Valencia CF             v Málaga CF                3-0 (2-0)
+  Sat Aug/30
+    19.00  Córdoba CF              v RC Celta                 1-1 (0-0)
+           Athletic Club           v Levante UD               3-0 (1-0)
+    21.00  Atlético Madrid         v SD Eibar                 2-1 (2-1)
+    23.00  Espanyol Barcelona      v Sevilla FC               1-2 (0-1)
+  Sun Aug/31
+    19.00  Villarreal CF           v FC Barcelona             0-1 (0-0)
+    21.00  Real Sociedad           v Real Madrid              4-2 (2-2)
+           Deportivo La Coruña     v Rayo Vallecano           2-2 (1-1)
+    23.00  Elche CF                v Granada CF               1-1 (0-0)
+
+
+» Matchday 3
+  Fri Sep/12
+    21.00  UD Almería              v Córdoba CF               1-1 (1-1)
+  Sat Sep/13
+    16.00  FC Barcelona            v Athletic Club            2-0 (0-0)
+    18.00  Málaga CF               v Levante UD               0-0
+    20.00  Real Madrid             v Atlético Madrid          1-2 (1-1)
+    22.00  RC Celta                v Real Sociedad            2-2 (1-0)
+  Sun Sep/14
+    12.00  Rayo Vallecano          v Elche CF                 2-3 (1-1)
+    17.00  Valencia CF             v Espanyol Barcelona       3-1 (1-0)
+    19.00  Sevilla FC              v Getafe CF                2-0 (1-0)
+    21.00  Granada CF              v Villarreal CF            0-0
+  Mon Sep/15
+    20.45  SD Eibar                v Deportivo La Coruña      0-1 (0-1)
+
+
+» Matchday 4
+  Fri Sep/19
+    21.00  Elche CF                v SD Eibar                 0-2 (0-2)
+  Sat Sep/20
+    16.00  Deportivo La Coruña     v Real Madrid              2-8 (0-3)
+    18.00  Athletic Club           v Granada CF               0-1 (0-1)
+    20.00  Atlético Madrid         v RC Celta                 2-2 (2-1)
+    22.00  Espanyol Barcelona      v Málaga CF                2-2 (1-0)
+  Sun Sep/21
+    12.00  Real Sociedad           v UD Almería               1-2 (0-1)
+    17.00  Villarreal CF           v Rayo Vallecano           4-2 (1-2)
+    19.00  Córdoba CF              v Sevilla FC               1-3 (0-1)
+    21.00  Levante UD              v FC Barcelona             0-5 (0-2)
+  Mon Sep/22
+    20.45  Getafe CF               v Valencia CF              0-3 (0-2)
+
+
+» Matchday 5
+  Tue Sep/23
+    20.00  Real Madrid             v Elche CF                 5-1 (3-1)
+    22.00  RC Celta                v Deportivo La Coruña      2-1 (1-0)
+  Wed Sep/24
+    20.00  UD Almería              v Atlético Madrid          0-1 (0-0)
+           SD Eibar                v Villarreal CF            1-1 (1-0)
+           Rayo Vallecano          v Athletic Club            2-1 (1-1)
+    22.00  Sevilla FC              v Real Sociedad            1-0 (1-0)
+           Granada CF              v Levante UD               0-1 (0-0)
+           Málaga CF               v FC Barcelona             0-0
+  Thu Sep/25
+    20.00  Espanyol Barcelona      v Getafe CF                2-0 (0-0)
+    22.00  Valencia CF             v Córdoba CF               3-0 (2-0)
+
+
+» Matchday 6
+  Fri Sep/26
+    21.00  Elche CF                v RC Celta                 0-1 (0-0)
+  Sat Sep/27
+    16.00  Villarreal CF           v Real Madrid              0-2 (0-2)
+    18.00  FC Barcelona            v Granada CF               6-0 (3-0)
+    20.00  Atlético Madrid         v Sevilla FC               4-0 (2-0)
+    22.00  Athletic Club           v SD Eibar                 0-0
+           Levante UD              v Rayo Vallecano           0-2 (0-2)
+  Sun Sep/28
+    12.00  Getafe CF               v Málaga CF                1-0 (1-0)
+    17.00  Deportivo La Coruña     v UD Almería               0-1 (0-0)
+    19.00  Real Sociedad           v Valencia CF              1-1 (1-1)
+    21.00  Córdoba CF              v Espanyol Barcelona       0-0
+
+
+» Matchday 7
+  Fri Oct/3
+    21.00  Getafe CF               v Córdoba CF               1-1 (0-0)
+  Sat Oct/4
+    16.00  Valencia CF             v Atlético Madrid          3-1 (3-1)
+    18.00  Rayo Vallecano          v FC Barcelona             0-2 (0-2)
+    20.00  SD Eibar                v Levante UD               3-3 (0-2)
+    22.00  UD Almería              v Elche CF                 2-2 (1-1)
+           Málaga CF               v Granada CF               2-1 (0-1)
+  Sun Oct/5
+    12.00  Sevilla FC              v Deportivo La Coruña      4-1 (2-1)
+    17.00  RC Celta                v Villarreal CF            1-3 (1-2)
+    19.00  Espanyol Barcelona      v Real Sociedad            2-0 (1-0)
+    21.00  Real Madrid             v Athletic Club            5-0 (2-0)
+
+
+» Matchday 8
+  Fri Oct/17
+    21.00  Granada CF              v Rayo Vallecano           0-1 (0-0)
+  Sat Oct/18
+    16.00  Levante UD              v Real Madrid              0-5 (0-2)
+    18.00  Athletic Club           v RC Celta                 1-1 (1-0)
+    20.00  FC Barcelona            v SD Eibar                 3-0 (0-0)
+    22.00  Córdoba CF              v Málaga CF                1-2 (0-2)
+  Sun Oct/19
+    12.00  Atlético Madrid         v Espanyol Barcelona       2-0 (1-0)
+    17.00  Deportivo La Coruña     v Valencia CF              3-0 (2-0)
+    19.00  Elche CF                v Sevilla FC               0-2 (0-0)
+    21.00  Villarreal CF           v UD Almería               2-0 (1-0)
+  Mon Oct/20
+    20.45  Real Sociedad           v Getafe CF                1-2 (0-0)
+
+
+» Matchday 9
+  Fri Oct/24
+    21.00  RC Celta                v Levante UD               3-0 (1-0)
+  Sat Oct/25
+    16.00  UD Almería              v Athletic Club            0-1 (0-0)
+    18.00  Real Madrid             v FC Barcelona             3-1 (1-1)
+    20.00  Valencia CF             v Elche CF                 3-1 (2-0)
+    22.00  Córdoba CF              v Real Sociedad            1-1 (0-1)
+           SD Eibar                v Granada CF               1-1 (1-1)
+  Sun Oct/26
+    12.00  Málaga CF               v Rayo Vallecano           4-0 (3-0)
+    17.00  Espanyol Barcelona      v Deportivo La Coruña      0-0
+    19.00  Sevilla FC              v Villarreal CF            2-1 (0-0)
+    21.00  Getafe CF               v Atlético Madrid          0-1 (0-1)
+
+
+» Matchday 10
+  Fri Oct/31
+    20.45  Deportivo La Coruña     v Getafe CF                1-2 (0-1)
+  Sat Nov/1
+    16.00  Granada CF              v Real Madrid              0-4 (0-2)
+    18.00  Atlético Madrid         v Córdoba CF               4-2 (1-0)
+    20.00  FC Barcelona            v RC Celta                 0-1 (0-0)
+    22.00  Real Sociedad           v Málaga CF                0-1 (0-0)
+  Sun Nov/2
+    12.00  Athletic Club           v Sevilla FC               1-0 (1-0)
+    17.00  Villarreal CF           v Valencia CF              1-3 (0-1)
+    19.00  Levante UD              v UD Almería               2-1 (1-0)
+    21.00  Elche CF                v Espanyol Barcelona       2-1 (1-0)
+  Mon Nov/3
+    20.45  Rayo Vallecano          v SD Eibar                 2-3 (0-1)
+
+
+» Matchday 11
+  Fri Nov/7
+    20.45  Córdoba CF              v Deportivo La Coruña      0-0
+  Sat Nov/8
+    16.00  UD Almería              v FC Barcelona             1-2 (1-0)
+    18.00  Getafe CF               v Elche CF                 0-0
+    20.00  Real Madrid             v Rayo Vallecano           5-1 (2-1)
+    22.00  RC Celta                v Granada CF               0-0
+           Málaga CF               v SD Eibar                 2-1 (0-1)
+  Sun Nov/9
+    12.00  Sevilla FC              v Levante UD               1-1 (1-0)
+    17.00  Espanyol Barcelona      v Villarreal CF            1-1 (0-1)
+    19.00  Valencia CF             v Athletic Club            0-0
+    21.00  Real Sociedad           v Atlético Madrid          2-1 (1-1)
+
+
+» Matchday 12
+  Fri Nov/21
+    20.45  Athletic Club           v Espanyol Barcelona       3-1 (2-0)
+  Sat Nov/22
+    16.00  Atlético Madrid         v Málaga CF                3-1 (2-0)
+    18.00  SD Eibar                v Real Madrid              0-4 (0-2)
+    20.00  FC Barcelona            v Sevilla FC               5-1 (1-0)
+    22.00  Deportivo La Coruña     v Real Sociedad            0-0
+  Sun Nov/23
+    12.00  Rayo Vallecano          v RC Celta                 1-0 (1-0)
+    17.00  Levante UD              v Valencia CF              2-1 (0-0)
+    19.00  Elche CF                v Córdoba CF               2-2 (0-1)
+    21.00  Villarreal CF           v Getafe CF                2-1 (2-0)
+  Mon Nov/24
+    20.45  Granada CF              v UD Almería               0-0
+
+
+» Matchday 13
+  Fri Nov/28
+    20.45  Real Sociedad           v Elche CF                 3-0 (2-0)
+  Sat Nov/29
+    16.00  Getafe CF               v Athletic Club            1-2 (0-1)
+    18.00  Espanyol Barcelona      v Levante UD               2-1 (2-1)
+    20.00  Málaga CF               v Real Madrid              1-2 (0-1)
+    22.00  RC Celta                v SD Eibar                 0-1 (0-1)
+  Sun Nov/30
+    12.00  Atlético Madrid         v Deportivo La Coruña      2-0 (1-0)
+    17.00  Sevilla FC              v Granada CF               5-1 (1-1)
+    19.00  Córdoba CF              v Villarreal CF            0-2 (0-1)
+    21.00  Valencia CF             v FC Barcelona             0-1 (0-0)
+  Mon Dec/1
+    20.45  UD Almería              v Rayo Vallecano           0-1 (0-0)
+
+
+» Matchday 14
+  Sat Dec/6
+    16.00  Elche CF                v Atlético Madrid          0-2 (0-1)
+    18.00  Athletic Club           v Córdoba CF               0-1 (0-1)
+    20.00  Real Madrid             v RC Celta                 3-0 (1-0)
+    22.00  Deportivo La Coruña     v Málaga CF                0-1 (0-1)
+  Sun Dec/7
+    12.00  Rayo Vallecano          v Sevilla FC               0-1 (0-1)
+    17.00  FC Barcelona            v Espanyol Barcelona       5-1 (1-1)
+    19.00  Villarreal CF           v Real Sociedad            4-0 (0-0)
+    21.00  Granada CF              v Valencia CF              1-1 (0-0)
+  Mon Dec/8
+    17.00  SD Eibar                v UD Almería               5-2 (2-1)
+    19.00  Levante UD              v Getafe CF                1-1 (0-0)
+
+
+» Matchday 15
+  Fri Dec/12
+    20.45  UD Almería              v Real Madrid              1-4 (1-2)
+  Sat Dec/13
+    16.00  Getafe CF               v FC Barcelona             0-0
+    18.00  Valencia CF             v Rayo Vallecano           3-0 (3-0)
+    20.00  Córdoba CF              v Levante UD               0-0
+    22.00  Málaga CF               v RC Celta                 1-0 (1-0)
+  Sun Dec/14
+    12.00  Espanyol Barcelona      v Granada CF               2-1 (1-0)
+    17.00  Sevilla FC              v SD Eibar                 0-0
+    19.00  Atlético Madrid         v Villarreal CF            0-1 (0-0)
+    21.00  Real Sociedad           v Athletic Club            1-1 (1-0)
+  Mon Dec/15
+    20.45  Deportivo La Coruña     v Elche CF                 1-0 (1-0)
+
+
+» Matchday 16
+  Fri Dec/19
+    20.45  RC Celta                v UD Almería               0-1 (0-1)
+  Sat Dec/20
+    16.00  FC Barcelona            v Córdoba CF               5-0 (1-0)
+    18.00  Levante UD              v Real Sociedad            1-1 (0-0)
+    20.00  SD Eibar                v Valencia CF              0-1 (0-1)
+    22.00  Rayo Vallecano          v Espanyol Barcelona       1-3 (1-1)
+  Sun Dec/21
+    12.00  Villarreal CF           v Deportivo La Coruña      3-0 (1-0)
+    17.00  Granada CF              v Getafe CF                1-1 (1-0)
+    19.00  Elche CF                v Málaga CF                1-2 (1-0)
+    21.00  Athletic Club           v Atlético Madrid          1-4 (1-0)
+  Wed Feb/4 2015
+    20.45  Real Madrid             v Sevilla FC               2-1 (2-0)
+
+
+» Matchday 17
+  Sat Jan/3
+    16.00  Atlético Madrid         v Levante UD               3-1 (1-0)
+    18.00  Sevilla FC              v RC Celta                 1-0 (1-0)
+    20.00  Elche CF                v Villarreal CF            2-2 (2-2)
+    22.00  Deportivo La Coruña     v Athletic Club            1-0 (1-0)
+           Málaga CF               v UD Almería               1-2 (0-1)
+  Sun Jan/4
+    12.00  Getafe CF               v Rayo Vallecano           1-2 (1-1)
+    17.00  Valencia CF             v Real Madrid              2-1 (0-1)
+    19.00  Espanyol Barcelona      v SD Eibar                 1-2 (0-2)
+    21.00  Real Sociedad           v FC Barcelona             1-0 (1-0)
+  Mon Jan/5
+    20.45  Córdoba CF              v Granada CF               2-0 (2-0)
+
+
+» Matchday 18
+  Fri Jan/9
+    20.45  Levante UD              v Deportivo La Coruña      0-0
+  Sat Jan/10
+    16.00  Real Madrid             v Espanyol Barcelona       3-0 (2-0)
+    18.00  Málaga CF               v Villarreal CF            1-1 (0-1)
+    20.00  RC Celta                v Valencia CF              1-1 (0-1)
+    22.00  SD Eibar                v Getafe CF                2-1 (1-0)
+  Sun Jan/11
+    12.00  UD Almería              v Sevilla FC               0-2 (0-0)
+    17.00  Athletic Club           v Elche CF                 1-2 (0-1)
+    19.00  Granada CF              v Real Sociedad            1-1 (0-1)
+    21.00  FC Barcelona            v Atlético Madrid          3-1 (2-0)
+  Mon Jan/12
+    20.45  Rayo Vallecano          v Córdoba CF               0-1 (0-1)
+
+
+» Matchday 19
+  Fri Jan/16
+    20.45  Córdoba CF              v SD Eibar                 1-1 (1-0)
+  Sat Jan/17
+    16.00  Real Sociedad           v Rayo Vallecano           0-1 (0-0)
+    18.00  Valencia CF             v UD Almería               3-2 (2-2)
+    20.00  Villarreal CF           v Athletic Club            2-0 (1-0)
+    22.00  Espanyol Barcelona      v RC Celta                 1-0 (0-0)
+  Sun Jan/18
+    12.00  Getafe CF               v Real Madrid              0-3 (0-0)
+    17.00  Atlético Madrid         v Granada CF               2-0 (1-0)
+    19.00  Deportivo La Coruña     v FC Barcelona             0-4 (0-2)
+    21.00  Elche CF                v Levante UD               1-0 (1-0)
+           Sevilla FC              v Málaga CF                2-0 (1-0)
+
+
+» Matchday 20
+  Sat Jan/24
+    16.00  Córdoba CF              v Real Madrid              1-2 (1-1)
+    18.00  Elche CF                v FC Barcelona             0-6 (0-1)
+    20.00  Atlético Madrid         v Rayo Vallecano           3-1 (2-1)
+    22.00  Villarreal CF           v Levante UD               1-0 (0-0)
+           Real Sociedad           v SD Eibar                 1-0 (0-0)
+  Sun Jan/25
+    12.00  Deportivo La Coruña     v Granada CF               2-2 (2-1)
+    17.00  Athletic Club           v Málaga CF                1-1 (0-0)
+    19.00  Espanyol Barcelona      v UD Almería               3-0 (2-0)
+    21.00  Valencia CF             v Sevilla FC               3-1 (2-1)
+  Mon Jan/26
+    20.45  Getafe CF               v RC Celta                 2-1 (1-1)
+
+
+» Matchday 21
+  Fri Jan/30
+    20.45  Rayo Vallecano          v Deportivo La Coruña      1-2 (1-1)
+  Sat Jan/31
+    16.00  Real Madrid             v Real Sociedad            4-1 (2-1)
+    18.00  SD Eibar                v Atlético Madrid          1-3 (0-3)
+    20.00  Granada CF              v Elche CF                 1-0 (0-0)
+    22.00  RC Celta                v Córdoba CF               1-0 (0-0)
+  Sun Feb/1
+    12.00  Levante UD              v Athletic Club            0-2 (0-0)
+    17.00  UD Almería              v Getafe CF                1-0 (1-0)
+    19.00  Sevilla FC              v Espanyol Barcelona       3-2 (2-1)
+    21.00  FC Barcelona            v Villarreal CF            3-2 (1-1)
+  Mon Feb/2
+    20.45  Málaga CF               v Valencia CF              1-0 (1-0)
+
+
+» Matchday 22
+  Fri Feb/6
+    20.45  Deportivo La Coruña     v SD Eibar                 2-0 (0-0)
+  Sat Feb/7
+    16.00  Atlético Madrid         v Real Madrid              4-0 (2-0)
+    18.00  Villarreal CF           v Granada CF               2-0 (1-0)
+    20.00  Levante UD              v Málaga CF                4-1 (2-1)
+    22.00  Real Sociedad           v RC Celta                 1-1 (1-0)
+  Sun Feb/8
+    12.00  Córdoba CF              v UD Almería               1-2 (1-0)
+    17.00  Getafe CF               v Sevilla FC               2-1 (1-0)
+    19.00  Espanyol Barcelona      v Valencia CF              1-2 (0-0)
+    21.00  Athletic Club           v FC Barcelona             2-5 (0-2)
+  Mon Feb/9
+    20.45  Elche CF                v Rayo Vallecano           2-0 (1-0)
+
+
+» Matchday 23
+  Fri Feb/13
+    20.45  UD Almería              v Real Sociedad            2-2 (2-1)
+  Sat Feb/14
+    16.00  Sevilla FC              v Córdoba CF               3-0 (2-0)
+    18.00  Real Madrid             v Deportivo La Coruña      2-0 (1-0)
+    20.00  Granada CF              v Athletic Club            0-0
+    22.00  Málaga CF               v Espanyol Barcelona       0-2 (0-1)
+  Sun Feb/15
+    12.00  Valencia CF             v Getafe CF                1-0 (0-0)
+    17.00  FC Barcelona            v Levante UD               5-0 (2-0)
+    19.00  Rayo Vallecano          v Villarreal CF            2-0 (0-0)
+    21.00  RC Celta                v Atlético Madrid          2-0 (0-0)
+  Mon Feb/16
+    20.45  SD Eibar                v Elche CF                 0-1 (0-0)
+
+
+» Matchday 24
+  Fri Feb/20
+    20.45  Getafe CF               v Espanyol Barcelona       2-1 (1-0)
+  Sat Feb/21
+    16.00  FC Barcelona            v Málaga CF                0-1 (0-1)
+    18.00  Córdoba CF              v Valencia CF              1-2 (0-1)
+    20.00  Atlético Madrid         v UD Almería               3-0 (3-0)
+    22.00  Deportivo La Coruña     v RC Celta                 0-2 (0-0)
+  Sun Feb/22
+    12.00  Real Sociedad           v Sevilla FC               4-3 (1-1)
+    17.00  Athletic Club           v Rayo Vallecano           1-0 (0-0)
+    19.00  Villarreal CF           v SD Eibar                 1-0 (0-0)
+    21.00  Elche CF                v Real Madrid              0-2 (0-0)
+  Mon Feb/23
+    20.45  Levante UD              v Granada CF               2-1 (0-1)
+
+
+» Matchday 25
+  Fri Feb/27
+    20.45  Espanyol Barcelona      v Córdoba CF               1-0 (1-0)
+  Sat Feb/28
+    16.00  Granada CF              v FC Barcelona             1-3 (0-1)
+    18.00  Rayo Vallecano          v Levante UD               4-2 (4-1)
+    20.00  UD Almería              v Deportivo La Coruña      0-0
+    22.00  Málaga CF               v Getafe CF                3-2 (1-0)
+  Sun Mar/1
+    12.00  Valencia CF             v Real Sociedad            2-0 (0-0)
+    17.00  SD Eibar                v Athletic Club            0-1 (0-1)
+    19.00  Sevilla FC              v Atlético Madrid          0-0
+    21.00  Real Madrid             v Villarreal CF            1-1 (0-0)
+  Mon Mar/2
+    20.45  RC Celta                v Elche CF                 1-1 (0-0)
+
+
+» Matchday 26
+  Fri Mar/6
+    20.45  Levante UD              v SD Eibar                 2-1 (0-0)
+  Sat Mar/7
+    16.00  Deportivo La Coruña     v Sevilla FC               3-4 (1-1)
+    18.00  Athletic Club           v Real Madrid              1-0 (1-0)
+    20.00  Elche CF                v UD Almería               1-0 (1-0)
+    22.00  Granada CF              v Málaga CF                1-0 (0-0)
+  Sun Mar/8
+    12.00  FC Barcelona            v Rayo Vallecano           6-1 (1-0)
+    17.00  Real Sociedad           v Espanyol Barcelona       1-0 (1-0)
+    19.00  Villarreal CF           v RC Celta                 4-1 (2-0)
+    21.00  Atlético Madrid         v Valencia CF              1-1 (1-0)
+  Mon Mar/9
+    20.45  Córdoba CF              v Getafe CF                1-2 (0-0)
+
+
+» Matchday 27
+  Fri Mar/13
+    20.45  Valencia CF             v Deportivo La Coruña      2-0 (0-0)
+  Sat Mar/14
+    16.00  Espanyol Barcelona      v Atlético Madrid          0-0
+    18.00  SD Eibar                v FC Barcelona             0-2 (0-1)
+    20.00  Rayo Vallecano          v Granada CF               3-1 (0-1)
+    22.00  RC Celta                v Athletic Club            1-2 (0-2)
+  Sun Mar/15
+    12.00  UD Almería              v Villarreal CF            0-0
+    17.00  Málaga CF               v Córdoba CF               2-0 (0-0)
+    19.00  Sevilla FC              v Elche CF                 3-0 (2-0)
+    21.00  Real Madrid             v Levante UD               2-0 (2-0)
+  Mon Mar/16
+    20.45  Getafe CF               v Real Sociedad            0-1 (0-0)
+
+
+» Matchday 28
+  Fri Mar/20
+    20.45  Elche CF                v Valencia CF              0-4 (0-1)
+  Sat Mar/21
+    16.00  Atlético Madrid         v Getafe CF                2-0 (2-0)
+    18.00  Rayo Vallecano          v Málaga CF                1-0 (1-0)
+    20.00  Levante UD              v RC Celta                 0-1 (0-0)
+    22.00  Athletic Club           v UD Almería               2-1 (2-0)
+           Granada CF              v SD Eibar                 0-0
+  Sun Mar/22
+    12.00  Deportivo La Coruña     v Espanyol Barcelona       0-0
+    17.00  Villarreal CF           v Sevilla FC               0-2 (0-0)
+    19.00  Real Sociedad           v Córdoba CF               3-1 (1-1)
+    21.00  FC Barcelona            v Real Madrid              2-1 (1-1)
+
+
+» Matchday 29
+  Fri Apr/3
+    20.45  SD Eibar                v Rayo Vallecano           1-2 (1-2)
+  Sat Apr/4
+    16.00  Sevilla FC              v Athletic Club            2-0 (2-0)
+    18.00  Córdoba CF              v Atlético Madrid          0-2 (0-2)
+    20.00  UD Almería              v Levante UD               1-4 (0-2)
+    22.00  Málaga CF               v Real Sociedad            1-1 (0-0)
+  Sun Apr/5
+    12.00  Real Madrid             v Granada CF               9-1 (4-0)
+    17.00  Valencia CF             v Villarreal CF            0-0
+    19.00  Getafe CF               v Deportivo La Coruña      2-1 (2-0)
+    21.00  RC Celta                v FC Barcelona             0-1 (0-0)
+  Mon Apr/6
+    20.00  Espanyol Barcelona      v Elche CF                 1-1 (1-0)
+
+
+» Matchday 30
+  Tue Apr/7
+    20.00  Atlético Madrid         v Real Sociedad            2-0 (2-0)
+    22.00  Levante UD              v Sevilla FC               1-2 (0-2)
+           SD Eibar                v Málaga CF                1-0 (0-0)
+  Wed Apr/8
+    20.00  Deportivo La Coruña     v Córdoba CF               1-1 (0-0)
+           FC Barcelona            v UD Almería               4-0 (1-0)
+    22.00  Granada CF              v RC Celta                 1-1 (1-0)
+           Rayo Vallecano          v Real Madrid              0-2 (0-0)
+  Thu Apr/9
+    20.00  Athletic Club           v Valencia CF              1-1 (0-0)
+    22.00  Elche CF                v Getafe CF                0-1 (0-0)
+           Villarreal CF           v Espanyol Barcelona       0-3 (0-1)
+
+
+» Matchday 31
+  Sat Apr/11
+    16.00  Real Madrid             v SD Eibar                 3-0 (2-0)
+    18.00  Málaga CF               v Atlético Madrid          2-2 (1-1)
+    20.00  Sevilla FC              v FC Barcelona             2-2 (1-2)
+    22.00  UD Almería              v Granada CF               3-0 (1-0)
+           RC Celta                v Rayo Vallecano           6-1 (4-1)
+  Sun Apr/12
+    12.00  Getafe CF               v Villarreal CF            1-1 (0-0)
+    17.00  Espanyol Barcelona      v Athletic Club            1-0 (1-0)
+    19.00  Real Sociedad           v Deportivo La Coruña      2-2 (1-1)
+    21.00  Córdoba CF              v Elche CF                 0-2 (0-1)
+  Mon Apr/13
+    20.30  Valencia CF             v Levante UD               3-0 (2-0)
+
+
+» Matchday 32
+  Fri Apr/17
+    20.45  Levante UD              v Espanyol Barcelona       2-2 (1-2)
+  Sat Apr/18
+    16.00  FC Barcelona            v Valencia CF              2-0 (1-0)
+    18.00  Deportivo La Coruña     v Atlético Madrid          1-2 (0-2)
+    20.00  Real Madrid             v Málaga CF                3-1 (1-0)
+    22.00  Athletic Club           v Getafe CF                4-0 (1-0)
+  Sun Apr/19
+    12.00  Rayo Vallecano          v UD Almería               2-0 (1-0)
+    17.00  Granada CF              v Sevilla FC               1-1 (1-0)
+    19.00  Villarreal CF           v Córdoba CF               0-0
+    21.00  SD Eibar                v RC Celta                 0-1 (0-1)
+  Mon Apr/20
+    20.45  Elche CF                v Real Sociedad            1-0 (1-0)
+
+
+» Matchday 33
+  Fri Apr/24
+    20.45  Córdoba CF              v Athletic Club            0-1 (0-0)
+  Sat Apr/25
+    16.00  Espanyol Barcelona      v FC Barcelona             0-2 (0-2)
+    18.00  Atlético Madrid         v Elche CF                 3-0 (0-0)
+    20.00  Getafe CF               v Levante UD               0-1 (0-1)
+    22.00  Real Sociedad           v Villarreal CF            0-0
+  Sun Apr/26
+    12.00  Málaga CF               v Deportivo La Coruña      1-1 (0-0)
+    17.00  UD Almería              v SD Eibar                 2-0 (1-0)
+    19.00  Sevilla FC              v Rayo Vallecano           2-0 (2-0)
+    21.00  RC Celta                v Real Madrid              2-4 (2-3)
+  Mon Apr/27
+    20.45  Valencia CF             v Granada CF               4-0 (2-0)
+
+
+» Matchday 34
+  Tue Apr/28
+    20.00  FC Barcelona            v Getafe CF                6-0 (5-0)
+    22.00  Athletic Club           v Real Sociedad            1-1 (0-0)
+           Levante UD              v Córdoba CF               1-0 (1-0)
+  Wed Apr/29
+    20.00  SD Eibar                v Sevilla FC               1-3 (0-2)
+           Real Madrid             v UD Almería               3-0 (1-0)
+           RC Celta                v Málaga CF                1-0 (0-0)
+    22.00  Elche CF                v Deportivo La Coruña      4-0 (2-0)
+           Villarreal CF           v Atlético Madrid          0-1 (0-0)
+  Thu Apr/30
+    20.00  Rayo Vallecano          v Valencia CF              1-1 (1-0)
+    22.00  Granada CF              v Espanyol Barcelona       1-2 (0-1)
+
+
+» Matchday 35
+  Fri May/1
+    20.45  Real Sociedad           v Levante UD               3-0 (1-0)
+  Sat May/2
+    16.00  Córdoba CF              v FC Barcelona             0-8 (0-2)
+    18.00  Atlético Madrid         v Athletic Club            0-0
+    20.00  Sevilla FC              v Real Madrid              2-3 (1-2)
+    22.00  Deportivo La Coruña     v Villarreal CF            1-1 (0-0)
+  Sun May/3
+    12.00  Espanyol Barcelona      v Rayo Vallecano           1-1 (0-1)
+    17.00  Getafe CF               v Granada CF               1-2 (1-1)
+    19.00  Valencia CF             v SD Eibar                 3-1 (1-0)
+    21.00  Málaga CF               v Elche CF                 1-2 (0-1)
+  Mon May/4
+    20.45  UD Almería              v RC Celta                 2-2 (0-2)
+
+
+» Matchday 36
+  Fri May/8
+    20.45  SD Eibar                v Espanyol Barcelona       0-2 (0-1)
+  Sat May/9
+    16.00  Granada CF              v Córdoba CF               2-0 (1-0)
+    18.00  FC Barcelona            v Real Sociedad            2-0 (0-0)
+    20.00  Real Madrid             v Valencia CF              2-2 (0-2)
+    22.00  Athletic Club           v Deportivo La Coruña      1-1 (1-0)
+  Sun May/10
+    12.00  Levante UD              v Atlético Madrid          2-2 (1-1)
+    17.00  Villarreal CF           v Elche CF                 1-0 (1-0)
+    19.00  UD Almería              v Málaga CF                1-2 (1-1)
+    21.00  RC Celta                v Sevilla FC               1-1 (0-1)
+  Mon May/11
+    20.45  Rayo Vallecano          v Getafe CF                2-0 (1-0)
+
+
+» Matchday 37
+  Sun May/17
+    19.00  Villarreal CF           v Málaga CF                2-1 (0-0)
+           Elche CF                v Athletic Club            2-3 (2-0)
+           Deportivo La Coruña     v Levante UD               2-0 (1-0)
+           Atlético Madrid         v FC Barcelona             0-1 (0-0)
+           Real Sociedad           v Granada CF               0-3 (0-0)
+           Córdoba CF              v Rayo Vallecano           1-2 (0-1)
+           Getafe CF               v SD Eibar                 1-1 (1-1)
+           Espanyol Barcelona      v Real Madrid              1-4 (0-0)
+           Valencia CF             v RC Celta                 1-1 (0-1)
+           Sevilla FC              v UD Almería               2-1 (0-1)
+
+
+» Matchday 38
+  Sat May/23
+    16.30  Levante UD              v Elche CF                 0-0
+    18.30  Athletic Club           v Villarreal CF            4-0 (3-0)
+           FC Barcelona            v Deportivo La Coruña      2-2 (1-0)
+           Granada CF              v Atlético Madrid          0-0
+           Rayo Vallecano          v Real Sociedad            2-4 (1-2)
+           SD Eibar                v Córdoba CF               3-0 (3-0)
+           RC Celta                v Espanyol Barcelona       3-2 (1-1)
+           UD Almería              v Valencia CF              2-3 (2-2)
+           Málaga CF               v Sevilla FC               2-3 (0-0)
+    20.30  Real Madrid             v Getafe CF                7-3 (3-3)

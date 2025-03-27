@@ -1,0 +1,736 @@
+= Segunda División de España 2018/19
+
+# Date       Fri Aug/17 2018 - Sun Jun/9 2019 (296d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Fri Aug/17 2018
+    20.00  Cádiz CF                v UD Almería               1-0 (0-0)
+    22.00  Albacete                v Deportivo La Coruña      1-1 (0-0)
+  Sat Aug/18
+    19.00  Elche CF                v Granada CF               0-0
+    19.30  CD Lugo                 v Málaga CF                1-2 (1-0)
+    20.30  AD Alcorcón             v Sporting Gijón           1-1 (0-0)
+    22.00  Córdoba CF              v CD Numancia              3-3 (1-0)
+  Sun Aug/19
+    19.00  RCD Mallorca            v CA Osasuna               1-0 (1-0)
+           Real Oviedo             v Extremadura UD           1-1 (1-0)
+    20.30  Real Zaragoza           v Rayo Majadahonda         2-1 (2-0)
+    22.00  UD Las Palmas           v CF Reus Deportiu         2-0 (1-0)
+  Mon Aug/20
+    20.00  Gimnàstic de Tarragona  v CD Tenerife              1-1 (1-0)
+
+
+» Matchday 2
+  Fri Aug/24
+    22.00  Málaga CF               v AD Alcorcón              1-0 (0-0)
+           Extremadura UD          v Deportivo La Coruña      0-1 (0-0)
+  Sat Aug/25
+    19.00  CF Reus Deportiu        v Real Zaragoza            0-0
+           CD Numancia             v Cádiz CF                 1-1 (1-1)
+    20.30  UD Las Palmas           v Albacete                 1-1 (1-0)
+    22.00  Córdoba CF              v Real Oviedo              2-4 (0-2)
+  Sun Aug/26
+    19.00  Sporting Gijón          v Gimnàstic de Tarragona   2-0 (1-0)
+    19.30  CA Osasuna              v Elche CF                 1-1 (0-0)
+    20.30  Granada CF              v CD Lugo                  1-1 (1-0)
+    22.00  UD Almería              v CD Tenerife              1-1 (1-0)
+  Mon Aug/27
+    20.00  Rayo Majadahonda        v RCD Mallorca             0-1 (0-1)
+
+
+» Matchday 3
+  Fri Aug/31
+    20.00  AD Alcorcón             v RCD Mallorca             1-0 (1-0)
+  Sat Sep/1
+    16.00  CD Lugo                 v CD Numancia              3-2 (0-2)
+    18.00  Elche CF                v CF Reus Deportiu         0-2 (0-1)
+           Real Zaragoza           v UD Las Palmas            1-1 (1-0)
+    19.00  Cádiz CF                v Real Oviedo              1-1 (0-0)
+    20.30  CD Tenerife             v Deportivo La Coruña      2-2 (0-1)
+  Sun Sep/2
+    12.00  Gimnàstic de Tarragona  v Rayo Majadahonda         0-1 (0-0)
+    16.00  Sporting Gijón          v Extremadura UD           2-0 (0-0)
+    20.00  Albacete                v Córdoba CF               3-0 (2-0)
+    21.00  Granada CF              v CA Osasuna               2-0 (1-0)
+  Mon Sep/3
+    21.00  UD Almería              v Málaga CF                0-1 (0-1)
+
+
+» Matchday 4
+  Fri Sep/7
+    20.00  UD Las Palmas           v Gimnàstic de Tarragona   4-0 (1-0)
+    21.00  RCD Mallorca            v Cádiz CF                 1-0 (0-0)
+  Sat Sep/8
+    16.00  CA Osasuna              v UD Almería               3-1 (1-1)
+    18.00  Málaga CF               v CD Tenerife              1-0 (1-0)
+           Real Oviedo             v Real Zaragoza            0-4 (0-1)
+  Sun Sep/9
+    12.00  CF Reus Deportiu        v Albacete                 1-2 (0-1)
+    16.00  CD Numancia             v Elche CF                 1-0 (1-0)
+    18.00  Extremadura UD          v Granada CF               1-3 (0-1)
+    20.00  Córdoba CF              v AD Alcorcón              0-0
+    20.45  Deportivo La Coruña     v Sporting Gijón           1-0 (0-0)
+  Mon Sep/10
+    20.00  Rayo Majadahonda        v CD Lugo                  1-0 (1-0)
+
+
+» Matchday 5
+  Sat Sep/15
+    16.00  Gimnàstic de Tarragona  v CA Osasuna               1-0 (0-0)
+    18.00  Málaga CF               v Córdoba CF               3-0 (2-0)
+           CD Tenerife             v CF Reus Deportiu         0-1 (0-0)
+    20.00  AD Alcorcón             v Deportivo La Coruña      1-0 (1-0)
+  Sun Sep/16
+    12.00  Elche CF                v RCD Mallorca             1-1 (0-1)
+    16.00  CD Lugo                 v Real Oviedo              0-2 (0-1)
+    18.00  Extremadura UD          v UD Las Palmas            1-2 (1-1)
+    18.30  UD Almería              v Real Zaragoza            2-1 (0-0)
+    20.00  Granada CF              v Rayo Majadahonda         3-0 (2-0)
+    20.30  Sporting Gijón          v CD Numancia              1-1 (1-1)
+  Mon Sep/17
+    20.00  Albacete                v Cádiz CF                 1-1 (1-0)
+
+
+» Matchday 6
+  Sat Sep/22
+    16.00  CA Osasuna              v Sporting Gijón           1-0 (0-0)
+    18.00  Rayo Majadahonda        v Extremadura UD           1-4 (0-2)
+           Real Zaragoza           v CD Lugo                  0-2 (0-1)
+    20.30  Córdoba CF              v CD Tenerife              1-1 (0-1)
+  Sun Sep/23
+    12.00  RCD Mallorca            v Albacete                 1-3 (0-1)
+    16.00  Real Oviedo             v Elche CF                 1-1 (1-1)
+    18.00  UD Las Palmas           v Málaga CF                1-0 (0-0)
+           CF Reus Deportiu        v Gimnàstic de Tarragona   1-1 (0-1)
+           CD Numancia             v UD Almería               0-2 (0-1)
+    20.00  Cádiz CF                v AD Alcorcón              0-2 (0-2)
+  Mon Sep/24
+    21.00  Deportivo La Coruña     v Granada CF               2-1 (0-0)
+
+
+» Matchday 7
+  Fri Sep/28
+    21.00  Albacete                v Real Zaragoza            2-2 (2-0)
+  Sat Sep/29
+    16.00  CD Lugo                 v RCD Mallorca             1-1 (1-1)
+    18.00  Granada CF              v Córdoba CF               4-2 (2-0)
+           Sporting Gijón          v UD Las Palmas            1-0 (1-0)
+    20.30  CD Tenerife             v Cádiz CF                 1-0 (1-0)
+  Sun Sep/30
+    12.00  AD Alcorcón             v Real Oviedo              2-0 (1-0)
+    16.00  Málaga CF               v Rayo Majadahonda         1-0 (1-0)
+    18.00  UD Almería              v CF Reus Deportiu         2-0 (1-0)
+           CA Osasuna              v CD Numancia              0-0
+    20.00  Extremadura UD          v Elche CF                 2-2 (2-0)
+    20.30  Gimnàstic de Tarragona  v Deportivo La Coruña      1-3 (1-1)
+
+
+» Matchday 8
+  Sat Oct/6
+    16.00  RCD Mallorca            v CD Tenerife              4-1 (2-0)
+    18.00  CD Numancia             v Extremadura UD           1-0 (1-0)
+    20.00  Córdoba CF              v UD Almería               1-0 (0-0)
+    20.30  UD Las Palmas           v AD Alcorcón              0-0
+  Sun Oct/7
+    12.00  CF Reus Deportiu        v Granada CF               1-2 (0-1)
+    16.00  Real Oviedo             v Albacete                 1-0 (1-0)
+    18.00  Deportivo La Coruña     v Málaga CF                1-1 (0-0)
+           Elche CF                v CD Lugo                  2-1 (1-0)
+    20.00  Cádiz CF                v Gimnàstic de Tarragona   1-1 (1-1)
+  Mon Oct/8
+    20.00  Rayo Majadahonda        v Sporting Gijón           2-1 (1-0)
+    21.00  Real Zaragoza           v CA Osasuna               1-1 (1-0)
+
+
+» Matchday 9
+  Fri Oct/12
+    16.00  Málaga CF               v Albacete                 2-1 (0-0)
+    18.00  Extremadura UD          v Cádiz CF                 2-1 (0-1)
+    21.00  Deportivo La Coruña     v Elche CF                 4-0 (1-0)
+  Sat Oct/13
+    16.00  CA Osasuna              v Córdoba CF               3-1 (1-0)
+    18.00  Sporting Gijón          v CF Reus Deportiu         1-1 (0-0)
+    20.30  UD Almería              v UD Las Palmas            3-0 (1-0)
+           CD Numancia             v Real Zaragoza            1-0 (0-0)
+  Sun Oct/14
+    13.00  CD Tenerife             v CD Lugo                  0-0
+    16.00  Rayo Majadahonda        v Real Oviedo              1-0 (0-0)
+    20.45  Granada CF              v RCD Mallorca             1-0 (1-0)
+  Mon Oct/15
+    16.00  Gimnàstic de Tarragona  v AD Alcorcón              1-3 (0-3)
+
+
+» Matchday 10
+  Fri Oct/19
+    21.00  Elche CF                v Málaga CF                2-0 (1-0)
+  Sat Oct/20
+    16.00  Real Oviedo             v CA Osasuna               2-1 (0-1)
+    18.00  AD Alcorcón             v Granada CF               1-0 (0-0)
+           UD Las Palmas           v CD Numancia              3-0 (2-0)
+    20.00  Córdoba CF              v Deportivo La Coruña      1-1 (0-1)
+  Sun Oct/21
+    12.00  RCD Mallorca            v Extremadura UD           1-1 (0-0)
+    16.00  CD Lugo                 v Gimnàstic de Tarragona   1-0 (1-0)
+    18.00  Albacete                v UD Almería               1-1 (0-0)
+           CF Reus Deportiu        v Rayo Majadahonda         2-1 (0-0)
+    20.00  Real Zaragoza           v CD Tenerife              1-1 (0-0)
+    20.30  Cádiz CF                v Sporting Gijón           0-0
+
+
+» Matchday 11
+  Fri Oct/26
+    21.00  Sporting Gijón          v Córdoba CF               0-0
+  Sat Oct/27
+    16.00  Deportivo La Coruña     v CF Reus Deportiu         2-0 (1-0)
+    18.00  Granada CF              v UD Almería               1-0 (0-0)
+           RCD Mallorca            v UD Las Palmas            2-2 (2-2)
+    20.30  CD Tenerife             v AD Alcorcón              3-2 (0-2)
+           CD Lugo                 v Cádiz CF                 1-2 (1-1)
+  Sun Oct/28
+    12.00  Gimnàstic de Tarragona  v Real Oviedo              2-1 (1-0)
+    18.00  Rayo Majadahonda        v CA Osasuna               1-1 (0-0)
+           Extremadura UD          v Albacete                 1-2 (1-1)
+    20.30  Elche CF                v Real Zaragoza            2-0 (1-0)
+  Mon Oct/29
+    21.00  Málaga CF               v CD Numancia              2-0 (1-0)
+
+
+» Matchday 12
+  Fri Nov/2
+    21.00  Albacete                v Gimnàstic de Tarragona   2-0 (2-0)
+  Sat Nov/3
+    16.00  CF Reus Deportiu        v CD Lugo                  0-0
+    18.00  CD Numancia             v CD Tenerife              2-0 (0-0)
+           CA Osasuna              v Málaga CF                2-1 (0-1)
+    20.00  Córdoba CF              v Extremadura UD           4-2 (1-1)
+    20.30  UD Las Palmas           v Deportivo La Coruña      1-1 (0-0)
+  Sun Nov/4
+    12.00  Cádiz CF                v Elche CF                 5-1 (0-1)
+    16.00  Real Oviedo             v RCD Mallorca             1-1 (1-0)
+    18.00  AD Alcorcón             v Rayo Majadahonda         2-0 (1-0)
+           UD Almería              v Sporting Gijón           2-1 (1-1)
+    20.30  Real Zaragoza           v Granada CF               0-2 (0-2)
+
+
+» Matchday 13
+  Sat Nov/10
+    16.00  Cádiz CF                v CF Reus Deportiu         2-0 (1-0)
+    18.00  Extremadura UD          v CA Osasuna               2-3 (2-1)
+           CD Lugo                 v AD Alcorcón              0-1 (0-0)
+    20.30  Deportivo La Coruña     v Real Oviedo              4-0 (1-0)
+           Elche CF                v UD Las Palmas            0-0
+  Sun Nov/11
+    12.00  Granada CF              v CD Numancia              0-0
+    16.00  Rayo Majadahonda        v UD Almería               2-0 (1-0)
+    18.00  RCD Mallorca            v Córdoba CF               3-0 (0-0)
+           Sporting Gijón          v Málaga CF                2-2 (0-0)
+    20.00  CD Tenerife             v Albacete                 0-0
+  Mon Nov/12
+    21.00  Gimnàstic de Tarragona  v Real Zaragoza            1-3 (1-1)
+
+
+» Matchday 14
+  Fri Nov/16
+    21.00  UD Las Palmas           v Granada CF               2-2 (1-0)
+  Sat Nov/17
+    16.00  Málaga CF               v Gimnàstic de Tarragona   2-0 (1-0)
+    18.00  CA Osasuna              v CD Tenerife              2-0 (2-0)
+           CF Reus Deportiu        v Extremadura UD           1-4 (1-1)
+    20.30  Real Zaragoza           v RCD Mallorca             2-2 (0-2)
+    20.45  Real Oviedo             v Sporting Gijón           2-1 (2-0)
+  Sun Nov/18
+    12.00  CD Numancia             v Rayo Majadahonda         1-2 (0-1)
+    16.00  Córdoba CF              v Cádiz CF                 1-3 (0-0)
+    18.00  Albacete                v CD Lugo                  1-0 (0-0)
+           AD Alcorcón             v Elche CF                 1-0 (0-0)
+  Mon Nov/19
+    21.00  UD Almería              v Deportivo La Coruña      1-1 (0-0)
+
+
+» Matchday 15
+  Fri Nov/23
+    21.00  Granada CF              v Sporting Gijón           1-2 (0-1)
+  Sat Nov/24
+    16.00  Gimnàstic de Tarragona  v UD Almería               2-2 (1-2)
+    18.00  Deportivo La Coruña     v CA Osasuna               2-0 (1-0)
+           CD Lugo                 v Córdoba CF               2-1 (2-0)
+    20.30  Cádiz CF                v UD Las Palmas            4-1 (2-0)
+  Sun Nov/25
+    12.00  RCD Mallorca            v CD Numancia              1-0 (1-0)
+    16.00  Extremadura UD          v Málaga CF                1-0 (1-0)
+    18.00  Real Oviedo             v CF Reus Deportiu         3-0 (0-0)
+           Elche CF                v Albacete                 0-1 (0-1)
+    20.00  CD Tenerife             v Rayo Majadahonda         2-1 (1-0)
+    20.30  AD Alcorcón             v Real Zaragoza            2-0 (0-0)
+
+
+» Matchday 16
+  Fri Nov/30
+    21.00  Real Zaragoza           v Cádiz CF                 0-1 (0-1)
+  Sat Dec/1
+    16.00  Córdoba CF              v Elche CF                 1-1 (0-1)
+    18.00  Málaga CF               v Granada CF               0-1 (0-0)
+           CF Reus Deportiu        v RCD Mallorca             0-2 (0-0)
+    20.00  UD Almería              v Extremadura UD           1-1 (1-1)
+    20.30  Sporting Gijón          v CD Tenerife              2-1 (0-0)
+  Sun Dec/2
+    12.00  Rayo Majadahonda        v Deportivo La Coruña      0-0
+    16.00  CA Osasuna              v CD Lugo                  1-0 (0-0)
+    18.00  Albacete                v AD Alcorcón              2-1 (1-0)
+           CD Numancia             v Gimnàstic de Tarragona   3-0 (0-0)
+    20.30  UD Las Palmas           v Real Oviedo              0-0
+
+
+» Matchday 17
+  Fri Dec/7
+    21.00  CD Tenerife             v Extremadura UD           0-0
+  Sat Dec/8
+    13.00  Deportivo La Coruña     v CD Numancia              2-2 (2-0)
+    16.00  Gimnàstic de Tarragona  v Granada CF               0-1 (0-1)
+    18.00  Albacete                v CA Osasuna               2-2 (2-1)
+           RCD Mallorca            v Málaga CF                1-2 (0-1)
+    20.00  Real Oviedo             v UD Almería               1-2 (1-2)
+  Sun Dec/9
+    12.00  AD Alcorcón             v CF Reus Deportiu         0-1 (0-1)
+    16.00  Cádiz CF                v Rayo Majadahonda         1-0 (0-0)
+    18.00  Elche CF                v Sporting Gijón           0-0
+    20.00  CD Lugo                 v UD Las Palmas            4-2 (2-1)
+    20.30  Real Zaragoza           v Córdoba CF               0-0
+
+
+» Matchday 18
+  Fri Dec/14
+    21.00  Málaga CF               v Cádiz CF                 1-0 (0-0)
+  Sat Dec/15
+    16.00  Granada CF              v Real Oviedo              1-0 (0-0)
+    18.00  CD Numancia             v Albacete                 1-2 (0-2)
+           CF Reus Deportiu        v Córdoba CF               1-1 (1-1)
+    20.00  Sporting Gijón          v RCD Mallorca             1-0 (0-0)
+  Sun Dec/16
+    12.00  Rayo Majadahonda        v Elche CF                 1-3 (0-0)
+    16.00  CA Osasuna              v AD Alcorcón              2-1 (0-0)
+    18.00  Extremadura UD          v Gimnàstic de Tarragona   0-1 (0-0)
+           UD Las Palmas           v CD Tenerife              1-1 (1-0)
+    20.00  UD Almería              v CD Lugo                  1-1 (1-1)
+    20.30  Deportivo La Coruña     v Real Zaragoza            3-1 (3-1)
+
+
+» Matchday 19
+  Fri Dec/21
+    19.00  CD Tenerife             v Granada CF               1-1 (0-1)
+    21.00  RCD Mallorca            v Gimnàstic de Tarragona   2-0 (1-0)
+  Sat Dec/22
+    13.00  CD Lugo                 v Sporting Gijón           0-0
+    16.00  Real Oviedo             v Málaga CF                0-0
+    18.00  Real Zaragoza           v Extremadura UD           2-1 (0-1)
+    20.00  Elche CF                v UD Almería               2-2 (1-0)
+    20.30  Córdoba CF              v UD Las Palmas            4-1 (1-0)
+    20.45  Cádiz CF                v Deportivo La Coruña      3-0 (1-0)
+  Sun Dec/23
+    12.00  CF Reus Deportiu        v CA Osasuna               0-1 (0-1)
+    16.00  Albacete                v Rayo Majadahonda         1-0 (0-0)
+    18.00  AD Alcorcón             v CD Numancia              1-1 (1-0)
+
+
+» Matchday 20
+  Fri Jan/4 2019
+    21.00  Granada CF              v Albacete                 1-1 (0-0)
+           CD Tenerife             v Elche CF                 2-1 (1-1)
+  Sat Jan/5
+    16.00  Sporting Gijón          v Real Zaragoza            1-2 (1-2)
+           Extremadura UD          v AD Alcorcón              3-0 (1-0)
+  Sun Jan/6
+    12.00  UD Almería              v RCD Mallorca             2-0 (1-0)
+    17.30  Deportivo La Coruña     v CD Lugo                  0-0
+    18.00  CA Osasuna              v Cádiz CF                 2-1 (2-1)
+           Gimnàstic de Tarragona  v Córdoba CF               1-0 (0-0)
+    20.00  Málaga CF               v CF Reus Deportiu         0-3 (0-1)
+  Mon Jan/7
+    18.00  CD Numancia             v Real Oviedo              2-3 (0-1)
+    21.00  Rayo Majadahonda        v UD Las Palmas            0-0
+
+
+» Matchday 21
+  Fri Jan/11
+    21.00  Cádiz CF                v Granada CF               0-0
+  Sat Jan/12
+    16.00  Albacete                v Sporting Gijón           1-1 (0-1)
+    18.00  UD Las Palmas           v CA Osasuna               4-1 (3-0)
+           CF Reus Deportiu        v CD Numancia              1-1 (0-1)
+    20.30  Real Oviedo             v CD Tenerife              1-0 (1-0)
+           RCD Mallorca            v Deportivo La Coruña      1-0 (0-0)
+  Sun Jan/13
+    12.00  Córdoba CF              v Rayo Majadahonda         1-1 (0-1)
+    16.00  AD Alcorcón             v UD Almería               0-0
+    18.00  CD Lugo                 v Extremadura UD           1-1 (1-0)
+           Real Zaragoza           v Málaga CF                0-2 (0-1)
+    20.00  Elche CF                v Gimnàstic de Tarragona   1-0 (0-0)
+
+
+» Matchday 22
+  Sat Jan/19
+           CF Reus Deportiu        v UD Las Palmas            0-1    [awarded]
+    16.00  UD Almería              v Cádiz CF                 0-0
+    18.00  Rayo Majadahonda        v Real Zaragoza            2-2 (1-0)
+           CD Numancia             v Córdoba CF               3-2 (3-0)
+    20.30  Málaga CF               v CD Lugo                  2-1 (0-1)
+  Sun Jan/20
+    12.00  CA Osasuna              v RCD Mallorca             2-0 (1-0)
+    16.00  Sporting Gijón          v AD Alcorcón              2-0 (1-0)
+    18.00  Deportivo La Coruña     v Albacete                 2-0 (1-0)
+           CD Tenerife             v Gimnàstic de Tarragona   2-0 (1-0)
+    20.00  Extremadura UD          v Real Oviedo              0-2 (0-1)
+  Mon Jan/21
+    21.00  Granada CF              v Elche CF                 2-1 (2-0)
+
+
+» Matchday 23
+  Fri Jan/25
+    21.00  Real Zaragoza           v Real Oviedo              2-0 (0-0)
+  Sat Jan/26
+    16.00  UD Almería              v CA Osasuna               0-1 (0-0)
+    18.00  Elche CF                v CD Numancia              1-1 (1-1)
+           CD Lugo                 v Rayo Majadahonda         3-2 (2-0)
+    20.30  Cádiz CF                v RCD Mallorca             1-1 (0-1)
+           CD Tenerife             v Málaga CF                0-0
+  Sun Jan/27
+           Albacete                v CF Reus Deportiu         1-0    [awarded]
+    16.00  Granada CF              v Extremadura UD           0-0
+    18.00  AD Alcorcón             v Córdoba CF               2-1 (0-1)
+           Sporting Gijón          v Deportivo La Coruña      1-2 (1-2)
+    20.00  Gimnàstic de Tarragona  v UD Las Palmas            0-0
+
+
+» Matchday 24
+  Fri Feb/1
+    21.00  Málaga CF               v UD Almería               1-1 (1-0)
+  Sat Feb/2
+    16.00  CD Numancia             v CD Lugo                  3-0 (1-0)
+    18.00  Rayo Majadahonda        v Gimnàstic de Tarragona   1-0 (1-0)
+           Córdoba CF              v Albacete                 1-3 (1-0)
+    20.30  Deportivo La Coruña     v CD Tenerife              0-0
+  Sun Feb/3
+    12.00  RCD Mallorca            v AD Alcorcón              2-0 (2-0)
+    16.00  Real Oviedo             v Cádiz CF                 2-1 (2-1)
+    18.00  CF Reus Deportiu        v Elche CF                 0-1    [awarded]
+           CA Osasuna              v Granada CF               1-0 (0-0)
+    20.00  Extremadura UD          v Sporting Gijón           0-3 (0-0)
+  Mon Feb/4
+    21.00  UD Las Palmas           v Real Zaragoza            1-1 (1-1)
+
+
+» Matchday 25
+  Fri Feb/8
+    21.00  Sporting Gijón          v CA Osasuna               0-2 (0-1)
+  Sat Feb/9
+           Gimnàstic de Tarragona  v CF Reus Deportiu         1-0    [awarded]
+    18.00  Elche CF                v Real Oviedo              1-2 (0-0)
+           Extremadura UD          v Rayo Majadahonda         1-1 (0-0)
+    20.00  CD Tenerife             v Córdoba CF               0-2 (0-1)
+    20.30  CD Lugo                 v Real Zaragoza            1-2 (1-0)
+  Sun Feb/10
+    12.00  AD Alcorcón             v Cádiz CF                 1-2 (1-0)
+    16.00  Albacete                v RCD Mallorca             2-0 (1-0)
+    18.00  UD Almería              v CD Numancia              1-0 (1-0)
+           Granada CF              v Deportivo La Coruña      0-1 (0-0)
+    20.00  Málaga CF               v UD Las Palmas            0-0
+
+
+» Matchday 26
+  Fri Feb/15
+    21.00  Córdoba CF              v Granada CF               1-2 (1-2)
+  Sat Feb/16
+    16.00  Deportivo La Coruña     v Gimnàstic de Tarragona   1-1 (0-0)
+    18.00  Elche CF                v Extremadura UD           2-0 (1-0)
+           Real Zaragoza           v Albacete                 0-0
+    20.00  Real Oviedo             v AD Alcorcón              1-0 (0-0)
+    20.30  Cádiz CF                v CD Tenerife              2-0 (0-0)
+  Sun Feb/17
+           CF Reus Deportiu        v UD Almería               0-1    [awarded]
+    12.00  RCD Mallorca            v CD Lugo                  3-0 (1-0)
+    16.00  CD Numancia             v CA Osasuna               1-1 (1-0)
+    18.00  Rayo Majadahonda        v Málaga CF                0-1 (0-0)
+    20.30  UD Las Palmas           v Sporting Gijón           1-0 (1-0)
+
+
+» Matchday 27
+  Fri Feb/22
+    21.00  CD Tenerife             v RCD Mallorca             2-2 (0-1)
+  Sat Feb/23
+    16.00  Albacete                v Real Oviedo              0-0
+    18.00  Gimnàstic de Tarragona  v Cádiz CF                 2-3 (1-2)
+    20.00  AD Alcorcón             v UD Las Palmas            2-0 (0-0)
+    20.30  CA Osasuna              v Real Zaragoza            1-0 (0-0)
+  Sun Feb/24
+           Granada CF              v CF Reus Deportiu         1-0    [awarded]
+    12.00  Sporting Gijón          v Rayo Majadahonda         2-3 (0-1)
+    16.00  UD Almería              v Córdoba CF               3-1 (1-1)
+    18.00  Málaga CF               v Deportivo La Coruña      0-0
+           CD Lugo                 v Elche CF                 2-2 (0-1)
+    20.00  Extremadura UD          v CD Numancia              0-1 (0-1)
+
+
+» Matchday 28
+  Sat Mar/2
+    16.00  Cádiz CF                v Albacete                 1-0 (0-0)
+    18.00  Córdoba CF              v Málaga CF                1-1 (0-0)
+           CA Osasuna              v Gimnàstic de Tarragona   1-0 (1-0)
+  Sun Mar/3
+           CF Reus Deportiu        v CD Tenerife              0-1    [awarded]
+    12.00  RCD Mallorca            v Elche CF                 1-1 (0-1)
+    16.00  CD Numancia             v Sporting Gijón           1-2 (1-2)
+    18.00  Rayo Majadahonda        v Granada CF               0-3 (0-1)
+           Real Oviedo             v CD Lugo                  1-1 (1-0)
+    20.00  UD Las Palmas           v Extremadura UD           1-1 (1-1)
+    20.30  Real Zaragoza           v UD Almería               1-2 (0-0)
+  Mon Mar/4
+    21.00  Deportivo La Coruña     v AD Alcorcón              2-2 (1-1)
+
+
+» Matchday 29
+  Sat Mar/9
+    16.00  RCD Mallorca            v Real Oviedo              1-0 (0-0)
+    18.00  Sporting Gijón          v UD Almería               1-0 (0-0)
+    20.00  Gimnàstic de Tarragona  v Albacete                 1-0 (0-0)
+    20.30  Elche CF                v Cádiz CF                 1-0 (1-0)
+  Sun Mar/10
+           CD Lugo                 v CF Reus Deportiu         1-0    [awarded]
+    12.00  Rayo Majadahonda        v AD Alcorcón              2-0 (1-0)
+    16.00  Extremadura UD          v Córdoba CF               3-0 (2-0)
+    18.00  Granada CF              v Real Zaragoza            1-0 (1-0)
+           CD Tenerife             v CD Numancia              1-1 (1-0)
+    20.00  Deportivo La Coruña     v UD Las Palmas            0-1 (0-0)
+  Mon Mar/11
+    21.00  Málaga CF               v CA Osasuna               1-2 (1-0)
+
+
+» Matchday 30
+  Sat Mar/16
+    16.00  Albacete                v Extremadura UD           1-0 (0-0)
+    18.00  Cádiz CF                v CD Lugo                  1-1 (0-0)
+    20.30  AD Alcorcón             v CD Tenerife              1-1 (1-0)
+           Real Zaragoza           v Elche CF                 1-0 (1-0)
+  Sun Mar/17
+           CF Reus Deportiu        v Deportivo La Coruña      0-1    [awarded]
+    12.00  Real Oviedo             v Gimnàstic de Tarragona   2-0 (0-0)
+    16.00  Córdoba CF              v Sporting Gijón           1-2 (1-1)
+    18.00  UD Almería              v Granada CF               0-0
+           CA Osasuna              v Rayo Majadahonda         3-0 (1-0)
+    20.00  UD Las Palmas           v RCD Mallorca             1-2 (1-1)
+  Mon Mar/18
+    21.00  CD Numancia             v Málaga CF                1-1 (1-0)
+
+
+» Matchday 31
+  Fri Mar/22
+    21.00  Deportivo La Coruña     v UD Almería               0-0
+           CD Tenerife             v CA Osasuna               3-2 (0-2)
+  Sat Mar/23
+    16.00  Elche CF                v AD Alcorcón              3-1 (2-1)
+    18.00  CD Lugo                 v Albacete                 0-3 (0-1)
+  Sun Mar/24
+           Extremadura UD          v CF Reus Deportiu         1-0    [awarded]
+    12.00  Rayo Majadahonda        v CD Numancia              4-0 (3-0)
+    16.00  Gimnàstic de Tarragona  v Málaga CF                0-1 (0-0)
+    18.00  Cádiz CF                v Córdoba CF               1-1 (0-0)
+    20.00  Granada CF              v UD Las Palmas            1-1 (0-0)
+    20.45  Sporting Gijón          v Real Oviedo              1-0 (1-0)
+  Mon Mar/25
+    21.00  RCD Mallorca            v Real Zaragoza            3-0 (1-0)
+
+
+» Matchday 32
+  Fri Mar/29
+    21.00  Málaga CF               v Sporting Gijón           1-1 (0-1)
+  Sat Mar/30
+    16.00  UD Almería              v Rayo Majadahonda         2-2 (1-0)
+    18.00  CD Numancia             v Granada CF               2-1 (0-0)
+    20.30  Albacete                v CD Tenerife              2-2 (1-1)
+  Sun Mar/31
+           CF Reus Deportiu        v Cádiz CF                 0-1    [awarded]
+    12.00  Córdoba CF              v RCD Mallorca             3-2 (1-0)
+    16.00  CA Osasuna              v Extremadura UD           1-0 (1-0)
+    18.00  AD Alcorcón             v CD Lugo                  0-0
+           Real Oviedo             v Deportivo La Coruña      1-1 (1-0)
+    20.00  UD Las Palmas           v Elche CF                 0-1 (0-0)
+  Mon Apr/1
+    21.00  Real Zaragoza           v Gimnàstic de Tarragona   3-0 (3-0)
+
+
+» Matchday 33
+  Fri Apr/5
+    21.00  CD Tenerife             v Sporting Gijón           0-1 (0-1)
+  Sat Apr/6
+    16.00  Deportivo La Coruña     v Rayo Majadahonda         0-2 (0-0)
+    18.00  Granada CF              v Málaga CF                1-0 (1-0)
+           Extremadura UD          v UD Almería               1-0 (0-0)
+    20.30  Real Oviedo             v UD Las Palmas            1-1 (0-0)
+  Sun Apr/7
+           RCD Mallorca            v CF Reus Deportiu         1-0    [awarded]
+    12.00  AD Alcorcón             v Albacete                 0-1 (0-1)
+    16.00  CD Lugo                 v CA Osasuna               2-2 (1-0)
+    18.00  Gimnàstic de Tarragona  v CD Numancia              2-0 (1-0)
+    20.00  Elche CF                v Córdoba CF               1-0 (1-0)
+  Mon Apr/8
+    21.00  Cádiz CF                v Real Zaragoza            3-3 (1-2)
+
+
+» Matchday 34
+  Fri Apr/12
+    21.00  Sporting Gijón          v Granada CF               1-0 (1-0)
+  Sat Apr/13
+    16.00  Málaga CF               v Extremadura UD           1-2 (0-1)
+    18.00  UD Almería              v Gimnàstic de Tarragona   3-0 (2-0)
+           CA Osasuna              v Deportivo La Coruña      2-1 (2-1)
+    20.30  Rayo Majadahonda        v CD Tenerife              1-3 (1-1)
+  Sun Apr/14
+           CF Reus Deportiu        v Real Oviedo              0-1    [awarded]
+    12.00  Albacete                v Elche CF                 1-1 (0-0)
+    16.00  CD Numancia             v RCD Mallorca             1-1 (1-0)
+    18.00  Córdoba CF              v CD Lugo                  0-4 (0-1)
+    20.00  UD Las Palmas           v Cádiz CF                 0-3 (0-0)
+    20.30  Real Zaragoza           v AD Alcorcón              0-2 (0-1)
+
+
+» Matchday 35
+  Fri Apr/19
+    21.00  AD Alcorcón             v Málaga CF                1-4 (1-2)
+  Sat Apr/20
+    16.00  CD Lugo                 v Granada CF               1-2 (0-1)
+    18.00  Albacete                v UD Las Palmas            4-2 (3-2)
+           Gimnàstic de Tarragona  v Sporting Gijón           0-0
+    20.00  RCD Mallorca            v Rayo Majadahonda         2-0 (2-0)
+  Sun Apr/21
+           Real Zaragoza           v CF Reus Deportiu         1-0    [awarded]
+    12.00  Cádiz CF                v CD Numancia              2-1 (1-0)
+    16.00  Deportivo La Coruña     v Extremadura UD           1-2 (0-1)
+    18.00  Real Oviedo             v Córdoba CF               3-3 (2-1)
+    20.00  CD Tenerife             v UD Almería               1-3 (0-1)
+  Mon Apr/22
+    21.00  Elche CF                v CA Osasuna               1-2 (1-0)
+
+
+» Matchday 36
+  Fri Apr/26
+    21.00  CD Numancia             v Deportivo La Coruña      1-2 (0-2)
+  Sat Apr/27
+    16.15  Málaga CF               v RCD Mallorca             0-1 (0-0)
+    18.00  UD Almería              v Real Oviedo              0-1 (0-0)
+           CA Osasuna              v Albacete                 2-0 (0-0)
+    20.30  Extremadura UD          v CD Tenerife              1-0 (1-0)
+  Sun Apr/28
+           CF Reus Deportiu        v AD Alcorcón              0-1    [awarded]
+    12.00  Rayo Majadahonda        v Cádiz CF                 1-1 (0-1)
+    16.00  Sporting Gijón          v Elche CF                 1-1 (1-0)
+    18.00  Granada CF              v Gimnàstic de Tarragona   2-0 (2-0)
+           UD Las Palmas           v CD Lugo                  4-1 (3-0)
+    20.00  Córdoba CF              v Real Zaragoza            0-3 (0-0)
+
+
+» Matchday 37
+  Sat May/4
+    16.00  AD Alcorcón             v CA Osasuna               0-0
+    18.00  Real Zaragoza           v Deportivo La Coruña      0-1 (0-0)
+           Gimnàstic de Tarragona  v Extremadura UD           0-1 (0-0)
+    20.30  CD Tenerife             v UD Las Palmas            2-1 (0-0)
+  Sun May/5
+           Córdoba CF              v CF Reus Deportiu         1-0    [awarded]
+    12.00  CD Lugo                 v UD Almería               4-2 (2-1)
+    16.00  RCD Mallorca            v Sporting Gijón           2-1 (1-1)
+    18.00  Albacete                v CD Numancia              0-0
+           Elche CF                v Rayo Majadahonda         2-1 (0-0)
+    20.30  Real Oviedo             v Granada CF               1-1 (0-0)
+  Mon May/6
+    21.00  Cádiz CF                v Málaga CF                1-1 (1-1)
+
+
+» Matchday 38
+  Fri May/10
+    21.00  Granada CF              v CD Tenerife              2-1 (2-0)
+  Sat May/11
+    16.00  Sporting Gijón          v CD Lugo                  0-0
+           Gimnàstic de Tarragona  v RCD Mallorca             2-1 (1-0)
+    18.00  Extremadura UD          v Real Zaragoza            0-3 (0-1)
+           CD Numancia             v AD Alcorcón              2-0 (1-0)
+  Sun May/12
+           CA Osasuna              v CF Reus Deportiu         1-0    [awarded]
+    12.00  UD Almería              v Elche CF                 5-3 (3-2)
+    16.00  Rayo Majadahonda        v Albacete                 2-3 (1-3)
+           Deportivo La Coruña     v Cádiz CF                 1-1 (1-0)
+    20.00  UD Las Palmas           v Córdoba CF               1-0 (1-0)
+  Mon May/13
+    21.00  Málaga CF               v Real Oviedo              3-0 (2-0)
+
+
+» Matchday 39
+  Fri May/17
+    21.00  Real Zaragoza           v Sporting Gijón           4-2 (1-1)
+  Sat May/18
+    16.00  AD Alcorcón             v Extremadura UD           0-1 (0-0)
+    20.30  Elche CF                v CD Tenerife              3-0 (1-0)
+  Sun May/19
+           CF Reus Deportiu        v Málaga CF                0-1    [awarded]
+    12.00  RCD Mallorca            v UD Almería               1-0 (0-0)
+    16.00  Real Oviedo             v CD Numancia              1-0 (0-0)
+    18.00  Cádiz CF                v CA Osasuna               0-0
+           UD Las Palmas           v Rayo Majadahonda         3-2 (0-1)
+    20.00  Córdoba CF              v Gimnàstic de Tarragona   4-3 (3-0)
+           CD Lugo                 v Deportivo La Coruña      1-0 (0-0)
+  Mon May/20
+    21.00  Albacete                v Granada CF               0-1 (0-0)
+
+
+» Matchday 40
+  Fri May/24
+    21.00  Málaga CF               v Real Zaragoza            3-1 (0-1)
+  Sat May/25
+    16.00  Rayo Majadahonda        v Córdoba CF               0-0
+    18.00  Sporting Gijón          v Albacete                 0-2 (0-1)
+           CA Osasuna              v UD Las Palmas            2-0 (1-0)
+  Sun May/26
+           CD Numancia             v CF Reus Deportiu         1-0    [awarded]
+    12.00  UD Almería              v AD Alcorcón              0-0
+    16.00  Gimnàstic de Tarragona  v Elche CF                 3-3 (0-1)
+    18.00  CD Tenerife             v Real Oviedo              2-1 (1-0)
+    19.00  Granada CF              v Cádiz CF                 1-1 (1-0)
+    20.00  Extremadura UD          v CD Lugo                  0-0
+  Mon May/27
+    21.00  Deportivo La Coruña     v RCD Mallorca             1-0 (0-0)
+
+
+» Matchday 41
+  Fri May/31
+    21.00  Córdoba CF              v CA Osasuna               2-3 (0-2)
+  Sat Jun/1
+    19.00  AD Alcorcón             v Gimnàstic de Tarragona   0-1 (0-1)
+  Sun Jun/2
+           CF Reus Deportiu        v Sporting Gijón           0-1    [awarded]
+    18.00  UD Las Palmas           v UD Almería               0-0
+  Tue Jun/4
+    21.00  Albacete                v Málaga CF                1-2 (0-1)
+           Cádiz CF                v Extremadura UD           0-1 (0-1)
+           CD Lugo                 v CD Tenerife              0-0
+           Elche CF                v Deportivo La Coruña      0-0
+           RCD Mallorca            v Granada CF               1-1 (0-0)
+           Real Oviedo             v Rayo Majadahonda         4-3 (1-1)
+           Real Zaragoza           v CD Numancia              0-0
+
+
+» Matchday 42
+  Sat Jun/8
+    20.30  Extremadura UD          v RCD Mallorca             0-0
+           CA Osasuna              v Real Oviedo              1-0 (0-0)
+           UD Almería              v Albacete                 3-0 (0-0)
+           Granada CF              v AD Alcorcón              2-1 (2-0)
+           Sporting Gijón          v Cádiz CF                 1-0 (1-0)
+           Deportivo La Coruña     v Córdoba CF               2-0 (1-0)
+           Málaga CF               v Elche CF                 3-0 (1-0)
+  Sun Jun/9
+           Rayo Majadahonda        v CF Reus Deportiu         1-0    [awarded]
+    18.30  Gimnàstic de Tarragona  v CD Lugo                  1-1 (0-0)
+    20.00  CD Numancia             v UD Las Palmas            1-1 (1-0)
+    20.30  CD Tenerife             v Real Zaragoza            1-0 (0-0)
