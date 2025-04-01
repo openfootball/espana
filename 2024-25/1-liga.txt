@@ -469,7 +469,6 @@
 
 » Matchday 27
   Sat Mar/8
-    01.00  FC Barcelona            v CA Osasuna
     14.00  RC Celta de Vigo        v CD Leganés               2-1 (2-1)
     16.15  Deportivo Alavés        v Villarreal CF            1-0 (1-0)
     18.30  Valencia CF             v Real Valladolid CF       2-1 (1-1)
@@ -499,21 +498,25 @@
     21.00  Club Atlético de Madrid v FC Barcelona             2-4 (1-0)
 
 
+» Matchday 27
+  Thu Mar/27
+    21.00  FC Barcelona            v CA Osasuna               3-0 (2-0)
+
+
 » Matchday 29
-  Fri Mar/28
-    21.00  Athletic Club           v CA Osasuna
   Sat Mar/29
-    14.00  Real Sociedad de Fútbol v Real Valladolid CF
-    16.15  RCD Espanyol de Barcelona v Club Atlético de Madrid
-    18.30  Deportivo Alavés        v Rayo Vallecano de Madrid
-    21.00  Real Madrid CF          v CD Leganés
+    14.00  Real Sociedad de Fútbol v Real Valladolid CF       2-1 (1-0)
+    16.15  RCD Espanyol de Barcelona v Club Atlético de Madrid  1-1 (0-1)
+    18.30  Deportivo Alavés        v Rayo Vallecano de Madrid  0-2 (0-1)
+    21.00  Real Madrid CF          v CD Leganés               3-2 (1-2)
   Sun Mar/30
-    14.00  Getafe CF               v Villarreal CF
-    16.15  FC Barcelona            v Girona FC
-    18.30  Valencia CF             v RCD Mallorca
-    21.00  Real Betis Balompié     v Sevilla FC
+    14.00  Getafe CF               v Villarreal CF            1-2 (1-2)
+    16.15  FC Barcelona            v Girona FC                4-1 (1-0)
+    18.30  Athletic Club           v CA Osasuna               0-0
+           Valencia CF             v RCD Mallorca             1-0 (0-0)
+    21.00  Real Betis Balompié     v Sevilla FC               2-1 (2-1)
   Mon Mar/31
-    21.00  RC Celta de Vigo        v UD Las Palmas
+    21.00  RC Celta de Vigo        v UD Las Palmas            1-2 (1-0)
 
 
 » Matchday 30
@@ -539,45 +542,53 @@
 
 
 » Matchday 31
+  Fri Apr/11
+    21.00  Valencia CF             v Sevilla FC
+  Sat Apr/12
+    14.00  Real Sociedad de Fútbol v RCD Mallorca
+    16.15  Getafe CF               v UD Las Palmas
+    18.30  RC Celta de Vigo        v RCD Espanyol de Barcelona
+    21.00  CD Leganés              v FC Barcelona
   Sun Apr/13
-    02.00  Athletic Club           v Rayo Vallecano de Madrid
-           Club Atlético de Madrid v Real Valladolid CF
-           Real Betis Balompié     v Villarreal CF
-           CA Osasuna              v Girona FC
-           CD Leganés              v FC Barcelona
-           Deportivo Alavés        v Real Madrid CF
-           Getafe CF               v UD Las Palmas
-           Valencia CF             v Sevilla FC
-           Real Sociedad de Fútbol v RCD Mallorca
-           RC Celta de Vigo        v RCD Espanyol de Barcelona
+    14.00  CA Osasuna              v Girona FC
+    16.15  Deportivo Alavés        v Real Madrid CF
+    18.30  Real Betis Balompié     v Villarreal CF
+    21.00  Athletic Club           v Rayo Vallecano de Madrid
+  Mon Apr/14
+    21.00  Club Atlético de Madrid v Real Valladolid CF
 
 
 » Matchday 32
+  Fri Apr/18
+    21.00  RCD Espanyol de Barcelona v Getafe CF
+  Sat Apr/19
+    14.00  Rayo Vallecano de Madrid v Valencia CF
+    16.15  FC Barcelona            v RC Celta de Vigo
+    18.30  RCD Mallorca            v CD Leganés
+    21.00  UD Las Palmas           v Club Atlético de Madrid
   Sun Apr/20
-           FC Barcelona            v RC Celta de Vigo
-           Girona FC               v Real Betis Balompié
-           Sevilla FC              v Deportivo Alavés
-           Villarreal CF           v Real Sociedad de Fútbol
-           Rayo Vallecano de Madrid v Valencia CF
-           RCD Mallorca            v CD Leganés
-           Real Madrid CF          v Athletic Club
-           Real Valladolid CF      v CA Osasuna
-           UD Las Palmas           v Club Atlético de Madrid
-           RCD Espanyol de Barcelona v Getafe CF
+    14.00  Real Valladolid CF      v CA Osasuna
+    16.15  Villarreal CF           v Real Sociedad de Fútbol
+    18.30  Sevilla FC              v Deportivo Alavés
+    21.00  Real Madrid CF          v Athletic Club
+  Mon Apr/21
+    21.00  Girona FC               v Real Betis Balompié
 
 
 » Matchday 33
+  Tue Apr/22
+    19.00  Valencia CF             v RCD Espanyol de Barcelona
   Wed Apr/23
-           Athletic Club           v UD Las Palmas
            Club Atlético de Madrid v Rayo Vallecano de Madrid
-           Real Betis Balompié     v Real Valladolid CF
-           CA Osasuna              v Sevilla FC
-           CD Leganés              v Girona FC
-           RC Celta de Vigo        v Villarreal CF
-           Deportivo Alavés        v Real Sociedad de Fútbol
            FC Barcelona            v RCD Mallorca
+    19.00  Athletic Club           v UD Las Palmas
+           RC Celta de Vigo        v Villarreal CF
+    21.30  Deportivo Alavés        v Real Sociedad de Fútbol
            Getafe CF               v Real Madrid CF
-           Valencia CF             v RCD Espanyol de Barcelona
+  Thu Apr/24
+    19.00  CA Osasuna              v Sevilla FC
+           CD Leganés              v Girona FC
+    21.30  Real Betis Balompié     v Real Valladolid CF
 
 
 » Matchday 34
