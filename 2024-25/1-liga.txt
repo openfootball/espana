@@ -516,7 +516,7 @@
            Valencia CF             v RCD Mallorca             1-0 (0-0)
     21.00  Real Betis Balompié     v Sevilla FC               2-1 (2-1)
   Mon Mar/31
-    21.00  RC Celta de Vigo        v UD Las Palmas            1-2 (1-0)
+    21.00  RC Celta de Vigo        v UD Las Palmas            1-1 (1-0)
 
 
 » Matchday 30
@@ -534,11 +534,6 @@
     21.00  Villarreal CF           v Athletic Club
   Mon Apr/7
     21.00  CD Leganés              v CA Osasuna
-
-
-» Matchday 26
-  Wed Apr/9
-           Villarreal CF           v RCD Espanyol de Barcelona
 
 
 » Matchday 31
@@ -589,6 +584,11 @@
     19.00  CA Osasuna              v Sevilla FC
            CD Leganés              v Girona FC
     21.30  Real Betis Balompié     v Real Valladolid CF
+
+
+» Matchday 26
+  Sun Apr/27
+    16.15  Villarreal CF           v RCD Espanyol de Barcelona
 
 
 » Matchday 34
