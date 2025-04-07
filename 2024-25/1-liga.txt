@@ -521,17 +521,17 @@
 
 » Matchday 30
   Fri Apr/4
-    21.00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
+    21.00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona  0-4 (0-2)
   Sat Apr/5
-    14.00  Girona FC               v Deportivo Alavés
-    16.15  Real Madrid CF          v Valencia CF
-    18.30  RCD Mallorca            v RC Celta de Vigo
-    21.00  FC Barcelona            v Real Betis Balompié
+    14.00  Girona FC               v Deportivo Alavés         0-1 (0-0)
+    16.15  Real Madrid CF          v Valencia CF              1-2 (0-1)
+    18.30  RCD Mallorca            v RC Celta de Vigo         1-2 (1-0)
+    21.00  FC Barcelona            v Real Betis Balompié      1-1 (1-1)
   Sun Apr/6
-    14.00  UD Las Palmas           v Real Sociedad de Fútbol
-    16.15  Sevilla FC              v Club Atlético de Madrid
-    18.30  Real Valladolid CF      v Getafe CF
-    21.00  Villarreal CF           v Athletic Club
+    14.00  UD Las Palmas           v Real Sociedad de Fútbol  1-3 (0-1)
+    16.15  Sevilla FC              v Club Atlético de Madrid  1-2 (1-1)
+    18.30  Real Valladolid CF      v Getafe CF                0-4 (0-3)
+    21.00  Villarreal CF           v Athletic Club            0-0
   Mon Apr/7
     21.00  CD Leganés              v CA Osasuna
 
@@ -573,9 +573,9 @@
 » Matchday 33
   Tue Apr/22
     19.00  Valencia CF             v RCD Espanyol de Barcelona
-  Wed Apr/23
-           Club Atlético de Madrid v Rayo Vallecano de Madrid
+    21.30  Club Atlético de Madrid v Rayo Vallecano de Madrid
            FC Barcelona            v RCD Mallorca
+  Wed Apr/23
     19.00  Athletic Club           v UD Las Palmas
            RC Celta de Vigo        v Villarreal CF
     21.30  Deportivo Alavés        v Real Sociedad de Fútbol
