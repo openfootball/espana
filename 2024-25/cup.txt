@@ -1,8 +1,8 @@
 = Copa del Rey de España 2024/25
 
-# Date       Wed Oct/9 2024 - Wed Apr/2 2025 (175d)
+# Date       Wed Oct/9 2024 - Sat Apr/26 2025 (199d)
 # Teams      125
-# Matches    125
+# Matches    126
 
 
 
@@ -175,6 +175,11 @@
   Wed Feb/26
     21.30  Real Sociedad           v Real Madrid              0-1 (0-1)
   Tue Apr/1
-    21.30  Real Madrid             v Real Sociedad
+    21.30  Real Madrid             v Real Sociedad            4-4 a.e.t. (3-4, 1-1)
   Wed Apr/2
-    21.30  Atlético Madrid         v FC Barcelona
+    21.30  Atlético Madrid         v FC Barcelona             0-1 (0-1)
+
+
+» Final
+  Sat Apr/26
+    22.00  FC Barcelona            v Real Madrid              3-2 a.e.t. (2-2, 1-0)
