@@ -563,32 +563,32 @@
     21.00  UD Las Palmas           v Club Atlético de Madrid  1-0 (0-0)
   Sun Apr/20
     14.00  Real Valladolid CF      v CA Osasuna               2-3 (0-2)
-    16.15  Villarreal CF           v Real Sociedad de Fútbol
-    18.30  Sevilla FC              v Deportivo Alavés
-    21.00  Real Madrid CF          v Athletic Club
+    16.15  Villarreal CF           v Real Sociedad de Fútbol  2-2 (1-1)
+    18.30  Sevilla FC              v Deportivo Alavés         1-1 (1-1)
+    21.00  Real Madrid CF          v Athletic Club            1-0 (0-0)
   Mon Apr/21
-    21.00  Girona FC               v Real Betis Balompié
+    21.00  Girona FC               v Real Betis Balompié      1-3 (0-3)
 
 
 » Matchday 33
   Tue Apr/22
-    19.00  Valencia CF             v RCD Espanyol de Barcelona
-    21.30  FC Barcelona            v RCD Mallorca
+    19.00  Valencia CF             v RCD Espanyol de Barcelona  1-1 (0-1)
+    21.30  FC Barcelona            v RCD Mallorca             1-0 (0-0)
   Wed Apr/23
-    19.00  Athletic Club           v UD Las Palmas
-           RC Celta de Vigo        v Villarreal CF
-    21.30  Deportivo Alavés        v Real Sociedad de Fútbol
-           Getafe CF               v Real Madrid CF
+    19.00  Athletic Club           v UD Las Palmas            1-0 (1-0)
+           RC Celta de Vigo        v Villarreal CF            3-0 (1-0)
+    21.30  Deportivo Alavés        v Real Sociedad de Fútbol  1-0 (0-0)
+           Getafe CF               v Real Madrid CF           0-1 (0-1)
   Thu Apr/24
-    19.00  CA Osasuna              v Sevilla FC
-           CD Leganés              v Girona FC
-    21.30  Club Atlético de Madrid v Rayo Vallecano de Madrid
-           Real Betis Balompié     v Real Valladolid CF
+    19.00  CA Osasuna              v Sevilla FC               1-0 (1-0)
+           CD Leganés              v Girona FC                1-1 (0-0)
+    21.30  Club Atlético de Madrid v Rayo Vallecano de Madrid  3-0 (2-0)
+           Real Betis Balompié     v Real Valladolid CF       5-1 (1-1)
 
 
 » Matchday 26
   Sun Apr/27
-    16.15  Villarreal CF           v RCD Espanyol de Barcelona
+    16.15  Villarreal CF           v RCD Espanyol de Barcelona  1-0 (0-0)
 
 
 » Matchday 34
@@ -598,9 +598,9 @@
     14.00  Deportivo Alavés        v Club Atlético de Madrid
     16.15  Villarreal CF           v CA Osasuna
     18.30  UD Las Palmas           v Valencia CF
-    21.00  Real Madrid CF          v RC Celta de Vigo
+    21.00  Real Valladolid CF      v FC Barcelona
   Sun May/4
-    14.00  Real Valladolid CF      v FC Barcelona
+    14.00  Real Madrid CF          v RC Celta de Vigo
     16.15  Sevilla FC              v CD Leganés
     18.30  RCD Espanyol de Barcelona v Real Betis Balompié
     21.00  Real Sociedad de Fútbol v Athletic Club
@@ -609,30 +609,34 @@
 
 
 » Matchday 35
-  Sun May/11
-           Athletic Club           v Deportivo Alavés
-           Club Atlético de Madrid v Real Sociedad de Fútbol
-           Real Betis Balompié     v CA Osasuna
-           RC Celta de Vigo        v Sevilla FC
-           FC Barcelona            v Real Madrid CF
-           Girona FC               v Villarreal CF
-           Valencia CF             v Getafe CF
+  Fri May/9
+    21.00  UD Las Palmas           v Rayo Vallecano de Madrid
+  Sat May/10
+    14.00  Valencia CF             v Getafe CF
+    16.15  RC Celta de Vigo        v Sevilla FC
+    18.30  Girona FC               v Villarreal CF
            RCD Mallorca            v Real Valladolid CF
-           UD Las Palmas           v Rayo Vallecano de Madrid
-           CD Leganés              v RCD Espanyol de Barcelona
+    21.00  Club Atlético de Madrid v Real Sociedad de Fútbol
+  Sun May/11
+    14.00  CD Leganés              v RCD Espanyol de Barcelona
+    16.15  FC Barcelona            v Real Madrid CF
+    18.30  Athletic Club           v Deportivo Alavés
+    21.00  Real Betis Balompié     v CA Osasuna
 
 
 » Matchday 36
+  Tue May/13
+    19.00  Real Valladolid CF      v Girona FC
+    20.00  Real Sociedad de Fútbol v RC Celta de Vigo
+    21.30  Sevilla FC              v UD Las Palmas
   Wed May/14
-           CA Osasuna              v Club Atlético de Madrid
-           Deportivo Alavés        v Valencia CF
-           Getafe CF               v Athletic Club
-           Sevilla FC              v UD Las Palmas
+    19.00  Deportivo Alavés        v Valencia CF
            Villarreal CF           v CD Leganés
+    21.30  Real Madrid CF          v RCD Mallorca
+  Thu May/15
+    19.00  CA Osasuna              v Club Atlético de Madrid
            Rayo Vallecano de Madrid v Real Betis Balompié
-           Real Madrid CF          v RCD Mallorca
-           Real Sociedad de Fútbol v RC Celta de Vigo
-           Real Valladolid CF      v Girona FC
+    21.30  Getafe CF               v Athletic Club
            RCD Espanyol de Barcelona v FC Barcelona
 
 
