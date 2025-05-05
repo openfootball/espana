@@ -1,4 +1,4 @@
-= Primera División de España 2024/25
+= Spain Primera División 2024/25
 
 # Date       Thu Aug/15 2024 - Sun May/25 2025 (283d)
 # Teams      20
@@ -593,17 +593,17 @@
 
 » Matchday 34
   Fri May/2
-    21.00  Rayo Vallecano de Madrid v Getafe CF
+    21.00  Rayo Vallecano de Madrid v Getafe CF                1-0 (1-0)
   Sat May/3
-    14.00  Deportivo Alavés        v Club Atlético de Madrid
-    16.15  Villarreal CF           v CA Osasuna
-    18.30  UD Las Palmas           v Valencia CF
-    21.00  Real Valladolid CF      v FC Barcelona
+    14.00  Deportivo Alavés        v Club Atlético de Madrid  0-0
+    16.15  Villarreal CF           v CA Osasuna               4-2 (3-0)
+    18.30  UD Las Palmas           v Valencia CF              2-3 (1-1)
+    21.00  Real Valladolid CF      v FC Barcelona             1-2 (1-0)
   Sun May/4
-    14.00  Real Madrid CF          v RC Celta de Vigo
-    16.15  Sevilla FC              v CD Leganés
-    18.30  RCD Espanyol de Barcelona v Real Betis Balompié
-    21.00  Real Sociedad de Fútbol v Athletic Club
+    14.00  Real Madrid CF          v RC Celta de Vigo         3-2 (2-0)
+    16.15  Sevilla FC              v CD Leganés               2-2 (1-1)
+    18.30  RCD Espanyol de Barcelona v Real Betis Balompié      1-2 (1-0)
+    21.00  Real Sociedad de Fútbol v Athletic Club            0-0
   Mon May/5
     21.00  Girona FC               v RCD Mallorca
 
