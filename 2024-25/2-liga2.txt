@@ -1,4 +1,4 @@
-= Segunda División de España 2024/25
+= Spain Segunda División 2024/25
 
 # Date       Thu Aug/15 2024 - Sun Jun/1 2025 (290d)
 # Teams      22
@@ -669,18 +669,18 @@
 
 » Matchday 38
   Fri May/2
-    20.30  Córdoba CF              v Cádiz CF
+    20.30  Córdoba CF              v Cádiz CF                 4-2 (2-0)
   Sat May/3
-    16.15  SD Huesca               v Real Oviedo
-    18.30  SD Eibar                v CD Mirandés
-           Málaga CF               v Granada CF
-    21.00  Burgos CF               v Elche CF
+    16.15  SD Huesca               v Real Oviedo              1-2 (0-1)
+    18.30  SD Eibar                v CD Mirandés              0-1 (0-0)
+           Málaga CF               v Granada CF               1-0 (1-0)
+    21.00  Burgos CF               v Elche CF                 0-1 (0-0)
   Sun May/4
-    14.00  Levante UD              v CD Tenerife
-    16.15  Racing Ferrol           v Real Zaragoza
-    18.30  UD Almería              v CD Eldense
-           FC Cartagena            v Racing Santander
-    21.00  Deportivo La Coruña     v Albacete
+    14.00  Levante UD              v CD Tenerife              1-1 (0-1)
+    16.15  Racing Ferrol           v Real Zaragoza            1-2 (0-1)
+    18.30  UD Almería              v CD Eldense               5-0 (2-0)
+           FC Cartagena            v Racing Santander         1-0 (1-0)
+    21.00  Deportivo La Coruña     v Albacete                 5-1 (2-1)
   Mon May/5
     20.30  CD Castellón            v Sporting Gijón
 
