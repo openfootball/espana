@@ -605,23 +605,23 @@
     18.30  RCD Espanyol de Barcelona v Real Betis Balompié      1-2 (1-0)
     21.00  Real Sociedad de Fútbol v Athletic Club            0-0
   Mon May/5
-    21.00  Girona FC               v RCD Mallorca
+    21.00  Girona FC               v RCD Mallorca             1-0 (1-0)
 
 
 » Matchday 35
   Fri May/9
-    21.00  UD Las Palmas           v Rayo Vallecano de Madrid
+    21.00  UD Las Palmas           v Rayo Vallecano de Madrid  0-1 (0-0)
   Sat May/10
-    14.00  Valencia CF             v Getafe CF
-    16.15  RC Celta de Vigo        v Sevilla FC
-    18.30  Girona FC               v Villarreal CF
-           RCD Mallorca            v Real Valladolid CF
-    21.00  Club Atlético de Madrid v Real Sociedad de Fútbol
+    14.00  Valencia CF             v Getafe CF                3-0 (3-0)
+    16.15  RC Celta de Vigo        v Sevilla FC               3-2 (1-1)
+    18.30  Girona FC               v Villarreal CF            0-1 (0-0)
+           RCD Mallorca            v Real Valladolid CF       2-1 (1-1)
+    21.00  Club Atlético de Madrid v Real Sociedad de Fútbol  4-0 (4-0)
   Sun May/11
-    14.00  CD Leganés              v RCD Espanyol de Barcelona
-    16.15  FC Barcelona            v Real Madrid CF
-    18.30  Athletic Club           v Deportivo Alavés
-    21.00  Real Betis Balompié     v CA Osasuna
+    14.00  CD Leganés              v RCD Espanyol de Barcelona  3-2 (2-0)
+    16.15  FC Barcelona            v Real Madrid CF           4-3 (4-2)
+    18.30  Athletic Club           v Deportivo Alavés         1-0 (0-0)
+    21.00  Real Betis Balompié     v CA Osasuna               1-1 (0-0)
 
 
 » Matchday 36
@@ -642,7 +642,7 @@
 
 » Matchday 37
   Sun May/18
-           Club Atlético de Madrid v Real Betis Balompié
+    19.00  Club Atlético de Madrid v Real Betis Balompié
            RC Celta de Vigo        v Rayo Vallecano de Madrid
            FC Barcelona            v Villarreal CF
            Sevilla FC              v Real Madrid CF
