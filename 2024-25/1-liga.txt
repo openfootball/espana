@@ -615,43 +615,43 @@
     14.00  Valencia CF             v Getafe CF                3-0 (3-0)
     16.15  RC Celta de Vigo        v Sevilla FC               3-2 (1-1)
     18.30  Girona FC               v Villarreal CF            0-1 (0-0)
-           RCD Mallorca            v Real Valladolid CF       2-1 (1-1)
+           RCD Mallorca            v Real Valladolid CF       2-2 (1-1)
     21.00  Club Atlético de Madrid v Real Sociedad de Fútbol  4-0 (4-0)
   Sun May/11
     14.00  CD Leganés              v RCD Espanyol de Barcelona  3-2 (2-0)
-    16.15  FC Barcelona            v Real Madrid CF           4-3 (4-2)
+    16.15  FC Barcelona            v Real Madrid CF           5-3 (4-2)
     18.30  Athletic Club           v Deportivo Alavés         1-0 (0-0)
     21.00  Real Betis Balompié     v CA Osasuna               1-1 (0-0)
 
 
 » Matchday 36
   Tue May/13
-    19.00  Real Valladolid CF      v Girona FC
-    20.00  Real Sociedad de Fútbol v RC Celta de Vigo
-    21.30  Sevilla FC              v UD Las Palmas
+    19.00  Real Valladolid CF      v Girona FC                0-1 (0-0)
+    20.00  Real Sociedad de Fútbol v RC Celta de Vigo         0-1 (0-1)
+    21.30  Sevilla FC              v UD Las Palmas            1-0 (0-0)
   Wed May/14
-    19.00  Deportivo Alavés        v Valencia CF
-           Villarreal CF           v CD Leganés
-    21.30  Real Madrid CF          v RCD Mallorca
+    19.00  Deportivo Alavés        v Valencia CF              1-0 (0-0)
+           Villarreal CF           v CD Leganés               3-0 (3-0)
+    21.30  Real Madrid CF          v RCD Mallorca             2-1 (0-1)
   Thu May/15
-    19.00  CA Osasuna              v Club Atlético de Madrid
-           Rayo Vallecano de Madrid v Real Betis Balompié
-    21.30  Getafe CF               v Athletic Club
-           RCD Espanyol de Barcelona v FC Barcelona
+    19.00  CA Osasuna              v Club Atlético de Madrid  2-0 (1-0)
+           Rayo Vallecano de Madrid v Real Betis Balompié      2-2 (2-0)
+    21.30  Getafe CF               v Athletic Club            0-2 (0-0)
+           RCD Espanyol de Barcelona v FC Barcelona             0-2 (0-0)
 
 
 » Matchday 37
   Sun May/18
-    19.00  Club Atlético de Madrid v Real Betis Balompié
-           RC Celta de Vigo        v Rayo Vallecano de Madrid
-           FC Barcelona            v Villarreal CF
-           Sevilla FC              v Real Madrid CF
-           Valencia CF             v Athletic Club
-           RCD Mallorca            v Getafe CF
-           Real Sociedad de Fútbol v Girona FC
-           Real Valladolid CF      v Deportivo Alavés
-           UD Las Palmas           v CD Leganés
-           CA Osasuna              v RCD Espanyol de Barcelona
+    19.00  Club Atlético de Madrid v Real Betis Balompié      4-1 (2-0)
+           RC Celta de Vigo        v Rayo Vallecano de Madrid  1-2 (1-2)
+           FC Barcelona            v Villarreal CF            2-3 (2-1)
+           Sevilla FC              v Real Madrid CF           0-2 (0-0)
+           Valencia CF             v Athletic Club            0-1 (0-0)
+           RCD Mallorca            v Getafe CF                1-2 (0-0)
+           Real Sociedad de Fútbol v Girona FC                3-2 (2-1)
+           Real Valladolid CF      v Deportivo Alavés         0-1 (0-1)
+           UD Las Palmas           v CD Leganés               0-1 (0-1)
+           CA Osasuna              v RCD Espanyol de Barcelona  2-0 (1-0)
 
 
 » Matchday 38
