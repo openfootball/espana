@@ -682,67 +682,73 @@
            FC Cartagena            v Racing Santander         1-0 (1-0)
     21.00  Deportivo La Coruña     v Albacete                 5-1 (2-1)
   Mon May/5
-    20.30  CD Castellón            v Sporting Gijón
+    20.30  CD Castellón            v Sporting Gijón           4-3 (2-1)
 
 
 » Matchday 39
   Fri May/9
-    20.30  Cádiz CF                v UD Almería
+    20.30  Cádiz CF                v UD Almería               2-1 (0-1)
   Sat May/10
-    16.15  CD Mirandés             v CD Castellón
-           Sporting Gijón          v Deportivo La Coruña
-    18.30  Burgos CF               v Córdoba CF
-           Elche CF                v Levante UD
-    21.00  Real Zaragoza           v FC Cartagena
+    16.15  CD Mirandés             v CD Castellón             3-2 (1-1)
+           Sporting Gijón          v Deportivo La Coruña      2-1 (2-0)
+    18.30  Burgos CF               v Córdoba CF               3-2 (1-1)
+           Elche CF                v Levante UD               1-3 (0-2)
+    21.00  Real Zaragoza           v FC Cartagena             3-2 (1-2)
   Sun May/11
-    14.00  Racing Santander        v Real Oviedo
-    18.30  Albacete                v SD Huesca
-           CD Eldense              v Málaga CF
-    21.00  CD Tenerife             v Racing Ferrol
+    14.00  Racing Santander        v Real Oviedo              1-1 (0-1)
+    18.30  Albacete                v SD Huesca                3-2 (1-0)
+           CD Eldense              v Málaga CF                1-0 (0-0)
+    21.00  CD Tenerife             v Racing Ferrol            0-0
   Mon May/12
-    20.30  Granada CF              v SD Eibar
+    20.30  Granada CF              v SD Eibar                 0-2 (0-0)
 
 
 » Matchday 40
+  Fri May/16
+    20.30  Levante UD              v Albacete                 1-0 (1-0)
+  Sat May/17
+    16.15  Deportivo La Coruña     v Granada CF               2-3 (0-2)
+           SD Eibar                v Burgos CF                1-0 (1-0)
+    18.30  FC Cartagena            v CD Tenerife              1-0 (1-0)
+           SD Huesca               v Elche CF                 2-1 (0-1)
+    21.00  Málaga CF               v Sporting Gijón           2-1 (0-0)
   Sun May/18
-           UD Almería              v Racing Santander
-           FC Cartagena            v CD Tenerife
-           CD Castellón            v CD Eldense
-           Córdoba CF              v CD Mirandés
-           Deportivo La Coruña     v Granada CF
-           Málaga CF               v Sporting Gijón
-           Real Oviedo             v Real Zaragoza
-           Levante UD              v Albacete
-           SD Eibar                v Burgos CF
-           Racing Ferrol           v Cádiz CF
-           SD Huesca               v Elche CF
+    14.00  Racing Ferrol           v Cádiz CF                 1-0 (0-0)
+    16.15  CD Castellón            v CD Eldense               1-1 (0-0)
+           Real Oviedo             v Real Zaragoza            1-0 (0-0)
+    21.00  UD Almería              v Racing Santander         2-0 (1-0)
+  Mon May/19
+    20.30  Córdoba CF              v CD Mirandés              1-2 (0-1)
 
 
 » Matchday 41
+  Sat May/24
+    18.30  Albacete                v Racing Ferrol            2-0 (1-0)
   Sun May/25
-           Albacete                v Racing Ferrol
-           Burgos CF               v Levante UD
-           Cádiz CF                v SD Huesca
-           Elche CF                v Málaga CF
-           CD Eldense              v Racing Santander
-           CD Mirandés             v UD Almería
-           Sporting Gijón          v FC Cartagena
-           Granada CF              v CD Castellón
-           SD Eibar                v Córdoba CF
-           Real Zaragoza           v Deportivo La Coruña
-           CD Tenerife             v Real Oviedo
+    18.30  Burgos CF               v Levante UD               2-3 (2-1)
+           Cádiz CF                v SD Huesca                4-0 (4-0)
+           Elche CF                v Málaga CF                2-0 (0-0)
+           CD Eldense              v Racing Santander         3-3 (1-1)
+           CD Mirandés             v UD Almería               0-0
+           Sporting Gijón          v FC Cartagena             3-2 (1-1)
+           Granada CF              v CD Castellón             2-1 (1-0)
+           SD Eibar                v Córdoba CF               4-1 (1-0)
+           Real Zaragoza           v Deportivo La Coruña      1-0 (0-0)
+           CD Tenerife             v Real Oviedo              0-1 (0-0)
 
 
 » Matchday 42
+  Fri May/30
+    20.30  CD Castellón            v Real Zaragoza            4-1 (4-0)
+  Sat May/31
+    16.15  Racing Ferrol           v Sporting Gijón           0-2 (0-1)
+    18.30  Málaga CF               v Burgos CF
   Sun Jun/1
-           UD Almería              v CD Tenerife
+    16.15  SD Huesca               v CD Eldense
+    18.30  UD Almería              v CD Tenerife
            FC Cartagena            v CD Mirandés
-           CD Castellón            v Real Zaragoza
            Deportivo La Coruña     v Elche CF
-           Racing Ferrol           v Sporting Gijón
-           Córdoba CF              v Albacete
-           Málaga CF               v Burgos CF
            Real Oviedo             v Cádiz CF
            Levante UD              v SD Eibar
-           SD Huesca               v CD Eldense
            Racing Santander        v Granada CF
+    21.00  Córdoba CF              v Albacete
