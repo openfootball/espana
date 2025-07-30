@@ -1,0 +1,648 @@
+= Spain Segunda División 2025/26
+
+# Date       Fri Aug/15 2025 - Sun May/31 2026 (289d)
+# Teams      22
+# Matches    462
+
+
+
+» Matchday 1
+  Fri Aug/15 2025
+    19.30  Burgos CF               v Cultural Leonesa
+    21.30  Real Valladolid         v AD Ceuta FC
+  Sat Aug/16
+    17.00  Racing Santander        v CD Castellón
+    19.30  Málaga CF               v SD Eibar
+    21.30  Granada CF              v Deportivo La Coruña
+  Sun Aug/17
+    17.00  Real Sociedad B         v Real Zaragoza
+    19.30  Cádiz CF                v CD Mirandés
+           SD Huesca               v CD Leganés
+    21.30  UD Las Palmas           v FC Andorra
+  Mon Aug/18
+    19.00  Sporting Gijón          v Córdoba CF
+    21.30  UD Almería              v Albacete
+
+
+» Matchday 2
+  Fri Aug/22
+    19.30  SD Eibar                v Granada CF
+    21.30  CD Castellón            v Real Valladolid
+           CD Leganés              v Cádiz CF
+  Sat Aug/23
+    17.00  CD Mirandés             v SD Huesca
+    19.00  AD Ceuta FC             v Sporting Gijón
+    21.30  Real Zaragoza           v FC Andorra
+  Sun Aug/24
+    17.00  Málaga CF               v Real Sociedad B
+           Deportivo La Coruña     v Burgos CF
+    19.30  Cultural Leonesa        v UD Almería
+  Mon Aug/25
+    19.30  Albacete                v Racing Santander
+    21.30  Córdoba CF              v UD Las Palmas
+
+
+» Matchday 3
+  Fri Aug/29
+    19.30  Real Sociedad B         v UD Almería
+    21.30  Sporting Gijón          v Cultural Leonesa
+  Sat Aug/30
+    17.00  Racing Santander        v AD Ceuta FC
+    19.00  Real Valladolid         v Córdoba CF
+    21.30  CD Castellón            v Real Zaragoza
+  Sun Aug/31
+    17.00  FC Andorra              v Burgos CF
+           Cádiz CF                v Albacete
+    19.30  UD Las Palmas           v Málaga CF
+    21.30  Granada CF              v CD Mirandés
+  Mon Sep/1
+    19.30  SD Huesca               v SD Eibar
+    21.30  CD Leganés              v Deportivo La Coruña
+
+
+» Matchday 4
+  Fri Sep/5
+    19.30  Albacete                v CD Mirandés
+    21.30  Córdoba CF              v CD Castellón
+  Sat Sep/6
+    16.15  Deportivo La Coruña     v Sporting Gijón
+    18.30  Real Zaragoza           v Real Valladolid
+    21.00  Málaga CF               v Granada CF
+  Sun Sep/7
+    14.00  AD Ceuta FC             v SD Huesca
+    16.15  Burgos CF               v UD Las Palmas
+           Real Sociedad B         v Cádiz CF
+    18.30  UD Almería              v Racing Santander
+           Cultural Leonesa        v CD Leganés
+  Mon Sep/8
+    20.30  SD Eibar                v FC Andorra
+
+
+» Matchday 5
+  Sun Sep/14
+           Cádiz CF                v SD Eibar
+           CD Castellón            v AD Ceuta FC
+           Granada CF              v CD Leganés
+           SD Huesca               v Málaga CF
+           UD Las Palmas           v Real Sociedad B
+           FC Andorra              v Córdoba CF
+           Real Zaragoza           v Albacete
+           Sporting Gijón          v Burgos CF
+           CD Mirandés             v Deportivo La Coruña
+           Racing Santander        v Cultural Leonesa
+           Real Valladolid         v UD Almería
+
+
+» Matchday 6
+  Sun Sep/21
+           Albacete                v Real Valladolid
+           Burgos CF               v Granada CF
+           AD Ceuta FC             v Real Zaragoza
+           Córdoba CF              v Racing Santander
+           Deportivo La Coruña     v SD Huesca
+           SD Eibar                v Real Sociedad B
+           CD Leganés              v UD Las Palmas
+           UD Almería              v Sporting Gijón
+           FC Andorra              v CD Mirandés
+           Málaga CF               v Cádiz CF
+           Cultural Leonesa        v CD Castellón
+
+
+» Matchday 7
+  Sun Sep/28
+           Burgos CF               v Málaga CF
+           Cádiz CF                v AD Ceuta FC
+           CD Mirandés             v Real Zaragoza
+           Sporting Gijón          v Albacete
+           CD Leganés              v CD Castellón
+           Real Sociedad B         v Córdoba CF
+           SD Eibar                v Deportivo La Coruña
+           SD Huesca               v Granada CF
+           Real Valladolid         v Cultural Leonesa
+           UD Las Palmas           v UD Almería
+           Racing Santander        v FC Andorra
+
+
+» Matchday 8
+  Sun Oct/5
+           CD Castellón            v Sporting Gijón
+           AD Ceuta FC             v SD Eibar
+           Granada CF              v Real Sociedad B
+           FC Andorra              v CD Leganés
+           Cultural Leonesa        v Albacete
+           SD Huesca               v Burgos CF
+           UD Las Palmas           v Cádiz CF
+           Real Zaragoza           v Córdoba CF
+           Racing Santander        v Málaga CF
+           Deportivo La Coruña     v UD Almería
+           Real Valladolid         v CD Mirandés
+
+
+» Matchday 9
+  Sun Oct/12
+           Albacete                v AD Ceuta FC
+           Burgos CF               v Real Valladolid
+           Cádiz CF                v SD Huesca
+           Córdoba CF              v Cultural Leonesa
+           Granada CF              v UD Las Palmas
+           UD Almería              v Real Zaragoza
+           SD Eibar                v CD Castellón
+           Málaga CF               v Deportivo La Coruña
+           CD Mirandés             v CD Leganés
+           Sporting Gijón          v Racing Santander
+           Real Sociedad B         v FC Andorra
+
+
+» Matchday 10
+  Sun Oct/19
+           AD Ceuta FC             v CD Mirandés
+           CD Leganés              v Málaga CF
+           FC Andorra              v Granada CF
+           CD Castellón            v Albacete
+           Cádiz CF                v Burgos CF
+           Racing Santander        v Deportivo La Coruña
+           UD Las Palmas           v SD Eibar
+           Real Sociedad B         v SD Huesca
+           Real Zaragoza           v Cultural Leonesa
+           Real Valladolid         v Sporting Gijón
+           Córdoba CF              v UD Almería
+
+
+» Matchday 11
+  Sun Oct/26
+           Albacete                v Córdoba CF
+           Burgos CF               v Real Sociedad B
+           Deportivo La Coruña     v Real Valladolid
+           SD Eibar                v CD Leganés
+           SD Huesca               v UD Las Palmas
+           Sporting Gijón          v Real Zaragoza
+           UD Almería              v CD Castellón
+           CD Mirandés             v Racing Santander
+           Granada CF              v Cádiz CF
+           Cultural Leonesa        v AD Ceuta FC
+           Málaga CF               v FC Andorra
+
+
+» Matchday 12
+  Sun Nov/2
+           Albacete                v SD Huesca
+           CD Castellón            v Málaga CF
+           Cultural Leonesa        v CD Mirandés
+           Racing Santander        v Real Sociedad B
+           UD Almería              v SD Eibar
+           FC Andorra              v Cádiz CF
+           CD Leganés              v Burgos CF
+           Córdoba CF              v AD Ceuta FC
+           Real Zaragoza           v Deportivo La Coruña
+           Real Valladolid         v Granada CF
+           Sporting Gijón          v UD Las Palmas
+
+
+» Matchday 13
+  Sun Nov/9
+           Burgos CF               v CD Castellón
+           Cádiz CF                v Real Valladolid
+           Deportivo La Coruña     v Cultural Leonesa
+           Granada CF              v Real Zaragoza
+           UD Las Palmas           v Racing Santander
+           CD Mirandés             v Sporting Gijón
+           SD Eibar                v Albacete
+           Málaga CF               v Córdoba CF
+           Real Sociedad B         v CD Leganés
+           AD Ceuta FC             v UD Almería
+           SD Huesca               v FC Andorra
+
+
+» Matchday 14
+  Sun Nov/16
+           Albacete                v FC Andorra
+           CD Castellón            v Real Sociedad B
+           AD Ceuta FC             v CD Leganés
+           Córdoba CF              v Deportivo La Coruña
+           Cultural Leonesa        v Málaga CF
+           UD Almería              v Cádiz CF
+           CD Mirandés             v Burgos CF
+           Sporting Gijón          v SD Eibar
+           Racing Santander        v Granada CF
+           Real Zaragoza           v SD Huesca
+           Real Valladolid         v UD Las Palmas
+
+
+» Matchday 15
+  Sun Nov/23
+           Burgos CF               v Racing Santander
+           Cádiz CF                v Cultural Leonesa
+           SD Eibar                v Real Zaragoza
+           SD Huesca               v Sporting Gijón
+           Málaga CF               v CD Mirandés
+           FC Andorra              v CD Castellón
+           Real Sociedad B         v Real Valladolid
+           UD Las Palmas           v Albacete
+           Deportivo La Coruña     v AD Ceuta FC
+           Granada CF              v Córdoba CF
+           CD Leganés              v UD Almería
+
+
+» Matchday 16
+  Sun Nov/30
+           Albacete                v Deportivo La Coruña
+           CD Castellón            v UD Las Palmas
+           UD Almería              v SD Huesca
+           CD Mirandés             v Real Sociedad B
+           AD Ceuta FC             v Burgos CF
+           Córdoba CF              v Cádiz CF
+           Racing Santander        v SD Eibar
+           Cultural Leonesa        v Granada CF
+           Real Zaragoza           v CD Leganés
+           Real Valladolid         v Málaga CF
+           Sporting Gijón          v FC Andorra
+
+
+» Matchday 17
+  Sun Dec/7
+           Cádiz CF                v Racing Santander
+           SD Eibar                v Cultural Leonesa
+           SD Huesca               v Real Valladolid
+           UD Las Palmas           v CD Mirandés
+           Málaga CF               v Real Zaragoza
+           Real Sociedad B         v Sporting Gijón
+           Burgos CF               v Albacete
+           Deportivo La Coruña     v CD Castellón
+           Granada CF              v AD Ceuta FC
+           CD Leganés              v Córdoba CF
+           FC Andorra              v UD Almería
+
+
+» Matchday 18
+  Sun Dec/14
+           Albacete                v Málaga CF
+           CD Castellón            v CD Mirandés
+           AD Ceuta FC             v UD Las Palmas
+           Córdoba CF              v SD Eibar
+           Deportivo La Coruña     v Real Sociedad B
+           UD Almería              v Burgos CF
+           Real Zaragoza           v Cádiz CF
+           Sporting Gijón          v Granada CF
+           Cultural Leonesa        v SD Huesca
+           Racing Santander        v CD Leganés
+           Real Valladolid         v FC Andorra
+
+
+» Matchday 19
+  Sun Dec/21
+           Burgos CF               v Real Zaragoza
+           Cádiz CF                v CD Castellón
+           SD Eibar                v Real Valladolid
+           SD Huesca               v Racing Santander
+           CD Leganés              v Sporting Gijón
+           FC Andorra              v Deportivo La Coruña
+           Granada CF              v Albacete
+           Real Sociedad B         v AD Ceuta FC
+           CD Mirandés             v Córdoba CF
+           UD Las Palmas           v Cultural Leonesa
+           Málaga CF               v UD Almería
+
+
+» Matchday 20
+  Sun Jan/4 2026
+           Albacete                v CD Leganés
+           CD Castellón            v SD Huesca
+           SD Eibar                v CD Mirandés
+           Cultural Leonesa        v Real Sociedad B
+           UD Almería              v Granada CF
+           Córdoba CF              v Burgos CF
+           Deportivo La Coruña     v Cádiz CF
+           Real Zaragoza           v UD Las Palmas
+           Sporting Gijón          v Málaga CF
+           Real Valladolid         v Racing Santander
+           AD Ceuta FC             v FC Andorra
+
+
+» Matchday 21
+  Sun Jan/11
+           Burgos CF               v SD Eibar
+           Cádiz CF                v Sporting Gijón
+           CD Leganés              v Real Valladolid
+           Racing Santander        v Real Zaragoza
+           FC Andorra              v Cultural Leonesa
+           Real Sociedad B         v Albacete
+           Granada CF              v CD Castellón
+           Málaga CF               v AD Ceuta FC
+           SD Huesca               v Córdoba CF
+           UD Las Palmas           v Deportivo La Coruña
+           CD Mirandés             v UD Almería
+
+
+» Matchday 22
+  Sun Jan/18
+           Albacete                v Cádiz CF
+           Burgos CF               v SD Huesca
+           CD Castellón            v CD Leganés
+           AD Ceuta FC             v Real Valladolid
+           Córdoba CF              v Málaga CF
+           Cultural Leonesa        v Sporting Gijón
+           UD Almería              v Deportivo La Coruña
+           Granada CF              v SD Eibar
+           Racing Santander        v UD Las Palmas
+           CD Mirandés             v FC Andorra
+           Real Zaragoza           v Real Sociedad B
+
+
+» Matchday 23
+  Sun Jan/25
+           Cádiz CF                v Granada CF
+           AD Ceuta FC             v Cultural Leonesa
+           Deportivo La Coruña     v Racing Santander
+           CD Leganés              v Real Sociedad B
+           FC Andorra              v SD Huesca
+           Real Valladolid         v Albacete
+           Málaga CF               v Burgos CF
+           Real Zaragoza           v CD Castellón
+           UD Las Palmas           v Córdoba CF
+           SD Eibar                v UD Almería
+           Sporting Gijón          v CD Mirandés
+
+
+» Matchday 24
+  Sun Feb/1
+           Albacete                v Real Zaragoza
+           Burgos CF               v CD Leganés
+           Córdoba CF              v Real Valladolid
+           SD Eibar                v Sporting Gijón
+           Granada CF              v Racing Santander
+           UD Almería              v AD Ceuta FC
+           SD Huesca               v Cádiz CF
+           Cultural Leonesa        v Deportivo La Coruña
+           Real Sociedad B         v UD Las Palmas
+           CD Mirandés             v Málaga CF
+           CD Castellón            v FC Andorra
+
+
+» Matchday 25
+  Sun Feb/8
+           AD Ceuta FC             v Córdoba CF
+           FC Andorra              v Real Sociedad B
+           Deportivo La Coruña     v Albacete
+           UD Las Palmas           v Burgos CF
+           Real Valladolid         v CD Castellón
+           Real Zaragoza           v SD Eibar
+           CD Leganés              v Granada CF
+           Sporting Gijón          v SD Huesca
+           Málaga CF               v Cultural Leonesa
+           Cádiz CF                v UD Almería
+           Racing Santander        v CD Mirandés
+
+
+» Matchday 26
+  Sun Feb/15
+           Albacete                v Sporting Gijón
+           Burgos CF               v Cádiz CF
+           CD Castellón            v Deportivo La Coruña
+           Córdoba CF              v CD Leganés
+           SD Eibar                v Racing Santander
+           Granada CF              v Real Valladolid
+           Cultural Leonesa        v Real Zaragoza
+           UD Almería              v FC Andorra
+           SD Huesca               v AD Ceuta FC
+           CD Mirandés             v UD Las Palmas
+           Real Sociedad B         v Málaga CF
+
+
+» Matchday 27
+  Sun Feb/22
+           Cádiz CF                v Real Sociedad B
+           AD Ceuta FC             v Granada CF
+           Deportivo La Coruña     v SD Eibar
+           SD Huesca               v CD Mirandés
+           CD Leganés              v Cultural Leonesa
+           Sporting Gijón          v Real Valladolid
+           UD Almería              v Córdoba CF
+           FC Andorra              v Real Zaragoza
+           Málaga CF               v Albacete
+           Racing Santander        v Burgos CF
+           UD Las Palmas           v CD Castellón
+
+
+» Matchday 28
+  Sun Mar/1
+           Albacete                v UD Almería
+           CD Castellón            v Racing Santander
+           Granada CF              v Málaga CF
+           Cultural Leonesa        v UD Las Palmas
+           Real Zaragoza           v Burgos CF
+           SD Eibar                v Cádiz CF
+           CD Mirandés             v AD Ceuta FC
+           Real Sociedad B         v Deportivo La Coruña
+           Real Valladolid         v SD Huesca
+           Sporting Gijón          v CD Leganés
+           Córdoba CF              v FC Andorra
+
+
+» Matchday 29
+  Sun Mar/8
+           Burgos CF               v CD Mirandés
+           Cádiz CF                v Real Zaragoza
+           Deportivo La Coruña     v Granada CF
+           Málaga CF               v Real Valladolid
+           UD Almería              v Cultural Leonesa
+           FC Andorra              v Sporting Gijón
+           SD Huesca               v Albacete
+           Real Sociedad B         v CD Castellón
+           UD Las Palmas           v AD Ceuta FC
+           Racing Santander        v Córdoba CF
+           CD Leganés              v SD Eibar
+
+
+» Matchday 30
+  Sun Mar/15
+           Albacete                v UD Las Palmas
+           AD Ceuta FC             v Deportivo La Coruña
+           Córdoba CF              v Real Sociedad B
+           Cultural Leonesa        v Racing Santander
+           SD Eibar                v Burgos CF
+           CD Mirandés             v Cádiz CF
+           Sporting Gijón          v CD Castellón
+           Málaga CF               v SD Huesca
+           Real Valladolid         v CD Leganés
+           Real Zaragoza           v UD Almería
+           Granada CF              v FC Andorra
+
+
+» Matchday 31
+  Sun Mar/22
+           Burgos CF               v Córdoba CF
+           Cádiz CF                v Málaga CF
+           CD Castellón            v Cultural Leonesa
+           Deportivo La Coruña     v Real Zaragoza
+           UD Las Palmas           v Sporting Gijón
+           CD Mirandés             v Real Valladolid
+           FC Andorra              v SD Eibar
+           Racing Santander        v Albacete
+           CD Leganés              v AD Ceuta FC
+           Real Sociedad B         v Granada CF
+           SD Huesca               v UD Almería
+
+
+» Matchday 32
+  Sun Mar/29
+           Albacete                v CD Castellón
+           Córdoba CF              v CD Mirandés
+           SD Eibar                v UD Las Palmas
+           Granada CF              v SD Huesca
+           UD Almería              v Real Sociedad B
+           Real Valladolid         v Burgos CF
+           AD Ceuta FC             v Cádiz CF
+           Sporting Gijón          v Deportivo La Coruña
+           Málaga CF               v CD Leganés
+           Real Zaragoza           v Racing Santander
+           Cultural Leonesa        v FC Andorra
+
+
+» Matchday 33
+  Wed Apr/1
+           Burgos CF               v AD Ceuta FC
+           SD Huesca               v Cultural Leonesa
+           CD Leganés              v Real Zaragoza
+           Racing Santander        v Sporting Gijón
+           FC Andorra              v Málaga CF
+           CD Mirandés             v Albacete
+           Real Valladolid         v Cádiz CF
+           Deportivo La Coruña     v Córdoba CF
+           Real Sociedad B         v SD Eibar
+           UD Las Palmas           v Granada CF
+           CD Castellón            v UD Almería
+
+
+» Matchday 34
+  Sun Apr/5
+           Albacete                v Burgos CF
+           Cádiz CF                v Córdoba CF
+           CD Castellón            v Granada CF
+           Deportivo La Coruña     v Málaga CF
+           Cultural Leonesa        v Real Valladolid
+           UD Almería              v CD Leganés
+           FC Andorra              v Racing Santander
+           SD Eibar                v AD Ceuta FC
+           UD Las Palmas           v SD Huesca
+           Real Zaragoza           v CD Mirandés
+           Sporting Gijón          v Real Sociedad B
+
+
+» Matchday 35
+  Sun Apr/12
+           Burgos CF               v Sporting Gijón
+           AD Ceuta FC             v Real Sociedad B
+           Córdoba CF              v Real Zaragoza
+           Granada CF              v Cultural Leonesa
+           CD Leganés              v Albacete
+           CD Mirandés             v CD Castellón
+           SD Huesca               v Deportivo La Coruña
+           Real Valladolid         v SD Eibar
+           Málaga CF               v UD Las Palmas
+           Racing Santander        v UD Almería
+           Cádiz CF                v FC Andorra
+
+
+» Matchday 36
+  Sun Apr/19
+           Albacete                v Granada CF
+           Deportivo La Coruña     v CD Mirandés
+           SD Eibar                v SD Huesca
+           UD Almería              v Málaga CF
+           FC Andorra              v Real Valladolid
+           CD Castellón            v Burgos CF
+           Sporting Gijón          v Cádiz CF
+           Real Zaragoza           v AD Ceuta FC
+           Cultural Leonesa        v Córdoba CF
+           UD Las Palmas           v CD Leganés
+           Real Sociedad B         v Racing Santander
+
+
+» Matchday 37
+  Sun Apr/26
+           Albacete                v SD Eibar
+           Burgos CF               v Deportivo La Coruña
+           Cádiz CF                v UD Las Palmas
+           AD Ceuta FC             v Racing Santander
+           Córdoba CF              v Sporting Gijón
+           SD Huesca               v Real Zaragoza
+           Málaga CF               v CD Castellón
+           CD Mirandés             v Cultural Leonesa
+           Granada CF              v UD Almería
+           CD Leganés              v FC Andorra
+           Real Valladolid         v Real Sociedad B
+
+
+» Matchday 38
+  Sun May/3
+           CD Castellón            v Córdoba CF
+           Deportivo La Coruña     v CD Leganés
+           SD Eibar                v Málaga CF
+           UD Las Palmas           v Real Valladolid
+           UD Almería              v CD Mirandés
+           FC Andorra              v Albacete
+           Real Sociedad B         v Burgos CF
+           Cultural Leonesa        v Cádiz CF
+           Sporting Gijón          v AD Ceuta FC
+           Real Zaragoza           v Granada CF
+           Racing Santander        v SD Huesca
+
+
+» Matchday 39
+  Sun May/10
+           Albacete                v Cultural Leonesa
+           Cádiz CF                v Deportivo La Coruña
+           Córdoba CF              v Granada CF
+           SD Huesca               v Real Sociedad B
+           CD Leganés              v Racing Santander
+           Málaga CF               v Sporting Gijón
+           Real Valladolid         v Real Zaragoza
+           FC Andorra              v UD Las Palmas
+           AD Ceuta FC             v CD Castellón
+           CD Mirandés             v SD Eibar
+           Burgos CF               v UD Almería
+
+
+» Matchday 40
+  Sun May/17
+           AD Ceuta FC             v Málaga CF
+           Racing Santander        v Real Valladolid
+           UD Almería              v UD Las Palmas
+           Córdoba CF              v Albacete
+           Granada CF              v Burgos CF
+           CD Castellón            v Cádiz CF
+           Cultural Leonesa        v SD Eibar
+           CD Leganés              v SD Huesca
+           Real Zaragoza           v Sporting Gijón
+           Real Sociedad B         v CD Mirandés
+           Deportivo La Coruña     v FC Andorra
+
+
+» Matchday 41
+  Sun May/24
+           Albacete                v Real Sociedad B
+           Cádiz CF                v CD Leganés
+           UD Las Palmas           v Real Zaragoza
+           Málaga CF               v Racing Santander
+           FC Andorra              v AD Ceuta FC
+           Cultural Leonesa        v Burgos CF
+           SD Huesca               v CD Castellón
+           SD Eibar                v Córdoba CF
+           Real Valladolid         v Deportivo La Coruña
+           CD Mirandés             v Granada CF
+           Sporting Gijón          v UD Almería
+
+
+» Matchday 42
+  Sun May/31
+           CD Castellón            v SD Eibar
+           Córdoba CF              v SD Huesca
+           Deportivo La Coruña     v UD Las Palmas
+           Granada CF              v Sporting Gijón
+           CD Leganés              v CD Mirandés
+           UD Almería              v Real Valladolid
+           AD Ceuta FC             v Albacete
+           Racing Santander        v Cádiz CF
+           Real Sociedad B         v Cultural Leonesa
+           Real Zaragoza           v Málaga CF
+           Burgos CF               v FC Andorra

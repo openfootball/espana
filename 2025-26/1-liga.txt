@@ -1,0 +1,548 @@
+= Spain Primera División 2025/26
+
+# Date       Fri Aug/15 2025 - Sun May/24 2026 (282d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Aug/15 2025
+    19.00  Girona FC               v Rayo Vallecano
+    21.30  Villarreal CF           v Real Oviedo
+  Sat Aug/16
+    17.00  CD Alavés               v Levante UD
+    19.30  RCD Mallorca            v FC Barcelona
+    21.30  Valencia CF             v Real Sociedad
+  Sun Aug/17
+    17.00  RC Celta                v Getafe CF
+    19.30  Athletic Club           v Sevilla FC
+    21.30  Espanyol Barcelona      v Atlético Madrid
+  Mon Aug/18
+    21.00  Elche CF                v Real Betis
+  Tue Aug/19
+    21.00  Real Madrid             v CA Osasuna
+
+
+» Matchday 2
+  Fri Aug/22
+    21.30  Real Betis              v CD Alavés
+  Sat Aug/23
+    17.00  RCD Mallorca            v RC Celta
+    19.30  Atlético Madrid         v Elche CF
+    21.30  Levante UD              v FC Barcelona
+  Sun Aug/24
+    17.00  CA Osasuna              v Valencia CF
+    19.30  Real Sociedad           v Espanyol Barcelona
+           Villarreal CF           v Girona FC
+    21.30  Real Oviedo             v Real Madrid
+  Mon Aug/25
+    19.30  Athletic Club           v Rayo Vallecano
+    21.30  Sevilla FC              v Getafe CF
+
+
+» Matchday 3
+  Fri Aug/29
+    19.30  Elche CF                v Levante UD
+    21.30  Valencia CF             v Getafe CF
+  Sat Aug/30
+    17.00  CD Alavés               v Atlético Madrid
+    19.00  Real Oviedo             v Real Sociedad
+    19.30  Girona FC               v Sevilla FC
+    21.30  Real Madrid             v RCD Mallorca
+  Sun Aug/31
+    17.00  RC Celta                v Villarreal CF
+    19.00  Real Betis              v Athletic Club
+    19.30  Espanyol Barcelona      v CA Osasuna
+    21.30  Rayo Vallecano          v FC Barcelona
+
+
+» Matchday 4
+  Sun Sep/14
+           Atlético Madrid         v Villarreal CF
+           FC Barcelona            v Valencia CF
+           RC Celta                v Girona FC
+           Espanyol Barcelona      v RCD Mallorca
+           Getafe CF               v Real Oviedo
+           CA Osasuna              v Rayo Vallecano
+           Athletic Club           v CD Alavés
+           Levante UD              v Real Betis
+           Sevilla FC              v Elche CF
+           Real Sociedad           v Real Madrid
+
+
+» Matchday 5
+  Sun Sep/21
+           CD Alavés               v Sevilla FC
+           FC Barcelona            v Getafe CF
+           Real Betis              v Real Sociedad
+           Elche CF                v Real Oviedo
+           Girona FC               v Levante UD
+           Valencia CF             v Athletic Club
+           RCD Mallorca            v Atlético Madrid
+           Rayo Vallecano          v RC Celta
+           Real Madrid             v Espanyol Barcelona
+           Villarreal CF           v CA Osasuna
+
+
+» Matchday 6
+  Wed Aug/27
+    21.00  RC Celta                v Real Betis
+  Wed Sep/24
+           Athletic Club           v Girona FC
+           Atlético Madrid         v Rayo Vallecano
+           Espanyol Barcelona      v Valencia CF
+           Levante UD              v Real Madrid
+           Sevilla FC              v Villarreal CF
+           Getafe CF               v CD Alavés
+           Real Oviedo             v FC Barcelona
+           CA Osasuna              v Elche CF
+           Real Sociedad           v RCD Mallorca
+
+
+» Matchday 7
+  Sun Sep/28
+           Atlético Madrid         v Real Madrid
+           FC Barcelona            v Real Sociedad
+           Real Betis              v CA Osasuna
+           Getafe CF               v Levante UD
+           Rayo Vallecano          v Sevilla FC
+           RCD Mallorca            v CD Alavés
+           Villarreal CF           v Athletic Club
+           Elche CF                v RC Celta
+           Girona FC               v Espanyol Barcelona
+           Valencia CF             v Real Oviedo
+
+
+» Matchday 8
+  Sun Oct/5
+           CD Alavés               v Elche CF
+           Athletic Club           v RCD Mallorca
+           Girona FC               v Valencia CF
+           Real Madrid             v Villarreal CF
+           RC Celta                v Atlético Madrid
+           Sevilla FC              v FC Barcelona
+           Espanyol Barcelona      v Real Betis
+           CA Osasuna              v Getafe CF
+           Real Oviedo             v Levante UD
+           Real Sociedad           v Rayo Vallecano
+
+
+» Matchday 9
+  Sun Oct/19
+           CD Alavés               v Valencia CF
+           Atlético Madrid         v CA Osasuna
+           FC Barcelona            v Girona FC
+           RC Celta                v Real Sociedad
+           Getafe CF               v Real Madrid
+           Levante UD              v Rayo Vallecano
+           Elche CF                v Athletic Club
+           Villarreal CF           v Real Betis
+           Real Oviedo             v Espanyol Barcelona
+           Sevilla FC              v RCD Mallorca
+
+
+» Matchday 10
+  Sun Oct/26
+           Athletic Club           v Getafe CF
+           Girona FC               v Real Oviedo
+           Real Sociedad           v Sevilla FC
+           Valencia CF             v Villarreal CF
+           Rayo Vallecano          v CD Alavés
+           Real Betis              v Atlético Madrid
+           Real Madrid             v FC Barcelona
+           CA Osasuna              v RC Celta
+           Espanyol Barcelona      v Elche CF
+           RCD Mallorca            v Levante UD
+
+
+» Matchday 11
+  Sun Nov/2
+           CD Alavés               v Espanyol Barcelona
+           Atlético Madrid         v Sevilla FC
+           FC Barcelona            v Elche CF
+           Real Betis              v RCD Mallorca
+           Getafe CF               v Girona FC
+           Real Madrid             v Valencia CF
+           Real Sociedad           v Athletic Club
+           Levante UD              v RC Celta
+           Real Oviedo             v CA Osasuna
+           Villarreal CF           v Rayo Vallecano
+
+
+» Matchday 12
+  Sun Nov/9
+           Athletic Club           v Real Oviedo
+           Atlético Madrid         v Levante UD
+           Elche CF                v Real Sociedad
+           Espanyol Barcelona      v Villarreal CF
+           Rayo Vallecano          v Real Madrid
+           Girona FC               v CD Alavés
+           RC Celta                v FC Barcelona
+           Valencia CF             v Real Betis
+           RCD Mallorca            v Getafe CF
+           Sevilla FC              v CA Osasuna
+
+
+» Matchday 13
+  Sun Nov/23
+           CD Alavés               v RC Celta
+           Real Betis              v Girona FC
+           Elche CF                v Real Madrid
+           Espanyol Barcelona      v Sevilla FC
+           CA Osasuna              v Real Sociedad
+           Real Oviedo             v Rayo Vallecano
+           FC Barcelona            v Athletic Club
+           Getafe CF               v Atlético Madrid
+           Valencia CF             v Levante UD
+           Villarreal CF           v RCD Mallorca
+
+
+» Matchday 14
+  Sun Nov/30
+           Atlético Madrid         v Real Oviedo
+           RC Celta                v Espanyol Barcelona
+           Girona FC               v Real Madrid
+           RCD Mallorca            v CA Osasuna
+           Rayo Vallecano          v Valencia CF
+           Real Sociedad           v Villarreal CF
+           FC Barcelona            v CD Alavés
+           Levante UD              v Athletic Club
+           Sevilla FC              v Real Betis
+           Getafe CF               v Elche CF
+
+
+» Matchday 15
+  Sun Dec/7
+           CD Alavés               v Real Sociedad
+           Athletic Club           v Atlético Madrid
+           Elche CF                v Girona FC
+           Espanyol Barcelona      v Rayo Vallecano
+           Real Betis              v FC Barcelona
+           Real Madrid             v RC Celta
+           Villarreal CF           v Getafe CF
+           CA Osasuna              v Levante UD
+           Real Oviedo             v RCD Mallorca
+           Valencia CF             v Sevilla FC
+
+
+» Matchday 16
+  Sun Dec/14
+           CD Alavés               v Real Madrid
+           Atlético Madrid         v Valencia CF
+           FC Barcelona            v CA Osasuna
+           Levante UD              v Villarreal CF
+           RC Celta                v Athletic Club
+           Rayo Vallecano          v Real Betis
+           RCD Mallorca            v Elche CF
+           Getafe CF               v Espanyol Barcelona
+           Real Sociedad           v Girona FC
+           Sevilla FC              v Real Oviedo
+
+
+» Matchday 17
+  Sun Dec/21
+           Athletic Club           v Espanyol Barcelona
+           Real Betis              v Getafe CF
+           Elche CF                v Rayo Vallecano
+           Levante UD              v Real Sociedad
+           Real Madrid             v Sevilla FC
+           CA Osasuna              v CD Alavés
+           Girona FC               v Atlético Madrid
+           Villarreal CF           v FC Barcelona
+           Real Oviedo             v RC Celta
+           Valencia CF             v RCD Mallorca
+
+
+» Matchday 18
+  Sun Jan/4 2026
+           CD Alavés               v Real Oviedo
+           RC Celta                v Valencia CF
+           Elche CF                v Villarreal CF
+           CA Osasuna              v Athletic Club
+           Real Sociedad           v Atlético Madrid
+           Espanyol Barcelona      v FC Barcelona
+           Real Madrid             v Real Betis
+           Rayo Vallecano          v Getafe CF
+           RCD Mallorca            v Girona FC
+           Sevilla FC              v Levante UD
+
+
+» Matchday 19
+  Sun Jan/11
+           Athletic Club           v Real Madrid
+           Getafe CF               v Real Sociedad
+           Girona FC               v CA Osasuna
+           Villarreal CF           v CD Alavés
+           FC Barcelona            v Atlético Madrid
+           Real Oviedo             v Real Betis
+           Sevilla FC              v RC Celta
+           Valencia CF             v Elche CF
+           Levante UD              v Espanyol Barcelona
+           Rayo Vallecano          v RCD Mallorca
+
+
+» Matchday 20
+  Sun Jan/18
+           Real Betis              v Villarreal CF
+           RC Celta                v Rayo Vallecano
+           Elche CF                v Sevilla FC
+           Espanyol Barcelona      v Girona FC
+           Getafe CF               v Valencia CF
+           CA Osasuna              v Real Oviedo
+           Atlético Madrid         v CD Alavés
+           RCD Mallorca            v Athletic Club
+           Real Sociedad           v FC Barcelona
+           Real Madrid             v Levante UD
+
+
+» Matchday 21
+  Sun Jan/25
+           CD Alavés               v Real Betis
+           Atlético Madrid         v RCD Mallorca
+           FC Barcelona            v Real Oviedo
+           Sevilla FC              v Athletic Club
+           Real Sociedad           v RC Celta
+           Levante UD              v Elche CF
+           Valencia CF             v Espanyol Barcelona
+           Girona FC               v Getafe CF
+           Rayo Vallecano          v CA Osasuna
+           Villarreal CF           v Real Madrid
+
+
+» Matchday 22
+  Sun Feb/1
+           Athletic Club           v Real Sociedad
+           Real Betis              v Valencia CF
+           RCD Mallorca            v Sevilla FC
+           CA Osasuna              v Villarreal CF
+           Espanyol Barcelona      v CD Alavés
+           Levante UD              v Atlético Madrid
+           Elche CF                v FC Barcelona
+           Getafe CF               v RC Celta
+           Real Oviedo             v Girona FC
+           Real Madrid             v Rayo Vallecano
+
+
+» Matchday 23
+  Sun Feb/8
+           CD Alavés               v Getafe CF
+           Athletic Club           v Levante UD
+           Atlético Madrid         v Real Betis
+           FC Barcelona            v RCD Mallorca
+           RC Celta                v CA Osasuna
+           Real Sociedad           v Elche CF
+           Villarreal CF           v Espanyol Barcelona
+           Sevilla FC              v Girona FC
+           Valencia CF             v Real Madrid
+           Rayo Vallecano          v Real Oviedo
+
+
+» Matchday 24
+  Sun Feb/15
+           Elche CF                v CA Osasuna
+           Getafe CF               v Villarreal CF
+           Levante UD              v Valencia CF
+           Real Madrid             v Real Sociedad
+           Sevilla FC              v CD Alavés
+           Real Oviedo             v Athletic Club
+           Rayo Vallecano          v Atlético Madrid
+           Girona FC               v FC Barcelona
+           RCD Mallorca            v Real Betis
+           Espanyol Barcelona      v RC Celta
+
+
+» Matchday 25
+  Sun Feb/22
+           CD Alavés               v Girona FC
+           Athletic Club           v Elche CF
+           Atlético Madrid         v Espanyol Barcelona
+           FC Barcelona            v Levante UD
+           Real Betis              v Rayo Vallecano
+           RC Celta                v RCD Mallorca
+           Getafe CF               v Sevilla FC
+           CA Osasuna              v Real Madrid
+           Villarreal CF           v Valencia CF
+           Real Sociedad           v Real Oviedo
+
+
+» Matchday 26
+  Sun Mar/1
+           FC Barcelona            v Villarreal CF
+           Real Betis              v Sevilla FC
+           Elche CF                v Espanyol Barcelona
+           RCD Mallorca            v Real Sociedad
+           Levante UD              v CD Alavés
+           Rayo Vallecano          v Athletic Club
+           Real Oviedo             v Atlético Madrid
+           Girona FC               v RC Celta
+           Real Madrid             v Getafe CF
+           Valencia CF             v CA Osasuna
+
+
+» Matchday 27
+  Sun Mar/8
+           Athletic Club           v FC Barcelona
+           Atlético Madrid         v Real Sociedad
+           RC Celta                v Real Madrid
+           Espanyol Barcelona      v Real Oviedo
+           Valencia CF             v CD Alavés
+           Getafe CF               v Real Betis
+           Villarreal CF           v Elche CF
+           Levante UD              v Girona FC
+           CA Osasuna              v RCD Mallorca
+           Sevilla FC              v Rayo Vallecano
+
+
+» Matchday 28
+  Sun Mar/15
+           CD Alavés               v Villarreal CF
+           Atlético Madrid         v Getafe CF
+           FC Barcelona            v Sevilla FC
+           Real Betis              v RC Celta
+           Real Oviedo             v Valencia CF
+           Girona FC               v Athletic Club
+           Real Madrid             v Elche CF
+           RCD Mallorca            v Espanyol Barcelona
+           Rayo Vallecano          v Levante UD
+           Real Sociedad           v CA Osasuna
+
+
+» Matchday 29
+  Sun Mar/22
+           Athletic Club           v Real Betis
+           FC Barcelona            v Rayo Vallecano
+           Elche CF                v RCD Mallorca
+           Espanyol Barcelona      v Getafe CF
+           Levante UD              v Real Oviedo
+           Sevilla FC              v Valencia CF
+           RC Celta                v CD Alavés
+           Real Madrid             v Atlético Madrid
+           CA Osasuna              v Girona FC
+           Villarreal CF           v Real Sociedad
+
+
+» Matchday 30
+  Sun Apr/5
+           CD Alavés               v CA Osasuna
+           Atlético Madrid         v FC Barcelona
+           Real Betis              v Espanyol Barcelona
+           Girona FC               v Villarreal CF
+           RCD Mallorca            v Real Madrid
+           Real Oviedo             v Sevilla FC
+           Getafe CF               v Athletic Club
+           Valencia CF             v RC Celta
+           Rayo Vallecano          v Elche CF
+           Real Sociedad           v Levante UD
+
+
+» Matchday 31
+  Sun Apr/12
+           Athletic Club           v Villarreal CF
+           FC Barcelona            v Espanyol Barcelona
+           RC Celta                v Real Oviedo
+           Elche CF                v Valencia CF
+           RCD Mallorca            v Rayo Vallecano
+           Real Sociedad           v CD Alavés
+           Sevilla FC              v Atlético Madrid
+           CA Osasuna              v Real Betis
+           Levante UD              v Getafe CF
+           Real Madrid             v Girona FC
+
+
+» Matchday 32
+  Sun Apr/19
+           CD Alavés               v RCD Mallorca
+           Real Betis              v Real Madrid
+           Espanyol Barcelona      v Levante UD
+           CA Osasuna              v Sevilla FC
+           Rayo Vallecano          v Real Sociedad
+           Atlético Madrid         v Athletic Club
+           Getafe CF               v FC Barcelona
+           Villarreal CF           v RC Celta
+           Real Oviedo             v Elche CF
+           Valencia CF             v Girona FC
+
+
+» Matchday 33
+  Wed Apr/22
+           Athletic Club           v CA Osasuna
+           FC Barcelona            v RC Celta
+           Levante UD              v Sevilla FC
+           RCD Mallorca            v Valencia CF
+           Real Oviedo             v Villarreal CF
+           Real Madrid             v CD Alavés
+           Elche CF                v Atlético Madrid
+           Girona FC               v Real Betis
+           Rayo Vallecano          v Espanyol Barcelona
+           Real Sociedad           v Getafe CF
+
+
+» Matchday 34
+  Sun May/3
+           CD Alavés               v Athletic Club
+           Real Betis              v Real Oviedo
+           RC Celta                v Elche CF
+           Espanyol Barcelona      v Real Madrid
+           Getafe CF               v Rayo Vallecano
+           Girona FC               v RCD Mallorca
+           Valencia CF             v Atlético Madrid
+           CA Osasuna              v FC Barcelona
+           Villarreal CF           v Levante UD
+           Sevilla FC              v Real Sociedad
+
+
+» Matchday 35
+  Sun May/10
+           Athletic Club           v Valencia CF
+           Atlético Madrid         v RC Celta
+           FC Barcelona            v Real Madrid
+           Levante UD              v CA Osasuna
+           RCD Mallorca            v Villarreal CF
+           Elche CF                v CD Alavés
+           Real Sociedad           v Real Betis
+           Sevilla FC              v Espanyol Barcelona
+           Real Oviedo             v Getafe CF
+           Rayo Vallecano          v Girona FC
+
+
+» Matchday 36
+  Wed May/13
+           CD Alavés               v FC Barcelona
+           Real Betis              v Elche CF
+           RC Celta                v Levante UD
+           Getafe CF               v RCD Mallorca
+           Girona FC               v Real Sociedad
+           Espanyol Barcelona      v Athletic Club
+           CA Osasuna              v Atlético Madrid
+           Valencia CF             v Rayo Vallecano
+           Villarreal CF           v Sevilla FC
+           Real Madrid             v Real Oviedo
+
+
+» Matchday 37
+  Sun May/17
+           Athletic Club           v RC Celta
+           Atlético Madrid         v Girona FC
+           FC Barcelona            v Real Betis
+           Elche CF                v Getafe CF
+           Levante UD              v RCD Mallorca
+           Rayo Vallecano          v Villarreal CF
+           Real Sociedad           v Valencia CF
+           Real Oviedo             v CD Alavés
+           CA Osasuna              v Espanyol Barcelona
+           Sevilla FC              v Real Madrid
+
+
+» Matchday 38
+  Sun May/24
+           CD Alavés               v Rayo Vallecano
+           Real Betis              v Levante UD
+           RC Celta                v Sevilla FC
+           Espanyol Barcelona      v Real Sociedad
+           Getafe CF               v CA Osasuna
+           RCD Mallorca            v Real Oviedo
+           Real Madrid             v Athletic Club
+           Villarreal CF           v Atlético Madrid
+           Valencia CF             v FC Barcelona
+           Girona FC               v Elche CF
