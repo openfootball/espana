@@ -1,6 +1,6 @@
 = Spain Primera División 2025/26
 
-# Date       Fri Aug/15 2025 - Thu Dec/3 2026 (475d)
+# Date       Fri Aug/15 2025 - Sun May/24 2026 (282d)
 # Teams      20
 # Matches    380
 
@@ -196,18 +196,18 @@
 
 » Matchday 12
   Fri Nov/7
-    21.00  Elche CF                v Real Sociedad de Fútbol
+    21.00  Elche CF                v Real Sociedad de Fútbol  1-1 (0-0)
   Sat Nov/8
-    14.00  Girona FC               v Deportivo Alavés
-    16.15  Sevilla FC              v CA Osasuna
-    18.30  Club Atlético de Madrid v Levante UD
-    21.00  RCD Espanyol de Barcelona v Villarreal CF
+    14.00  Girona FC               v Deportivo Alavés         1-0 (1-0)
+    16.15  Sevilla FC              v CA Osasuna               1-0 (0-0)
+    18.30  Club Atlético de Madrid v Levante UD               3-1 (1-1)
+    21.00  RCD Espanyol de Barcelona v Villarreal CF            0-2 (0-1)
   Sun Nov/9
-    14.00  Athletic Club           v Real Oviedo
-    16.15  Rayo Vallecano de Madrid v Real Madrid CF
-    18.30  Valencia CF             v Real Betis Balompié
-           RCD Mallorca            v Getafe CF
-    21.00  RC Celta de Vigo        v FC Barcelona
+    14.00  Athletic Club           v Real Oviedo              1-0 (1-0)
+    16.15  Rayo Vallecano de Madrid v Real Madrid CF           0-0
+    18.30  Valencia CF             v Real Betis Balompié      1-1 (0-0)
+           RCD Mallorca            v Getafe CF                1-0 (1-0)
+    21.00  RC Celta de Vigo        v FC Barcelona             2-4 (2-3)
 
 
 » Matchday 13
@@ -244,18 +244,28 @@
     21.00  Rayo Vallecano de Madrid v Valencia CF
 
 
+» Matchday 19
+  Tue Dec/2
+    21.00  FC Barcelona            v Club Atlético de Madrid
+  Wed Dec/3
+    19.00  Athletic Club           v Real Madrid CF
+
+
 » Matchday 15
+  Fri Dec/5
+    21.00  Real Oviedo             v RCD Mallorca
+  Sat Dec/6
+    14.00  Villarreal CF           v Getafe CF
+    16.15  Deportivo Alavés        v Real Sociedad de Fútbol
+    18.30  Real Betis Balompié     v FC Barcelona
+    21.00  Athletic Club           v Club Atlético de Madrid
   Sun Dec/7
-           Deportivo Alavés        v Real Sociedad de Fútbol
-           Athletic Club           v Club Atlético de Madrid
-           Elche CF                v Girona FC
-           RCD Espanyol de Barcelona v Rayo Vallecano de Madrid
-           Real Betis Balompié     v FC Barcelona
-           Real Madrid CF          v RC Celta de Vigo
-           Villarreal CF           v Getafe CF
-           CA Osasuna              v Levante UD
-           Real Oviedo             v RCD Mallorca
-           Valencia CF             v Sevilla FC
+    14.00  Elche CF                v Girona FC
+    16.15  Valencia CF             v Sevilla FC
+    18.30  RCD Espanyol de Barcelona v Rayo Vallecano de Madrid
+    21.00  Real Madrid CF          v RC Celta de Vigo
+  Mon Dec/8
+    21.00  CA Osasuna              v Levante UD
 
 
 » Matchday 16
@@ -576,10 +586,3 @@
            Villarreal CF           v Club Atlético de Madrid
            Valencia CF             v FC Barcelona
            Girona FC               v Elche CF
-
-
-» Matchday 19
-  Wed Dec/2
-    21.00  FC Barcelona            v Club Atlético de Madrid
-  Thu Dec/3
-    19.00  Athletic Club           v Real Madrid CF
