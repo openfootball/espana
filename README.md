@@ -22,21 +22,20 @@ Example:
 
 
 ```
-= Primera División de España    ## La Liga
+= Primera División de España    
 
-Jornada 1
-
-[Sáb. 23.8.]
+▪ Matchday 1
+Sat Aug 23
   Málaga CF       1-0  Athletic Bilbao
   Sevilla FC      1-1  Valencia CF
   Granada CF      2-1  Deportivo La Coruña
   UD Almería      1-1  RCD Espanyol
-[Dom. 24.8.]
+Sun Aug 24
   SD Eibar        1-0  Real Sociedad
   Celta Vigo      3-1  Getafe CF
   FC Barcelona    3-0  Elche CF
   Levante UD      0-2  Villarreal CF
-[Lun. 25.8.]
+Mon Aug 25
   Real Madrid     2-0  Córdoba CF
   Rayo Vallecano  0-0  Atlético Madrid
 
