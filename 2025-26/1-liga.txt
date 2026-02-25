@@ -418,24 +418,24 @@
 
 » Matchday 16
   Wed Feb/18
-    20.00  Levante UD              v Villarreal CF
+    20.00  Levante UD              v Villarreal CF            0-1 (0-0)
 
 
 » Matchday 25
   Fri Feb/20
-    21.00  Athletic Club           v Elche CF
+    21.00  Athletic Club           v Elche CF                 2-1 (0-0)
   Sat Feb/21
-    14.00  Real Sociedad de Fútbol v Real Oviedo
-    16.15  Real Betis Balompié     v Rayo Vallecano de Madrid
-    18.30  CA Osasuna              v Real Madrid CF
-    21.00  Club Atlético de Madrid v RCD Espanyol de Barcelona
+    14.00  Real Sociedad de Fútbol v Real Oviedo              3-3 (0-0)
+    16.15  Real Betis Balompié     v Rayo Vallecano de Madrid  1-1 (1-1)
+    18.30  CA Osasuna              v Real Madrid CF           2-1 (1-0)
+    21.00  Club Atlético de Madrid v RCD Espanyol de Barcelona  4-2 (1-1)
   Sun Feb/22
-    14.00  Getafe CF               v Sevilla FC
-    16.15  FC Barcelona            v Levante UD
-    18.30  RC Celta de Vigo        v RCD Mallorca
-    21.00  Villarreal CF           v Valencia CF
+    14.00  Getafe CF               v Sevilla FC               0-1 (0-0)
+    16.15  FC Barcelona            v Levante UD               3-0 (2-0)
+    18.30  RC Celta de Vigo        v RCD Mallorca             2-0 (0-0)
+    21.00  Villarreal CF           v Valencia CF              2-1 (2-1)
   Mon Feb/23
-    21.00  Deportivo Alavés        v Girona FC
+    21.00  Deportivo Alavés        v Girona FC                2-2 (1-1)
 
 
 » Matchday 26
@@ -478,31 +478,36 @@
 
 
 » Matchday 28
+  Fri Mar/13
+    21.00  Deportivo Alavés        v Villarreal CF
+  Sat Mar/14
+    14.00  Girona FC               v Athletic Club
+    16.15  Club Atlético de Madrid v Getafe CF
+    18.30  Real Oviedo             v Valencia CF
+    21.00  Real Madrid CF          v Elche CF
   Sun Mar/15
-           Deportivo Alavés        v Villarreal CF
-           Club Atlético de Madrid v Getafe CF
-           FC Barcelona            v Sevilla FC
-           Real Betis Balompié     v RC Celta de Vigo
-           Real Oviedo             v Valencia CF
-           Girona FC               v Athletic Club
-           Real Madrid CF          v Elche CF
-           RCD Mallorca            v RCD Espanyol de Barcelona
-           Rayo Vallecano de Madrid v Levante UD
-           Real Sociedad de Fútbol v CA Osasuna
+    14.00  RCD Mallorca            v RCD Espanyol de Barcelona
+    16.15  FC Barcelona            v Sevilla FC
+    18.30  Real Betis Balompié     v RC Celta de Vigo
+    21.00  Real Sociedad de Fútbol v CA Osasuna
+  Mon Mar/16
+    21.00  Rayo Vallecano de Madrid v Levante UD
 
 
 » Matchday 29
-  Sun Mar/22
-           Athletic Club           v Real Betis Balompié
-           FC Barcelona            v Rayo Vallecano de Madrid
-           Elche CF                v RCD Mallorca
-           RCD Espanyol de Barcelona v Getafe CF
-           Levante UD              v Real Oviedo
-           Sevilla FC              v Valencia CF
-           RC Celta de Vigo        v Deportivo Alavés
-           Real Madrid CF          v Club Atlético de Madrid
+  Fri Mar/20
+    21.00  Villarreal CF           v Real Sociedad de Fútbol
+  Sat Mar/21
+    14.00  Elche CF                v RCD Mallorca
+    16.15  RCD Espanyol de Barcelona v Getafe CF
+    18.30  Levante UD              v Real Oviedo
            CA Osasuna              v Girona FC
-           Villarreal CF           v Real Sociedad de Fútbol
+    21.00  Sevilla FC              v Valencia CF
+  Sun Mar/22
+    14.00  FC Barcelona            v Rayo Vallecano de Madrid
+    16.15  RC Celta de Vigo        v Deportivo Alavés
+    18.30  Athletic Club           v Real Betis Balompié
+    21.00  Real Madrid CF          v Club Atlético de Madrid
 
 
 » Matchday 30
