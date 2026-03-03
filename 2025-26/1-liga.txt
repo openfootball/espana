@@ -440,19 +440,19 @@
 
 » Matchday 26
   Fri Feb/27
-    21.00  Levante UD              v Deportivo Alavés
+    21.00  Levante UD              v Deportivo Alavés         2-0 (0-0)
   Sat Feb/28
-    14.00  Rayo Vallecano de Madrid v Athletic Club
-    16.15  FC Barcelona            v Villarreal CF
-    18.30  RCD Mallorca            v Real Sociedad de Fútbol
-    21.00  Real Oviedo             v Club Atlético de Madrid
+    14.00  Rayo Vallecano de Madrid v Athletic Club            1-1 (1-0)
+    16.15  FC Barcelona            v Villarreal CF            4-1 (2-0)
+    18.30  RCD Mallorca            v Real Sociedad de Fútbol  0-1 (0-1)
+    21.00  Real Oviedo             v Club Atlético de Madrid  0-1 (0-0)
   Sun Mar/1
-    14.00  Elche CF                v RCD Espanyol de Barcelona
-    16.15  Valencia CF             v CA Osasuna
-    18.30  Real Betis Balompié     v Sevilla FC
-    21.00  Girona FC               v RC Celta de Vigo
+    14.00  Elche CF                v RCD Espanyol de Barcelona  2-2 (1-1)
+    16.15  Valencia CF             v CA Osasuna               1-0 (0-0)
+    18.30  Real Betis Balompié     v Sevilla FC               2-2 (2-0)
+    21.00  Girona FC               v RC Celta de Vigo         1-2 (1-0)
   Mon Mar/2
-    21.00  Real Madrid CF          v Getafe CF
+    21.00  Real Madrid CF          v Getafe CF                0-1 (0-1)
 
 
 » Matchday 23
@@ -462,15 +462,15 @@
 
 » Matchday 27
   Fri Mar/6
-    21.00  CA Osasuna              v RCD Mallorca
+    21.00  RC Celta de Vigo        v Real Madrid CF
   Sat Mar/7
-    14.00  Getafe CF               v Real Betis Balompié
+    14.00  CA Osasuna              v RCD Mallorca
     16.15  Levante UD              v Girona FC
     18.30  Club Atlético de Madrid v Real Sociedad de Fútbol
-    21.00  RC Celta de Vigo        v Real Madrid CF
+    21.00  Athletic Club           v FC Barcelona
   Sun Mar/8
     14.00  Villarreal CF           v Elche CF
-    16.15  Athletic Club           v FC Barcelona
+    16.15  Getafe CF               v Real Betis Balompié
     18.30  Sevilla FC              v Rayo Vallecano de Madrid
     21.00  Valencia CF             v Deportivo Alavés
   Mon Mar/9
