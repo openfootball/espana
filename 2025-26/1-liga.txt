@@ -590,7 +590,6 @@
   Sun May/10
            Athletic Club           v Valencia CF
            Club Atlético de Madrid v RC Celta de Vigo
-           FC Barcelona            v Real Madrid CF
            Levante UD              v CA Osasuna
            RCD Mallorca            v Villarreal CF
            Elche CF                v Deportivo Alavés
@@ -598,6 +597,7 @@
            Sevilla FC              v RCD Espanyol de Barcelona
            Real Oviedo             v Getafe CF
            Rayo Vallecano de Madrid v Girona FC
+    21.00  FC Barcelona            v Real Madrid CF
 
 
 » Matchday 36
