@@ -512,19 +512,19 @@
 
 » Matchday 30
   Fri Apr/3
-    21.00  Rayo Vallecano de Madrid v Elche CF
+    21.00  Rayo Vallecano de Madrid v Elche CF                 1-0 (0-0)
   Sat Apr/4
-    14.00  Real Sociedad de Fútbol v Levante UD
-    16.15  RCD Mallorca            v Real Madrid CF
-    18.30  Real Betis Balompié     v RCD Espanyol de Barcelona
-    21.00  Club Atlético de Madrid v FC Barcelona
+    14.00  Real Sociedad de Fútbol v Levante UD               2-0 (1-0)
+    16.15  RCD Mallorca            v Real Madrid CF           2-1 (1-0)
+    18.30  Real Betis Balompié     v RCD Espanyol de Barcelona  0-0
+    21.00  Club Atlético de Madrid v FC Barcelona             1-2 (1-1)
   Sun Apr/5
-    14.00  Getafe CF               v Athletic Club
-    16.15  Valencia CF             v RC Celta de Vigo
-    18.30  Real Oviedo             v Sevilla FC
-    21.00  Deportivo Alavés        v CA Osasuna
+    14.00  Getafe CF               v Athletic Club            2-0 (1-0)
+    16.15  Valencia CF             v RC Celta de Vigo         2-3 (1-0)
+    18.30  Real Oviedo             v Sevilla FC               1-0 (1-0)
+    21.00  Deportivo Alavés        v CA Osasuna               2-2 (1-1)
   Mon Apr/6
-    21.00  Girona FC               v Villarreal CF
+    21.00  Girona FC               v Villarreal CF            1-0 (1-0)
 
 
 » Matchday 31
@@ -545,31 +545,36 @@
 
 
 » Matchday 33
-  Wed Apr/22
-           Athletic Club           v CA Osasuna
-           FC Barcelona            v RC Celta de Vigo
-           Levante UD              v Sevilla FC
+  Tue Apr/21
+    19.00  Athletic Club           v CA Osasuna
            RCD Mallorca            v Valencia CF
-           Real Oviedo             v Villarreal CF
-           Real Madrid CF          v Deportivo Alavés
-           Elche CF                v Club Atlético de Madrid
+    21.30  Real Madrid CF          v Deportivo Alavés
            Girona FC               v Real Betis Balompié
-           Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
-           Real Sociedad de Fútbol v Getafe CF
+  Wed Apr/22
+    19.00  Elche CF                v Club Atlético de Madrid
+    20.00  Real Sociedad de Fútbol v Getafe CF
+    21.30  FC Barcelona            v RC Celta de Vigo
+  Thu Apr/23
+    19.00  Levante UD              v Sevilla FC
+    20.00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
+    21.30  Real Oviedo             v Villarreal CF
 
 
 » Matchday 32
+  Fri Apr/24
+    21.00  Real Betis Balompié     v Real Madrid CF
+  Sat Apr/25
+    14.00  Deportivo Alavés        v RCD Mallorca
+    16.15  Getafe CF               v FC Barcelona
+    18.30  Valencia CF             v Girona FC
+    21.00  Club Atlético de Madrid v Athletic Club
   Sun Apr/26
-           Deportivo Alavés        v RCD Mallorca
-           Real Betis Balompié     v Real Madrid CF
-           RCD Espanyol de Barcelona v Levante UD
-           CA Osasuna              v Sevilla FC
-           Rayo Vallecano de Madrid v Real Sociedad de Fútbol
-           Club Atlético de Madrid v Athletic Club
-           Getafe CF               v FC Barcelona
-           Villarreal CF           v RC Celta de Vigo
-           Real Oviedo             v Elche CF
-           Valencia CF             v Girona FC
+    14.00  Rayo Vallecano de Madrid v Real Sociedad de Fútbol
+    16.15  Real Oviedo             v Elche CF
+    18.30  CA Osasuna              v Sevilla FC
+    21.00  Villarreal CF           v RC Celta de Vigo
+  Mon Apr/27
+    21.00  RCD Espanyol de Barcelona v Levante UD
 
 
 » Matchday 34
