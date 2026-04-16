@@ -529,19 +529,19 @@
 
 » Matchday 31
   Fri Apr/10
-    21.00  Real Madrid CF          v Girona FC
+    21.00  Real Madrid CF          v Girona FC                1-1 (0-0)
   Sat Apr/11
-    14.00  Real Sociedad de Fútbol v Deportivo Alavés
-    16.15  Elche CF                v Valencia CF
-    18.30  FC Barcelona            v RCD Espanyol de Barcelona
-    21.00  Sevilla FC              v Club Atlético de Madrid
+    14.00  Real Sociedad de Fútbol v Deportivo Alavés         3-3 (2-2)
+    16.15  Elche CF                v Valencia CF              1-0 (0-0)
+    18.30  FC Barcelona            v RCD Espanyol de Barcelona  4-1 (2-0)
+    21.00  Sevilla FC              v Club Atlético de Madrid  2-1 (2-1)
   Sun Apr/12
-    14.00  CA Osasuna              v Real Betis Balompié
-    16.15  RCD Mallorca            v Rayo Vallecano de Madrid
-    18.30  RC Celta de Vigo        v Real Oviedo
-    21.00  Athletic Club           v Villarreal CF
+    14.00  CA Osasuna              v Real Betis Balompié      1-1 (1-1)
+    16.15  RCD Mallorca            v Rayo Vallecano de Madrid  3-0 (2-0)
+    18.30  RC Celta de Vigo        v Real Oviedo              0-3 (0-2)
+    21.00  Athletic Club           v Villarreal CF            1-2 (0-2)
   Mon Apr/13
-    21.00  Levante UD              v Getafe CF
+    21.00  Levante UD              v Getafe CF                1-0 (0-0)
 
 
 » Matchday 33
@@ -578,17 +578,20 @@
 
 
 » Matchday 34
+  Fri May/1
+    21.00  Girona FC               v RCD Mallorca
+  Sat May/2
+    14.00  Villarreal CF           v Levante UD
+    18.30  Deportivo Alavés        v Athletic Club
   Sun May/3
-           Deportivo Alavés        v Athletic Club
-           Real Betis Balompié     v Real Oviedo
-           RC Celta de Vigo        v Elche CF
            RCD Espanyol de Barcelona v Real Madrid CF
-           Getafe CF               v Rayo Vallecano de Madrid
-           Girona FC               v RCD Mallorca
            Valencia CF             v Club Atlético de Madrid
            CA Osasuna              v FC Barcelona
-           Villarreal CF           v Levante UD
-           Sevilla FC              v Real Sociedad de Fútbol
+    14.00  RC Celta de Vigo        v Elche CF
+    16.15  Getafe CF               v Rayo Vallecano de Madrid
+    18.30  Real Betis Balompié     v Real Oviedo
+  Mon May/4
+    21.00  Sevilla FC              v Real Sociedad de Fútbol
 
 
 » Matchday 35
