@@ -546,10 +546,10 @@
 
 » Matchday 33
   Tue Apr/21
-    19.00  Athletic Club           v CA Osasuna
-           RCD Mallorca            v Valencia CF
-    21.30  Real Madrid CF          v Deportivo Alavés
-           Girona FC               v Real Betis Balompié
+    19.00  Athletic Club           v CA Osasuna               1-0 (1-0)
+           RCD Mallorca            v Valencia CF              1-1 (0-0)
+    21.30  Real Madrid CF          v Deportivo Alavés         2-1 (1-0)
+           Girona FC               v Real Betis Balompié      2-3 (1-1)
   Wed Apr/22
     19.00  Elche CF                v Club Atlético de Madrid
     20.00  Real Sociedad de Fútbol v Getafe CF
@@ -582,44 +582,49 @@
     21.00  Girona FC               v RCD Mallorca
   Sat May/2
     14.00  Villarreal CF           v Levante UD
+    16.15  Valencia CF             v Club Atlético de Madrid
     18.30  Deportivo Alavés        v Athletic Club
+    21.00  CA Osasuna              v FC Barcelona
   Sun May/3
-           RCD Espanyol de Barcelona v Real Madrid CF
-           Valencia CF             v Club Atlético de Madrid
-           CA Osasuna              v FC Barcelona
     14.00  RC Celta de Vigo        v Elche CF
     16.15  Getafe CF               v Rayo Vallecano de Madrid
     18.30  Real Betis Balompié     v Real Oviedo
+    21.00  RCD Espanyol de Barcelona v Real Madrid CF
   Mon May/4
     21.00  Sevilla FC              v Real Sociedad de Fútbol
 
 
 » Matchday 35
+  Fri May/8
+    21.00  Levante UD              v CA Osasuna
+  Sat May/9
+    14.00  Elche CF                v Deportivo Alavés
+    16.15  Sevilla FC              v RCD Espanyol de Barcelona
+    18.30  Club Atlético de Madrid v RC Celta de Vigo
+    21.00  Real Sociedad de Fútbol v Real Betis Balompié
   Sun May/10
-           Athletic Club           v Valencia CF
-           Club Atlético de Madrid v RC Celta de Vigo
-           Levante UD              v CA Osasuna
-           RCD Mallorca            v Villarreal CF
-           Elche CF                v Deportivo Alavés
-           Real Sociedad de Fútbol v Real Betis Balompié
-           Sevilla FC              v RCD Espanyol de Barcelona
-           Real Oviedo             v Getafe CF
-           Rayo Vallecano de Madrid v Girona FC
+    14.00  RCD Mallorca            v Villarreal CF
+    16.15  Athletic Club           v Valencia CF
+    18.30  Real Oviedo             v Getafe CF
     21.00  FC Barcelona            v Real Madrid CF
+  Mon May/11
+    21.00  Rayo Vallecano de Madrid v Girona FC
 
 
 » Matchday 36
+  Tue May/12
+    19.00  RC Celta de Vigo        v Levante UD
+    20.00  Real Betis Balompié     v Elche CF
+    21.30  CA Osasuna              v Club Atlético de Madrid
   Wed May/13
-           Deportivo Alavés        v FC Barcelona
-           Real Betis Balompié     v Elche CF
-           RC Celta de Vigo        v Levante UD
-           Getafe CF               v RCD Mallorca
-           Girona FC               v Real Sociedad de Fútbol
-           RCD Espanyol de Barcelona v Athletic Club
-           CA Osasuna              v Club Atlético de Madrid
-           Valencia CF             v Rayo Vallecano de Madrid
+    19.00  RCD Espanyol de Barcelona v Athletic Club
            Villarreal CF           v Sevilla FC
-           Real Madrid CF          v Real Oviedo
+    21.30  Deportivo Alavés        v FC Barcelona
+           Getafe CF               v RCD Mallorca
+  Thu May/14
+    19.00  Valencia CF             v Rayo Vallecano de Madrid
+    20.00  Girona FC               v Real Sociedad de Fútbol
+    21.30  Real Madrid CF          v Real Oviedo
 
 
 » Matchday 37
