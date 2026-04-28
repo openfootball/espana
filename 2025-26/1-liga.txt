@@ -551,30 +551,30 @@
     21.30  Real Madrid CF          v Deportivo Alavés         2-1 (1-0)
            Girona FC               v Real Betis Balompié      2-3 (1-1)
   Wed Apr/22
-    19.00  Elche CF                v Club Atlético de Madrid
-    20.00  Real Sociedad de Fútbol v Getafe CF
-    21.30  FC Barcelona            v RC Celta de Vigo
+    19.00  Elche CF                v Club Atlético de Madrid  3-2 (2-2)
+    20.00  Real Sociedad de Fútbol v Getafe CF                0-1 (0-1)
+    21.30  FC Barcelona            v RC Celta de Vigo         1-0 (1-0)
   Thu Apr/23
-    19.00  Levante UD              v Sevilla FC
-    20.00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
-    21.30  Real Oviedo             v Villarreal CF
+    19.00  Levante UD              v Sevilla FC               2-0 (1-0)
+    20.00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona  1-0 (0-0)
+    21.30  Real Oviedo             v Villarreal CF            1-1 (0-1)
 
 
 » Matchday 32
   Fri Apr/24
-    21.00  Real Betis Balompié     v Real Madrid CF
+    21.00  Real Betis Balompié     v Real Madrid CF           1-1 (0-1)
   Sat Apr/25
-    14.00  Deportivo Alavés        v RCD Mallorca
-    16.15  Getafe CF               v FC Barcelona
-    18.30  Valencia CF             v Girona FC
-    21.00  Club Atlético de Madrid v Athletic Club
+    14.00  Deportivo Alavés        v RCD Mallorca             2-1 (0-1)
+    16.15  Getafe CF               v FC Barcelona             0-2 (0-1)
+    18.30  Valencia CF             v Girona FC                2-1 (0-0)
+    21.00  Club Atlético de Madrid v Athletic Club            3-2 (0-1)
   Sun Apr/26
-    14.00  Rayo Vallecano de Madrid v Real Sociedad de Fútbol
-    16.15  Real Oviedo             v Elche CF
-    18.30  CA Osasuna              v Sevilla FC
-    21.00  Villarreal CF           v RC Celta de Vigo
+    14.00  Rayo Vallecano de Madrid v Real Sociedad de Fútbol  3-3 (1-1)
+    16.15  Real Oviedo             v Elche CF                 1-2 (0-2)
+    18.30  CA Osasuna              v Sevilla FC               2-1 (0-0)
+    21.00  Villarreal CF           v RC Celta de Vigo         2-1 (2-0)
   Mon Apr/27
-    21.00  RCD Espanyol de Barcelona v Levante UD
+    21.00  RCD Espanyol de Barcelona v Levante UD               0-0
 
 
 » Matchday 34
