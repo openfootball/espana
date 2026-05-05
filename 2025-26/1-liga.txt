@@ -579,19 +579,19 @@
 
 » Matchday 34
   Fri May/1
-    21.00  Girona FC               v RCD Mallorca
+    21.00  Girona FC               v RCD Mallorca             0-1 (0-1)
   Sat May/2
-    14.00  Villarreal CF           v Levante UD
-    16.15  Valencia CF             v Club Atlético de Madrid
-    18.30  Deportivo Alavés        v Athletic Club
-    21.00  CA Osasuna              v FC Barcelona
+    14.00  Villarreal CF           v Levante UD               5-1 (1-0)
+    16.15  Valencia CF             v Club Atlético de Madrid  0-2 (0-0)
+    18.30  Deportivo Alavés        v Athletic Club            2-4 (1-0)
+    21.00  CA Osasuna              v FC Barcelona             1-2 (0-0)
   Sun May/3
-    14.00  RC Celta de Vigo        v Elche CF
-    16.15  Getafe CF               v Rayo Vallecano de Madrid
-    18.30  Real Betis Balompié     v Real Oviedo
-    21.00  RCD Espanyol de Barcelona v Real Madrid CF
+    14.00  RC Celta de Vigo        v Elche CF                 3-1 (2-0)
+    16.15  Getafe CF               v Rayo Vallecano de Madrid  0-2 (0-1)
+    18.30  Real Betis Balompié     v Real Oviedo              3-0 (2-0)
+    21.00  RCD Espanyol de Barcelona v Real Madrid CF           0-2 (0-0)
   Mon May/4
-    21.00  Sevilla FC              v Real Sociedad de Fútbol
+    21.00  Sevilla FC              v Real Sociedad de Fútbol  1-0 (0-0)
 
 
 » Matchday 35
