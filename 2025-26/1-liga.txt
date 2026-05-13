@@ -596,26 +596,26 @@
 
 » Matchday 35
   Fri May/8
-    21.00  Levante UD              v CA Osasuna
+    21.00  Levante UD              v CA Osasuna               3-2 (2-2)
   Sat May/9
-    14.00  Elche CF                v Deportivo Alavés
-    16.15  Sevilla FC              v RCD Espanyol de Barcelona
-    18.30  Club Atlético de Madrid v RC Celta de Vigo
-    21.00  Real Sociedad de Fútbol v Real Betis Balompié
+    14.00  Elche CF                v Deportivo Alavés         1-1 (0-0)
+    16.15  Sevilla FC              v RCD Espanyol de Barcelona  2-1 (0-0)
+    18.30  Club Atlético de Madrid v RC Celta de Vigo         0-1 (0-0)
+    21.00  Real Sociedad de Fútbol v Real Betis Balompié      2-2 (0-1)
   Sun May/10
-    14.00  RCD Mallorca            v Villarreal CF
-    16.15  Athletic Club           v Valencia CF
-    18.30  Real Oviedo             v Getafe CF
-    21.00  FC Barcelona            v Real Madrid CF
+    14.00  RCD Mallorca            v Villarreal CF            1-1 (1-1)
+    16.15  Athletic Club           v Valencia CF              0-1 (0-0)
+    18.30  Real Oviedo             v Getafe CF                0-0
+    21.00  FC Barcelona            v Real Madrid CF           2-0 (2-0)
   Mon May/11
-    21.00  Rayo Vallecano de Madrid v Girona FC
+    21.00  Rayo Vallecano de Madrid v Girona FC                1-1 (0-0)
 
 
 » Matchday 36
   Tue May/12
-    19.00  RC Celta de Vigo        v Levante UD
-    20.00  Real Betis Balompié     v Elche CF
-    21.30  CA Osasuna              v Club Atlético de Madrid
+    19.00  RC Celta de Vigo        v Levante UD               2-3 (1-1)
+    20.00  Real Betis Balompié     v Elche CF                 2-1 (1-1)
+    21.30  CA Osasuna              v Club Atlético de Madrid  1-2 (0-1)
   Wed May/13
     19.00  RCD Espanyol de Barcelona v Athletic Club
            Villarreal CF           v Sevilla FC
@@ -629,7 +629,7 @@
 
 » Matchday 37
   Sun May/17
-           Athletic Club           v RC Celta de Vigo
+    19.00  Athletic Club           v RC Celta de Vigo
            Club Atlético de Madrid v Girona FC
            FC Barcelona            v Real Betis Balompié
            Elche CF                v Getafe CF
@@ -642,14 +642,15 @@
 
 
 » Matchday 38
-  Sun May/24
-           Deportivo Alavés        v Rayo Vallecano de Madrid
+  Sat May/23
+    21.00  Deportivo Alavés        v Rayo Vallecano de Madrid
            Real Betis Balompié     v Levante UD
            RC Celta de Vigo        v Sevilla FC
            RCD Espanyol de Barcelona v Real Sociedad de Fútbol
            Getafe CF               v CA Osasuna
            RCD Mallorca            v Real Oviedo
            Real Madrid CF          v Athletic Club
-           Villarreal CF           v Club Atlético de Madrid
            Valencia CF             v FC Barcelona
            Girona FC               v Elche CF
+  Sun May/24
+           Villarreal CF           v Club Atlético de Madrid
