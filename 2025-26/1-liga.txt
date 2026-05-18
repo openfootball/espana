@@ -617,28 +617,28 @@
     20.00  Real Betis Balompié     v Elche CF                 2-1 (1-1)
     21.30  CA Osasuna              v Club Atlético de Madrid  1-2 (0-1)
   Wed May/13
-    19.00  RCD Espanyol de Barcelona v Athletic Club
-           Villarreal CF           v Sevilla FC
-    21.30  Deportivo Alavés        v FC Barcelona
-           Getafe CF               v RCD Mallorca
+    19.00  RCD Espanyol de Barcelona v Athletic Club            2-0 (0-0)
+           Villarreal CF           v Sevilla FC               2-3 (2-2)
+    21.30  Deportivo Alavés        v FC Barcelona             1-0 (1-0)
+           Getafe CF               v RCD Mallorca             3-1 (2-0)
   Thu May/14
-    19.00  Valencia CF             v Rayo Vallecano de Madrid
-    20.00  Girona FC               v Real Sociedad de Fútbol
-    21.30  Real Madrid CF          v Real Oviedo
+    19.00  Valencia CF             v Rayo Vallecano de Madrid  1-1 (1-1)
+    20.00  Girona FC               v Real Sociedad de Fútbol  1-1 (0-1)
+    21.30  Real Madrid CF          v Real Oviedo              2-0 (1-0)
 
 
 » Matchday 37
   Sun May/17
-    19.00  Athletic Club           v RC Celta de Vigo
-           Club Atlético de Madrid v Girona FC
-           FC Barcelona            v Real Betis Balompié
-           Elche CF                v Getafe CF
-           Levante UD              v RCD Mallorca
-           Rayo Vallecano de Madrid v Villarreal CF
-           Real Sociedad de Fútbol v Valencia CF
-           Real Oviedo             v Deportivo Alavés
-           CA Osasuna              v RCD Espanyol de Barcelona
-           Sevilla FC              v Real Madrid CF
+    19.00  Athletic Club           v RC Celta de Vigo         1-1 (0-1)
+           Club Atlético de Madrid v Girona FC                1-0 (1-0)
+           Elche CF                v Getafe CF                1-0 (1-0)
+           Levante UD              v RCD Mallorca             2-0 (1-0)
+           Rayo Vallecano de Madrid v Villarreal CF            2-0 (1-0)
+           Real Sociedad de Fútbol v Valencia CF              3-4 (1-2)
+           Real Oviedo             v Deportivo Alavés         0-1 (0-1)
+           CA Osasuna              v RCD Espanyol de Barcelona  1-2 (0-1)
+           Sevilla FC              v Real Madrid CF           0-1 (0-1)
+    21.15  FC Barcelona            v Real Betis Balompié      3-1 (1-0)
 
 
 » Matchday 38
@@ -653,4 +653,4 @@
            Valencia CF             v FC Barcelona
            Girona FC               v Elche CF
   Sun May/24
-           Villarreal CF           v Club Atlético de Madrid
+    21.00  Villarreal CF           v Club Atlético de Madrid
