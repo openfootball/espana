@@ -1,0 +1,538 @@
+= Spain Primera División 2026/27
+
+# Date       Sun Aug 16 2026 - Sun May 30 2027 (287d)
+# Teams      20
+# Matches    380
+
+
+
+▪ Matchday 1
+  Sun Aug 16 2026
+    17:00  Club Atlético de Madrid v Málaga CF
+           Real Racing Club de Santander v Villarreal CF
+           FC Barcelona            v Athletic Club
+           Real Madrid CF          v Real Sociedad de Fútbol
+           RCD Espanyol de Barcelona v Levante UD
+           Sevilla FC              v Rayo Vallecano de Madrid
+           Deportivo Alavés        v Getafe CF
+           RC Deportivo La Coruña  v Elche CF
+           RC Celta de Vigo        v CA Osasuna
+           Valencia CF             v Real Betis Balompié
+
+
+▪ Matchday 2
+  Sun Aug 23
+    17:00  Rayo Vallecano de Madrid v Deportivo Alavés
+           CA Osasuna              v Levante UD
+           Málaga CF               v RC Deportivo La Coruña
+           Athletic Club           v Sevilla FC
+           Elche CF                v FC Barcelona
+           Valencia CF             v RC Celta de Vigo
+           Getafe CF               v Real Racing Club de Santander
+           RCD Espanyol de Barcelona v Real Madrid CF
+           Club Atlético de Madrid v Villarreal CF
+           Real Betis Balompié     v Real Sociedad de Fútbol
+
+
+▪ Matchday 3
+  Sun Aug 30
+    17:00  Deportivo Alavés        v Villarreal CF
+           Sevilla FC              v Club Atlético de Madrid
+           FC Barcelona            v Rayo Vallecano de Madrid
+           RC Deportivo La Coruña  v Valencia CF
+           RC Celta de Vigo        v Athletic Club
+           Real Sociedad de Fútbol v RCD Espanyol de Barcelona
+           Real Racing Club de Santander v Elche CF
+           Levante UD              v Real Betis Balompié
+           Real Madrid CF          v Málaga CF
+           CA Osasuna              v Getafe CF
+
+
+▪ Matchday 4
+  Sun Sep 6
+    17:00  Elche CF                v Real Sociedad de Fútbol
+           Valencia CF             v FC Barcelona
+           Rayo Vallecano de Madrid v Real Racing Club de Santander
+           RCD Espanyol de Barcelona v Sevilla FC
+           Villarreal CF           v RC Deportivo La Coruña
+           Athletic Club           v Club Atlético de Madrid
+           Deportivo Alavés        v CA Osasuna
+           Getafe CF               v RC Celta de Vigo
+           Málaga CF               v Levante UD
+           Real Betis Balompié     v Real Madrid CF
+
+
+▪ Matchday 5
+  Sun Sep 13
+    17:00  Getafe CF               v RC Deportivo La Coruña
+           Sevilla FC              v Valencia CF
+           Real Racing Club de Santander v Deportivo Alavés
+           Villarreal CF           v Real Betis Balompié
+           RC Celta de Vigo        v Málaga CF
+           CA Osasuna              v RCD Espanyol de Barcelona
+           Real Sociedad de Fútbol v Club Atlético de Madrid
+           Levante UD              v FC Barcelona
+           Athletic Club           v Elche CF
+           Real Madrid CF          v Rayo Vallecano de Madrid
+
+
+▪ Matchday 6
+  Wed Sep 16
+    17:00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
+           RC Deportivo La Coruña  v Sevilla FC
+           Deportivo Alavés        v Valencia CF
+           Elche CF                v Real Madrid CF
+           Real Sociedad de Fútbol v RC Celta de Vigo
+           Málaga CF               v Villarreal CF
+           Club Atlético de Madrid v CA Osasuna
+           Levante UD              v Athletic Club
+           Real Betis Balompié     v Getafe CF
+           FC Barcelona            v Real Racing Club de Santander
+
+
+▪ Matchday 7
+  Sun Sep 20
+    17:00  Club Atlético de Madrid v Real Madrid CF
+           Valencia CF             v Real Sociedad de Fútbol
+           Sevilla FC              v FC Barcelona
+           Athletic Club           v Deportivo Alavés
+           RCD Espanyol de Barcelona v Elche CF
+           CA Osasuna              v Rayo Vallecano de Madrid
+           RC Celta de Vigo        v Real Racing Club de Santander
+           RC Deportivo La Coruña  v Real Betis Balompié
+           Villarreal CF           v Levante UD
+           Getafe CF               v Málaga CF
+
+
+▪ Matchday 8
+  Sun Oct 11
+    17:00  Rayo Vallecano de Madrid v Athletic Club
+           Deportivo Alavés        v Club Atlético de Madrid
+           FC Barcelona            v Getafe CF
+           Real Betis Balompié     v CA Osasuna
+           Real Madrid CF          v Villarreal CF
+           Elche CF                v RC Celta de Vigo
+           Levante UD              v Sevilla FC
+           Real Racing Club de Santander v Valencia CF
+           Málaga CF               v RCD Espanyol de Barcelona
+           Real Sociedad de Fútbol v RC Deportivo La Coruña
+
+
+▪ Matchday 9
+  Sun Oct 18
+    17:00  Villarreal CF           v Elche CF
+           Real Madrid CF          v Sevilla FC
+           RCD Espanyol de Barcelona v Club Atlético de Madrid
+           Valencia CF             v Athletic Club
+           RC Celta de Vigo        v Deportivo Alavés
+           Real Betis Balompié     v FC Barcelona
+           Málaga CF               v Real Sociedad de Fútbol
+           CA Osasuna              v Real Racing Club de Santander
+           RC Deportivo La Coruña  v Levante UD
+           Getafe CF               v Rayo Vallecano de Madrid
+
+
+▪ Matchday 10
+  Sun Oct 25
+    17:00  Rayo Vallecano de Madrid v Elche CF
+           Deportivo Alavés        v Málaga CF
+           Athletic Club           v Getafe CF
+           Sevilla FC              v CA Osasuna
+           Valencia CF             v Villarreal CF
+           FC Barcelona            v Real Madrid CF
+           Club Atlético de Madrid v RC Deportivo La Coruña
+           RC Celta de Vigo        v Real Betis Balompié
+           Real Sociedad de Fútbol v Levante UD
+           Real Racing Club de Santander v RCD Espanyol de Barcelona
+
+
+▪ Matchday 11
+  Sun Nov 1
+    17:00  Real Betis Balompié     v Málaga CF
+           Villarreal CF           v RCD Espanyol de Barcelona
+           Elche CF                v Valencia CF
+           Athletic Club           v Real Sociedad de Fútbol
+           Levante UD              v Club Atlético de Madrid
+           RC Deportivo La Coruña  v CA Osasuna
+           FC Barcelona            v Deportivo Alavés
+           Getafe CF               v Sevilla FC
+           Real Racing Club de Santander v Real Madrid CF
+           Rayo Vallecano de Madrid v RC Celta de Vigo
+
+
+▪ Matchday 12
+  Sun Nov 8
+    17:00  Elche CF                v Real Betis Balompié
+           CA Osasuna              v Athletic Club
+           Sevilla FC              v Deportivo Alavés
+           Valencia CF             v Real Madrid CF
+           RC Celta de Vigo        v Levante UD
+           Real Sociedad de Fútbol v Rayo Vallecano de Madrid
+           Málaga CF               v Real Racing Club de Santander
+           RCD Espanyol de Barcelona v RC Deportivo La Coruña
+           Club Atlético de Madrid v FC Barcelona
+           Villarreal CF           v Getafe CF
+
+
+▪ Matchday 13
+  Sun Nov 22
+    17:00  Athletic Club           v RCD Espanyol de Barcelona
+           FC Barcelona            v Villarreal CF
+           Real Racing Club de Santander v Real Sociedad de Fútbol
+           Rayo Vallecano de Madrid v Valencia CF
+           CA Osasuna              v Málaga CF
+           Getafe CF               v Club Atlético de Madrid
+           Real Madrid CF          v RC Celta de Vigo
+           Deportivo Alavés        v RC Deportivo La Coruña
+           Sevilla FC              v Real Betis Balompié
+           Levante UD              v Elche CF
+
+
+▪ Matchday 14
+  Sun Nov 29
+    17:00  RC Celta de Vigo        v Villarreal CF
+           Elche CF                v Club Atlético de Madrid
+           Real Betis Balompié     v Rayo Vallecano de Madrid
+           Valencia CF             v CA Osasuna
+           Real Madrid CF          v Deportivo Alavés
+           RCD Espanyol de Barcelona v Getafe CF
+           Real Sociedad de Fútbol v Sevilla FC
+           Levante UD              v Real Racing Club de Santander
+           RC Deportivo La Coruña  v FC Barcelona
+           Málaga CF               v Athletic Club
+
+
+▪ Matchday 15
+  Sun Dec 6
+    17:00  CA Osasuna              v Elche CF
+           Sevilla FC              v Málaga CF
+           Deportivo Alavés        v RCD Espanyol de Barcelona
+           Club Atlético de Madrid v Real Betis Balompié
+           Real Racing Club de Santander v RC Deportivo La Coruña
+           FC Barcelona            v RC Celta de Vigo
+           Getafe CF               v Valencia CF
+           Athletic Club           v Real Madrid CF
+           Villarreal CF           v Real Sociedad de Fútbol
+           Rayo Vallecano de Madrid v Levante UD
+
+
+▪ Matchday 16
+  Sun Dec 13
+    17:00  RCD Espanyol de Barcelona v RC Celta de Vigo
+           Málaga CF               v FC Barcelona
+           Real Madrid CF          v CA Osasuna
+           RC Deportivo La Coruña  v Athletic Club
+           Levante UD              v Deportivo Alavés
+           Elche CF                v Sevilla FC
+           Villarreal CF           v Rayo Vallecano de Madrid
+           Real Betis Balompié     v Real Racing Club de Santander
+           Real Sociedad de Fútbol v Getafe CF
+           Club Atlético de Madrid v Valencia CF
+
+
+▪ Matchday 17
+  Sun Dec 20
+    17:00  Athletic Club           v Real Betis Balompié
+           Getafe CF               v Levante UD
+           Deportivo Alavés        v Elche CF
+           Valencia CF             v RCD Espanyol de Barcelona
+           CA Osasuna              v Villarreal CF
+           FC Barcelona            v Real Sociedad de Fútbol
+           RC Celta de Vigo        v Club Atlético de Madrid
+           Rayo Vallecano de Madrid v Málaga CF
+           RC Deportivo La Coruña  v Real Madrid CF
+           Sevilla FC              v Real Racing Club de Santander
+
+
+▪ Matchday 18
+  Sun Jan 3 2027
+    13:00  Real Madrid CF          v Getafe CF
+           Real Sociedad de Fútbol v CA Osasuna
+           Levante UD              v Valencia CF
+           Real Racing Club de Santander v Athletic Club
+           Málaga CF               v Elche CF
+           Real Betis Balompié     v Deportivo Alavés
+           RC Celta de Vigo        v RC Deportivo La Coruña
+           RCD Espanyol de Barcelona v FC Barcelona
+           Villarreal CF           v Sevilla FC
+           Rayo Vallecano de Madrid v Club Atlético de Madrid
+
+
+▪ Matchday 19
+  Sun Jan 10
+    13:00  Athletic Club           v Villarreal CF
+           Elche CF                v Getafe CF
+           Real Madrid CF          v Levante UD
+           CA Osasuna              v FC Barcelona
+           RC Deportivo La Coruña  v Rayo Vallecano de Madrid
+           Club Atlético de Madrid v Real Racing Club de Santander
+           Deportivo Alavés        v Real Sociedad de Fútbol
+           Sevilla FC              v RC Celta de Vigo
+           RCD Espanyol de Barcelona v Real Betis Balompié
+           Valencia CF             v Málaga CF
+
+
+▪ Matchday 20
+  Sun Jan 17
+    13:00  Málaga CF               v Real Madrid CF
+           FC Barcelona            v Elche CF
+           Villarreal CF           v Deportivo Alavés
+           Real Racing Club de Santander v CA Osasuna
+           Levante UD              v RCD Espanyol de Barcelona
+           RC Celta de Vigo        v Valencia CF
+           Getafe CF               v Athletic Club
+           Rayo Vallecano de Madrid v Sevilla FC
+           Real Betis Balompié     v RC Deportivo La Coruña
+           Club Atlético de Madrid v Real Sociedad de Fútbol
+
+
+▪ Matchday 21
+  Sun Jan 24
+    13:00  Real Madrid CF          v Real Betis Balompié
+           Getafe CF               v CA Osasuna
+           Valencia CF             v Sevilla FC
+           Elche CF                v Rayo Vallecano de Madrid
+           Deportivo Alavés        v FC Barcelona
+           Real Sociedad de Fútbol v Málaga CF
+           Real Racing Club de Santander v RC Celta de Vigo
+           Athletic Club           v Levante UD
+           RCD Espanyol de Barcelona v Villarreal CF
+           RC Deportivo La Coruña  v Club Atlético de Madrid
+
+
+▪ Matchday 22
+  Sun Jan 31
+    13:00  Real Betis Balompié     v Elche CF
+           Rayo Vallecano de Madrid v Real Madrid CF
+           Club Atlético de Madrid v RCD Espanyol de Barcelona
+           RC Celta de Vigo        v Getafe CF
+           Villarreal CF           v Real Racing Club de Santander
+           Levante UD              v Real Sociedad de Fútbol
+           FC Barcelona            v Valencia CF
+           Sevilla FC              v Athletic Club
+           CA Osasuna              v RC Deportivo La Coruña
+           Málaga CF               v Deportivo Alavés
+
+
+▪ Matchday 23
+  Sun Feb 7
+    13:00  Athletic Club           v CA Osasuna
+           Deportivo Alavés        v RC Celta de Vigo
+           Real Betis Balompié     v Sevilla FC
+           Elche CF                v Levante UD
+           RCD Espanyol de Barcelona v Rayo Vallecano de Madrid
+           Getafe CF               v Villarreal CF
+           RC Deportivo La Coruña  v Málaga CF
+           Real Sociedad de Fútbol v Real Madrid CF
+           Valencia CF             v Real Racing Club de Santander
+           FC Barcelona            v Club Atlético de Madrid
+
+
+▪ Matchday 24
+  Sun Feb 14
+    13:00  Sevilla FC              v RCD Espanyol de Barcelona
+           CA Osasuna              v Club Atlético de Madrid
+           RC Celta de Vigo        v Rayo Vallecano de Madrid
+           Villarreal CF           v FC Barcelona
+           Real Sociedad de Fútbol v Real Betis Balompié
+           Elche CF                v RC Deportivo La Coruña
+           Valencia CF             v Deportivo Alavés
+           Levante UD              v Málaga CF
+           Real Racing Club de Santander v Getafe CF
+           Real Madrid CF          v Athletic Club
+
+
+▪ Matchday 25
+  Sun Feb 21
+    13:00  Deportivo Alavés        v Real Racing Club de Santander
+           Málaga CF               v Real Betis Balompié
+           Villarreal CF           v Valencia CF
+           FC Barcelona            v Levante UD
+           Athletic Club           v RC Celta de Vigo
+           RCD Espanyol de Barcelona v CA Osasuna
+           Sevilla FC              v Real Madrid CF
+           Club Atlético de Madrid v Elche CF
+           RC Deportivo La Coruña  v Real Sociedad de Fútbol
+           Rayo Vallecano de Madrid v Getafe CF
+
+
+▪ Matchday 26
+  Sun Feb 28
+    13:00  RC Celta de Vigo        v RCD Espanyol de Barcelona
+           Levante UD              v RC Deportivo La Coruña
+           Málaga CF               v Club Atlético de Madrid
+           CA Osasuna              v Sevilla FC
+           Real Madrid CF          v Valencia CF
+           Getafe CF               v Deportivo Alavés
+           Athletic Club           v FC Barcelona
+           Real Racing Club de Santander v Rayo Vallecano de Madrid
+           Real Betis Balompié     v Villarreal CF
+           Real Sociedad de Fútbol v Elche CF
+
+
+▪ Matchday 27
+  Sun Mar 7
+    13:00  FC Barcelona            v Real Betis Balompié
+           Elche CF                v Málaga CF
+           Deportivo Alavés        v Athletic Club
+           Rayo Vallecano de Madrid v CA Osasuna
+           Sevilla FC              v Real Sociedad de Fútbol
+           Club Atlético de Madrid v RC Celta de Vigo
+           Villarreal CF           v Real Madrid CF
+           Valencia CF             v Levante UD
+           RC Deportivo La Coruña  v Getafe CF
+           RCD Espanyol de Barcelona v Real Racing Club de Santander
+
+
+▪ Matchday 28
+  Sun Mar 14
+    13:00  CA Osasuna              v RC Celta de Vigo
+           Elche CF                v Villarreal CF
+           Deportivo Alavés        v Sevilla FC
+           Athletic Club           v Valencia CF
+           Real Betis Balompié     v Levante UD
+           Real Racing Club de Santander v Club Atlético de Madrid
+           Málaga CF               v Rayo Vallecano de Madrid
+           Getafe CF               v Real Sociedad de Fútbol
+           FC Barcelona            v RC Deportivo La Coruña
+           Real Madrid CF          v RCD Espanyol de Barcelona
+
+
+▪ Matchday 29
+  Sun Mar 21
+    13:00  Villarreal CF           v Málaga CF
+           Sevilla FC              v Elche CF
+           Levante UD              v CA Osasuna
+           RC Celta de Vigo        v Real Madrid CF
+           Rayo Vallecano de Madrid v FC Barcelona
+           Real Sociedad de Fútbol v Deportivo Alavés
+           RCD Espanyol de Barcelona v Athletic Club
+           Real Racing Club de Santander v Real Betis Balompié
+           Valencia CF             v RC Deportivo La Coruña
+           Club Atlético de Madrid v Getafe CF
+
+
+▪ Matchday 30
+  Sun Apr 4
+    14:00  Levante UD              v Rayo Vallecano de Madrid
+           FC Barcelona            v Sevilla FC
+           Málaga CF               v CA Osasuna
+           Athletic Club           v Real Racing Club de Santander
+           RC Deportivo La Coruña  v Villarreal CF
+           Real Sociedad de Fútbol v Valencia CF
+           Elche CF                v Deportivo Alavés
+           Real Madrid CF          v Club Atlético de Madrid
+           Getafe CF               v RCD Espanyol de Barcelona
+           Real Betis Balompié     v RC Celta de Vigo
+
+
+▪ Matchday 31
+  Sun Apr 11
+    14:00  Rayo Vallecano de Madrid v Real Sociedad de Fútbol
+           RCD Espanyol de Barcelona v Málaga CF
+           Villarreal CF           v Athletic Club
+           Deportivo Alavés        v Real Betis Balompié
+           Valencia CF             v Getafe CF
+           Sevilla FC              v RC Deportivo La Coruña
+           RC Celta de Vigo        v Elche CF
+           Real Racing Club de Santander v FC Barcelona
+           CA Osasuna              v Real Madrid CF
+           Club Atlético de Madrid v Levante UD
+
+
+▪ Matchday 32
+  Sun Apr 18
+    14:00  Club Atlético de Madrid v Sevilla FC
+           FC Barcelona            v RCD Espanyol de Barcelona
+           Levante UD              v Villarreal CF
+           Real Sociedad de Fútbol v Real Racing Club de Santander
+           Málaga CF               v Valencia CF
+           RC Deportivo La Coruña  v RC Celta de Vigo
+           Elche CF                v CA Osasuna
+           Deportivo Alavés        v Rayo Vallecano de Madrid
+           Real Betis Balompié     v Athletic Club
+           Getafe CF               v Real Madrid CF
+
+
+▪ Matchday 33
+  Wed Apr 21
+    14:00  Getafe CF               v Real Betis Balompié
+           Valencia CF             v Rayo Vallecano de Madrid
+           RC Celta de Vigo        v FC Barcelona
+           CA Osasuna              v Deportivo Alavés
+           Real Madrid CF          v Elche CF
+           Athletic Club           v RC Deportivo La Coruña
+           Real Racing Club de Santander v Málaga CF
+           Villarreal CF           v Club Atlético de Madrid
+           Sevilla FC              v Levante UD
+           RCD Espanyol de Barcelona v Real Sociedad de Fútbol
+
+
+▪ Matchday 34
+  Sun May 2
+    14:00  RC Deportivo La Coruña  v Real Racing Club de Santander
+           RC Celta de Vigo        v Sevilla FC
+           Real Sociedad de Fútbol v Athletic Club
+           FC Barcelona            v CA Osasuna
+           Rayo Vallecano de Madrid v Villarreal CF
+           Málaga CF               v Getafe CF
+           Real Betis Balompié     v Valencia CF
+           Elche CF                v RCD Espanyol de Barcelona
+           Levante UD              v Real Madrid CF
+           Club Atlético de Madrid v Deportivo Alavés
+
+
+▪ Matchday 35
+  Sun May 9
+    14:00  Valencia CF             v Club Atlético de Madrid
+           CA Osasuna              v Real Sociedad de Fútbol
+           Deportivo Alavés        v Levante UD
+           Athletic Club           v Málaga CF
+           Real Racing Club de Santander v Sevilla FC
+           Rayo Vallecano de Madrid v RC Deportivo La Coruña
+           Real Betis Balompié     v RCD Espanyol de Barcelona
+           Real Madrid CF          v FC Barcelona
+           Getafe CF               v Elche CF
+           Villarreal CF           v RC Celta de Vigo
+
+
+▪ Matchday 36
+  Sun May 16
+    14:00  Club Atlético de Madrid v Rayo Vallecano de Madrid
+           Sevilla FC              v Villarreal CF
+           Real Sociedad de Fútbol v FC Barcelona
+           Elche CF                v Athletic Club
+           Málaga CF               v RC Celta de Vigo
+           RC Deportivo La Coruña  v Deportivo Alavés
+           Levante UD              v Getafe CF
+           RCD Espanyol de Barcelona v Valencia CF
+           Real Madrid CF          v Real Racing Club de Santander
+           CA Osasuna              v Real Betis Balompié
+
+
+▪ Matchday 37
+  Sun May 23
+    14:00  Club Atlético de Madrid v Athletic Club
+           Deportivo Alavés        v Real Madrid CF
+           Sevilla FC              v Getafe CF
+           Villarreal CF           v CA Osasuna
+           Real Racing Club de Santander v Levante UD
+           RC Deportivo La Coruña  v RCD Espanyol de Barcelona
+           Rayo Vallecano de Madrid v Real Betis Balompié
+           FC Barcelona            v Málaga CF
+           Valencia CF             v Elche CF
+           RC Celta de Vigo        v Real Sociedad de Fútbol
+
+
+▪ Matchday 38
+  Sun May 30
+    14:00  Levante UD              v RC Celta de Vigo
+           Real Madrid CF          v RC Deportivo La Coruña
+           Real Betis Balompié     v Club Atlético de Madrid
+           Real Sociedad de Fútbol v Villarreal CF
+           Málaga CF               v Sevilla FC
+           Elche CF                v Real Racing Club de Santander
+           Athletic Club           v Rayo Vallecano de Madrid
+           RCD Espanyol de Barcelona v Deportivo Alavés
+           Getafe CF               v FC Barcelona
+           CA Osasuna              v Valencia CF
