@@ -1,656 +1,1136 @@
-= Spain Primera División 2025/26
-
-# Date       Fri Aug 15 2025 - Sun May 24 2026 (282d)
-# Teams      20
-# Matches    380
-
-
-
-▪ Matchday 1
-  Fri Aug 15 2025
-    19:00  Girona FC               v Rayo Vallecano de Madrid  1-3 (0-3)
-    21:30  Villarreal CF           v Real Oviedo              2-0 (2-0)
-  Sat Aug 16
-    19:30  RCD Mallorca            v FC Barcelona             0-3 (0-2)
-    21:30  Deportivo Alavés        v Levante UD               2-1 (1-0)
-           Valencia CF             v Real Sociedad de Fútbol  1-1 (0-0)
-  Sun Aug 17
-    17:00  RC Celta de Vigo        v Getafe CF                0-2 (0-0)
-    19:30  Athletic Club           v Sevilla FC               3-2 (2-0)
-    21:30  RCD Espanyol de Barcelona v Club Atlético de Madrid  2-1 (0-1)
-  Mon Aug 18
-    21:00  Elche CF                v Real Betis Balompié      1-1 (0-1)
-  Tue Aug 19
-    21:00  Real Madrid CF          v CA Osasuna               1-0 (0-0)
-
-
-▪ Matchday 2
-  Fri Aug 22
-    21:30  Real Betis Balompié     v Deportivo Alavés         1-0 (1-0)
-  Sat Aug 23
-    17:00  RCD Mallorca            v RC Celta de Vigo         1-1 (0-1)
-    19:30  Club Atlético de Madrid v Elche CF                 1-1 (1-1)
-    21:30  Levante UD              v FC Barcelona             2-3 (2-0)
-  Sun Aug 24
-    17:00  CA Osasuna              v Valencia CF              1-0 (1-0)
-    19:30  Real Sociedad de Fútbol v RCD Espanyol de Barcelona  2-2 (0-2)
-           Villarreal CF           v Girona FC                5-0 (4-0)
-    21:30  Real Oviedo             v Real Madrid CF           0-3 (0-1)
-  Mon Aug 25
-    19:30  Athletic Club           v Rayo Vallecano de Madrid  1-0 (0-0)
-    21:30  Sevilla FC              v Getafe CF                1-2 (1-1)
-
-
-▪ Matchday 6
-  Wed Aug 27
-    21:00  RC Celta de Vigo        v Real Betis Balompié      1-1 (0-1)
-
-
-▪ Matchday 3
-  Fri Aug 29
-    19:30  Elche CF                v Levante UD               2-0 (0-0)
-    21:30  Valencia CF             v Getafe CF                3-0 (1-0)
-  Sat Aug 30
-    17:00  Deportivo Alavés        v Club Atlético de Madrid  1-1 (1-1)
-    19:00  Real Oviedo             v Real Sociedad de Fútbol  1-0 (1-0)
-    19:30  Girona FC               v Sevilla FC               0-2 (0-1)
-    21:30  Real Madrid CF          v RCD Mallorca             2-1 (2-1)
-  Sun Aug 31
-    17:00  RC Celta de Vigo        v Villarreal CF            1-1 (0-0)
-    19:00  Real Betis Balompié     v Athletic Club            1-2 (0-0)
-    19:30  RCD Espanyol de Barcelona v CA Osasuna               1-0 (0-0)
-    21:30  Rayo Vallecano de Madrid v FC Barcelona             1-1 (0-1)
-
-
-▪ Matchday 4
-  Fri Sep 12
-    21:00  Sevilla FC              v Elche CF                 2-2 (1-0)
-  Sat Sep 13
-    14:00  Getafe CF               v Real Oviedo              2-0 (2-0)
-    16:15  Real Sociedad de Fútbol v Real Madrid CF           1-2 (0-2)
-    18:30  Athletic Club           v Deportivo Alavés         0-1 (0-0)
-    21:00  Club Atlético de Madrid v Villarreal CF            2-0 (1-0)
-  Sun Sep 14
-    14:00  RC Celta de Vigo        v Girona FC                1-1 (0-1)
-    16:15  Levante UD              v Real Betis Balompié      2-2 (2-1)
-    18:30  CA Osasuna              v Rayo Vallecano de Madrid  2-0 (1-0)
-    21:00  FC Barcelona            v Valencia CF              6-0 (1-0)
-  Mon Sep 15
-    21:00  RCD Espanyol de Barcelona v RCD Mallorca             3-2 (2-1)
-
-
-▪ Matchday 5
-  Fri Sep 19
-    21:00  Real Betis Balompié     v Real Sociedad de Fútbol  3-1 (1-1)
-  Sat Sep 20
-    14:00  Girona FC               v Levante UD               0-4 (0-1)
-    16:15  Real Madrid CF          v RCD Espanyol de Barcelona  2-0 (1-0)
-    18:30  Villarreal CF           v CA Osasuna               2-1 (0-1)
-           Deportivo Alavés        v Sevilla FC               1-2 (1-1)
-    21:00  Valencia CF             v Athletic Club            2-0 (0-0)
-  Sun Sep 21
-    14:00  Rayo Vallecano de Madrid v RC Celta de Vigo         1-1 (0-0)
-    16:15  RCD Mallorca            v Club Atlético de Madrid  1-1 (0-0)
-    18:30  Elche CF                v Real Oviedo              1-0 (1-0)
-    21:00  FC Barcelona            v Getafe CF                3-0 (2-0)
-
-
-▪ Matchday 6
-  Tue Sep 23
-    19:00  Athletic Club           v Girona FC                1-1 (0-1)
-           RCD Espanyol de Barcelona v Valencia CF              2-2 (0-1)
-    21:30  Levante UD              v Real Madrid CF           1-4 (0-2)
-           Sevilla FC              v Villarreal CF            1-2 (0-1)
-  Wed Sep 24
-    19:00  Getafe CF               v Deportivo Alavés         1-1 (0-0)
-    21:30  Club Atlético de Madrid v Rayo Vallecano de Madrid  3-2 (1-1)
-           Real Sociedad de Fútbol v RCD Mallorca             1-0 (0-0)
-  Thu Sep 25
-    19:30  CA Osasuna              v Elche CF                 1-1 (1-0)
-    21:30  Real Oviedo             v FC Barcelona             1-3 (1-0)
-
-
-▪ Matchday 7
-  Fri Sep 26
-    21:00  Girona FC               v RCD Espanyol de Barcelona  0-0
-  Sat Sep 27
-    14:00  Getafe CF               v Levante UD               1-1 (0-1)
-    16:15  Club Atlético de Madrid v Real Madrid CF           5-2 (2-2)
-    18:30  RCD Mallorca            v Deportivo Alavés         1-0 (1-0)
-    21:00  Villarreal CF           v Athletic Club            1-0 (0-0)
-  Sun Sep 28
-    14:00  Rayo Vallecano de Madrid v Sevilla FC               0-1 (0-0)
-    16:15  Elche CF                v RC Celta de Vigo         2-1 (1-1)
-    18:30  FC Barcelona            v Real Sociedad de Fútbol  2-1 (1-1)
-    21:00  Real Betis Balompié     v CA Osasuna               2-0 (2-0)
-  Tue Sep 30
-    20:00  Valencia CF             v Real Oviedo              1-2 (1-0)
-
-
-▪ Matchday 8
-  Fri Oct 3
-    21:00  CA Osasuna              v Getafe CF                2-1 (1-1)
-  Sat Oct 4
-    14:00  Real Oviedo             v Levante UD               0-2 (0-1)
-    16:15  Girona FC               v Valencia CF              2-1 (1-0)
-    18:30  Athletic Club           v RCD Mallorca             2-1 (1-0)
-    21:00  Real Madrid CF          v Villarreal CF            3-1 (0-0)
-  Sun Oct 5
-    14:00  Deportivo Alavés        v Elche CF                 3-1 (0-0)
-    16:15  Sevilla FC              v FC Barcelona             4-1 (2-1)
-    18:30  RCD Espanyol de Barcelona v Real Betis Balompié      1-2 (1-0)
-           Real Sociedad de Fútbol v Rayo Vallecano de Madrid  0-1 (0-0)
-    21:00  RC Celta de Vigo        v Club Atlético de Madrid  1-1 (0-1)
-
-
-▪ Matchday 9
-  Fri Oct 17
-    21:00  Real Oviedo             v RCD Espanyol de Barcelona  0-2 (0-0)
-  Sat Oct 18
-    14:00  Sevilla FC              v RCD Mallorca             1-3 (1-0)
-    16:15  FC Barcelona            v Girona FC                2-1 (1-1)
-    18:30  Villarreal CF           v Real Betis Balompié      2-2 (1-0)
-    21:00  Club Atlético de Madrid v CA Osasuna               1-0 (0-0)
-  Sun Oct 19
-    14:00  Elche CF                v Athletic Club            0-0
-    16:15  RC Celta de Vigo        v Real Sociedad de Fútbol  1-1 (1-0)
-    18:30  Levante UD              v Rayo Vallecano de Madrid  0-3 (0-2)
-    21:00  Getafe CF               v Real Madrid CF           0-1 (0-0)
-  Mon Oct 20
-    21:00  Deportivo Alavés        v Valencia CF              0-0
-
-
-▪ Matchday 10
-  Fri Oct 24
-    21:00  Real Sociedad de Fútbol v Sevilla FC               2-1 (2-1)
-  Sat Oct 25
-    14:00  Girona FC               v Real Oviedo              3-3 (0-1)
-    16:15  RCD Espanyol de Barcelona v Elche CF                 1-0 (0-0)
-    18:30  Athletic Club           v Getafe CF                0-1 (0-0)
-    21:00  Valencia CF             v Villarreal CF            0-2 (0-1)
-  Sun Oct 26
-    14:00  RCD Mallorca            v Levante UD               1-1 (0-1)
-    16:15  Real Madrid CF          v FC Barcelona             2-1 (2-1)
-    18:30  CA Osasuna              v RC Celta de Vigo         2-3 (2-1)
-    21:00  Rayo Vallecano de Madrid v Deportivo Alavés         1-0 (0-0)
-  Mon Oct 27
-    21:00  Real Betis Balompié     v Club Atlético de Madrid  0-2 (0-2)
-
-
-▪ Matchday 11
-  Fri Oct 31
-    21:00  Getafe CF               v Girona FC                2-1 (0-0)
-  Sat Nov 1
-    14:00  Villarreal CF           v Rayo Vallecano de Madrid  4-0 (1-0)
-    16:15  Club Atlético de Madrid v Sevilla FC               3-0 (0-0)
-    18:30  Real Sociedad de Fútbol v Athletic Club            3-2 (1-1)
-    21:00  Real Madrid CF          v Valencia CF              4-0 (3-0)
-  Sun Nov 2
-    14:00  Levante UD              v RC Celta de Vigo         1-2 (0-1)
-    16:15  Deportivo Alavés        v RCD Espanyol de Barcelona  2-1 (2-0)
-    18:30  FC Barcelona            v Elche CF                 3-1 (2-1)
-    21:00  Real Betis Balompié     v RCD Mallorca             3-0 (3-0)
-  Mon Nov 3
-    21:00  Real Oviedo             v CA Osasuna               0-0
-
-
-▪ Matchday 12
-  Fri Nov 7
-    21:00  Elche CF                v Real Sociedad de Fútbol  1-1 (0-0)
-  Sat Nov 8
-    14:00  Girona FC               v Deportivo Alavés         1-0 (1-0)
-    16:15  Sevilla FC              v CA Osasuna               1-0 (0-0)
-    18:30  Club Atlético de Madrid v Levante UD               3-1 (1-1)
-    21:00  RCD Espanyol de Barcelona v Villarreal CF            0-2 (0-1)
-  Sun Nov 9
-    14:00  Athletic Club           v Real Oviedo              1-0 (1-0)
-    16:15  Rayo Vallecano de Madrid v Real Madrid CF           0-0
-    18:30  Valencia CF             v Real Betis Balompié      1-1 (0-0)
-           RCD Mallorca            v Getafe CF                1-0 (1-0)
-    21:00  RC Celta de Vigo        v FC Barcelona             2-4 (2-3)
-
-
-▪ Matchday 13
-  Fri Nov 21
-    21:00  Valencia CF             v Levante UD               1-0 (0-0)
-  Sat Nov 22
-    14:00  Deportivo Alavés        v RC Celta de Vigo         0-1 (0-0)
-    16:15  FC Barcelona            v Athletic Club            4-0 (2-0)
-    18:30  CA Osasuna              v Real Sociedad de Fútbol  1-3 (1-0)
-    21:00  Villarreal CF           v RCD Mallorca             2-1 (1-1)
-  Sun Nov 23
-    14:00  Real Oviedo             v Rayo Vallecano de Madrid  0-0
-    16:15  Real Betis Balompié     v Girona FC                1-1 (0-1)
-    18:30  Getafe CF               v Club Atlético de Madrid  0-1 (0-0)
-    21:00  Elche CF                v Real Madrid CF           2-2 (0-0)
-  Mon Nov 24
-    21:00  RCD Espanyol de Barcelona v Sevilla FC               2-1 (0-0)
-
-
-▪ Matchday 14
-  Fri Nov 28
-    21:00  Getafe CF               v Elche CF                 1-0 (0-0)
-  Sat Nov 29
-    14:00  RCD Mallorca            v CA Osasuna               2-2 (0-0)
-    16:15  FC Barcelona            v Deportivo Alavés         3-1 (2-1)
-    18:30  Levante UD              v Athletic Club            0-2 (0-2)
-    21:00  Club Atlético de Madrid v Real Oviedo              2-0 (2-0)
-  Sun Nov 30
-    14:00  Real Sociedad de Fútbol v Villarreal CF            2-3 (0-1)
-    16:15  Sevilla FC              v Real Betis Balompié      0-2 (0-0)
-    18:30  RC Celta de Vigo        v RCD Espanyol de Barcelona  0-1 (0-0)
-    21:00  Girona FC               v Real Madrid CF           1-1 (1-0)
-  Mon Dec 1
-    21:00  Rayo Vallecano de Madrid v Valencia CF              1-1 (1-0)
-
-
-▪ Matchday 19
-  Tue Dec 2
-    21:00  FC Barcelona            v Club Atlético de Madrid  3-1 (1-1)
-  Wed Dec 3
-    19:00  Athletic Club           v Real Madrid CF           0-3 (0-2)
-
-
-▪ Matchday 15
-  Fri Dec 5
-    21:00  Real Oviedo             v RCD Mallorca             0-0
-  Sat Dec 6
-    14:00  Villarreal CF           v Getafe CF                2-0 (1-0)
-    16:15  Deportivo Alavés        v Real Sociedad de Fútbol  1-0 (1-0)
-    18:30  Real Betis Balompié     v FC Barcelona             3-5 (1-4)
-    21:00  Athletic Club           v Club Atlético de Madrid  1-0 (0-0)
-  Sun Dec 7
-    14:00  Elche CF                v Girona FC                3-0 (1-0)
-    16:15  Valencia CF             v Sevilla FC               1-1 (0-0)
-    18:30  RCD Espanyol de Barcelona v Rayo Vallecano de Madrid  1-0 (1-0)
-    21:00  Real Madrid CF          v RC Celta de Vigo         0-2 (0-0)
-  Mon Dec 8
-    21:00  CA Osasuna              v Levante UD               2-0 (2-0)
-
-
-▪ Matchday 16
-  Fri Dec 12
-    21:00  Real Sociedad de Fútbol v Girona FC                1-2 (1-0)
-  Sat Dec 13
-    14:00  Club Atlético de Madrid v Valencia CF              2-1 (1-0)
-    16:15  RCD Mallorca            v Elche CF                 3-1 (1-1)
-    18:30  FC Barcelona            v CA Osasuna               2-0 (0-0)
-    21:00  Getafe CF               v RCD Espanyol de Barcelona  0-1 (0-0)
-  Sun Dec 14
-    14:00  Sevilla FC              v Real Oviedo              4-0 (2-0)
-    16:15  RC Celta de Vigo        v Athletic Club            2-0 (0-0)
-    21:00  Deportivo Alavés        v Real Madrid CF           1-2 (0-1)
-  Mon Dec 15
-    21:00  Rayo Vallecano de Madrid v Real Betis Balompié      0-0
-
-
-▪ Matchday 17
-  Fri Dec 19
-    21:00  Valencia CF             v RCD Mallorca             1-1 (0-1)
-  Sat Dec 20
-    14:00  Real Oviedo             v RC Celta de Vigo         0-0
-    16:15  Levante UD              v Real Sociedad de Fútbol  1-1 (0-1)
-    18:30  CA Osasuna              v Deportivo Alavés         3-0 (0-0)
-    21:00  Real Madrid CF          v Sevilla FC               2-0 (1-0)
-  Sun Dec 21
-    14:00  Girona FC               v Club Atlético de Madrid  0-3 (0-2)
-    16:15  Villarreal CF           v FC Barcelona             0-2 (0-1)
-    18:30  Elche CF                v Rayo Vallecano de Madrid  4-0 (1-0)
-    21:00  Real Betis Balompié     v Getafe CF                4-0 (1-0)
-  Mon Dec 22
-    21:00  Athletic Club           v RCD Espanyol de Barcelona  1-2 (1-1)
-
-
-▪ Matchday 18
-  Fri Jan 2 2026
-    21:00  Rayo Vallecano de Madrid v Getafe CF                1-1 (1-0)
-  Sat Jan 3
-    14:00  RC Celta de Vigo        v Valencia CF              4-1 (1-0)
-    16:15  CA Osasuna              v Athletic Club            1-1 (1-0)
-    18:30  Elche CF                v Villarreal CF            1-3 (1-2)
-    21:00  RCD Espanyol de Barcelona v FC Barcelona             0-2 (0-0)
-  Sun Jan 4
-    14:00  Sevilla FC              v Levante UD               0-3 (0-1)
-    16:15  Real Madrid CF          v Real Betis Balompié      5-1 (1-0)
-    18:30  Deportivo Alavés        v Real Oviedo              1-1 (0-0)
-           RCD Mallorca            v Girona FC                1-2 (0-1)
-    21:00  Real Sociedad de Fútbol v Club Atlético de Madrid  1-1 (0-0)
-
-
-▪ Matchday 19
-  Fri Jan 9
-    21:00  Getafe CF               v Real Sociedad de Fútbol  1-2 (0-1)
-  Sat Jan 10
-    14:00  Real Oviedo             v Real Betis Balompié      1-1 (0-0)
-    16:15  Villarreal CF           v Deportivo Alavés         3-1 (0-0)
-    18:30  Girona FC               v CA Osasuna               1-0 (1-0)
-    21:00  Valencia CF             v Elche CF                 1-1 (0-0)
-  Sun Jan 11
-    14:00  Rayo Vallecano de Madrid v RCD Mallorca             2-1 (2-1)
-    16:15  Levante UD              v RCD Espanyol de Barcelona  1-1 (0-0)
-  Mon Jan 12
-    21:00  Sevilla FC              v RC Celta de Vigo         0-1 (0-0)
-
-
-▪ Matchday 20
-  Fri Jan 16
-    21:00  RCD Espanyol de Barcelona v Girona FC                0-2 (0-1)
-  Sat Jan 17
-    14:00  Real Madrid CF          v Levante UD               2-0 (0-0)
-    16:15  RCD Mallorca            v Athletic Club            3-2 (2-2)
-    18:30  CA Osasuna              v Real Oviedo              3-2 (1-1)
-    21:00  Real Betis Balompié     v Villarreal CF            2-0 (0-0)
-  Sun Jan 18
-    14:00  Getafe CF               v Valencia CF              0-1 (0-0)
-    16:15  Club Atlético de Madrid v Deportivo Alavés         1-0 (0-0)
-    18:30  RC Celta de Vigo        v Rayo Vallecano de Madrid  3-0 (1-0)
-    21:00  Real Sociedad de Fútbol v FC Barcelona             2-1 (1-0)
-  Mon Jan 19
-    21:00  Elche CF                v Sevilla FC               2-2 (1-0)
-
-
-▪ Matchday 21
-  Fri Jan 23
-    21:00  Levante UD              v Elche CF                 3-2 (0-1)
-  Sat Jan 24
-    14:00  Rayo Vallecano de Madrid v CA Osasuna               1-3 (0-1)
-    16:15  Valencia CF             v RCD Espanyol de Barcelona  3-2 (1-0)
-    18:30  Sevilla FC              v Athletic Club            2-1 (1-1)
-    21:00  Villarreal CF           v Real Madrid CF           0-2 (0-0)
-  Sun Jan 25
-    14:00  Club Atlético de Madrid v RCD Mallorca             3-0 (1-0)
-    16:15  FC Barcelona            v Real Oviedo              3-0 (0-0)
-    18:30  Real Sociedad de Fútbol v RC Celta de Vigo         3-1 (1-0)
-    21:00  Deportivo Alavés        v Real Betis Balompié      2-1 (1-0)
-  Mon Jan 26
-    21:00  Girona FC               v Getafe CF                1-1 (0-0)
-
-
-▪ Matchday 22
-  Fri Jan 30
-    21:00  RCD Espanyol de Barcelona v Deportivo Alavés         1-2 (1-1)
-  Sat Jan 31
-    14:00  Real Oviedo             v Girona FC                1-0 (0-0)
-    16:15  CA Osasuna              v Villarreal CF            2-2 (2-1)
-    18:30  Levante UD              v Club Atlético de Madrid  0-0
-    21:00  Elche CF                v FC Barcelona             1-3 (1-2)
-  Sun Feb 1
-    14:00  Real Madrid CF          v Rayo Vallecano de Madrid  2-1 (1-0)
-    16:15  Real Betis Balompié     v Valencia CF              2-1 (1-1)
-    18:30  Getafe CF               v RC Celta de Vigo         0-0
-    21:00  Athletic Club           v Real Sociedad de Fútbol  1-1 (0-1)
-  Mon Feb 2
-    21:00  RCD Mallorca            v Sevilla FC               4-1 (1-1)
-
-
-▪ Matchday 23
-  Fri Feb 6
-    21:00  RC Celta de Vigo        v CA Osasuna               1-2 (0-1)
-  Sat Feb 7
-    16:15  FC Barcelona            v RCD Mallorca             3-0 (1-0)
-    21:00  Real Sociedad de Fútbol v Elche CF                 3-1 (2-1)
-  Sun Feb 8
-    14:00  Deportivo Alavés        v Getafe CF                0-2 (0-0)
-    16:15  Athletic Club           v Levante UD               4-2 (2-0)
-           Sevilla FC              v Girona FC                1-1 (0-1)
-    18:30  Club Atlético de Madrid v Real Betis Balompié      0-1 (0-1)
-    21:00  Valencia CF             v Real Madrid CF           0-2 (0-0)
-  Mon Feb 9
-    21:00  Villarreal CF           v RCD Espanyol de Barcelona  4-1 (2-0)
-
-
-▪ Matchday 24
-  Fri Feb 13
-    21:00  Elche CF                v CA Osasuna               0-0
-  Sat Feb 14
-    14:00  RCD Espanyol de Barcelona v RC Celta de Vigo         2-2 (0-1)
-    16:15  Getafe CF               v Villarreal CF            2-1 (1-0)
-    18:30  Sevilla FC              v Deportivo Alavés         1-1 (1-0)
-    21:00  Real Madrid CF          v Real Sociedad de Fútbol  4-1 (3-1)
-  Sun Feb 15
-    14:00  Real Oviedo             v Athletic Club            1-2 (1-0)
-    16:15  Rayo Vallecano de Madrid v Club Atlético de Madrid  3-0 (2-0)
-    18:30  Levante UD              v Valencia CF              0-2 (0-0)
-    21:00  RCD Mallorca            v Real Betis Balompié      1-2 (0-2)
-  Mon Feb 16
-    21:00  Girona FC               v FC Barcelona             2-1 (0-0)
-
-
-▪ Matchday 16
-  Wed Feb 18
-    20:00  Levante UD              v Villarreal CF            0-1 (0-0)
-
-
-▪ Matchday 25
-  Fri Feb 20
-    21:00  Athletic Club           v Elche CF                 2-1 (0-0)
-  Sat Feb 21
-    14:00  Real Sociedad de Fútbol v Real Oviedo              3-3 (0-0)
-    16:15  Real Betis Balompié     v Rayo Vallecano de Madrid  1-1 (1-1)
-    18:30  CA Osasuna              v Real Madrid CF           2-1 (1-0)
-    21:00  Club Atlético de Madrid v RCD Espanyol de Barcelona  4-2 (1-1)
-  Sun Feb 22
-    14:00  Getafe CF               v Sevilla FC               0-1 (0-0)
-    16:15  FC Barcelona            v Levante UD               3-0 (2-0)
-    18:30  RC Celta de Vigo        v RCD Mallorca             2-0 (0-0)
-    21:00  Villarreal CF           v Valencia CF              2-1 (2-1)
-  Mon Feb 23
-    21:00  Deportivo Alavés        v Girona FC                2-2 (1-1)
-
-
-▪ Matchday 26
-  Fri Feb 27
-    21:00  Levante UD              v Deportivo Alavés         2-0 (0-0)
-  Sat Feb 28
-    14:00  Rayo Vallecano de Madrid v Athletic Club            1-1 (1-0)
-    16:15  FC Barcelona            v Villarreal CF            4-1 (2-0)
-    18:30  RCD Mallorca            v Real Sociedad de Fútbol  0-1 (0-1)
-    21:00  Real Oviedo             v Club Atlético de Madrid  0-1 (0-0)
-  Sun Mar 1
-    14:00  Elche CF                v RCD Espanyol de Barcelona  2-2 (1-1)
-    16:15  Valencia CF             v CA Osasuna               1-0 (0-0)
-    18:30  Real Betis Balompié     v Sevilla FC               2-2 (2-0)
-    21:00  Girona FC               v RC Celta de Vigo         1-2 (1-0)
-  Mon Mar 2
-    21:00  Real Madrid CF          v Getafe CF                0-1 (0-1)
-
-
-▪ Matchday 23
-  Wed Mar 4
-    19:00  Rayo Vallecano de Madrid v Real Oviedo              3-0 (1-0)
-
-
-▪ Matchday 27
-  Fri Mar 6
-    21:00  RC Celta de Vigo        v Real Madrid CF           1-2 (1-1)
-  Sat Mar 7
-    14:00  CA Osasuna              v RCD Mallorca             2-2 (0-1)
-    16:15  Levante UD              v Girona FC                1-1 (0-0)
-    18:30  Club Atlético de Madrid v Real Sociedad de Fútbol  3-2 (1-1)
-    21:00  Athletic Club           v FC Barcelona             0-1 (0-0)
-  Sun Mar 8
-    14:00  Villarreal CF           v Elche CF                 2-1 (2-0)
-    16:15  Getafe CF               v Real Betis Balompié      2-0 (2-0)
-    18:30  Sevilla FC              v Rayo Vallecano de Madrid  1-1 (1-0)
-    21:00  Valencia CF             v Deportivo Alavés         3-2 (0-1)
-  Mon Mar 9
-    21:00  RCD Espanyol de Barcelona v Real Oviedo              1-1 (1-1)
-
-
-▪ Matchday 28
-  Fri Mar 13
-    21:00  Deportivo Alavés        v Villarreal CF            1-1 (1-0)
-  Sat Mar 14
-    14:00  Girona FC               v Athletic Club            3-0 (1-0)
-    16:15  Club Atlético de Madrid v Getafe CF                1-0 (1-0)
-    18:30  Real Oviedo             v Valencia CF              1-0 (1-0)
-    21:00  Real Madrid CF          v Elche CF                 4-1 (2-0)
-  Sun Mar 15
-    14:00  RCD Mallorca            v RCD Espanyol de Barcelona  2-1 (0-1)
-    16:15  FC Barcelona            v Sevilla FC               5-2 (3-1)
-    18:30  Real Betis Balompié     v RC Celta de Vigo         1-1 (0-1)
-    21:00  Real Sociedad de Fútbol v CA Osasuna               3-1 (2-0)
-  Mon Mar 16
-    21:00  Rayo Vallecano de Madrid v Levante UD               1-1 (0-1)
-
-
-▪ Matchday 29
-  Fri Mar 20
-    21:00  Villarreal CF           v Real Sociedad de Fútbol  3-1 (3-0)
-  Sat Mar 21
-    14:00  Elche CF                v RCD Mallorca             2-1 (0-0)
-    16:15  RCD Espanyol de Barcelona v Getafe CF                1-2 (0-2)
-    18:30  Levante UD              v Real Oviedo              4-2 (2-2)
-           CA Osasuna              v Girona FC                1-0 (0-0)
-    21:00  Sevilla FC              v Valencia CF              0-2 (0-2)
-  Sun Mar 22
-    14:00  FC Barcelona            v Rayo Vallecano de Madrid  1-0 (1-0)
-    16:15  RC Celta de Vigo        v Deportivo Alavés         3-4 (3-1)
-    18:30  Athletic Club           v Real Betis Balompié      2-1 (2-0)
-    21:00  Real Madrid CF          v Club Atlético de Madrid  3-2 (0-1)
-
-
-▪ Matchday 30
-  Fri Apr 3
-    21:00  Rayo Vallecano de Madrid v Elche CF                 1-0 (0-0)
-  Sat Apr 4
-    14:00  Real Sociedad de Fútbol v Levante UD               2-0 (1-0)
-    16:15  RCD Mallorca            v Real Madrid CF           2-1 (1-0)
-    18:30  Real Betis Balompié     v RCD Espanyol de Barcelona  0-0
-    21:00  Club Atlético de Madrid v FC Barcelona             1-2 (1-1)
-  Sun Apr 5
-    14:00  Getafe CF               v Athletic Club            2-0 (1-0)
-    16:15  Valencia CF             v RC Celta de Vigo         2-3 (1-0)
-    18:30  Real Oviedo             v Sevilla FC               1-0 (1-0)
-    21:00  Deportivo Alavés        v CA Osasuna               2-2 (1-1)
-  Mon Apr 6
-    21:00  Girona FC               v Villarreal CF            1-0 (1-0)
-
-
-▪ Matchday 31
-  Fri Apr 10
-    21:00  Real Madrid CF          v Girona FC                1-1 (0-0)
-  Sat Apr 11
-    14:00  Real Sociedad de Fútbol v Deportivo Alavés         3-3 (2-2)
-    16:15  Elche CF                v Valencia CF              1-0 (0-0)
-    18:30  FC Barcelona            v RCD Espanyol de Barcelona  4-1 (2-0)
-    21:00  Sevilla FC              v Club Atlético de Madrid  2-1 (2-1)
-  Sun Apr 12
-    14:00  CA Osasuna              v Real Betis Balompié      1-1 (1-1)
-    16:15  RCD Mallorca            v Rayo Vallecano de Madrid  3-0 (2-0)
-    18:30  RC Celta de Vigo        v Real Oviedo              0-3 (0-2)
-    21:00  Athletic Club           v Villarreal CF            1-2 (0-2)
-  Mon Apr 13
-    21:00  Levante UD              v Getafe CF                1-0 (0-0)
-
-
-▪ Matchday 33
-  Tue Apr 21
-    19:00  Athletic Club           v CA Osasuna               1-0 (1-0)
-           RCD Mallorca            v Valencia CF              1-1 (0-0)
-    21:30  Real Madrid CF          v Deportivo Alavés         2-1 (1-0)
-           Girona FC               v Real Betis Balompié      2-3 (1-1)
-  Wed Apr 22
-    19:00  Elche CF                v Club Atlético de Madrid  3-2 (2-2)
-    20:00  Real Sociedad de Fútbol v Getafe CF                0-1 (0-1)
-    21:30  FC Barcelona            v RC Celta de Vigo         1-0 (1-0)
-  Thu Apr 23
-    19:00  Levante UD              v Sevilla FC               2-0 (1-0)
-    20:00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona  1-0 (0-0)
-    21:30  Real Oviedo             v Villarreal CF            1-1 (0-1)
-
-
-▪ Matchday 32
-  Fri Apr 24
-    21:00  Real Betis Balompié     v Real Madrid CF           1-1 (0-1)
-  Sat Apr 25
-    14:00  Deportivo Alavés        v RCD Mallorca             2-1 (0-1)
-    16:15  Getafe CF               v FC Barcelona             0-2 (0-1)
-    18:30  Valencia CF             v Girona FC                2-1 (0-0)
-    21:00  Club Atlético de Madrid v Athletic Club            3-2 (0-1)
-  Sun Apr 26
-    14:00  Rayo Vallecano de Madrid v Real Sociedad de Fútbol  3-3 (1-1)
-    16:15  Real Oviedo             v Elche CF                 1-2 (0-2)
-    18:30  CA Osasuna              v Sevilla FC               2-1 (0-0)
-    21:00  Villarreal CF           v RC Celta de Vigo         2-1 (2-0)
-  Mon Apr 27
-    21:00  RCD Espanyol de Barcelona v Levante UD               0-0
-
-
-▪ Matchday 34
-  Fri May 1
-    21:00  Girona FC               v RCD Mallorca             0-1 (0-1)
-  Sat May 2
-    14:00  Villarreal CF           v Levante UD               5-1 (1-0)
-    16:15  Valencia CF             v Club Atlético de Madrid  0-2 (0-0)
-    18:30  Deportivo Alavés        v Athletic Club            2-4 (1-0)
-    21:00  CA Osasuna              v FC Barcelona             1-2 (0-0)
-  Sun May 3
-    14:00  RC Celta de Vigo        v Elche CF                 3-1 (2-0)
-    16:15  Getafe CF               v Rayo Vallecano de Madrid  0-2 (0-1)
-    18:30  Real Betis Balompié     v Real Oviedo              3-0 (2-0)
-    21:00  RCD Espanyol de Barcelona v Real Madrid CF           0-2 (0-0)
-  Mon May 4
-    21:00  Sevilla FC              v Real Sociedad de Fútbol  1-0 (0-0)
-
-
-▪ Matchday 35
-  Fri May 8
-    21:00  Levante UD              v CA Osasuna               3-2 (2-2)
-  Sat May 9
-    14:00  Elche CF                v Deportivo Alavés         1-1 (0-0)
-    16:15  Sevilla FC              v RCD Espanyol de Barcelona  2-1 (0-0)
-    18:30  Club Atlético de Madrid v RC Celta de Vigo         0-1 (0-0)
-    21:00  Real Sociedad de Fútbol v Real Betis Balompié      2-2 (0-1)
-  Sun May 10
-    14:00  RCD Mallorca            v Villarreal CF            1-1 (1-1)
-    16:15  Athletic Club           v Valencia CF              0-1 (0-0)
-    18:30  Real Oviedo             v Getafe CF                0-0
-    21:00  FC Barcelona            v Real Madrid CF           2-0 (2-0)
-  Mon May 11
-    21:00  Rayo Vallecano de Madrid v Girona FC                1-1 (0-0)
-
-
-▪ Matchday 36
-  Tue May 12
-    19:00  RC Celta de Vigo        v Levante UD               2-3 (1-1)
-    20:00  Real Betis Balompié     v Elche CF                 2-1 (1-1)
-    21:30  CA Osasuna              v Club Atlético de Madrid  1-2 (0-1)
-  Wed May 13
-    19:00  RCD Espanyol de Barcelona v Athletic Club            2-0 (0-0)
-           Villarreal CF           v Sevilla FC               2-3 (2-2)
-    21:30  Deportivo Alavés        v FC Barcelona             1-0 (1-0)
-           Getafe CF               v RCD Mallorca             3-1 (2-0)
-  Thu May 14
-    19:00  Valencia CF             v Rayo Vallecano de Madrid  1-1 (1-1)
-    20:00  Girona FC               v Real Sociedad de Fútbol  1-1 (0-1)
-    21:30  Real Madrid CF          v Real Oviedo              2-0 (1-0)
-
-
-▪ Matchday 37
-  Sun May 17
-    19:00  Athletic Club           v RC Celta de Vigo         1-1 (0-1)
-           Club Atlético de Madrid v Girona FC                1-0 (1-0)
-           Elche CF                v Getafe CF                1-0 (1-0)
-           Levante UD              v RCD Mallorca             2-0 (1-0)
-           Rayo Vallecano de Madrid v Villarreal CF            2-0 (1-0)
-           Real Sociedad de Fútbol v Valencia CF              3-4 (1-2)
-           Real Oviedo             v Deportivo Alavés         0-1 (0-1)
-           CA Osasuna              v RCD Espanyol de Barcelona  1-2 (0-1)
-           Sevilla FC              v Real Madrid CF           0-1 (0-1)
-    21:15  FC Barcelona            v Real Betis Balompié      3-1 (1-0)
-
-
-▪ Matchday 38
-  Sat May 23
-    21:00  Deportivo Alavés        v Rayo Vallecano de Madrid  1-2 (1-0)
-           Real Betis Balompié     v Levante UD               2-1 (1-1)
-           RC Celta de Vigo        v Sevilla FC               1-0 (0-0)
-           RCD Espanyol de Barcelona v Real Sociedad de Fútbol  1-1 (0-1)
-           Getafe CF               v CA Osasuna               1-0 (0-0)
-           RCD Mallorca            v Real Oviedo              3-0 (1-0)
-           Real Madrid CF          v Athletic Club            4-2 (2-1)
-           Valencia CF             v FC Barcelona             3-1 (0-0)
-           Girona FC               v Elche CF                 1-1 (0-1)
-  Sun May 24
-    21:00  Villarreal CF           v Club Atlético de Madrid  5-1 (4-1)
+= Spain | Primera División 2025/26
+
+# Dates    Fri Aug 15 2025 - Sun May 24 2026 (282d)
+# Teams    20
+# Matches  380
+
+
+▪ Regular Season - 1
+Fri Aug 15 2025
+  19:00   Girona FC  1-3 (0-3)  Rayo Vallecano   
+                  (Joel Roca 57';
+                   Jorge DE FRUTOS 18', Álvaro García 20', Isi Palazón 45'(p))
+  21:30   Villarreal  2-0 (2-0)  Real Oviedo   
+                  (Karl Etta Eyong 29', Pape GUEYE 36')
+Sat Aug 16
+  19:30   RCD Mallorca  0-3 (0-2)  Barcelona   
+                  (RAPHINHA 7', Ferran TORRES 23', Lamine YAMAL 90+4')
+  21:30   Deportivo Alavés  2-1 (1-0)  Levante UD   
+                  (Toni MARTINEZ 36', Nahuel Tenaglia 90+2';
+                   Jeremy TOLJAN 68')
+  21:30   Valencia CF  1-1 (0-0)  Real Sociedad   
+                  (Diego LOPEZ 57'; Takefusa KUBO 60')
+Sun Aug 17
+  17:00   RC Celta  0-2 (0-0)  Getafe CF   
+                  (Adrián Liso 47', Christantus Uche 72')
+  19:30   Athletic Club  3-2 (2-0)  Sevilla   
+                  (Nico WILLIAMS 36'(p), Maroan Sannadi 43', Roberto NAVARRO 81';
+                   Dodi LUKEBAKIO 60', Lucien AGOUME 72')
+  21:30   RCD Espanyol  2-1 (0-1)  Atlético de Madrid   
+                  (Miguel Rubio 73', Pere Milla 84';
+                   Julian ALVAREZ 37')
+Mon Aug 18
+  21:00   Elche CF  1-1 (0-1)  Real Betis   
+                  (German VALERA 81'; Aitor Ruibal 21')
+Tue Aug 19
+  21:00   Real Madrid C.F.  1-0 (0-0)  CA Osasuna   
+                  (Kylian MBAPPE 51'(p))
+
+▪ Regular Season - 2
+Fri Aug 22
+  21:30   Real Betis  1-0 (1-0)  Deportivo Alavés   
+                  (Giovani Lo Celso 16')
+Sat Aug 23
+  17:00   RCD Mallorca  1-1 (0-1)  RC Celta   
+                  (MATEU JAUME 87'; Javier RUEDA 38')
+  19:30   Atlético de Madrid  1-1 (1-1)  Elche CF   
+                  (Alexander SORLOTH 8'; Rafa MIR 15')
+  21:30   Levante UD  2-3 (2-0)  Barcelona   
+                  (Iván Romero 15', José Luis Morales 45+7'(p);
+                   PEDRI 49', Ferran TORRES 52', Unai Elgezabal 90+1'(og))
+Sun Aug 24
+  17:00   CA Osasuna  1-0 (1-0)  Valencia CF   
+                  (Ante BUDIMIR 9')
+  19:30   Villarreal  5-0 (4-0)  Girona FC   
+                  (Nicolas PEPE 7', Tajon BUCHANAN 16', 28', 64', Rafa MARIN 25')
+  19:30   Real Sociedad  2-2 (0-2)  RCD Espanyol   
+                  (Ander Barrenetxea Muguruza 61', Orri OSKARSSON 69';
+                   Pere Milla 10', Javier PUADO 45+1'(p))
+  21:30   Real Oviedo  0-3 (0-1)  Real Madrid C.F.   
+                  (Kylian MBAPPE 37', 83', VINICIUS JUNIOR 90+3')
+Mon Aug 25
+  19:30   Athletic Club  1-0 (0-0)  Rayo Vallecano   
+                  (Oihan SANCET 66'(p))
+  21:30   Sevilla  1-2 (1-1)  Getafe CF   
+                  (Juan Iglesias 45'(og);
+                   Adrián Liso 15', 51')
+
+▪ Regular Season - 6
+Wed Aug 27
+  21:00   RC Celta  1-1 (0-1)  Real Betis   
+                  (Hugo Álvarez 47'; Marc BARTRA 45')
+
+▪ Regular Season - 3
+Fri Aug 29
+  19:30   Elche CF  2-0 (0-0)  Levante UD   
+                  (Rafa MIR 46', Rodrigo Mendoza 51')
+  21:30   Valencia CF  3-0 (1-0)  Getafe CF   
+                  (Mouctar DIAKHABY 30', Arnaut Danjuma 54', Hugo Duro 90+7')
+Sat Aug 30
+  17:00   Deportivo Alavés  1-1 (1-1)  Atlético de Madrid   
+                  (Carlos Vicente 14'(p); Giuliano SIMEONE 7')
+  19:00   Real Oviedo  1-0 (1-0)  Real Sociedad   
+                  (Leander DENDONCKER 40')
+  19:30   Girona FC  0-2 (0-1)  Sevilla   
+                  (Alfon González 30', Isaac Romero 55')
+  21:30   Real Madrid C.F.  2-1 (2-1)  RCD Mallorca   
+                  (Arda GULER 37', VINICIUS JUNIOR 38';
+                   Vedat Muriqi 18')
+Sun Aug 31
+  17:00   RC Celta  1-1 (0-0)  Villarreal   
+                  (Borja IGLESIAS 90+4'; Nicolas PEPE 53')
+  19:00   Real Betis  1-2 (0-0)  Athletic Club   
+                  (Cedric BAKAMBU 90+7';
+                   Marc BARTRA 60'(og), Aitor PAREDES 85')
+  19:30   RCD Espanyol  1-0 (0-0)  CA Osasuna   
+                  (Carlos ROMERO 52')
+  21:30   Rayo Vallecano  1-1 (0-1)  Barcelona   
+                  (Fran PEREZ 67'; Lamine YAMAL 40'(p))
+
+▪ Regular Season - 4
+Fri Sep 12
+  21:00   Sevilla  2-2 (1-0)  Elche CF   
+                  (Isaac Romero 28', Peque Fernández 85';
+                   ANDRE SILVA 54', Rafa MIR 70')
+Sat Sep 13
+  14:00   Getafe CF  2-0 (2-0)  Real Oviedo   
+                  (Mario Martín 45+4', Borja MAYORAL 45+9')
+  16:15   Real Sociedad  1-2 (0-2)  Real Madrid C.F.   
+                  (Mikel OYARZABAL 56'(p);
+                   Kylian MBAPPE 12', Arda GULER 44')
+  18:30   Athletic Club  0-1 (0-0)  Deportivo Alavés   
+                  (Alex Berenguer 57'(og))
+  21:00   Atlético de Madrid  2-0 (1-0)  Villarreal   
+                  (Pablo BARRIOS 9', Nico GONZALEZ 52')
+Sun Sep 14
+  14:00   RC Celta  1-1 (0-1)  Girona FC   
+                  (Borja IGLESIAS 90+2'(p); Vladyslav VANAT 12')
+  16:15   Levante UD  2-2 (2-1)  Real Betis   
+                  (Iván Romero 2', Karl Etta Eyong 10';
+                   Cucho HERNANDEZ 45+2', Pablo FORNALS 81')
+  18:30   CA Osasuna  2-0 (1-0)  Rayo Vallecano   
+                  (Raul GARCIA 15', Iker BENITO 77')
+  21:00   Barcelona  6-0 (1-0)  Valencia CF   
+                  (Fermin LOPEZ 29', 56', RAPHINHA 53', 66', Robert LEWANDOWSKI 76', 86')
+Mon Sep 15
+  21:00   RCD Espanyol  3-2 (2-1)  RCD Mallorca   
+                  (Pere Milla 20', Roberto Fernández 34', KIKE 81'(p);
+                   Vedat Muriqi 45'(p), 65')
+
+▪ Regular Season - 5
+Fri Sep 19
+  21:00   Real Betis  3-1 (1-1)  Real Sociedad   
+                  (Cucho HERNANDEZ 7', Alex REMIRO 49'(og), Pablo FORNALS 69';
+                   Brais MENDEZ 13')
+Sat Sep 20
+  14:00   Girona FC  0-4 (0-1)  Levante UD   
+                  (Karl Etta Eyong 43', Carlos ALVAREZ 49', Iván Romero 70', Goduine KOYALIPOU 90+2')
+  16:15   Real Madrid C.F.  2-0 (1-0)  RCD Espanyol   
+                  (EDER MILITAO 22', Kylian MBAPPE 47')
+  18:30   Villarreal  2-1 (0-1)  CA Osasuna   
+                  (Georges MIKAUTADZE 69', Pape GUEYE 85';
+                   Ante BUDIMIR 45+6'(p))
+  18:30   Deportivo Alavés  1-2 (1-1)  Sevilla   
+                  (Carlos Vicente 17'(p);
+                   Ruben VARGAS 10', Alexis SANCHEZ 67')
+  21:00   Valencia CF  2-0 (0-0)  Athletic Club   
+                  (Baptiste Santamaría 73', Hugo Duro 90+3')
+Sun Sep 21
+  14:00   Rayo Vallecano  1-1 (0-0)  RC Celta   
+                  (Jorge DE FRUTOS 65'; Borja IGLESIAS 49')
+  16:15   RCD Mallorca  1-1 (0-0)  Atlético de Madrid   
+                  (Vedat Muriqi 85'; Conor GALLAGHER 79')
+  18:30   Elche CF  1-0 (1-0)  Real Oviedo   
+                  (ANDRE SILVA 9')
+  21:00   Barcelona  3-0 (2-0)  Getafe CF   
+                  (Ferran TORRES 15', 34', Dani OLMO 62')
+
+▪ Regular Season - 6
+Tue Sep 23
+  19:00   RCD Espanyol  2-2 (0-1)  Valencia CF   
+                  (Leandro CABRERA 59', Javier PUADO 90+6';
+                   Arnaut Danjuma 15', Hugo Duro 62')
+  19:00   Athletic Club  1-1 (0-1)  Girona FC   
+                  (Mikel Jauregizar 48'; Azzedine OUNAHI 9')
+  21:30   Levante UD  1-4 (0-2)  Real Madrid C.F.   
+                  (Karl Etta Eyong 54';
+                   VINICIUS JUNIOR 28', Franco MASTANTUONO 38', Kylian MBAPPE 64'(p), 66')
+  21:30   Sevilla  1-2 (0-1)  Villarreal   
+                  (Djibril SOW 51';
+                   Tani OLUWASEYI 17', Manor Solomon 86')
+Wed Sep 24
+  19:00   Getafe CF  1-1 (0-0)  Deportivo Alavés   
+                  (Mauro ARAMBARRI 63'; Ander Guevara Lajo 71')
+  21:30   Atlético de Madrid  3-2 (1-1)  Rayo Vallecano   
+                  (Julian ALVAREZ 15', 80', 88';
+                   Pep Chavarría 45+1', Álvaro García 77')
+  21:30   Real Sociedad  1-0 (0-0)  RCD Mallorca   
+                  (Mikel OYARZABAL 49')
+Thu Sep 25
+  19:30   CA Osasuna  1-1 (1-0)  Elche CF   
+                  (Victor MUNOZ 10'; Adrià Giner Pedrosa 90+2')
+  21:30   Real Oviedo  1-3 (1-0)  Barcelona   
+                  (Alberto Reina 33';
+                   Eric GARCIA 56', Robert LEWANDOWSKI 70', Ronald ARAUJO 88')
+
+▪ Regular Season - 7
+Fri Sep 26
+  21:00   Girona FC  0-0 (0-0)  RCD Espanyol   
+Sat Sep 27
+  14:00   Getafe CF  1-1 (0-1)  Levante UD   
+                  (Juan Iglesias 57'; Iván Romero 26')
+  16:15   Atlético de Madrid  5-2 (2-2)  Real Madrid C.F.   
+                  (Robin LE NORMAND 14', Alexander SORLOTH 45+3', Julian ALVAREZ 51'(p), 63', Antoine GRIEZMANN 90+3';
+                   Kylian MBAPPE 25', Arda GULER 36')
+  18:30   RCD Mallorca  1-0 (1-0)  Deportivo Alavés   
+                  (Takuma ASANO 37')
+  21:00   Villarreal  1-0 (0-0)  Athletic Club   
+                  (Alberto MOLEIRO 77')
+Sun Sep 28
+  14:00   Rayo Vallecano  0-1 (0-0)  Sevilla   
+                  (Akor ADAMS 87')
+  16:15   Elche CF  2-1 (1-1)  RC Celta   
+                  (ANDRE SILVA 18', John Donald 68';
+                   Borja IGLESIAS 22')
+  18:30   Barcelona  2-1 (1-1)  Real Sociedad   
+                  (Jules KOUNDE 43', Robert LEWANDOWSKI 59';
+                   Alvaro ODRIOZOLA 31')
+  21:00   Real Betis  2-0 (2-0)  CA Osasuna   
+                  (Abde EZZALZOULI 19', Cucho HERNANDEZ 38')
+Tue Sep 30
+  20:00   Valencia CF  1-2 (1-0)  Real Oviedo   
+                  (Arnaut Danjuma 4';
+                   Luka Ilic 85', Salomon RONDON 86')
+
+▪ Regular Season - 8
+Fri Oct 3
+  21:00   CA Osasuna  2-1 (1-1)  Getafe CF   
+                  (Abel Bretones 45+3', Alejandro Catena 90';
+                   Borja MAYORAL 23')
+Sat Oct 4
+  14:00   Real Oviedo  0-2 (0-1)  Levante UD   
+                  (Carlos ALVAREZ 30', Karl Etta Eyong 72')
+  16:15   Girona FC  2-1 (1-0)  Valencia CF   
+                  (Vladyslav VANAT 18', Arnau MARTINEZ 63';
+                   Diego LOPEZ 57')
+  18:30   Athletic Club  2-1 (1-0)  RCD Mallorca   
+                  (Inaki WILLIAMS 9'(p), Alejandro Rego 82';
+                   SAMU COSTA 77')
+  21:00   Real Madrid C.F.  3-1 (0-0)  Villarreal   
+                  (VINICIUS JUNIOR 47', 69'(p), Kylian MBAPPE 81';
+                   Georges MIKAUTADZE 73')
+Sun Oct 5
+  14:00   Deportivo Alavés  3-1 (0-0)  Elche CF   
+                  (Carlos Vicente 76'(p), Toni MARTINEZ 81', Lucas BOYE 90+5';
+                   ANDRE SILVA 90+3')
+  16:15   Sevilla  4-1 (2-1)  Barcelona   
+                  (Alexis SANCHEZ 13'(p), Isaac Romero 37', Jose Angel CARMONA 90', Akor ADAMS 90+6';
+                   Marcus RASHFORD 45+7')
+  18:30   Real Sociedad  0-1 (0-0)  Rayo Vallecano   
+                  (Pacha Espino 84')
+  18:30   RCD Espanyol  1-2 (1-0)  Real Betis   
+                  (Pol Lozano 15';
+                   Cucho HERNANDEZ 54', Abde EZZALZOULI 63')
+  21:00   RC Celta  1-1 (0-1)  Atlético de Madrid   
+                  (Iago ASPAS 68'; Carl STARFELT 6'(og))
+
+▪ Regular Season - 9
+Fri Oct 17
+  21:00   Real Oviedo  0-2 (0-0)  RCD Espanyol   
+                  (KIKE 70', Pere Milla 82')
+Sat Oct 18
+  14:00   Sevilla  1-3 (1-0)  RCD Mallorca   
+                  (Ruben VARGAS 16';
+                   Vedat Muriqi 67', Mateo JOSEPH 72', 77')
+  16:15   Barcelona  2-1 (1-1)  Girona FC   
+                  (PEDRI 13', Ronald ARAUJO 90+3';
+                   Axel WITSEL 20')
+  18:30   Villarreal  2-2 (1-0)  Real Betis   
+                  (Tajon BUCHANAN 44', Alberto MOLEIRO 64';
+                   ANTONY 66', 90+4')
+  21:00   Atlético de Madrid  1-0 (0-0)  CA Osasuna   
+                  (Thiago ALMADA 69')
+Sun Oct 19
+  14:00   Elche CF  0-0 (0-0)  Athletic Club   
+  16:15   RC Celta  1-1 (1-0)  Real Sociedad   
+                  (Pablo Durán 20'; Carlos SOLER 89')
+  18:30   Levante UD  0-3 (0-2)  Rayo Vallecano   
+                  (Jorge DE FRUTOS 12', 25', Álvaro García 65')
+  21:00   Getafe CF  0-1 (0-0)  Real Madrid C.F.   
+                  (Kylian MBAPPE 80')
+Mon Oct 20
+  21:00   Deportivo Alavés  0-0 (0-0)  Valencia CF   
+
+▪ Regular Season - 10
+Fri Oct 24
+  21:00   Real Sociedad  2-1 (2-1)  Sevilla   
+                  (Mikel OYARZABAL 19'(p), 36';
+                   Nemanja GUDELJ 30')
+Sat Oct 25
+  14:00   Girona FC  3-3 (0-1)  Real Oviedo   
+                  (Cristhian STUANI 64'(p), 90'(p), Azzedine OUNAHI 83';
+                   Federico VINAS 38'(p), Salomon RONDON 57', DAVID CARMO 90+7')
+  16:15   RCD Espanyol  1-0 (0-0)  Elche CF   
+                  (Carlos ROMERO 47')
+  18:30   Athletic Club  0-1 (0-0)  Getafe CF   
+                  (Borja MAYORAL 75')
+  21:00   Valencia CF  0-2 (0-1)  Villarreal   
+                  (Gerard Moreno 45'(p), Santi Comesaña 57')
+Sun Oct 26
+  14:00   RCD Mallorca  1-1 (0-1)  Levante UD   
+                  (Pablo Carmine Maffeo Becerra 79'; Karl Etta Eyong 22')
+  16:15   Real Madrid C.F.  2-1 (2-1)  Barcelona   
+                  (Kylian MBAPPE 22', Jude BELLINGHAM 43';
+                   Fermin LOPEZ 38')
+  18:30   CA Osasuna  2-3 (2-1)  RC Celta   
+                  (Ante BUDIMIR 37'(p), 45+1';
+                   Ferran Jutglà 26', 69', Pablo Durán 87')
+  21:00   Rayo Vallecano  1-0 (0-0)  Deportivo Alavés   
+                  (Alemão 90+1')
+Mon Oct 27
+  21:00   Real Betis  0-2 (0-2)  Atlético de Madrid   
+                  (Giuliano SIMEONE 3', Alex BAENA 45+1')
+
+▪ Regular Season - 11
+Fri Oct 31
+  21:00   Getafe CF  2-1 (0-0)  Girona FC   
+                  (Mario Martín 72', Borja MAYORAL 86';
+                   Cristhian STUANI 90+4'(p))
+Sat Nov 1
+  14:00   Villarreal  4-0 (1-0)  Rayo Vallecano   
+                  (Gerard Moreno 22', Alberto MOLEIRO 56', Santi Comesaña 58', Ayoze PEREZ 65')
+  16:15   Atlético de Madrid  3-0 (0-0)  Sevilla   
+                  (Julian ALVAREZ 64'(p), Thiago ALMADA 77', Antoine GRIEZMANN 90')
+  18:30   Real Sociedad  3-2 (1-1)  Athletic Club   
+                  (Brais MENDEZ 38', GONCALO GUEDES 47', Jon Gorrotxategi 90+2';
+                   Gorka Guruzeta 42', Roberto NAVARRO 79')
+  21:00   Real Madrid C.F.  4-0 (3-0)  Valencia CF   
+                  (Kylian MBAPPE 19'(p), 31', Jude BELLINGHAM 44', Alvaro FERNANDEZ 82')
+Sun Nov 2
+  14:00   Levante UD  1-2 (0-1)  RC Celta   
+                  (Kervin ARRIAGA 66';
+                   Oscar MINGUEZA 40', Miguel Román 90+1')
+  16:15   Deportivo Alavés  2-1 (2-0)  RCD Espanyol   
+                  (Denis SUAREZ 5', Lucas BOYE 40';
+                   Roberto Fernández 56')
+  18:30   Barcelona  3-1 (2-1)  Elche CF   
+                  (Lamine YAMAL 9', Ferran TORRES 11', Marcus RASHFORD 61';
+                   Rafa MIR 42')
+  21:00   Real Betis  3-0 (3-0)  RCD Mallorca   
+                  (ANTONY 10', 34', Abde EZZALZOULI 37')
+Mon Nov 3
+  21:00   Real Oviedo  0-0 (0-0)  CA Osasuna   
+
+▪ Regular Season - 12
+Fri Nov 7
+  21:00   Elche CF  1-1 (0-0)  Real Sociedad   
+                  (Álvaro Rodríguez 57'; Mikel OYARZABAL 89'(p))
+Sat Nov 8
+  14:00   Girona FC  1-0 (1-0)  Deportivo Alavés   
+                  (Viktor TSYHANKOV 16')
+  16:15   Sevilla  1-0 (0-0)  CA Osasuna   
+                  (Ruben VARGAS 51'(p))
+  18:30   Atlético de Madrid  3-1 (1-1)  Levante UD   
+                  (Adrian DE LA FUENTE 12'(og), Antoine GRIEZMANN 61', 80';
+                   Manu SANCHEZ 21')
+  21:00   RCD Espanyol  0-2 (0-1)  Villarreal   
+                  (Gerard Moreno 43', Alberto MOLEIRO 57')
+Sun Nov 9
+  14:00   Athletic Club  1-0 (1-0)  Real Oviedo   
+                  (Nico WILLIAMS 25')
+  16:15   Rayo Vallecano  0-0 (0-0)  Real Madrid C.F.   
+  18:30   Valencia CF  1-1 (0-0)  Real Betis   
+                  (Luis Rioja 82'; Cucho HERNANDEZ 74')
+  18:30   RCD Mallorca  1-0 (1-0)  Getafe CF   
+                  (Vedat Muriqi 14')
+  21:00   RC Celta  2-4 (2-3)  Barcelona   
+                  (Sergio Carreira 11', Borja IGLESIAS 43';
+                   Robert LEWANDOWSKI 10'(p), 37', 73', Lamine YAMAL 45+4')
+
+▪ Regular Season - 13
+Fri Nov 21
+  21:00   Valencia CF  1-0 (0-0)  Levante UD   
+                  (Hugo Duro 79')
+Sat Nov 22
+  14:00   Deportivo Alavés  0-1 (0-0)  RC Celta   
+                  (Iago ASPAS 55'(p))
+  16:15   Barcelona  4-0 (2-0)  Athletic Club   
+                  (Robert LEWANDOWSKI 4', Ferran TORRES 45+3', 90', Fermin LOPEZ 48')
+  18:30   CA Osasuna  1-3 (1-0)  Real Sociedad   
+                  (Alejandro Catena 42';
+                   Brais MENDEZ 53', GONCALO GUEDES 59', Ander Barrenetxea Muguruza 82')
+  21:00   Villarreal  2-1 (1-1)  RCD Mallorca   
+                  (Gerard Moreno 6', Tani OLUWASEYI 83';
+                   SAMU COSTA 8')
+Sun Nov 23
+  14:00   Real Oviedo  0-0 (0-0)  Rayo Vallecano   
+  16:15   Real Betis  1-1 (0-1)  Girona FC   
+                  (Valentin GOMEZ 75'; Vladyslav VANAT 20')
+  18:30   Getafe CF  0-1 (0-0)  Atlético de Madrid   
+                  (DOMINGOS DUARTE 82'(og))
+  21:00   Elche CF  2-2 (0-0)  Real Madrid C.F.   
+                  (Aleix FEBAS 53', Álvaro Rodríguez 84';
+                   Dean HUIJSEN 78', Jude BELLINGHAM 87')
+Mon Nov 24
+  21:00   RCD Espanyol  2-1 (0-0)  Sevilla   
+                  (Pere Milla 48', Roberto Fernández 84';
+                   Leandro CABRERA 86'(og))
+
+▪ Regular Season - 14
+Fri Nov 28
+  21:00   Getafe CF  1-0 (0-0)  Elche CF   
+                  (Mauro ARAMBARRI 56')
+Sat Nov 29
+  14:00   RCD Mallorca  2-2 (0-0)  CA Osasuna   
+                  (Vedat Muriqi 62'(p), 66';
+                   Raul GARCIA 82', Enzo BOYOMO 90+2')
+  16:15   Barcelona  3-1 (2-1)  Deportivo Alavés   
+                  (Lamine YAMAL 8', Dani OLMO 26', 90+3';
+                   Pablo Ibáñez 1')
+  18:30   Levante UD  0-2 (0-2)  Athletic Club   
+                  (Roberto NAVARRO 3', Nico WILLIAMS 44')
+  21:00   Atlético de Madrid  2-0 (2-0)  Real Oviedo   
+                  (Alexander SORLOTH 16', 26')
+Sun Nov 30
+  14:00   Real Sociedad  2-3 (0-1)  Villarreal   
+                  (Carlos SOLER 60', Ander Barrenetxea Muguruza 87';
+                   Ayoze PEREZ 31', Alberto MOLEIRO 57', 90+5')
+  16:15   Sevilla  0-2 (0-0)  Real Betis   
+                  (Pablo FORNALS 54', Sergi ALTIMIRA 68')
+  18:30   RC Celta  0-1 (0-0)  RCD Espanyol   
+                  (KIKE 86')
+  21:00   Girona FC  1-1 (1-0)  Real Madrid C.F.   
+                  (Azzedine OUNAHI 45'; Kylian MBAPPE 67'(p))
+Mon Dec 1
+  21:00   Rayo Vallecano  1-1 (1-0)  Valencia CF   
+                  (Nobel Mendy 37'; Diego LOPEZ 64')
+
+▪ Regular Season - 19
+Tue Dec 2
+  21:00   Barcelona  3-1 (1-1)  Atlético de Madrid   
+                  (RAPHINHA 26', Dani OLMO 65', Ferran TORRES 90+6';
+                   Alex BAENA 19')
+Wed Dec 3
+  19:00   Athletic Club  0-3 (0-2)  Real Madrid C.F.   
+                  (Kylian MBAPPE 7', 59', Eduardo CAMAVINGA 42')
+
+▪ Regular Season - 15
+Fri Dec 5
+  21:00   Real Oviedo  0-0 (0-0)  RCD Mallorca   
+Sat Dec 6
+  14:00   Villarreal  2-0 (1-0)  Getafe CF   
+                  (Tajon BUCHANAN 45+5', Georges MIKAUTADZE 64')
+  16:15   Deportivo Alavés  1-0 (1-0)  Real Sociedad   
+                  (Lucas BOYE 45+4'(p))
+  18:30   Real Betis  3-5 (1-4)  Barcelona   
+                  (ANTONY 6', Diego LLORENTE 85', Cucho HERNANDEZ 90'(p);
+                   Ferran TORRES 11', 13', 40', Roony Bardghji 31', Lamine YAMAL 59'(p))
+  21:00   Athletic Club  1-0 (0-0)  Atlético de Madrid   
+                  (Alex Berenguer 85')
+Sun Dec 7
+  14:00   Elche CF  3-0 (1-0)  Girona FC   
+                  (German VALERA 40', Rafa MIR 51', 57')
+  16:15   Valencia CF  1-1 (0-0)  Sevilla   
+                  (Hugo Duro 90+3'; César Tárrega 58'(og))
+  18:30   RCD Espanyol  1-0 (1-0)  Rayo Vallecano   
+                  (Roberto Fernández 39'(p))
+  21:00   Real Madrid C.F.  0-2 (0-0)  RC Celta   
+                  (Williot Swedberg 53', 90+3')
+Mon Dec 8
+  21:00   CA Osasuna  2-0 (2-0)  Levante UD   
+                  (Victor MUNOZ 13', RUBEN 36')
+
+▪ Regular Season - 16
+Fri Dec 12
+  21:00   Real Sociedad  1-2 (1-0)  Girona FC   
+                  (GONCALO GUEDES 35';
+                   Viktor TSYHANKOV 76', 84')
+Sat Dec 13
+  14:00   Atlético de Madrid  2-1 (1-0)  Valencia CF   
+                  (KOKE 17', Antoine GRIEZMANN 74';
+                   Lucas BELTRAN 63')
+  16:15   RCD Mallorca  3-1 (1-1)  Elche CF   
+                  (Manu Morlanes 5', Omar MASCARELL 82', Vedat Muriqi 89';
+                   Pablo Carmine Maffeo Becerra 21'(og))
+  18:30   Barcelona  2-0 (0-0)  CA Osasuna   
+                  (RAPHINHA 70', 86')
+  21:00   Getafe CF  0-1 (0-0)  RCD Espanyol   
+                  (Leandro CABRERA 53')
+Sun Dec 14
+  14:00   Sevilla  4-0 (2-0)  Real Oviedo   
+                  (Akor ADAMS 4', Djibril SOW 22', Batista MENDY 51', Chidera Ejuke 89')
+  16:15   RC Celta  2-0 (0-0)  Athletic Club   
+                  (Williot Swedberg 48', Jones El Abdellaoui 55')
+  21:00   Deportivo Alavés  1-2 (0-1)  Real Madrid C.F.   
+                  (Carlos Vicente 68';
+                   Kylian MBAPPE 24', RODRYGO 76')
+Mon Dec 15
+  21:00   Rayo Vallecano  0-0 (0-0)  Real Betis   
+
+▪ Regular Season - 17
+Fri Dec 19
+  21:00   Valencia CF  1-1 (0-1)  RCD Mallorca   
+                  (Hugo Duro 52'; SAMU COSTA 23')
+Sat Dec 20
+  14:00   Real Oviedo  0-0 (0-0)  RC Celta   
+  16:15   Levante UD  1-1 (0-1)  Real Sociedad   
+                  (Adrian DE LA FUENTE 90+4'(p); Takefusa KUBO 45+1')
+  18:30   CA Osasuna  3-0 (0-0)  Deportivo Alavés   
+                  (Ante BUDIMIR 72', 81'(p), Raul GARCIA 90+3')
+  21:00   Real Madrid C.F.  2-0 (1-0)  Sevilla   
+                  (Jude BELLINGHAM 38', Kylian MBAPPE 86'(p))
+Sun Dec 21
+  14:00   Girona FC  0-3 (0-2)  Atlético de Madrid   
+                  (KOKE 13', Conor GALLAGHER 38', Antoine GRIEZMANN 90+2')
+  16:15   Villarreal  0-2 (0-1)  Barcelona   
+                  (RAPHINHA 12'(p), Lamine YAMAL 63')
+  18:30   Elche CF  4-0 (1-0)  Rayo Vallecano   
+                  (Hector FORT 6', Álvaro Rodríguez 67', German VALERA 70', Martim Neto 90+1')
+  21:00   Real Betis  4-0 (1-0)  Getafe CF   
+                  (Aitor Ruibal 16', 49', Pablo FORNALS 52', Cucho HERNANDEZ 60')
+Mon Dec 22
+  21:00   Athletic Club  1-2 (1-1)  RCD Espanyol   
+                  (Alex Berenguer 38';
+                   Carlos ROMERO 44', Pere Milla 52')
+
+▪ Regular Season - 18
+Fri Jan 2 2026
+  21:00   Rayo Vallecano  1-1 (1-0)  Getafe CF   
+                  (Jorge DE FRUTOS 45+1'; Mauro ARAMBARRI 90')
+Sat Jan 3
+  14:00   RC Celta  4-1 (1-0)  Valencia CF   
+                  (Borja IGLESIAS 33'(p), 59', Jones El Abdellaoui 83', Hugo Álvarez 90+4';
+                   PEPELU 70')
+  16:15   CA Osasuna  1-1 (1-0)  Athletic Club   
+                  (RUBEN 34'; Gorka Guruzeta 71')
+  18:30   Elche CF  1-3 (1-2)  Villarreal   
+                  (Martim Neto 30';
+                   Alberto MOLEIRO 7', Georges MIKAUTADZE 13', Alfonso Pedraza Sag 83')
+  21:00   RCD Espanyol  0-2 (0-0)  Barcelona   
+                  (Dani OLMO 86', Robert LEWANDOWSKI 90')
+Sun Jan 4
+  14:00   Sevilla  0-3 (0-1)  Levante UD   
+                  (Iker LOSADA 45+2', Carlos Espí 77', Carlos ALVAREZ 90+4')
+  16:15   Real Madrid C.F.  5-1 (1-0)  Real Betis   
+                  (Gonzalo GARCIA 20', 50', 82', Raúl Asencio 56', Fran GARCIA 90+3';
+                   Cucho HERNANDEZ 66')
+  18:30   Deportivo Alavés  1-1 (0-0)  Real Oviedo   
+                  (Lucas BOYE 69'; Federico VINAS 56')
+  18:30   RCD Mallorca  1-2 (0-1)  Girona FC   
+                  (Vedat Muriqi 90+1'(p);
+                   Viktor TSYHANKOV 25', Vladyslav VANAT 63'(p))
+  21:00   Real Sociedad  1-1 (0-0)  Atlético de Madrid   
+                  (GONCALO GUEDES 55'; Alexander SORLOTH 50')
+
+▪ Regular Season - 19
+Fri Jan 9
+  21:00   Getafe CF  1-2 (0-1)  Real Sociedad   
+                  (JUANMI 90';
+                   Brais MENDEZ 36', Jon ARAMBURU 90+6')
+Sat Jan 10
+  14:00   Real Oviedo  1-1 (0-0)  Real Betis   
+                  (Ilyas Chaira 64'; Giovani Lo Celso 83')
+  16:15   Villarreal  3-1 (0-0)  Deportivo Alavés   
+                  (Alberto MOLEIRO 49', Gerard Moreno 55', Georges MIKAUTADZE 75';
+                   Toni MARTINEZ 85')
+  18:30   Girona FC  1-0 (1-0)  CA Osasuna   
+                  (Vladyslav VANAT 44')
+  21:00   Valencia CF  1-1 (0-0)  Elche CF   
+                  (PEPELU 87'(p); Grady DIANGANA 75')
+Sun Jan 11
+  14:00   Rayo Vallecano  2-1 (2-1)  RCD Mallorca   
+                  (Jorge DE FRUTOS 4', Isi Palazón 42'(p);
+                   Vedat Muriqi 30')
+  16:15   Levante UD  1-1 (0-0)  RCD Espanyol   
+                  (Iker LOSADA 55'; Carlos ROMERO 53')
+Mon Jan 12
+  21:00   Sevilla  0-1 (0-0)  RC Celta   
+                  (Marcos ALONSO 88'(p))
+
+▪ Regular Season - 20
+Fri Jan 16
+  21:00   RCD Espanyol  0-2 (0-1)  Girona FC   
+                  (Vladyslav VANAT 45+3'(p), 90+3'(p))
+Sat Jan 17
+  14:00   Real Madrid C.F.  2-0 (0-0)  Levante UD   
+                  (Kylian MBAPPE 58'(p), Raúl Asencio 65')
+  16:15   RCD Mallorca  3-2 (2-2)  Athletic Club   
+                  (Vedat Muriqi 5', 42', 69'(p);
+                   Unai GOMEZ 8', Nico WILLIAMS 45')
+  18:30   CA Osasuna  3-2 (1-1)  Real Oviedo   
+                  (Ante BUDIMIR 45', 75', Victor MUNOZ 90+2';
+                   Federico VINAS 40', Alberto Reina 68')
+  21:00   Real Betis  2-0 (0-0)  Villarreal   
+                  (Aitor Ruibal 57', Pablo FORNALS 83')
+Sun Jan 18
+  14:00   Getafe CF  0-1 (0-0)  Valencia CF   
+                  (Jose Luis GAYA 84')
+  16:15   Atlético de Madrid  1-0 (0-0)  Deportivo Alavés   
+                  (Alexander SORLOTH 48')
+  18:30   RC Celta  3-0 (1-0)  Rayo Vallecano   
+                  (Sergio Carreira 40', Bryan ZARAGOZA 54'(p), Javier RUEDA 79')
+  21:00   Real Sociedad  2-1 (1-0)  Barcelona   
+                  (Mikel OYARZABAL 32', GONCALO GUEDES 71';
+                   Marcus RASHFORD 70')
+Mon Jan 19
+  21:00   Elche CF  2-2 (1-0)  Sevilla   
+                  (Aleix FEBAS 14', German VALERA 55';
+                   Akor ADAMS 75', 90+2'(p))
+
+▪ Regular Season - 21
+Fri Jan 23
+  21:00   Levante UD  3-2 (0-1)  Elche CF   
+                  (Pablo Martínez 50', Adrian DE LA FUENTE 68', Alan Matturro 90+6';
+                   Álvaro Rodríguez 11', Adam El Mokhtari 90+2')
+Sat Jan 24
+  14:00   Rayo Vallecano  1-3 (0-1)  CA Osasuna   
+                  (Pathe CISS 59';
+                   Ante BUDIMIR 29', Jozhua Vertrouwd 90+1'(og), Asier Osambela 90+4')
+  16:15   Valencia CF  3-2 (1-0)  RCD Espanyol   
+                  (Hugo Duro 15', Eray COEMERT 59', Largie Ramazani 90+4'(p);
+                   Ramon Terrats 54', Copete 79'(og))
+  18:30   Sevilla  2-1 (1-1)  Athletic Club   
+                  (Peque Fernández 42', Akor ADAMS 56'(p);
+                   Roberto NAVARRO 40')
+  21:00   Villarreal  0-2 (0-0)  Real Madrid C.F.   
+                  (Kylian MBAPPE 47', 90+4'(p))
+Sun Jan 25
+  14:00   Atlético de Madrid  3-0 (1-0)  RCD Mallorca   
+                  (Alexander SORLOTH 22', David López 75'(og), Thiago ALMADA 87')
+  16:15   Barcelona  3-0 (0-0)  Real Oviedo   
+                  (Dani OLMO 52', RAPHINHA 57', Lamine YAMAL 73')
+  18:30   Real Sociedad  3-1 (1-0)  RC Celta   
+                  (Mikel OYARZABAL 17', 75', Brais MENDEZ 90+6'(p);
+                   Borja IGLESIAS 72')
+  21:00   Deportivo Alavés  2-1 (1-0)  Real Betis   
+                  (Carlos Vicente 3', Toni MARTINEZ 47';
+                   Abde EZZALZOULI 90+5')
+Mon Jan 26
+  21:00   Girona FC  1-1 (0-0)  Getafe CF   
+                  (Vitor Reis 90+4'; Luis Vázquez 59')
+
+▪ Regular Season - 22
+Fri Jan 30
+  21:00   RCD Espanyol  1-2 (1-1)  Deportivo Alavés   
+                  (Roberto Fernández 15';
+                   Antonio BLANCO 27', Lucas BOYE 71')
+Sat Jan 31
+  14:00   Real Oviedo  1-0 (0-0)  Girona FC   
+                  (Ilyas Chaira 74')
+  16:15   CA Osasuna  2-2 (2-1)  Villarreal   
+                  (Victor MUNOZ 20', Ante BUDIMIR 45+2';
+                   Gerard Moreno 17'(p), 70')
+  18:30   Levante UD  0-0 (0-0)  Atlético de Madrid   
+  21:00   Elche CF  1-3 (1-2)  Barcelona   
+                  (Álvaro Rodríguez 29';
+                   Lamine YAMAL 6', Ferran TORRES 40', Marcus RASHFORD 72')
+Sun Feb 1
+  14:00   Real Madrid C.F.  2-1 (1-0)  Rayo Vallecano   
+                  (VINICIUS JUNIOR 15', Kylian MBAPPE 90+10'(p);
+                   Jorge DE FRUTOS 49')
+  16:15   Real Betis  2-1 (1-1)  Valencia CF   
+                  (Chimy Ávila 23'(p), Pablo FORNALS 88';
+                   Luis Rioja 20')
+  18:30   Getafe CF  0-0 (0-0)  RC Celta   
+  21:00   Athletic Club  1-1 (0-1)  Real Sociedad   
+                  (Íñigo Ruíz de Galarreta 88'; GONCALO GUEDES 37')
+Mon Feb 2
+  21:00   RCD Mallorca  4-1 (1-1)  Sevilla   
+                  (Vedat Muriqi 26'(p), SAMU COSTA 53', Sergi Darder 74', Pablo TORRE 90+6';
+                   Neal Maupay 45+1')
+
+▪ Regular Season - 23
+Fri Feb 6
+  21:00   RC Celta  1-2 (0-1)  CA Osasuna   
+                  (Borja IGLESIAS 53'(p);
+                   Ante BUDIMIR 35', Raul GARCIA 79')
+Sat Feb 7
+  16:15   Barcelona  3-0 (1-0)  RCD Mallorca   
+                  (Robert LEWANDOWSKI 29', Lamine YAMAL 61', Marc Bernal 83')
+  21:00   Real Sociedad  3-1 (2-1)  Elche CF   
+                  (Luka SUCIC 24', Mikel OYARZABAL 37', Orri OSKARSSON 89';
+                   ANDRE SILVA 42')
+Sun Feb 8
+  14:00   Deportivo Alavés  0-2 (0-0)  Getafe CF   
+                  (Luis Vázquez 53', Mauro ARAMBARRI 72'(p))
+  16:15   Sevilla  1-1 (0-1)  Girona FC   
+                  (Kike SALAS 90+2'; Thomas LEMAR 2')
+  16:15   Athletic Club  4-2 (2-0)  Levante UD   
+                  (Gorka Guruzeta 29', 34', Nico Serrano 86', Roberto NAVARRO 90+9';
+                   Unai Elgezabal 81', Jon Olasagasti 90+4')
+  18:30   Atlético de Madrid  0-1 (0-1)  Real Betis   
+                  (ANTONY 28')
+  21:00   Valencia CF  0-2 (0-0)  Real Madrid C.F.   
+                  (Alvaro FERNANDEZ 65', Kylian MBAPPE 90+1')
+Mon Feb 9
+  21:00   Villarreal  4-1 (2-0)  RCD Espanyol   
+                  (Georges MIKAUTADZE 35', José Salinas 41'(og), Nicolas PEPE 50', Alberto MOLEIRO 55';
+                   Leandro CABRERA 88')
+
+▪ Regular Season - 24
+Fri Feb 13
+  21:00   Elche CF  0-0 (0-0)  CA Osasuna   
+Sat Feb 14
+  14:00   RCD Espanyol  2-2 (0-1)  RC Celta   
+                  (KIKE 66', Tyrhys Dolan 86';
+                   Ferran Jutglà 38', Borja IGLESIAS 90+3')
+  16:15   Getafe CF  2-1 (1-0)  Villarreal   
+                  (Mauro ARAMBARRI 41'(p), Martín Satriano 53';
+                   Georges MIKAUTADZE 76')
+  18:30   Sevilla  1-1 (1-0)  Deportivo Alavés   
+                  (Djibril SOW 42'; Toni MARTINEZ 60')
+  21:00   Real Madrid C.F.  4-1 (3-1)  Real Sociedad   
+                  (Gonzalo GARCIA 5', VINICIUS JUNIOR 25'(p), 48'(p), Federico VALVERDE 31';
+                   Mikel OYARZABAL 21'(p))
+Sun Feb 15
+  14:00   Real Oviedo  1-2 (1-0)  Athletic Club   
+                  (Ilyas Chaira 30';
+                   Mikel Jauregizar 58', Oihan SANCET 71'(p))
+  16:15   Rayo Vallecano  3-0 (2-0)  Atlético de Madrid   
+                  (Fran PEREZ 40', Óscar Valentín 45', Nobel Mendy 76')
+  18:30   Levante UD  0-2 (0-0)  Valencia CF   
+                  (Largie Ramazani 64', Umar SADIQ 84')
+  21:00   RCD Mallorca  1-2 (0-2)  Real Betis   
+                  (Vedat Muriqi 66';
+                   Abde EZZALZOULI 18', Cedric BAKAMBU 45+2')
+Mon Feb 16
+  21:00   Girona FC  2-1 (0-0)  Barcelona   
+                  (Thomas LEMAR 61', Francisco José Beltrán Peinado 86';
+                   Pau CUBARSI 59')
+
+▪ Regular Season - 16
+Wed Feb 18
+  20:00   Levante UD  0-1 (0-0)  Villarreal   
+                  (Georges MIKAUTADZE 57')
+
+▪ Regular Season - 25
+Fri Feb 20
+  21:00   Athletic Club  2-1 (0-0)  Elche CF   
+                  (Gorka Guruzeta 64', 89'(p);
+                   ANDRE SILVA 69'(p))
+Sat Feb 21
+  14:00   Real Sociedad  3-3 (0-0)  Real Oviedo   
+                  (Orri OSKARSSON 64', 90', Duje CALETA-CAR 87';
+                   Federico VINAS 50', 52', Eric BAILLY 90+2')
+  16:15   Real Betis  1-1 (1-1)  Rayo Vallecano   
+                  (Cedric BAKAMBU 16'; Isi Palazón 42')
+  18:30   CA Osasuna  2-1 (1-0)  Real Madrid C.F.   
+                  (Ante BUDIMIR 38'(p), Raul GARCIA 90';
+                   VINICIUS JUNIOR 73')
+  21:00   Atlético de Madrid  4-2 (1-1)  RCD Espanyol   
+                  (Alexander SORLOTH 21', 72', Giuliano SIMEONE 49', Ademola Lookman 58';
+                   Jofre CARRERAS 6', Edu Expósito 80')
+Sun Feb 22
+  14:00   Getafe CF  0-1 (0-0)  Sevilla   
+                  (Djibril SOW 64')
+  16:15   Barcelona  3-0 (2-0)  Levante UD   
+                  (Marc Bernal 4', Frenkie DE JONG 32', Fermin LOPEZ 81')
+  18:30   RC Celta  2-0 (0-0)  RCD Mallorca   
+                  (Iago ASPAS 85'(p), 90+5')
+  21:00   Villarreal  2-1 (2-1)  Valencia CF   
+                  (Santi Comesaña 31', Pape GUEYE 45+6'(p);
+                   Largie Ramazani 27'(p))
+Mon Feb 23
+  21:00   Deportivo Alavés  2-2 (1-1)  Girona FC   
+                  (Lucas BOYE 5', 89';
+                   Vladyslav VANAT 31', Viktor TSYHANKOV 73')
+
+▪ Regular Season - 26
+Fri Feb 27
+  21:00   Levante UD  2-0 (0-0)  Deportivo Alavés   
+                  (Carlos Espí 88', 90+7')
+Sat Feb 28
+  14:00   Rayo Vallecano  1-1 (1-0)  Athletic Club   
+                  (Jorge DE FRUTOS 35'; Inaki WILLIAMS 47')
+  16:15   Barcelona  4-1 (2-0)  Villarreal   
+                  (Lamine YAMAL 28', 37', 69', Robert LEWANDOWSKI 90+1';
+                   Pape GUEYE 49')
+  18:30   RCD Mallorca  0-1 (0-1)  Real Sociedad   
+                  (Carlos SOLER 36')
+  21:00   Real Oviedo  0-1 (0-0)  Atlético de Madrid   
+                  (Julian ALVAREZ 90+4')
+Sun Mar 1
+  14:00   Elche CF  2-2 (1-1)  RCD Espanyol   
+                  (Marc Aguado 42', Rafa MIR 90'(p);
+                   KIKE 7', Carlos ROMERO 57')
+  16:15   Valencia CF  1-0 (0-0)  CA Osasuna   
+                  (Largie Ramazani 67'(p))
+  18:30   Real Betis  2-2 (2-0)  Sevilla   
+                  (ANTONY 16', Alvaro FIDALGO 37';
+                   Alexis SANCHEZ 62', Isaac Romero 85')
+  21:00   Girona FC  1-2 (1-0)  RC Celta   
+                  (Vladyslav VANAT 35';
+                   Ferran Jutglà 58', Vitor Reis 70'(og))
+Mon Mar 2
+  21:00   Real Madrid C.F.  0-1 (0-1)  Getafe CF   
+                  (Martín Satriano 39')
+
+▪ Regular Season - 23
+Wed Mar 4
+  19:00   Rayo Vallecano  3-0 (1-0)  Real Oviedo   
+                  (Jorge DE FRUTOS 44', 50'(p), Álvaro García 62')
+
+▪ Regular Season - 27
+Fri Mar 6
+  21:00   RC Celta  1-2 (1-1)  Real Madrid C.F.   
+                  (Borja IGLESIAS 25';
+                   Aurelien TCHOUAMENI 11', Federico VALVERDE 90+4')
+Sat Mar 7
+  14:00   CA Osasuna  2-2 (0-1)  RCD Mallorca   
+                  (Kike Barja 89', Ante BUDIMIR 90+4';
+                   Vedat Muriqi 35', 61')
+  16:15   Levante UD  1-1 (0-0)  Girona FC   
+                  (Carlos Espí 50'; Joel Roca 90+4')
+  18:30   Atlético de Madrid  3-2 (1-1)  Real Sociedad   
+                  (Alexander SORLOTH 5', Nico GONZALEZ 67', 81';
+                   Carlos SOLER 9', Mikel OYARZABAL 68')
+  21:00   Athletic Club  0-1 (0-0)  Barcelona   
+                  (Lamine YAMAL 68')
+Sun Mar 8
+  14:00   Villarreal  2-1 (2-0)  Elche CF   
+                  (Tajon BUCHANAN 31', Santiago MOURINO 41';
+                   ANDRE SILVA 82')
+  16:15   Getafe CF  2-0 (2-0)  Real Betis   
+                  (KIKO 28', Martín Satriano 45+1')
+  18:30   Sevilla  1-1 (1-0)  Rayo Vallecano   
+                  (Akor ADAMS 13'; Pacha Espino 50')
+  21:00   Valencia CF  3-2 (0-1)  Deportivo Alavés   
+                  (Javi GUERRA 47', Eray COEMERT 90', Hugo Duro 90+9'(p);
+                   Lucas BOYE 3'(p), 71')
+Mon Mar 9
+  21:00   RCD Espanyol  1-1 (1-1)  Real Oviedo   
+                  (KIKE 36'; Alberto Reina 8')
+
+▪ Regular Season - 28
+Fri Mar 13
+  21:00   Deportivo Alavés  1-1 (1-0)  Villarreal   
+                  (Rafa MARIN 40'(og); Nicolas PEPE 90+8')
+Sat Mar 14
+  14:00   Girona FC  3-0 (1-0)  Athletic Club   
+                  (Hugo Rincón 4', Azzedine OUNAHI 77', Claudio ECHEVERRI 90+2')
+  16:15   Atlético de Madrid  1-0 (1-0)  Getafe CF   
+                  (Nahuel MOLINA 8')
+  18:30   Real Oviedo  1-0 (1-0)  Valencia CF   
+                  (David Costas 30')
+  21:00   Real Madrid C.F.  4-1 (2-0)  Elche CF   
+                  (Antonio RUEDIGER 39', Federico VALVERDE 44', Dean HUIJSEN 66', Arda GULER 89';
+                   Manuel Ángel 85'(og))
+Sun Mar 15
+  14:00   RCD Mallorca  2-1 (0-1)  RCD Espanyol   
+                  (Pablo TORRE 65', SAMU COSTA 88';
+                   Charles PICKEL 36')
+  16:15   Barcelona  5-2 (3-1)  Sevilla   
+                  (RAPHINHA 9'(p), 21'(p), 51', Dani OLMO 38', JOAO CANCELO 60';
+                   Oso 45+3', Djibril SOW 90+2')
+  18:30   Real Betis  1-1 (0-1)  RC Celta   
+                  (Héctor Bellerín 49'; Ferran Jutglà 4')
+  21:00   Real Sociedad  3-1 (2-0)  CA Osasuna   
+                  (Mikel OYARZABAL 24'(p), GONCALO GUEDES 28', 52';
+                   Victor MUNOZ 76')
+Mon Mar 16
+  21:00   Rayo Vallecano  1-1 (0-1)  Levante UD   
+                  (Pathe CISS 90+4'; Carlos Espí 41')
+
+▪ Regular Season - 29
+Fri Mar 20
+  21:00   Villarreal  3-1 (3-0)  Real Sociedad   
+                  (Gerard Moreno 7', Georges MIKAUTADZE 15', Nicolas PEPE 23';
+                   Luka SUCIC 47')
+Sat Mar 21
+  14:00   Elche CF  2-1 (0-0)  RCD Mallorca   
+                  (Rafa MIR 62', Tete Morente 71';
+                   Pablo TORRE 58')
+  16:15   RCD Espanyol  1-2 (0-2)  Getafe CF   
+                  (Roberto Fernández 68';
+                   DOMINGOS DUARTE 45+3', Mauro ARAMBARRI 45+7')
+  18:30   Levante UD  4-2 (2-2)  Real Oviedo   
+                  (Carlos Espí 4', 25', Iker LOSADA 52', Iván Romero 90+3';
+                   Ilyas Chaira 44', Federico VINAS 45+3'(p))
+  18:30   CA Osasuna  1-0 (0-0)  Girona FC   
+                  (Ante BUDIMIR 80')
+  21:00   Sevilla  0-2 (0-2)  Valencia CF   
+                  (Hugo Duro 38', Largie Ramazani 45+5')
+Sun Mar 22
+  14:00   Barcelona  1-0 (1-0)  Rayo Vallecano   
+                  (Ronald ARAUJO 24')
+  16:15   RC Celta  3-4 (3-1)  Deportivo Alavés   
+                  (Ferran Jutglà 19', 37', Hugo Álvarez 27';
+                   Toni MARTINEZ 45+3', 74', Ángel Pérez 50', Abde Rebbach 78')
+  18:30   Athletic Club  2-1 (2-0)  Real Betis   
+                  (Dani VIVIAN 25', Oihan SANCET 45';
+                   Pablo FORNALS 75')
+  21:00   Real Madrid C.F.  3-2 (0-1)  Atlético de Madrid   
+                  (VINICIUS JUNIOR 52'(p), 72', Federico VALVERDE 55';
+                   Ademola Lookman 33', Nahuel MOLINA 66')
+
+▪ Regular Season - 30
+Fri Apr 3
+  21:00   Rayo Vallecano  1-0 (0-0)  Elche CF   
+                  (RANDY NTEKA 74')
+Sat Apr 4
+  14:00   Real Sociedad  2-0 (1-0)  Levante UD   
+                  (Jon Martín 30', Brais MENDEZ 83')
+  16:15   RCD Mallorca  2-1 (1-0)  Real Madrid C.F.   
+                  (Manu Morlanes 41', Vedat Muriqi 90+1';
+                   EDER MILITAO 88')
+  18:30   Real Betis  0-0 (0-0)  RCD Espanyol   
+  21:00   Atlético de Madrid  1-2 (1-1)  Barcelona   
+                  (Giuliano SIMEONE 39';
+                   Marcus RASHFORD 42', Robert LEWANDOWSKI 87')
+Sun Apr 5
+  14:00   Getafe CF  2-0 (1-0)  Athletic Club   
+                  (Luis Vázquez 14', Martín Satriano 90')
+  16:15   Valencia CF  2-3 (1-0)  RC Celta   
+                  (Guido RODRIGUEZ 12', 90+3';
+                   ILAIX MORIBA 56', Fer López 60', Williot Swedberg 81')
+  18:30   Real Oviedo  1-0 (1-0)  Sevilla   
+                  (Federico VINAS 32')
+  21:00   Deportivo Alavés  2-2 (1-1)  CA Osasuna   
+                  (Toni MARTINEZ 44', Lucas BOYE 90+1'(p);
+                   Valentin Rosier 4', Ante BUDIMIR 80'(p))
+Mon Apr 6
+  21:00   Girona FC  1-0 (1-0)  Villarreal   
+                  (Pau Navarro 45+1'(og))
+
+▪ Regular Season - 31
+Fri Apr 10
+  21:00   Real Madrid C.F.  1-1 (0-0)  Girona FC   
+                  (Federico VALVERDE 51'; Thomas LEMAR 62')
+Sat Apr 11
+  14:00   Real Sociedad  3-3 (2-2)  Deportivo Alavés   
+                  (Luka SUCIC 14', Antonio Sivera 27'(og), Orri OSKARSSON 60';
+                   Duje CALETA-CAR 3'(og), Ibrahim Diabate 24', Lucas BOYE 90+7')
+  16:15   Elche CF  1-0 (0-0)  Valencia CF   
+                  (Lucas CEPEDA 73')
+  18:30   Barcelona  4-1 (2-0)  RCD Espanyol   
+                  (Ferran TORRES 9', 25', Lamine YAMAL 87', Marcus RASHFORD 89';
+                   Pol Lozano 56')
+  21:00   Sevilla  2-1 (2-1)  Atlético de Madrid   
+                  (Akor ADAMS 10'(p), Nemanja GUDELJ 45+2';
+                   Javier Boñar 35')
+Sun Apr 12
+  14:00   CA Osasuna  1-1 (1-1)  Real Betis   
+                  (Ante BUDIMIR 40'(p); Abde EZZALZOULI 7')
+  16:15   RCD Mallorca  3-0 (2-0)  Rayo Vallecano   
+                  (Vedat Muriqi 36', 40', Jan Virgili 65')
+  18:30   RC Celta  0-3 (0-2)  Real Oviedo   
+                  (Alberto Reina 4', Federico VINAS 45', 57')
+  21:00   Athletic Club  1-2 (0-2)  Villarreal   
+                  (Gorka Guruzeta 84';
+                   Sergi Cardona 26', Alfon González 45+5')
+Mon Apr 13
+  21:00   Levante UD  1-0 (0-0)  Getafe CF   
+                  (Carlos Espí 83')
+
+▪ Regular Season - 33
+Tue Apr 21
+  19:00   Athletic Club  1-0 (1-0)  CA Osasuna   
+                  (Gorka Guruzeta 16')
+  19:00   RCD Mallorca  1-1 (0-0)  Valencia CF   
+                  (SAMU COSTA 49'; Umar SADIQ 67')
+  21:30   Girona FC  2-3 (1-1)  Real Betis   
+                  (Viktor TSYHANKOV 7', Azzedine OUNAHI 68'(p);
+                   ROCA Marc 23', Abde EZZALZOULI 63', Rodrigo RIQUELME 80')
+  21:30   Real Madrid C.F.  2-1 (1-0)  Deportivo Alavés   
+                  (Kylian MBAPPE 30', VINICIUS JUNIOR 50';
+                   Toni MARTINEZ 90+3')
+Wed Apr 22
+  19:00   Elche CF  3-2 (2-2)  Atlético de Madrid   
+                  (David AFFENGRUBER 18', ANDRE SILVA 33'(p), 75';
+                   Nico GONZALEZ 10', 34')
+  20:00   Real Sociedad  0-1 (0-1)  Getafe CF   
+                  (Jon Gorrotxategi 29'(og))
+  21:30   Barcelona  1-0 (1-0)  RC Celta   
+                  (Lamine YAMAL 40'(p))
+Thu Apr 23
+  19:00   Levante UD  2-0 (1-0)  Sevilla   
+                  (Iván Romero 38', 90+3')
+  20:00   Rayo Vallecano  1-0 (0-0)  RCD Espanyol   
+                  (Sergio CAMELLO 87')
+  21:30   Real Oviedo  1-1 (0-1)  Villarreal   
+                  (Ilyas Chaira 69'; Nicolas PEPE 13'(p))
+
+▪ Regular Season - 32
+Fri Apr 24
+  21:00   Real Betis  1-1 (0-1)  Real Madrid C.F.   
+                  (Héctor Bellerín 90+4'; VINICIUS JUNIOR 17')
+Sat Apr 25
+  14:00   Deportivo Alavés  2-1 (0-1)  RCD Mallorca   
+                  (Toni MARTINEZ 56', 69';
+                   Jan Virgili 18')
+  16:15   Getafe CF  0-2 (0-1)  Barcelona   
+                  (Fermin LOPEZ 45', Marcus RASHFORD 74')
+  18:30   Valencia CF  2-1 (0-0)  Girona FC   
+                  (Largie Ramazani 50', Umar SADIQ 59';
+                   Joel Roca 63')
+  21:00   Atlético de Madrid  3-2 (0-1)  Athletic Club   
+                  (Antoine GRIEZMANN 49', Alexander SORLOTH 54', 90+3';
+                   Aitor PAREDES 23', Gorka Guruzeta 90+7')
+Sun Apr 26
+  14:00   Rayo Vallecano  3-3 (1-1)  Real Sociedad   
+                  (Sergio CAMELLO 30', Florian LEJEUNE 84', Alemão 90+9';
+                   Mikel OYARZABAL 22', 76'(p), Orri OSKARSSON 63')
+  16:15   Real Oviedo  1-2 (0-2)  Elche CF   
+                  (Ilyas Chaira 76';
+                   Pedro Bigas 6', Gonzalo Villar 16')
+  18:30   CA Osasuna  2-1 (0-0)  Sevilla   
+                  (Raul GARCIA 80', Alejandro Catena 90+9';
+                   Neal Maupay 69')
+  21:00   Villarreal  2-1 (2-0)  RC Celta   
+                  (Gerard Moreno 2'(p), Nicolas PEPE 29';
+                   Borja IGLESIAS 73'(p))
+Mon Apr 27
+  21:00   RCD Espanyol  0-0 (0-0)  Levante UD   
+
+▪ Regular Season - 34
+Fri May 1
+  21:00   Girona FC  0-1 (0-1)  RCD Mallorca   
+                  (SAMU COSTA 43')
+Sat May 2
+  14:00   Villarreal  5-1 (1-0)  Levante UD   
+                  (Georges MIKAUTADZE 38', 68', Alberto MOLEIRO 62', Tajon BUCHANAN 87', Nicolas PEPE 90';
+                   Carlos Espí 51')
+  16:15   Valencia CF  0-2 (0-0)  Atlético de Madrid   
+                  (Iker Luque 74', Cubo 82')
+  18:30   Deportivo Alavés  2-4 (1-0)  Athletic Club   
+                  (Antonio BLANCO 8', Nahuel Tenaglia 68';
+                   Roberto NAVARRO 46', Oihan SANCET 74', Nico WILLIAMS 83', 87')
+  21:00   CA Osasuna  1-2 (0-0)  Barcelona   
+                  (Raul GARCIA 88';
+                   Robert LEWANDOWSKI 81', Ferran TORRES 86')
+Sun May 3
+  14:00   RC Celta  3-1 (2-0)  Elche CF   
+                  (Hugo Álvarez 14', Iago ASPAS 30', Borja IGLESIAS 85';
+                   ANDRE SILVA 82'(p))
+  16:15   Getafe CF  0-2 (0-1)  Rayo Vallecano   
+                  (Sergio CAMELLO 38', RANDY NTEKA 73')
+  18:30   Real Betis  3-0 (2-0)  Real Oviedo   
+                  (Cucho HERNANDEZ 22', 58', Abde EZZALZOULI 45')
+  21:00   RCD Espanyol  0-2 (0-0)  Real Madrid C.F.   
+                  (VINICIUS JUNIOR 55', 66')
+Mon May 4
+  21:00   Sevilla  1-0 (0-0)  Real Sociedad   
+                  (Alexis SANCHEZ 50')
+
+▪ Regular Season - 35
+Fri May 8
+  21:00   Levante UD  3-2 (2-2)  CA Osasuna   
+                  (Víctor García 35', 37', Karl Etta Eyong 90';
+                   Jeremy TOLJAN 3'(og), Ante BUDIMIR 11')
+Sat May 9
+  14:00   Elche CF  1-1 (0-0)  Deportivo Alavés   
+                  (Álvaro Rodríguez 72'; Toni MARTINEZ 51'(p))
+  16:15   Sevilla  2-1 (0-0)  RCD Espanyol   
+                  (Andrés Castrín 82', Akor ADAMS 90+1';
+                   Tyrhys Dolan 56')
+  18:30   Atlético de Madrid  0-1 (0-0)  RC Celta   
+                  (Borja IGLESIAS 62')
+  21:00   Real Sociedad  2-2 (0-1)  Real Betis   
+                  (Orri OSKARSSON 79', Mikel OYARZABAL 90+1'(p);
+                   ANTONY 39', Abde EZZALZOULI 47')
+Sun May 10
+  14:00   RCD Mallorca  1-1 (1-1)  Villarreal   
+                  (Vedat Muriqi 45+2'; Ayoze PEREZ 31'(p))
+  16:15   Athletic Club  0-1 (0-0)  Valencia CF   
+                  (Umar SADIQ 72')
+  18:30   Real Oviedo  0-0 (0-0)  Getafe CF   
+  21:00   Barcelona  2-0 (2-0)  Real Madrid C.F.   
+                  (Marcus RASHFORD 9', Ferran TORRES 18')
+Mon May 11
+  21:00   Rayo Vallecano  1-1 (0-0)  Girona FC   
+                  (Alemão 86'; Cristhian STUANI 90')
+
+▪ Regular Season - 36
+Tue May 12
+  19:00   RC Celta  2-3 (1-1)  Levante UD   
+                  (Ferran Jutglà 4', 48';
+                   Kervin ARRIAGA 43', Adrian DE LA FUENTE 57', Roger Brugué 63')
+  20:00   Real Betis  2-1 (1-1)  Elche CF   
+                  (Cucho HERNANDEZ 9', Pablo FORNALS 68';
+                   Hector FORT 41')
+  21:30   CA Osasuna  1-2 (0-1)  Atlético de Madrid   
+                  (Kike Barja 90+1';
+                   Ademola Lookman 15'(p), Alexander SORLOTH 71')
+Wed May 13
+  19:00   RCD Espanyol  2-0 (0-0)  Athletic Club   
+                  (Pere Milla 69', KIKE 90+2')
+  19:00   Villarreal  2-3 (2-2)  Sevilla   
+                  (Gerard Moreno 13', Georges MIKAUTADZE 20';
+                   Oso 36', Kike SALAS 45+2', Akor ADAMS 72')
+  21:30   Getafe CF  3-1 (2-0)  RCD Mallorca   
+                  (Martín Satriano 14', 41', Zaid Romero 63';
+                   Omar MASCARELL 65')
+  21:30   Deportivo Alavés  1-0 (1-0)  Barcelona   
+                  (Ibrahim Diabate 45+1')
+Thu May 14
+  19:00   Valencia CF  1-1 (1-1)  Rayo Vallecano   
+                  (Diego LOPEZ 40'; Florian LEJEUNE 20')
+  20:00   Girona FC  1-1 (0-1)  Real Sociedad   
+                  (Cristhian STUANI 66'; Jon Martín 28')
+  21:30   Real Madrid C.F.  2-0 (1-0)  Real Oviedo   
+                  (Gonzalo GARCIA 44', Jude BELLINGHAM 80')
+
+▪ Regular Season - 37
+Sun May 17
+  19:00   Levante UD  2-0 (1-0)  RCD Mallorca   
+                  (Carlos Espí 32', Kervin ARRIAGA 87')
+  19:00   Rayo Vallecano  2-0 (1-0)  Villarreal   
+                  (Sergio CAMELLO 28', Alemão 47')
+  19:00   Elche CF  1-0 (1-0)  Getafe CF   
+                  (Victor CHUST 19')
+  19:00   Athletic Club  1-1 (0-1)  RC Celta   
+                  (Inaki WILLIAMS 52'; Williot Swedberg 4')
+  19:00   CA Osasuna  1-2 (0-1)  RCD Espanyol   
+                  (Victor MUNOZ 49';
+                   Carlos ROMERO 27', KIKE 53')
+  19:00   Real Oviedo  0-1 (0-1)  Deportivo Alavés   
+                  (Toni MARTINEZ 17')
+  19:00   Real Sociedad  3-4 (1-2)  Valencia CF   
+                  (Aihen Muñoz 3', César Tárrega 60'(og), Orri OSKARSSON 63';
+                   Javi GUERRA 8', 90+3', Hugo Duro 22', Guido RODRIGUEZ 89')
+  19:00   Sevilla  0-1 (0-1)  Real Madrid C.F.   
+                  (VINICIUS JUNIOR 15')
+  19:00   Atlético de Madrid  1-0 (1-0)  Girona FC   
+                  (Ademola Lookman 21')
+  21:15   Barcelona  3-1 (1-0)  Real Betis   
+                  (RAPHINHA 28', 62', JOAO CANCELO 74';
+                   ISCO 69'(p))
+
+▪ Regular Season - 38
+Sat May 23
+  21:00   Girona FC  1-1 (0-1)  Elche CF   
+                  (Arnau MARTINEZ 48'; Álvaro Rodríguez 39')
+  21:00   Getafe CF  1-0 (0-0)  CA Osasuna   
+                  (Luis Milla 59')
+  21:00   Real Betis  2-1 (1-1)  Levante UD   
+                  (Abde EZZALZOULI 5', Pablo FORNALS 68';
+                   Carlos Espí 45+1')
+  21:00   Real Madrid C.F.  4-2 (2-1)  Athletic Club   
+                  (Gonzalo GARCIA 12', Jude BELLINGHAM 41', Kylian MBAPPE 51', Brahim DIAZ 88';
+                   Gorka Guruzeta 45+1', Urko Izeta 90+1')
+  21:00   Valencia CF  3-1 (0-0)  Barcelona   
+                  (Javi GUERRA 66', Luis Rioja 71', Guido RODRIGUEZ 90+7';
+                   Robert LEWANDOWSKI 61')
+  21:00   RCD Espanyol  1-1 (0-1)  Real Sociedad   
+                  (Roberto Fernández 65'; Orri OSKARSSON 28')
+  21:00   RCD Mallorca  3-0 (1-0)  Real Oviedo   
+                  (Pablo TORRE 42', Manu Morlanes 83', Vedat Muriqi 88')
+  21:00   Deportivo Alavés  1-2 (1-0)  Rayo Vallecano   
+                  (Toni MARTINEZ 13';
+                   Sergio CAMELLO 73', RANDY NTEKA 90')
+  21:00   RC Celta  1-0 (0-0)  Sevilla   
+                  (ILAIX MORIBA 51')
+Sun May 24
+  21:00   Villarreal  5-1 (4-1)  Atlético de Madrid   
+                  (Daniel PAREJO 30'(p), Ayoze PEREZ 34', 54', Georges MIKAUTADZE 40', Pape GUEYE 45';
+                   Marc PUBILL 43')
