@@ -39,29 +39,29 @@
 
 ▪ Matchday 1
   Tue Aug 25
-    21:00  Valencia CF             v Real Betis Balompié
+    21:00  Valencia CF             v Real Betis Balompié      0-1 (0-0)
   Wed Aug 26
-    21:00  Real Madrid CF          v Real Sociedad de Fútbol
+    21:00  Real Madrid CF          v Real Sociedad de Fútbol  4-1 (1-1)
   Thu Aug 27
-    20:30  RC Celta de Vigo        v CA Osasuna
-    21:00  FC Barcelona            v Athletic Club
+    20:30  RC Celta de Vigo        v CA Osasuna               1-2 (1-0)
+    21:00  FC Barcelona            v Athletic Club            2-0 (1-0)
 
 
 ▪ Matchday 3
   Fri Aug 28
-    19:00  Real Racing Club de Santander v Elche CF
-    21:30  Deportivo Alavés        v Villarreal CF
+    19:00  Real Racing Club de Santander v Elche CF                 3-2 (3-0)
+    21:30  Deportivo Alavés        v Villarreal CF            1-0 (1-0)
   Sat Aug 29
-    17:00  Levante UD              v Real Betis Balompié
-    19:00  Real Sociedad de Fútbol v RCD Espanyol de Barcelona
-    21:30  Sevilla FC              v Club Atlético de Madrid
+    17:00  Levante UD              v Real Betis Balompié      5-2 (2-2)
+    19:00  Real Sociedad de Fútbol v RCD Espanyol de Barcelona  2-1 (1-1)
+    21:30  Sevilla FC              v Club Atlético de Madrid  1-3 (0-3)
   Sun Aug 30
-    17:00  Real Madrid CF          v Málaga CF
-    19:30  RC Deportivo La Coruña  v Valencia CF
-    21:30  RC Celta de Vigo        v Athletic Club
+    17:00  Real Madrid CF          v Málaga CF                4-0 (3-0)
+    19:30  RC Deportivo La Coruña  v Valencia CF              3-1 (2-1)
+    21:30  RC Celta de Vigo        v Athletic Club            0-2 (0-2)
   Mon Aug 31
-    19:30  CA Osasuna              v Getafe CF
-    21:30  FC Barcelona            v Rayo Vallecano de Madrid
+    19:30  CA Osasuna              v Getafe CF                1-0 (1-0)
+    21:30  FC Barcelona            v Rayo Vallecano de Madrid  5-2 (2-1)
 
 
 ▪ Matchday 6
@@ -87,44 +87,50 @@
 
 
 ▪ Matchday 5
+  Fri Sep 11
+    21:00  Sevilla FC              v Valencia CF
+  Sat Sep 12
+    14:00  Real Racing Club de Santander v Deportivo Alavés
+    16:15  CA Osasuna              v RCD Espanyol de Barcelona
+    18:30  Athletic Club           v Elche CF
+    21:00  Real Madrid CF          v Rayo Vallecano de Madrid
   Sun Sep 13
-           Getafe CF               v RC Deportivo La Coruña
-           Sevilla FC              v Valencia CF
-           Real Racing Club de Santander v Deportivo Alavés
-           Villarreal CF           v Real Betis Balompié
-           RC Celta de Vigo        v Málaga CF
-           CA Osasuna              v RCD Espanyol de Barcelona
-           Real Sociedad de Fútbol v Club Atlético de Madrid
-           Levante UD              v FC Barcelona
-           Athletic Club           v Elche CF
-           Real Madrid CF          v Rayo Vallecano de Madrid
+    14:00  RC Celta de Vigo        v Málaga CF
+    16:15  Levante UD              v FC Barcelona
+    18:30  Getafe CF               v RC Deportivo La Coruña
+    21:00  Real Sociedad de Fútbol v Club Atlético de Madrid
+  Mon Sep 14
+    21:00  Villarreal CF           v Real Betis Balompié
 
 
 ▪ Matchday 6
+  Tue Sep 15
+    19:00  Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
+    20:00  Deportivo Alavés        v Valencia CF
+    21:30  Elche CF                v Real Madrid CF
   Wed Sep 16
-           Rayo Vallecano de Madrid v RCD Espanyol de Barcelona
-           RC Deportivo La Coruña  v Sevilla FC
-           Deportivo Alavés        v Valencia CF
-           Elche CF                v Real Madrid CF
-           Málaga CF               v Villarreal CF
+    19:00  RC Deportivo La Coruña  v Sevilla FC
            Club Atlético de Madrid v CA Osasuna
-           Levante UD              v Athletic Club
-           Real Betis Balompié     v Getafe CF
+    21:30  Levante UD              v Athletic Club
            FC Barcelona            v Real Racing Club de Santander
+  Thu Sep 17
+    19:00  Real Betis Balompié     v Getafe CF
+    21:30  Málaga CF               v Villarreal CF
 
 
 ▪ Matchday 7
+  Sat Sep 19
+    14:00  CA Osasuna              v Rayo Vallecano de Madrid
+    16:15  Athletic Club           v Deportivo Alavés
+    18:30  RC Celta de Vigo        v Real Racing Club de Santander
+    21:00  Sevilla FC              v FC Barcelona
   Sun Sep 20
-           Club Atlético de Madrid v Real Madrid CF
            Valencia CF             v Real Sociedad de Fútbol
-           Sevilla FC              v FC Barcelona
-           Athletic Club           v Deportivo Alavés
            RCD Espanyol de Barcelona v Elche CF
-           CA Osasuna              v Rayo Vallecano de Madrid
-           RC Celta de Vigo        v Real Racing Club de Santander
-           RC Deportivo La Coruña  v Real Betis Balompié
+    14:00  Getafe CF               v Málaga CF
+    16:15  Club Atlético de Madrid v Real Madrid CF
+    18:30  RC Deportivo La Coruña  v Real Betis Balompié
            Villarreal CF           v Levante UD
-           Getafe CF               v Málaga CF
 
 
 ▪ Matchday 8
