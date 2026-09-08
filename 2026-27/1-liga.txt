@@ -66,24 +66,24 @@
 
 ▪ Matchday 6
   Thu Sep 3
-    21:00  Real Sociedad de Fútbol v RC Celta de Vigo
+    21:00  Real Sociedad de Fútbol v RC Celta de Vigo         0-0
 
 
 ▪ Matchday 4
   Fri Sep 4
-    21:00  Real Betis Balompié     v Real Madrid CF
+    21:00  Real Betis Balompié     v Real Madrid CF           1-0 (0-0)
   Sat Sep 5
-    16:15  Athletic Club           v Club Atlético de Madrid
-    18:30  Rayo Vallecano de Madrid v Real Racing Club de Santander
-    21:00  Villarreal CF           v RC Deportivo La Coruña
+    16:15  Athletic Club           v Club Atlético de Madrid  3-0 (0-0)
+    18:30  Rayo Vallecano de Madrid v Real Racing Club de Santander  3-2 (2-2)
+    21:00  Villarreal CF           v RC Deportivo La Coruña   2-3 (1-1)
   Sun Sep 6
-    16:15  Valencia CF             v FC Barcelona
-    18:30  Deportivo Alavés        v CA Osasuna
-           Málaga CF               v Levante UD
-    21:00  RCD Espanyol de Barcelona v Sevilla FC
+    16:15  Valencia CF             v FC Barcelona             0-5 (0-2)
+    18:30  Deportivo Alavés        v CA Osasuna               5-2 (2-0)
+           Málaga CF               v Levante UD               0-0
+    21:00  RCD Espanyol de Barcelona v Sevilla FC               1-1 (0-0)
   Mon Sep 7
-    19:00  Getafe CF               v RC Celta de Vigo
-    21:30  Elche CF                v Real Sociedad de Fútbol
+    19:00  Getafe CF               v RC Celta de Vigo         1-1 (1-0)
+    21:30  Elche CF                v Real Sociedad de Fútbol  2-3 (0-2)
 
 
 ▪ Matchday 5
@@ -119,18 +119,19 @@
 
 
 ▪ Matchday 7
+  Fri Sep 18
+    21:00  RCD Espanyol de Barcelona v Elche CF
   Sat Sep 19
     14:00  CA Osasuna              v Rayo Vallecano de Madrid
     16:15  Athletic Club           v Deportivo Alavés
     18:30  RC Celta de Vigo        v Real Racing Club de Santander
     21:00  Sevilla FC              v FC Barcelona
   Sun Sep 20
-           Valencia CF             v Real Sociedad de Fútbol
-           RCD Espanyol de Barcelona v Elche CF
     14:00  Getafe CF               v Málaga CF
     16:15  Club Atlético de Madrid v Real Madrid CF
     18:30  RC Deportivo La Coruña  v Real Betis Balompié
            Villarreal CF           v Levante UD
+    21:00  Valencia CF             v Real Sociedad de Fútbol
 
 
 ▪ Matchday 8
