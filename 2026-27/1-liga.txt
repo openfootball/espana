@@ -109,7 +109,6 @@
     20:00  Deportivo Alavés        v Valencia CF              0-1 (0-0)
     21:30  Elche CF                v Real Madrid CF           2-3 (0-2)
   Wed Sep 16
-           Levante UD              v Athletic Club            [postponed]
     19:00  RC Deportivo La Coruña  v Sevilla FC               0-1 (0-0)
            Club Atlético de Madrid v CA Osasuna               4-0 (1-0)
     21:30  FC Barcelona            v Real Racing Club de Santander  7-2 (4-1)
@@ -120,18 +119,18 @@
 
 ▪ Matchday 7
   Fri Sep 18
-    21:00  RCD Espanyol de Barcelona v Elche CF
+    21:00  RCD Espanyol de Barcelona v Elche CF                 1-3 (0-2)
   Sat Sep 19
-    14:00  CA Osasuna              v Rayo Vallecano de Madrid
-    16:15  Athletic Club           v Deportivo Alavés
-    18:30  RC Celta de Vigo        v Real Racing Club de Santander
-    21:00  Sevilla FC              v FC Barcelona
+    14:00  CA Osasuna              v Rayo Vallecano de Madrid  1-1 (1-0)
+    16:15  Athletic Club           v Deportivo Alavés         0-0
+    18:30  RC Celta de Vigo        v Real Racing Club de Santander  5-0 (2-0)
+    21:00  Sevilla FC              v FC Barcelona             1-3 (1-1)
   Sun Sep 20
-    14:00  Getafe CF               v Málaga CF
-    16:15  Club Atlético de Madrid v Real Madrid CF
-    18:30  RC Deportivo La Coruña  v Real Betis Balompié
-           Villarreal CF           v Levante UD
-    21:00  Valencia CF             v Real Sociedad de Fútbol
+    14:00  Getafe CF               v Málaga CF                1-0 (0-0)
+    16:15  Club Atlético de Madrid v Real Madrid CF           2-1 (0-0)
+    18:30  RC Deportivo La Coruña  v Real Betis Balompié      1-1 (0-1)
+           Villarreal CF           v Levante UD               3-1 (1-1)
+    21:00  Valencia CF             v Real Sociedad de Fútbol  2-3 (0-1)
 
 
 ▪ Matchday 8
@@ -166,6 +165,11 @@
     21:00  Real Madrid CF          v Sevilla FC
   Mon Oct 19
     21:00  Getafe CF               v Rayo Vallecano de Madrid
+
+
+▪ Matchday 6
+  Wed Oct 21
+    20:00  Levante UD              v Athletic Club
 
 
 ▪ Matchday 10
